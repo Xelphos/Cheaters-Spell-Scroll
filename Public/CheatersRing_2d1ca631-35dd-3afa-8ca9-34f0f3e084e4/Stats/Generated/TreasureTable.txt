@@ -1824,6 +1824,8 @@ object category "I_OBJ_Bomb_Orthon",1,0,0,0,0,0,0,0
 new subtable "20,1"
 object category "I_XEL_OBJ_Bomb_Orthon_2",1,0,0,0,0,0,0,0
 new subtable "20,1"
+object category "I_WYR_Gortash_Grenade",1,0,0,0,0,0,0,0
+new subtable "20,1"
 object category "I_XEL_WPN_Grenade_BloodSurface",1,0,0,0,0,0,0,0
 new subtable "20,1"
 object category "I_GRN_Spore_Haste",1,0,0,0,0,0,0,0

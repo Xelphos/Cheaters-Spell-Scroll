@@ -13,6 +13,7 @@
 - Added Spell Enlarge/Reduce, same as the normal version, but increased range and is guaranteed to apply.
 - Added Spell Gaseous Form, same as normal version, but has increased range.
 - Added a way to spawn the Cheaters Spell Scroll. While not in combat: Sneak, enable Non-Lethal, then Dash.
+- Added Concussion Grenade to the Grenade Box.
 - Cheaters Explosion will now disintegrate targets leaving behind only a pile of ash.
 - Changed how the Experience Potions work. They will now award experience to the whole party.
 - Fixed various minor issues.

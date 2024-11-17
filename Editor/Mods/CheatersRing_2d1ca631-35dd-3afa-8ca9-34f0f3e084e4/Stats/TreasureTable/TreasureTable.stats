@@ -8938,6 +8938,16 @@
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="432b3645-b8f6-4557-b7bc-7d11aefb317c" />
+        <field name="UUID" type="IdTableFieldDefinition" value="6c93f24b-e8d4-4a0b-9eed-01be1ccbc4d4" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_GrenadeContainer_substat_22" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="20,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_WYR_Gortash_Grenade" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="432b3645-b8f6-4557-b7bc-7d11aefb317c" />
         <field name="UUID" type="IdTableFieldDefinition" value="de5fed96-8cd1-4210-ad38-538bc2e9809b" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_GrenadeContainer_substat_21" />
         <field name="DropCount" type="StringTableFieldDefinition" value="20,1" />
