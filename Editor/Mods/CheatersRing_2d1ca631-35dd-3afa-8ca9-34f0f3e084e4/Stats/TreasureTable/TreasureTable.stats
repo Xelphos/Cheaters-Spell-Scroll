@@ -12632,16 +12632,6 @@
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="2f1b0388-e0be-45e0-95ae-aa721b081511" />
-        <field name="UUID" type="IdTableFieldDefinition" value="c299f460-280d-4638-bc19-d0d37a6c556e" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_UnreleasedItemContainer_substat_49" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="20,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_Scroll_Counterspell" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="2f1b0388-e0be-45e0-95ae-aa721b081511" />
         <field name="UUID" type="IdTableFieldDefinition" value="345089cb-bbf2-4758-878c-3b8215f7cace" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_UnreleasedItemContainer_substat_88" />
         <field name="DropCount" type="StringTableFieldDefinition" value="20,1" />

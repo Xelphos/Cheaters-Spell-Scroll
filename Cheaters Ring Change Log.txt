@@ -16,6 +16,8 @@
 - Added Concussion Grenade to the Grenade Box.
 - Cheaters Explosion will now disintegrate targets leaving behind only a pile of ash.
 - Changed how the Experience Potions work. They will now award experience to the whole party.
+- Removed Counter Spell from the Unreleased Item Box as it was permanently unlocking Counter Spell when added to the inventory.
+- Fixed missing vanilla tooltip icon for one of the Orthon grenades.
 - Fixed various minor issues.
 
 3.1.2

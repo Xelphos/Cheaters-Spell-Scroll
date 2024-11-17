@@ -2598,8 +2598,6 @@ object category "I_XEL_OBJ_Oil_Of_Sharpness",1,0,0,0,0,0,0,0
 new subtable "20,1"
 object category "I_XEL_OBJ_Scroll_ArcaneEye",1,0,0,0,0,0,0,0
 new subtable "20,1"
-object category "I_XEL_OBJ_Scroll_Counterspell",1,0,0,0,0,0,0,0
-new subtable "20,1"
 object category "I_XEL_OBJ_Scroll_DispelMagic",1,0,0,0,0,0,0,0
 new subtable "20,1"
 object category "I_XEL_OBJ_Scroll_FindFamiliar",1,0,0,0,0,0,0,0
