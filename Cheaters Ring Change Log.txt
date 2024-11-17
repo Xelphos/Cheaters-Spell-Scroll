@@ -1,0 +1,101 @@
+3.2.0
+- Added most of the Tadpole Powers and Passives to the Cheaters Spell Scroll. These can be found in the Cheaters Spell Scroll: Tadpole Series container. Unintended side effects may arise from using passives that you have already unlocked in the Tadpole Power Menu.
+- Added Signed Trade Visa to the Scroll container.
+- Added Spell Closed Fist of Bane, does what Gortash's version does, except increased range and free.
+- Added Spell Animating Spores, this is the spell Glut uses, except it's been modified to allow reanimating anything that is not tagged as block resurrection. Reanimated creatures benefit from Long Rests.
+- Added Spell Incinerate, it's basically Flame Strike, but leaves behind a Hellfire surface.
+- Added Spell Hellfire Orb, it's like a more powerful Fireball, and leaves behind a surface of Helfire.
+- Added Spell Igniting Spark, basically just a stronger Fire Bolt, also leave behind a Hellfire surface.
+- Added Spell Fog Cloud, same as normal version, but has a larger areas.
+- Added Spell Darkness, same as normal version, but has a larger area.
+- Added Spell Stinking Cloud, same as normal version, but has a larger area,
+- Added Spell Cloudkill, same as normal version, but has a larger area.
+- Added Spell Enlarge/Reduce, same as the normal version, but increased range and is guaranteed to apply.
+- Added Spell Gaseous Form, same as normal version, but has increased range.
+- Added a way to spawn the Cheaters Spell Scroll. While not in combat: Sneak, enable Non-Lethal, then Dash.
+- Cheaters Explosion will now disintegrate targets leaving behind only a pile of ash.
+- Changed how the Experience Potions work. They will now award experience to the whole party.
+- Fixed various minor issues.
+
+3.1.2
+- Updated the description of Always Critical Success, Always Critical Fail and Never Critical Fail.
+- Added Spell Telekinesis, works roughly the same as the vanilla one, but I increased the range to 30m.
+
+3.1.1
+- Added Spell Cheaters Longstrider, gives you and nearby allies an extra 30m of Movement Speed.
+- Added Passive Always Critical Fail, works like the Always Critical Success passive. May not work 100% of the time.
+- Added Passive Dice Roll Negative Bonus, adds a -40 to all Ability Checks, Skill Checks, and Saving Throws.
+- Renamed Dice Roll Bonus passive to Dice Roll Positive Bonus.
+- Added Cheaters Guidance to the Unlock Passives spell so that it could be cast during dialogue.
+- Added the Cheaters Ring to the Spell Scroll...
+
+3.0.6
+- Added Spell Summon Cheaters Spell Scroll.
+- Changed God Mode, now gives you a choice of what version you want. One allows positive status effects the other does not.
+- Changed Opulent Revival to only do resurrections.
+- Change Restoration to Full Restore. Will now restore nearby allies as if they had just finished a long rest and remove all negative status effects.
+- Fixed a few spelling errors.
+- Fixed Unlock Passives and Unlock Ring Abilities being Unique and not being able to be applied to multiple people.
+
+3.0.5
+- Added Cheaters Fire Bolt, upon impact with an enemy it will spawn up to 6 more Fire Bolt projectiles that will track on to enemies.
+- Added Cheaters Sacred Flame, increased damage, and now affects enemies in an area instead of being single target.
+- Buffed Cheaters Action Surge, now increases movement by 30m, also gives 3 extra actions and bonus actions when cast.
+- Added a missing item to the Jewelry Box.
+- Fixed Cheaters Spell Scroll being a stackable item. Don't think it actually could stack, but the Toolkit warned me about it.
+
+3.0.4
+- Added some restrictions to the approval spell.
+- Small Osiris change.
+
+3.0.3
+- Fixed the description of the guidance and potion box spell.
+- Change the reward number for the scroll, everyone should get a new one now.
+
+3.0.2
+- Fixed the scroll not spawning in the camp chest.
+- Added The Impaler to the Unreleased Chest.
+
+3.0.1
+- Big 3.0 revamp of the mod. No longer Cheaters Ring, but Cheaters Spell Scroll. Should be safe to update from Cheaters Ring.
+- The only real difference between this version and 2.11 is the addition of Spell Items and what is given to the player when first loading in. Outside of that everything should be the same as 2.11.
+- Fixed the scroll not spawning in the camp chest.
+
+2.11.1
+- Fixed incorrect stats on the Djinni Scimitar.
+
+2.11
+- Refactored the Osiris Script. Should drastically improve performance when summoned chests despawn.
+- Changed Spell Summon Camp Supplies to summon a bag of camp supplies instead.
+- Added Spell Cheaters Chain Lightning, does basically what Chain Lightning normally does, but with extra explosions.
+- Added Spell Cheaters Free Respec, does as the name implies, allow you to respec.
+- Added Spell Cheaters Increase Approval, will increase the targets approval by +25.
+- Added Spell Cheaters Hold Creature, does what Hold Person and Hold Monster does, but works on the undead and lasts until Long Rest or Concentration is broken.
+- Added Ability Score Editing, inside the Misc Chest you will find Ability Score Editing Tool Box with consumables to alter your Ability Scores. These can at most give you  a +20 to any ability score, but you can set yourself anywhere from 0 to 30 assuming no stat base is lower than 10.
+- Added Book Cheaters Ring Change Log, as the name implies, it just shows you the change log so you can see what is new. It can be found in the Misc Chest.
+- Removed Spider Egg Sac from the Grenade Chest. Was non-functional after the first use anyways.
+- Changed Ability Score passive from 25 to 30. 
+
+2.10
+- Added a new EXP potion that gives enough experience to reach max level.
+- Added Potion of Inspiration to the Misc Chest. Gives an Inspiration point when consumed.
+- Added a few more missing items to the summonable chests.
+- Added all base Musical Instruments to the Weapon Box.
+- Added a new spell: Cheaters Resistance, grants resistances to all sources of damage.
+- Added a new spell: Cheaters Summon Runepowder Bomb, exactly the same as the Runepowder Barrel spell, just uses the Runepowder Bomb assets and model.
+- Added a new spell: Cheaters Summon Common Items Box, which as the name implies, summons a chest with most common quality weapons and armor.
+- Added a new spell: Cheaters Summon Unreleased Item Box, summons a chest with a collection of unreleased/unfinished armor/weapons. These are provided as they are in the base game. Use at your own risk.
+- Added a new spell: Cheaters Arcane Recovery, restores all Spell Slots up to 10th level.
+- Added a new spell: Cheaters Detect Thoughts, works the same as the base variant. It's just free.
+- Added a new passive: Necrotic Aura, when this is enabled, you and nearby party members will be able to raise dead without a corpse.
+- Set most of the items included in the Scroll, Potion, Arrow and Grenade box to use vanilla/base game stat entries. Allows them to stack with the vanilla versions of these items.
+
+2.9.1
+- Adjusted Auto Wash Party, will now add a visible status to each character affected at the end of combat to give a bit more visual feedback.
+
+2.9
+- Added a few missing items to the summon chests.
+- Added 3 Infernal Iron to the Misc chest.
+- Changed the Ability Score passive to set Ability Scores to 25 instead 20.
+- Included Attack Rolls in the Always Critical Success and Never Critical Fail Passives.
+- Switched God Mode back to using the Invulnerable function. Sorry, I won't be dealing with this anymore. Damage immunities seem to be less reliable and the only issue so far with Invulnerable is the fact that it blocks positive status effects like Invisibility, Flight, etc.

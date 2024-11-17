@@ -1,0 +1,3 @@
+Add things to give skill proficiencies. 
+Add a thing to give musical instrument proficiency.
+Fixed OneTimeReward Version in the Mod version update.
