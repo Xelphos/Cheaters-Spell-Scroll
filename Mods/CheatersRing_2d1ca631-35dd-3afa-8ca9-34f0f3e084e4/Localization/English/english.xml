@@ -1,0 +1,1163 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h4f493c24g5c2bg0eedg304cg62f2b7cb15f4" version="5">Cheaters Ring</content>
+  <content contentuid="hcbdb6f22ge9c4gd2fegca86g060ce6a4e3d7" version="11">A ring that hums with limitless potential.</content>
+  <content contentuid="hb075521dgf8eag2d69g88afg86def3638db5" version="3">Cheaters Spell Scroll (Damage and Buffs)</content>
+  <content contentuid="h4bf7d134gec61g07e8g8996g8ef87de7d51c" version="4">Contains combat and buff related spells.</content>
+  <content contentuid="h02345d85g95beg64e7g6627g42763f1eda81" version="14">Cheat: Dice Roll Positive Bonus Toggle</content>
+  <content contentuid="h69ee8de4g259fg4306g309eg63caa5867da2" version="16">Adds a +20 to all Dice Rolls.</content>
+  <content contentuid="h836d0bdbg7632g6831g0162g4514d1f17eb2" version="3">Cheat: Dice Rolls Passive</content>
+  <content contentuid="h8d7023cegf572g534cg7c3agac7ca38cdda3" version="4">Adds +100 to Dice Rolls. You can still roll Critical Failures.</content>
+  <content contentuid="h6900adedg5977g85c7g154bg1a96498c2dbb" version="1">Cheaters Misty Step</content>
+  <content contentuid="h7028f2e5gde81gcb1eg903bgab162e0e5cb6" version="1">Surrounded by silver mist, you teleport to an unoccupied space.</content>
+  <content contentuid="hac9c5d45g6a4bgf26fge1e3g813c077953a1" version="1">Cheaters Misty Step</content>
+  <content contentuid="h16632bc9gc555g88b2ga95fgde653d3ed1e0" version="1">Cheaters Magic Missile</content>
+  <content contentuid="h2cb4c85agade4gedf0g8395g4ff54a5bcbbb" version="1">Cheaters Greater Invisibility</content>
+  <content contentuid="h26d2a26dg4c94g9c7bg2eddg8d9d38c37db1" version="1">Turn creatures &lt;LSTag Type="Status" Tooltip="GREATER_INVISIBILITY"&gt;Invisible&lt;/LSTag&gt;. Attacks against them have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;. They attack with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;.</content>
+  <content contentuid="h16906c41gcdaag6e38gb4abg9b2d4667e74a" version="2">Cheaters Fireball</content>
+  <content contentuid="hb4240e69gda93g2fa3g82d3gf6b6c92a731a" version="1">Cheaters Grant Flight</content>
+  <content contentuid="h23c9832dgf012ga373g7977g0471fff1f042" version="1">Bestow the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt; upon you and your allies.</content>
+  <content contentuid="h9384b862gf87eg976bgab78g8aa050b47fc7" version="1">Cheaters Summon Gold</content>
+  <content contentuid="h989afde9ga68egd65cga9cdg980513fe70fc" version="2">Summons 2500 gold. What else can I say? It's free money.</content>
+  <content contentuid="h11466a98g3324g23d2g94fdg629c54d1fbec" version="1">Cheaters See Invisibility</content>
+  <content contentuid="hfc55ecebg155bg2699ga534gdeb9abba7c8d" version="1">Cheaters Divine Intervention</content>
+  <content contentuid="h23672371ge3f3g0d03g33fcgd8c4818aed34" version="1">Call upon your deity in your moment of greatest need.</content>
+  <content contentuid="h832fedbege3d3g04c6g0ba0g3d124fd0ef6e" version="2">Cheaters Summon Smokepowder Barrel</content>
+  <content contentuid="hf3ceb142g8f75g99f7g21d2g363ee777de6d" version="1">Summons a Smokepowder Barrel at the target location.</content>
+  <content contentuid="h7043a844g65e3gf03dg9a3ege83b3183f09c" version="1">Cheaters Summon Water Barrel</content>
+  <content contentuid="h08625e32gcf52gae22g1a4bgc1e08af36735" version="2">Summons a Water Barrel at the target location.</content>
+  <content contentuid="hcb6673a1g01d3g176cg37c2g287e5bc374d0" version="1">Cheaters Summon Oil Barrel</content>
+  <content contentuid="h71278c30gf349g50a2gf56dgffec99ec5ec9" version="2">Summons a Oil Barrel at the target location.</content>
+  <content contentuid="hee0ac464g340cg112ag0647g43ddb291fdd5" version="1">Cheaters Summon Firewine Barrel</content>
+  <content contentuid="hd30edcf9g62dbgf50fg017eg23c95fb24d1b" version="1">Summons a Firewine Barrel at the target location.</content>
+  <content contentuid="h81bb6aebgc3dcga405g9edagd6ab0c1b33a7" version="1">Cheaters Summon Runepowder Barrel</content>
+  <content contentuid="h260f7180g292eg7042g996dg149546879886" version="1">Summons a Runepowder Barrel at the target location. You are responsible for what happens if you use this.</content>
+  <content contentuid="h5c193b50g4e1fg82a7g79dbgbe7c5429b7e2" version="1">Touch a creature - it can see &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt; creatures and pierce the planes with its eyes.</content>
+  <content contentuid="h0fb8f09bg9c7cg3015g9d05gf8361f85b4e7" version="2">Cheaters Summon Acid Barrel</content>
+  <content contentuid="h75670356gde76g9903g2738g732ca50e3863" version="2">Summons a Acid Barrel at the target location.</content>
+  <content contentuid="he3538111g9761ge41dg10f4gb8a8a2fc7cfe" version="1">Surrounded by silver mist, you teleport to an unoccupied space.</content>
+  <content contentuid="hea479cbag6aeag3510gb500gb107625cf77a" version="1">Cheaters See Invisibility</content>
+  <content contentuid="hf3cf5f3fg7f62ga0a5gc77egac16248e7c4b" version="1">Become able to see &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt; creatures, and possibly reveal them to others.</content>
+  <content contentuid="h709b27a6g6d54g7318ga92eg999c7197fb1a" version="1">Cheat: Ability Score Passive</content>
+  <content contentuid="h8c46f070g6265gd10bgd864g28421c86d313" version="1">Sets all Ability Scores to 25. Has no effect if your Ability Scores are already greater than 25.</content>
+  <content contentuid="he2444aabge3f2gd28bg78e8ge80acc8a2575" version="1">Cheaters Knock</content>
+  <content contentuid="h1c9881c9g96fdgce65geb12g367044770ec7" version="1">Unlock objects that are held shut by a mundane locks.</content>
+  <content contentuid="h5d13771dg8a6agf331g9754g2bc2535b55ec" version="1">Shoot [2] magical darts, each dealing [1]. They always hit their target.</content>
+  <content contentuid="hbc994efbg6936gea36g2a56gd7b8e732d13b" version="1">Shoot a bright flame from your fingers that explodes upon contact, torching everything in the vicinity.</content>
+  <content contentuid="h921afe12gcc81g115cg31f2g5519907a01a3" version="1">Cheaters Summon Brine Barrel</content>
+  <content contentuid="h2c6157a8g49acg3b8dg3b05g5a1648626fa1" version="1">Summons a Brine Barrel at the target location.</content>
+  <content contentuid="h73f781c9ged79g6652gc0aag68fee9bc0d45" version="1">Cheaters Summon Nautiloid Tank</content>
+  <content contentuid="h29b47de1g654fgdf05g3830g3ab9f313bc90" version="1">Summons a Nautiloid Tank at the target location.</content>
+  <content contentuid="h8c0a5c51g817fgf34agf334gb636ccddde35" version="2">Cheaters Summon Tutorial Chest</content>
+  <content contentuid="hae389c7cg3b08g5eaegd3f0gfd6bcfe2b48e" version="1">Summons 2500 gold. What else can I say? It's free money.</content>
+  <content contentuid="ha81c5accg0546ga9bcg6544gba21582cd545" version="1">Tutorial Chest</content>
+  <content contentuid="h48039caagf629g8fe8gb5c9gf0c94159adbe" version="1">The flesh-like lid of this rubbery container seems to quiver when touched.</content>
+  <content contentuid="hc5c62ab7g78c6g3c61g494dg01f1e0f18c4a" version="1">Tutorial Chest</content>
+  <content contentuid="h1e1d5364g53b3g2638gbb5dg9c19e9452732" version="1">The flesh-like lid of this rubbery container seems to quiver when touched.</content>
+  <content contentuid="h71b4393dg12d6g2730ge1ccg090d56f890ca" version="1">Tutorial Chest</content>
+  <content contentuid="hef440d25g32d9g3e01g51cdg0f18c78ff106" version="6">Cheaters Ring (LEGACY)</content>
+  <content contentuid="h6b57f8f6g7e4dg4074ge29dg810c26c3da79" version="6">Tutorial Chest</content>
+  <content contentuid="h3da85edagb8fbg9abbg74dcg62cac70d4f2e" version="1">fdgfdgfdg</content>
+  <content contentuid="h3bd051b6gbadbg2c2cg97d6g14e7b9f51019" version="2">Tutorial Chest</content>
+  <content contentuid="h70387d4ag24b9g344cg3aa0gf2d19923bfad" version="1">Cheaters Summon Tutorial Chest</content>
+  <content contentuid="h4e28dcb1g7227gbef7g2594g319642c224f6" version="3">Summon the Tutorial Chest.
+
+This chest is often used by mod authors to give the player access to modded items.
+
+Chest will be destroyed after 5 rounds. Enable Turn-Based Mode and grab what you need.</content>
+  <content contentuid="h6775e434g127dg9fe7g5073ge8b66ad3e138" version="3">Cheaters Summon Gold</content>
+  <content contentuid="h923b724egb574gdc5cgb9a2g8c7e13cef599" version="2">Summons 10000 gold. What else can I say? It's free money.</content>
+  <content contentuid="hfeec9eebg1dc8gd8d1g8ec7g122924904531" version="1">Tutorial Chest Cooldown</content>
+  <content contentuid="h5ac940a6g5bdfgf8fcg44eagd7885e631c79" version="1">You must wait before summoning the Tutorial Chest again.</content>
+  <content contentuid="h38d12a57gd82fg5ec5g4080g98b6ce338ad8" version="1">Runepowder Barrel</content>
+  <content contentuid="hc1a06568g780egc6b8gf59cg1a9f40b23fbc" version="1">A secret concoction of smokepowder and gnomic mysticism, a single vial of runepowder is more volatile than a whole barrel of smokepowder. Who knows what this much could do...</content>
+  <content contentuid="hc1e6777ag7518gbf17gf611g122bf3189a31" version="4">Cheaters Potion Box</content>
+  <content contentuid="h1398cbc5gff24gd27fgaed4g6f9f0d2d8c1c" version="4">Made of precious stone and covered in gold, this chest is both sturdy and pleasing to the eye.</content>
+  <content contentuid="h0eae7800gaa19g80fage459ga1f7f489efcf" version="5">Cheaters Scroll Box</content>
+  <content contentuid="h79174fa0gfe72gf43eg716fg6dab05ad7bd8" version="5">Cheaters Arrow Box</content>
+  <content contentuid="h17716285g41d5g9380g7cbcg30f124e7adbe" version="5">Cheaters Dye Box</content>
+  <content contentuid="h83301058gfc62g5e8ag89fege440466bff34" version="2">Cheaters Summon Dye Box</content>
+  <content contentuid="hce967e4dg026fg811cgd52agd03a0aec9597" version="2">Summon a chest which contains every Dye and Dye Remover. These Dyes are not consumed on use.</content>
+  <content contentuid="h6ecae78cgaf23g0e30g8354ge75dcb4ae8fb" version="3">Cheaters Opulent Revival</content>
+  <content contentuid="h11fe9eb6g0ed0g9e66ge93cga3a767c0a24a" version="5">Resurrect all nearby fallen companions.</content>
+  <content contentuid="hf71379bfgccebg1e50gc24dgb6e839a0ca45" version="2">Cheaters Summon Camp Supplies Bag</content>
+  <content contentuid="h3b1cd390g600eg74cagdacfgba2891773d28" version="2">Summons a bag filled with Camp Supplies.</content>
+  <content contentuid="h0a1faaf9g2122ga3d3gde33g2d49bba0303a" version="2">Cheaters Summon Scroll Box</content>
+  <content contentuid="h6ab53f97g19d6g4950gb66cg112ebb5badcf" version="1">Summon a chest which contains every Dye and Dye Remover. These Dyes are not consumed on use.</content>
+  <content contentuid="h4ae00ef1gc972g91cag9867g95a59f930869" version="5">Bag of Hags Hair</content>
+  <content contentuid="h4d6f26f4g7ba2g9707gb7c5gf1d49790a338" version="5">A bag full of delicious hag scalp chunks. Ethically sourced from the finest free range hags.</content>
+  <content contentuid="h0bb831b8g0fc7g1dacg47cfgcac7e0df706a" version="3">Bag of Hags Brew</content>
+  <content contentuid="hdffb91e2g8a8ag96e5g7ad0gbec6601e035f" version="3">A collection of Auntie Ethel's finest brews. Drink up, Petal.</content>
+  <content contentuid="h64de2a61g4426g4814ga189g37db5bc9c0f6" version="1">Cheaters Summon Potion Box</content>
+  <content contentuid="hdb12d0a9g58c3g6badg4efag661e6b927067" version="4">Summons a chest with most Potions, Poisons, Elixers and a few extra goodies.
+
+Chest will be destroyed after 5 rounds. Enable Turn-Based Mode and grab what you need.</content>
+  <content contentuid="h4913ee3fg6e5dgdbe1gc5b5gb667f3e23507" version="1">Potion Box Cooldown</content>
+  <content contentuid="hfbd043c7g3511gde90g707cgc0970bea4821" version="1">You must wait before summoning the Potion Box again.</content>
+  <content contentuid="h9b5abc03g4315ge5ebg41ecg8a30b5413b4d" version="2">Summons a chest with most Magic Scrolls.
+
+Chest will be destroyed after 5 rounds. Enable Turn-Based Mode and grab what you need.</content>
+  <content contentuid="h66087337g266fg6d00gb3e6g53a148beba75" version="1">Scroll Box Cooldown</content>
+  <content contentuid="h7a28f68fgcb57g9996ga61ag9a62ca707b6e" version="1">You must wait before summoning the Scroll Box again.</content>
+  <content contentuid="ha9c85b9fg6bccg8181g53f8g18ea0df1f890" version="1">Test</content>
+  <content contentuid="h97f2c0ecg7b5ag3345ge085g7a80773c784b" version="1">Test</content>
+  <content contentuid="h56c2dee9g10dbg7710ge029gb91ea4626125" version="1">Cheaters True Seeing</content>
+  <content contentuid="h326c54f0g42e9g4064g637dgf1418c466f8a" version="2">Become able to see &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt; creatures and pierce the planes with your eyes.</content>
+  <content contentuid="h987aab76g26d2g5e82gb6c7g6a6940a7d2b2" version="1">True Seeing</content>
+  <content contentuid="h6f967766g3fc9gd790g700fgc03c55c2274d" version="1">Can see &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt; creatures within [1].</content>
+  <content contentuid="ha2e6885bgb7c0gc24fg11a0g79399f3b5cb3" version="1">True Seeing</content>
+  <content contentuid="h641d7c0bg80c1g6927g99dcg9b8f873c2721" version="1">Can see &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt; creatures within [1].</content>
+  <content contentuid="h7c7a4988gb1f0gbe01g342eg83c6b97a1956" version="1">Cheaters Greater Invisibility</content>
+  <content contentuid="h3cc61a4eg1868g58edg9b7bg2cac77587176" version="1">Turn creatures &lt;LSTag Type="Status" Tooltip="GREATER_INVISIBILITY"&gt;Invisible&lt;/LSTag&gt;. Attacks against them have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;. They attack with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;.</content>
+  <content contentuid="h6f26b1aagc678gf3b7g7a2dg8f99ad69e6cb" version="2">Cheaters Mass Greater Invisibility</content>
+  <content contentuid="h77b75568gac6eg06e4g0c74g31c95fbaf97f" version="3">Turn yourself and nearby allies &lt;LSTag Type="Status" Tooltip="GREATER_INVISIBILITY"&gt;Invisible&lt;/LSTag&gt;. Attacks against those affected by the spell have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;. Those affected by the spell attack with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;.</content>
+  <content contentuid="ha95f33c6g5dd2gd746g19e9g445cd930ca14" version="1">Greater Invisibility</content>
+  <content contentuid="h99e9a438gd88bgf319g8949g65151b406995" version="1">Entity has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;. Attack Rolls against it have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
+  <content contentuid="hc8e35633gb214g7348ge4e4g4d1613815177" version="1">Cheaters Mass Fly</content>
+  <content contentuid="h35de86adg5969g34fagda5eg9af79ee0005a" version="2">Bestow the ability to &lt;LSTag Type="Spell" Tooltip="Projectile_Fly"&gt;Fly&lt;/LSTag&gt; to you and nearby allies.</content>
+  <content contentuid="h94b0f533g127fg98a5g893dg300ea798f3a2" version="1">Cheaters Stone to Flesh</content>
+  <content contentuid="h986c735bg7f80g6a4fgd0ffg1e75410301ec" version="1">Turn a &lt;LSTag Type="Status" Tooltip="PETRIFIED"&gt;Petrified&lt;/LSTag&gt; creature back to its organic form.</content>
+  <content contentuid="h90d99233gfa2cgc3bag8ff9g3d682a4b8806" version="1">Cheaters Flesh to Stone</content>
+  <content contentuid="h36abe313g91d0g93e7g0290gb5416226baab" version="2">Atrophy a foe, temporarily turning them to stone.</content>
+  <content contentuid="h32926e09gdc26g1574g7b4fgc8b99059db8e" version="1">Cheaters Flesh to Gold</content>
+  <content contentuid="hd4deab65g14d9gb408g6c57g5f3363c5f3ee" version="2">Channel the power of money and swag to turn the target into gold temporarily.</content>
+  <content contentuid="hb1a65f02g6c9bg7290ga993ga5268de5e5df" version="1">Cheaters Summon Arrow Box</content>
+  <content contentuid="hf431f490g6e97g745bg02e5g404c6049d5b0" version="2">Summons a chest with most Arrows.
+
+Chest will be destroyed after 5 rounds. Enable Turn-Based Mode and grab what you need.</content>
+  <content contentuid="haf0e6d6eg39cfgb867gbce6ge2295a9cb68e" version="1">Cheaters Summon Grenade Box</content>
+  <content contentuid="hb5b7fcefg26afgaeadg8a03g7c15b3818427" version="2">Summons a chest with most Grenades.
+
+Chest will be destroyed after 5 rounds. Enable Turn-Based Mode and grab what you need.</content>
+  <content contentuid="he3c3dd91gd5d0g6c05g83e8g58ddc81bc0bc" version="2">Cheaters Summon Armor Box</content>
+  <content contentuid="h861214f0g77f2gb013gae9eg89facb781e84" version="4">Summons a chest with most Quality Armor.
+
+Chest will be destroyed after 5 rounds. Enable Turn-Based Mode and grab what you need.</content>
+  <content contentuid="hb454e204g7152gcf63g3753gda962c76d081" version="1">Grenade Box Cooldown</content>
+  <content contentuid="hb594ac8ag1f9bgd384g9897gcd2d17967b04" version="1">You must wait before summoning the Grenade Box again.</content>
+  <content contentuid="h20951fa9g9b16g8919ge82dg098a853f97bd" version="1">Arrow Box Cooldown</content>
+  <content contentuid="hbfd5230agb121g8d7ag5d13gc57eaaaca694" version="1">You must wait before summoning the Arrow Box again.</content>
+  <content contentuid="h0f41d154g543egccfdg4747ga051a3bb75b4" version="1">Equipment Box Cooldown</content>
+  <content contentuid="hfc835cd7gf7f0gd687g9814g07a31705d80c" version="1">You must wait before summoning the Equipment Box again.</content>
+  <content contentuid="hf1ccd48ag4f6bgda80g8a2dg877fa2afaea2" version="10">Cheaters Armor Box</content>
+  <content contentuid="hf3860c51g1aedg164fg6ea3gb15ba195b276" version="10">This exquisitely-crafted chest, ornamented with gems and lined with cushioned velvet, is fit for storing the finest treasures.</content>
+  <content contentuid="hefb44222g10b1gdecfg307fgdfc91caadc55" version="1">Cheaters Arrow Box</content>
+  <content contentuid="h4df1b667g8254gc017g0b9eg59f79da74c20" version="1">This exquisitely-crafted chest, ornamented with gems and lined with cushioned velvet, is fit for storing the finest treasures.</content>
+  <content contentuid="hc59d97f8g7c9ag1927g44b3g11ca80e331c6" version="2">Cheaters Grenade Box</content>
+  <content contentuid="h4baf4c40g0033g9afegf9e8g094b7606c50b" version="2">A chest suitable for lashing to carts and wagons. </content>
+  <content contentuid="h8d72bde5g9087gdc1cgced2g3183d12bcd34" version="3">Cheaters Grenade Box</content>
+  <content contentuid="hd32d49begf05eg7c5cg6a8cg49aeff34849e" version="3">This exquisitely-crafted chest, ornamented with gems and lined with cushioned velvet, is fit for storing the finest treasures.</content>
+  <content contentuid="hc959513bgdce6g3ed4ga0d9g93da88c0efd6" version="5">Cheat: God Mode Toggle</content>
+  <content contentuid="h98cfbd7cg5532gbfa4g39a6g4c556c113488" version="9">Become immune to all Damage and Status Effects. 
+
+You will be given a choice of which version of God Mode you want when you activate this passive.</content>
+  <content contentuid="h5e278821g8caag0beeg5f17gfb7e668766eb" version="4">Cheaters Weapon Box</content>
+  <content contentuid="hf62c2a8cg302fga6a7g6c8egf5da264887ca" version="4">This exquisitely-crafted chest, ornamented with gems and lined with cushioned velvet, is fit for storing the finest treasures.</content>
+  <content contentuid="h4d148263g8985g9d4eg032dgbf59864f42b1" version="1">Cheaters Summon Weapon Box</content>
+  <content contentuid="hc595c084g8c14g5a51gdfaeg5246568ee4f6" version="3">Summons a chest with most Quality Weapons.
+
+Chest will be destroyed after 5 rounds. Enable Turn-Based Mode and grab what you need.</content>
+  <content contentuid="h1e95adbegac77g1f6cg661dg41a2aaf2f771" version="1">Armor Box Cooldown</content>
+  <content contentuid="hd7f579e9gad39gb3dag499bgce67e1db6048" version="1">You must wait before summoning the Armor Box again.</content>
+  <content contentuid="h88731170ge958g3dfcg7330gf2f1a26f99bd" version="1">Weapon Box Cooldown</content>
+  <content contentuid="h3faf4871ga0e1gbbaege8dcg7247581b2e0d" version="1">You must wait before summoning the Weapon Box again.</content>
+  <content contentuid="hf13dc53agfea6g02e7gec65gd65b1a5686a9" version="1">Cheaters Jewelry Box</content>
+  <content contentuid="ha06f9168g7825g31d7g8ba7g4480837f45b4" version="1">Though this chest's design is elaborate, the wood is unfinished, as though its maker lost interest partway through.</content>
+  <content contentuid="ha163f5fag8e0cg365bg68c5g8cc0be939274" version="1">Cheaters Summon Jewelry Box</content>
+  <content contentuid="h5e01cf05g06d7g2a94g8667g8d7e3677f836" version="2">Summons a chest with most Quality Jewelry.
+
+Chest will be destroyed after 5 rounds. Enable Turn-Based Mode and grab what you need.</content>
+  <content contentuid="h41d3f2b2g65c6g4b94ga8f6g862666badf30" version="1">Jewelry Box Cooldown</content>
+  <content contentuid="hc5540161g4262gb6feg541bg81fbf39b294a" version="1">You must wait before summoning the Jewelry Box again.</content>
+  <content contentuid="hc37e3262g2be3g52cfgab58g17cee3ad95d2" version="3">Cheaters Jewelry Box</content>
+  <content contentuid="he84bffddgc6e5gdc9eg88adgb1697f914837" version="3">This exquisitely-crafted chest, ornamented with gems and lined with cushioned velvet, is fit for storing the finest treasures.</content>
+  <content contentuid="he18750dag06bfg14eag1536g6c7d95174515" version="1">Runepowder Barrel</content>
+  <content contentuid="hdc2a92c0g5c83ga215gcf39gef046a310ec5" version="1">A secret concoction of smokepowder and gnomic mysticism, a single vial of runepowder is more volatile than a whole barrel of smokepowder. Who knows what this much could do...</content>
+  <content contentuid="h4f3d47fdga217g696fg3a03g768d1be51d20" version="1">Cheat: Undying</content>
+  <content contentuid="h40674f9dg41bbgf825gabeag2b2306c08af0" version="1">Like a phoenix, you rise from the ashes.</content>
+  <content contentuid="h4b4c1e7bg4c2eg7bdbg425bg27d10e60ee0b" version="1">Cheat: Undying</content>
+  <content contentuid="h67391e07g3507g4e5dgd4d9gd41807c9dfa1" version="2">Automatically revive if you die.</content>
+  <content contentuid="h4efd8402g7a10g29f7g6851g44a53bd6e573" version="6">Cheat: Never Critical Fail Toggle</content>
+  <content contentuid="hcf1a05beg7bd0g3b75g839ag9907f9e64664" version="12">Never Critical Fail on Ability Checks, Skill Checks, Saving Throws and Attack Rolls. 
+
+May not work 100% of the time. Nothing I can do about this. Disabling Karmic DIce in Options -&gt; Gameplay may give more consistent results.</content>
+  <content contentuid="hb8b08ff7g9bf4g89afg8ce4g560319099d49" version="1">Cheat: Always Critical Success (Active)</content>
+  <content contentuid="h9a5b3162g74cagdf2ag04aag5b40888ef1dc" version="7">Always Critical Roll on Ability Checks, Skill Checks, and Saving Throws.
+
+May not work 100% of the time. Nothing I can do about this. Disabling Karmic DIce in Options -&gt; Gameplay may give more consistent results.</content>
+  <content contentuid="h914475c5g3c1cgd290g99b4gfb07390b9b39" version="1">Cheat: No Critcal Failures (Active)</content>
+  <content contentuid="h40e493e4geb78ge15ag0220g2396fca09c12" version="6">Never Critical Fail on Ability Checks, Skill Checks, and Saving Throws.
+
+May not work 100% of the time. Nothing I can do about this. Disabling Karmic DIce in Options -&gt; Gameplay may give more consistent results.</content>
+  <content contentuid="h5ebc23e6g2fafgd4cdg043egbfa43d7b31dd" version="1">Cheat: God Mode (Active)</content>
+  <content contentuid="hbea74016g3f6bgad1eg2ebbg00e89eca1d1b" version="5">Immune to all Damage and Status Effects. This includes positive Status Effects like Invisibility, Flight, etc.</content>
+  <content contentuid="h8171b678g2254g85eag1241g4fd8fdefce88" version="2">Cheat: Ability Score Toggle</content>
+  <content contentuid="hdf6952b7ge86egf5feg28b2g551b83754454" version="3">Set all Ability Scores to 30.</content>
+  <content contentuid="h68d0b337g5ec3gee1eg550cgf3b6d251a450" version="1">Cheat: Ability Score (Active)</content>
+  <content contentuid="h3327c9b6g726ag7a51g1f06g9373eff9570c" version="3">Set all Ability Scores to 30. Has no effect if your Ability Scores are already greater than 30.</content>
+  <content contentuid="ha1c524a5g2a00gbf83g169ag7564b4c1f9d7" version="2">Cheat: Dice Roll Positive Bonus (Active)</content>
+  <content contentuid="h83918842g737bg20f5g7014g9849e952d817" version="3">Adds a +20 to all Dice Rolls.</content>
+  <content contentuid="he326f16egffb4gc93fg71ecg7ac8e9e3806e" version="2">Cheat: Always Critical Success Toggle</content>
+  <content contentuid="h4d2ffa7cga815g2b29g10cbgbea892ba4947" version="7">Always Critical Roll on Ability Checks, Skill Checks, Saving Throws and Attack Rolls. 
+
+May not work 100% of the time. Nothing I can do about this. Disabling Karmic DIce in Options -&gt; Gameplay may give more consistent results.</content>
+  <content contentuid="h46cc61a7g3ce7g6b8ag8c51g6bb1608b3771" version="1">Cheaters Kill</content>
+  <content contentuid="h36bc5638g31aegf174g502cg523e6006861d" version="1">Instantly kill the target.</content>
+  <content contentuid="h990d514egd8fag93afg7a84g0ee82a3b5b28" version="1">Cheaters Fireball?</content>
+  <content contentuid="h5b3aa5cagc068g8890g7337g58944ad28d0d" version="1">Shoot a bright flame from your fingers that explodes upon contact, torching everything in the vicinity.</content>
+  <content contentuid="hadcf60a9gae05gc2f2gf1cfg96a8f1dff0cc" version="1">Test</content>
+  <content contentuid="hfb1fa964gfa8eg4635g3684gc016e9dc7da4" version="1">Test</content>
+  <content contentuid="hbe24ff8eg6dc0gee79ge639gca388083b132" version="2">Cheaters Restoration</content>
+  <content contentuid="h5af8d269gf16bg3ae6g7afcg37f3f98ad808" version="4">Restores all nearby allies as if they had finished a Long Rest and removes all negative effects. </content>
+  <content contentuid="h1636da61gbc5fg6420g881cge8333e722e7e" version="1">Cheaters Speak with Animals</content>
+  <content contentuid="h892a752eged58gb2f1g5482g333a8441f9df" version="1">Gain the ability to comprehend and communicate with beasts.</content>
+  <content contentuid="h7e251b6dg61f7gf16egad65g1b9d8fa7e8e7" version="1">Cheaters Speak with Dead</content>
+  <content contentuid="h1d215bf6g1961g43dcg18f7g906cde13901f" version="1">Grant a semblance of life to a humanoid corpse, allowing it to answer up to 5 questions.</content>
+  <content contentuid="h0ba086e5gfdd6g48a6g870cga6cdaa1e54f0" version="1">Skeletons and creatures killed with Acid, Fire, Lightning, Necrotic, or Radiant damage no longer have a mouth and can't be made to talk using this spell.&lt;br&gt;&lt;br&gt;Doesn't work on Undead. </content>
+  <content contentuid="ha53b06f8gaa39g4523g57d4ge962c8de1642" version="1">TEST</content>
+  <content contentuid="h794dc860gb22agbbfag7c06gb5f5fb4030e9" version="1">Summons a Runepowder Barrel at the target location. You are responsible for what happens if you use this.</content>
+  <content contentuid="h81c70294g2581gbe0ag285egffe195d80334" version="1">Cheaters Explosion</content>
+  <content contentuid="he06270e9g9514g75e8g27b9g6b2eeb8a80e8" version="1">Try not to die.</content>
+  <content contentuid="hdb7e8c5cga4c7gd8c7g1b50g3d35411aa710" version="1">Cheaters Explosion</content>
+  <content contentuid="hf86150a7gda56g4e13gd5dcg638074261d70" version="1">Try not to die.</content>
+  <content contentuid="h04be4e11g31b7ga687gedd7gf98d7aacf3a0" version="1">Cheaters Create Water</content>
+  <content contentuid="h06847dfeg5100g6386ge962g17c1eeb8386c" version="1">Call forth rain. It extinguishes exposed flames and forms a water surface.</content>
+  <content contentuid="h4198dd09gc347gad33gf8d0gea90f601e917" version="1">Cheaters Destroy Water</content>
+  <content contentuid="h0ee4f38egc43bge095g4871g9d814edc5fa9" version="1">Cause water-based surfaces (such as water, steam, ice, blood, and poison) to vanish.</content>
+  <content contentuid="hdafa4805g52c0g7798g17afge954b91d45bf" version="1">Cheaters Create or Destroy Water</content>
+  <content contentuid="h0574f735gb2fag1beaga72bg38d99b14125f" version="1">Call forth rain or destroy a water-based surface.</content>
+  <content contentuid="h7ad4f6ddg61e4gf3dag55e8gf87207e16cc5" version="2">Cheat: Saving Throws Always Critical Success</content>
+  <content contentuid="h521391fcg5259gdd71g3310ga7238f3c6a6a" version="1">Saving Throws always roll as a Critical Success.</content>
+  <content contentuid="h585c074dg892dge563g251ag2da003c5daac" version="2">Cheat: Skill Checks Always Critical Success</content>
+  <content contentuid="h763a0c32g39b7gb221gdc39g8f44c8932874" version="1">Skill Checks always roll as a Critical Success.</content>
+  <content contentuid="h91101cfeg73d9g3e61g30dcg6d84b452d6a4" version="2">Cheat: Ability Checks Always Critical Success</content>
+  <content contentuid="he394969ag3852g6f43gc40ag97dca9cdbb0d" version="1">Ability Checks always roll as a Critical Success.</content>
+  <content contentuid="h18cb3d67g4c16g3ee0gcb4cg7ce17f43932e" version="1">Cheat: Ability Checks Never Critical Fail</content>
+  <content contentuid="h64bfd4e9g7926gec86g86bfg3f85b55485fd" version="1">Ability Checks never roll as a Critical Failure.</content>
+  <content contentuid="h8c2006f9gc852gebb6gf6faga4209fa6abd0" version="1">Cheat: Skill Checks Never Critical Fail</content>
+  <content contentuid="h6db71cc7g3e2bgf85agc228ga5acc420af7c" version="1">Skill Checks never roll as a Critical Failure.</content>
+  <content contentuid="h84f35a29g7be5ga92ag0296gc8b85d7685c9" version="1">Cheat: Saving Throws Never Critical Fail</content>
+  <content contentuid="h5485cd00gae07gd01dgdd43g3a0187f6bd59" version="1">Saving Throws never roll as a Critical Failure.</content>
+  <content contentuid="h7893d056gfddcg3aeegf6edg5ab19c3bb02c" version="3">Cheaters Icy Magic Missile</content>
+  <content contentuid="hfaa76c40g24c3geafagbb0cg7612213e1d19" version="4">Shoot [3] shards of ice that deals [1]. It explodes and deals [2] to anyone nearby. It leaves an ice surface. They always hit their target.</content>
+  <content contentuid="he80d42d1gf175g3f02g4c56g644e2fd1493f" version="2">This spell can be cast while you are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.</content>
+  <content contentuid="h0ebab008g1739g5f14g0d90g42b7768cd181" version="1">Cheaters Clean Party</content>
+  <content contentuid="h3573a2f3gaf5agf688g4b90g7e597012c5ee" version="1">Cleans the caster and nearby party members as if they had used soap.</content>
+  <content contentuid="h0369203cg4df7ge8afgf323gae9a7c18196c" version="2">Cheaters Summon Miscellaneous Box</content>
+  <content contentuid="ha0583706gddf5g8d0fgee1fg1363d58f42da" version="2">Summons a chest with a collection of miscellaneous items that did not fit with one of the other chests.
+
+Chest will be destroyed after 5 rounds. Enable Turn-Based Mode and grab what you need.</content>
+  <content contentuid="h0acf7f3dgc558g3ac8gdb40gb758f3c48916" version="1">Tool Box Cooldown</content>
+  <content contentuid="he6a6be01gd6bcg75a2g7a93ge778663cc9a7" version="1">You must wait before summoning the Tool Box again.</content>
+  <content contentuid="h07884fcegd5f9g1283g86a8ga570249fe230" version="2">Cheaters Miscellaneous Box</content>
+  <content contentuid="hf0e2c3f7gf2c8g2916gca62g7664cdf1b07b" version="2">A common chest of timber and iron.</content>
+  <content contentuid="hcb0c3ceagc480g9f8dg0454g9f9cc26fabc1" version="1">Blade of the First Blood</content>
+  <content contentuid="h76ef7836g0f1cgaca4g7748g16e15a65902e" version="1">The Lord of Murder wasn't always a lord. He was once just a petty killer. When Bhaal first drew blood in a Baldurian back-alley, it dropped to the ground and lingered. When he ascended, this dried blood-drop grew, warped - and became sharp. </content>
+  <content contentuid="hc69845a1gbd95g9271gcef3gb201aa9bf8a3" version="3">Cheat: Ring Abilities Unlocked</content>
+  <content contentuid="hbc4781cegc75bga5cdg5f1ag2a78a8849c41" version="7">While you have this effect, you do not need to have the Cheaters Ring equipped to have access to the spells and passives from the ring.
+
+Toggle the Cheat: Ring Abilities passive in the passives tab on the Hotbar/Wheel menu to remove this effect.</content>
+  <content contentuid="h94e33d44g5bb9g3815gcb11g12c218ea6444" version="2">Cheaters Unlock Ring Abilities</content>
+  <content contentuid="hbb5299cag9ae3gc781gebcbg304f61036ce9" version="5">Allows the target to use all of the Cheaters Ring abilities without having the ring equipped.
+
+Toggle the Cheat: Ring Abilities passive in the passives tab on the Hotbar/Wheel menu to remove this effect.</content>
+  <content contentuid="hf19d2d76g266bge3eag8fdagd63ca7e9fa9c" version="3">Cheat: Remove Ring Abilities</content>
+  <content contentuid="h38b80b77g3ff5g6e0ag5125g12e76bc51599" version="4">Toggle this on to remove the effects of the Cheaters: Unlock Passives spell. 
+
+This will remove the abilitiy to use the passives from Cheaters Spell Scroll</content>
+  <content contentuid="hde6b295fgd06bg5a05g9d64g7b5ada129545" version="3">Summon Gold Cooldown</content>
+  <content contentuid="h3b784f8fg119bg91bbgcf54g252b23d98ea4" version="3">You must wait before summoning more gold.</content>
+  <content contentuid="h0d5da4d5g2ab8g4d2egc23fg0dab14d7e3c5" version="1">Cheat: Auto Wash Toggle</content>
+  <content contentuid="hdb42047fg9d5agcb44g72a8g50d1b9b43683" version="1">While this is toggled on, all nearby party members will be automatically washed as if they had used soap at the end of combat.</content>
+  <content contentuid="h11b8b14eg6241g7b67g4c64g6aecf779cd5e" version="1">Consume</content>
+  <content contentuid="hf75afdbcgc9efgb355gd4afg5b8a5ec203fe" version="1">Hanging suspended in murky slime, the living tadpole looks like some hideous cousin to the slug, only gorged and slick with remnants of brain fluid. </content>
+  <content contentuid="h060ff99fg2cacg4f79g04e4gc101e9b88fef" version="2">Cheat: Damage Bonus Toggle</content>
+  <content contentuid="h923e2157g39cbgfae6g82e6g69937305f144" version="2">Adds +500 damage to all attacks.</content>
+  <content contentuid="h27f6c224ge652ga07fgbc36g36fa5927f099" version="1">Cheat: Damage Bonus (Active)</content>
+  <content contentuid="hd84f7960g1803g5adfg2452g3346abf8f4e5" version="1">Adds +500 damage to all attacks.</content>
+  <content contentuid="h58d7f9aag9825g9bfbgbf23g4edd03cc475d" version="2">Cheaters Guidance</content>
+  <content contentuid="h40f15586ga4d8g003ag9c91g9f907e602245" version="1">The target gains a +20 bonus to all Dice Rolls.</content>
+  <content contentuid="h430b8f3dgc0cbg3151ge8a6g5acaca38dea4" version="2">Cheaters Guidance</content>
+  <content contentuid="haad1b2e7g207bg99d3g320fgf8ab3aafa67a" version="1">Gains a +20 to all Dice Rolls.</content>
+  <content contentuid="h4f01d89dg9459gae1egf6b0g5680764d1cef" version="1">Bag of Mind Flayer Parasite Specimens</content>
+  <content contentuid="h819d3e30gcc91g4efdge744g8a728646249c" version="1">A bag full of tadpoles.</content>
+  <content contentuid="he38c727fg62a4gfbd4g1471g5fe74a8d8c59" version="1">Cheaters Summon Mind Flayer Parasite Bag</content>
+  <content contentuid="hc0f5defdg4db7g07adg1df6g4327adb210a3" version="1">Summon a bag full of Mind Flayer Parasite Specimens.
+
+If the bag is empty, check your Illithid Power menu.</content>
+  <content contentuid="h29d1f740gb588gb5a4geb7cg59e0a8b9493d" version="4">Alchemy Ingredient Bag</content>
+  <content contentuid="h15e26b8cgb78fg7764g9dcfg2e4efe3d6933" version="4">A bag filled with all Alchemy Ingredients.</content>
+  <content contentuid="hbb79191eg81bdg6a7cg0a87gbad0820cb1d3" version="2">Cheaters Summon Alchemy Ingredient Bag</content>
+  <content contentuid="h6dbf9109g454dgfaf1g9453g77deaba0f7da" version="2">Summons a bag with most Alchemy Ingredients.</content>
+  <content contentuid="hacd559bbg2979gcf65gfc24g2c0fa7e216f9" version="1">Reaper's Embrace</content>
+  <content contentuid="h7860a5cfg04f1g5e97g89f1g775b85986d2b" version="1">Heavy steel bones and teeth enclose the armour's chest and neck like a grotesque exoskeleton that both swallows and protects the wearer.</content>
+  <content contentuid="h9feb6d84g85a6g3783geb0dg8ee60771fbe0" version="1">Gauntlet of the Tyrant</content>
+  <content contentuid="h1d43cf4agd12ag6890gc385g7fb8be205ff8" version="1">A tyrant's grip must be one of cool, unforgiving, and intricately realised steel. It cannot budge, cannot falter, no matter the pressure, and its fingertips must deeply pierce those who would struggle against it.</content>
+  <content contentuid="h8726dc9dgb775g78adge64ag15b2aeb2422d" version="1">Silver Sword of the Astral Plane</content>
+  <content contentuid="h50c3f16bg457fgfa54g9d64gc46c97ac9274" version="1">The fervour with which the githyanki express devotion to their queen is admirable to some, disquieting to others. When confronted with the fallibility of the divine (since no one is wholly perfect), who knows what reaction such folk might evince.</content>
+  <content contentuid="h85170668gc3cfge1aagb3f6gcfdf5220ded8" version="1">Blade of the First Blood</content>
+  <content contentuid="h127b73f1g53b9g0398ga540gf576852fd945" version="1">The Lord of Murder wasn't always a lord. He was once just a petty killer. When Bhaal first drew blood in a Baldurian back-alley, it dropped to the ground and lingered. When he ascended, this dried blood-drop grew, warped - and became sharp. </content>
+  <content contentuid="hf2c126c7gb4a0ge2e5g134dg03cbdd68febf" version="1">Every contract a devil makes has some form of insurance - this one is cast in infernal iron and was forged in deep, ruinous hellfire. </content>
+  <content contentuid="h60d67048g784eg4c91g6aeage5c1f23ef87c" version="1">Moonlantern</content>
+  <content contentuid="h5b4009fagc40agc296gedb3gae20e2d1719e" version="1">Each framed facet of the lantern glass is pierced by lances and long tendrils of eerily beautiful moonlight.</content>
+  <content contentuid="h7ce832f3g9c2bg809agcc44g5d557eb5748a" version="1">Shadow Lantern</content>
+  <content contentuid="he674f668g9408g0a71gae83gb5dab3511869" version="1">Encased in a cocoon of shadow within the lantern, the mangled pixie lies like some deformed pupa, its mouth slack, and those same shadows crawling over its greying tongue.</content>
+  <content contentuid="he2d7b766ga5f9gdaa6gda16g3a2378d4cad5" version="2">Mutilated Carapace</content>
+  <content contentuid="hc0eca06eg3f03g1899g3740g9138e15f61ea" version="2">Hard, fleshy leather has been derived from a countless slew of victims to form this armour for Bhaal's fetid chosen.</content>
+  <content contentuid="h9584295fg2614gc967g179bg6333e350827c" version="1">Blood of Lathander</content>
+  <content contentuid="h747fd0eega128g7ac6g580egf42f779bfc77" version="1">The large chunk of amber set into the handle of this luminous mace supposedly holds four drops of godly blood, fallen to the earth in a battle between an avatar of Lathander and a maddened Chosen of Mystra.</content>
+  <content contentuid="h5ca3613bg2f48g0c3aga607gd9bf3642cd07" version="3">Cheaters Clothing Box</content>
+  <content contentuid="h6ad7d415g192bgb893g52fcgb71f6feee92a" version="3">This exquisitely-crafted chest, ornamented with gems and lined with cushioned velvet, is fit for storing the finest treasures.</content>
+  <content contentuid="h655a5330g70b3g2d3cgef6dg37757ac39ae2" version="1">Cheaters Summon Clothing Box</content>
+  <content contentuid="ha7798a57gd510g65dcg0300gc944fb357da0" version="1">Summons a chest with most Camp Clothes.
+
+Chest will be destroyed after 5 rounds. Enable Turn-Based Mode and grab what you need.</content>
+  <content contentuid="h78cd8d59g2eeag7a59g5f1dg55c1f20abf7c" version="1">Clothing Box Cooldown</content>
+  <content contentuid="h52ced222ge0d8g1efagd5a7g1341822efc13" version="1">You must wait before summoning the Clothing Box again.</content>
+  <content contentuid="hedb6cefdg9d35g49c4gb1dfgc3f2e4908326" version="4">Update Cheaters Spell Scroll Mod</content>
+  <content contentuid="h93705c3bg1c6bgcbfdg3e14g890545046294" version="5">This spell should only be used if updating from a version of the mod older than 3.2 and you are encountering issues with certain spels not working. You do not need to cast this if you start a new game. This spell is only useful for those updating the mod on an existing save and should fix newly added spells not working or summoning their respective chest.
+
+This spell is a temporary solution and will be removed in a future version as it will be done automatically when you load a save.</content>
+  <content contentuid="h85428575g034dg2b6egde92g50d6de7fc13d" version="3">Updateing Cheaters Spell Scroll</content>
+  <content contentuid="h9c7e96a4g92d7g97e5gf529gbb427966cf0e" version="3">Please do not do anything while you have this status on a character. When it disappear you are free to continue playing like normal.</content>
+  <content contentuid="h50d68247gc43cg732fg0cc9g606ad7b1ed57" version="2">Dark Justiciar Half-Plate</content>
+  <content contentuid="h436c5819g9858gedd3gc4b0gaee9ab0ac39c" version="2">Shar's aspect winds its way through the patterns and pauldrons of this half plate, and any light cast nearby seems to almost quiver away from it, afraid. For even the light knows that the clank of this armour is swiftly followed by a Dark Justiciar's silent blade. </content>
+  <content contentuid="h341a03acgc8a4g28a0gc956g5f570aabee65" version="1">Spear of Night</content>
+  <content contentuid="h92e0480eg9a6fg1af5g43cfg6dfcd07d5bd9" version="1">Dark Justiciar Half-Plate</content>
+  <content contentuid="hfc28991egc0f2gb9ffg84c0gcb44808e6977" version="1">Crusher's Ring</content>
+  <content contentuid="h58d1c2ecgb931g7eacg3158g242813d02b4c" version="1">Though caked with mud and grime, the ring smells faintly of lavender. Remarkable, considering where it's been.</content>
+  <content contentuid="haf12600bg07d6g58aag2199gde7bb202f3ee" version="1">Bag of Epilogue Clothing</content>
+  <content contentuid="h2d452006g43edge833gbb9bgb7357498a538" version="1">A bag with most of the Epilogue Clothing. Some of these may not work with every body type. I will not be fixing them.</content>
+  <content contentuid="h53120482g382cga202g7388gd4a277a282df" version="3">Potion of Experience (x500)</content>
+  <content contentuid="hfc7c924eg4b3dg024bg2c29g705d264ce251" version="3">500 EXP has be added.</content>
+  <content contentuid="ha71907efgf362g01a2gca25g58f288e34778" version="1">%%% EMPTY</content>
+  <content contentuid="h23aed2b4ga995g9568gd4bbg00d43155fc9d" version="17">Potion of Expereince (x500)</content>
+  <content contentuid="h5fb61119gd567g4c4bg4711g0b2e5d3f5a84" version="17">Drink</content>
+  <content contentuid="h05a59e80ge6f7ga077gabc5g3110c4be2b4a" version="17">Adds 500 expereince points when consumed.</content>
+  <content contentuid="h659f32a3g7d3dg148cg8716g052d0dbf9900" version="17">For optimal use, dismiss all party members, then consume. Experience will be given to party members when they are added to the party.</content>
+  <content contentuid="h3344fed9g4f50g7d45g84begf8d88eb20b7b" version="13">Potion of Experience (x1000)</content>
+  <content contentuid="h7d784e21gc5a7g5c8bg2e90g17ba32065c24" version="13">Drink</content>
+  <content contentuid="ha36d36aag0ee5g459dg4932gcc491a212155" version="13">Adds 1000 expereince points when consumed.</content>
+  <content contentuid="hd26ac0c7g0e27g4e84g3980gf8f1ae29da53" version="13">For optimal use, dismiss all party members, then consume. Experience will be given to party members when they are added to the party.</content>
+  <content contentuid="hd663bdfega5eeg0fc1g56cfg42132e9a58e0" version="13">Potion of Experience (x1000)</content>
+  <content contentuid="h79ebd6d6gc060gb6bfgcc3dgf3fc93b6b579" version="9">Potion of Experience (x5000)</content>
+  <content contentuid="h72f67a29ga341gef1fgb5a2gfd7497f5f993" version="9">Drink</content>
+  <content contentuid="hb09ace0cg80f9g2a17gf5b3g869bd957e499" version="9">Adds 5000 expereince points when consumed.</content>
+  <content contentuid="h834a5c36g7f40g31e4g8f55gcbe53c3b4d43" version="9">For optimal use, dismiss all party members, then consume. Experience will be given to party members when they are added to the party.</content>
+  <content contentuid="h69d5f7edg37c1g27e3g2acdga330298f7758" version="9">Potion of Experience (x5000)</content>
+  <content contentuid="hd0371572g2b16gff7bg56e1g3ceb4de53121" version="9">Potion of Experience (x10000)</content>
+  <content contentuid="h5cc5ac34gc060gc5a6gc8a8g687d2b6d5461" version="9">Drink</content>
+  <content contentuid="h163813c1g6db1gb1dcgeb30g4a9a043ebdcc" version="9">Adds 10000 expereince points when consumed.</content>
+  <content contentuid="h280f7d3fga9f9g9117g9fdag58d5a1bb14e6" version="9">For optimal use, dismiss all party members, then consume. Experience will be given to party members when they are added to the party.</content>
+  <content contentuid="h069de733g571bg5ce8gbff0g8c45f5d70ead" version="9">Potion of Experience (x10000)</content>
+  <content contentuid="h30b98dc3ga714ge97ag7483gcfd80bbb2bbc" version="1">Potion of Experience (x1000)</content>
+  <content contentuid="h8c14c72eg9528g483cg93b7g3dbd8e43a63d" version="2">1,000 EXP has be added.</content>
+  <content contentuid="h37521f5fgcd6eg3591ge7e6g7c329a531782" version="1">Potion of Experience (x5000)</content>
+  <content contentuid="h87ba577fg70c6g0d96gfa00g5a375d1d351c" version="2">5,000 EXP has be added.</content>
+  <content contentuid="h12ec8d3dg6ef8g5651g2ffdg6a8af1d9da2a" version="1">Potion of Experience (x10000)</content>
+  <content contentuid="heef15677gbbb1g52d9ga492g586d1fa81bbb" version="2">10,000 EXP has be added.</content>
+  <content contentuid="hcba74584g5fd7gdc94gdc49g26f6d884f00a" version="1">Cheaters Action Surge</content>
+  <content contentuid="he3ce53b5gd9bfgcd61ga9c8geb88ba27a029" version="1">Restores Actions, Bonus Actions, and Movement.</content>
+  <content contentuid="hcf8fe9c1ge9d8gf7fag1ea8g9bef5badf723" version="2">Cheaters Action Surge</content>
+  <content contentuid="h63a19f1ag47dcg1500gd8c2gb4da7c69e337" version="3">Increase Action Points and Bonus Action Points points by 3 as well as increase Movement Speed by 30m.
+
+Restores all Action Points, Bonus Action Points and Movement Speed.</content>
+  <content contentuid="hc7a84fc6gd6e9g273bgb141g7145d5a7dfa7" version="1">Cheat: Attack Rolls Always Critical Success</content>
+  <content contentuid="hc7d8cbadg4623g0b3bg0ce7g2bfc92bac7f5" version="1">Attack Rolls always roll as a Critical Success.</content>
+  <content contentuid="hce6aaa23ga069g24f7gedf4g374b7a55adb7" version="1">Cheat: Attack Rolls Never Critical Fail</content>
+  <content contentuid="h85d86299g8efeg2b19gf8e3g44ee2a9323da" version="1">Attack Rolls never roll as a Critical Failure.</content>
+  <content contentuid="hd8fa38eag9736g35e5g7009gdf63b2f2a68d" version="1">Phalar Aluve</content>
+  <content contentuid="ha39682f6g4b5bge837gd153g03c4a68de8f5" version="1">The drow inscription on this blade appears to have been recently carved. It translates to: 'Though I have to leave you, I will dance forever in Eilistraee's light.'</content>
+  <content contentuid="hf150463bgadd3g8a2fg711cg814d0d68cbfa" version="1">Auto Washed</content>
+  <content contentuid="h2cad2bccg4b2bg1efbg06fdg0d1703ffa440" version="1">This character has been cleaned of blood and dirt. </content>
+  <content contentuid="hc7e17a86gd706g32f7g6b10g985a557a1882" version="1">Cheat: Auto Wash Party (Active)</content>
+  <content contentuid="h7c05fa49g9b5egf954gf65fgd869727b0d77" version="1">This character will be automatically washed as if they had used soap at the end of combat.</content>
+  <content contentuid="h7ad326f5g7772g2325gd44bgcafeac225ea1" version="1">Sussur Sickle</content>
+  <content contentuid="h42bc7863g5238g22deg900dg4d8451bb2f5b" version="1">&lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silences&lt;/LSTag&gt; targets on hit.</content>
+  <content contentuid="hbcdec36bg2bb9gc7eagf2bag77e976167515" version="1">The sheen of sussur sap forged into this sickle glows blue, silencing every creature it cuts.</content>
+  <content contentuid="h1acfc1e7gae0fg42aegdc76ge617f41bf03b" version="2">Sussur Dagger</content>
+  <content contentuid="h44ba302egd046gd8acg1109gd01fda522d25" version="2">&lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silences&lt;/LSTag&gt; targets on hit.</content>
+  <content contentuid="h69305721gafccg34f4g4436g5110a639ecbd" version="2">Smoke-like whorls of sussur sap darken the metal of this dagger's blade and silence its victims.</content>
+  <content contentuid="hb9ac0cb4ga1a9gebcag2253g685738a8dbee" version="2">Sussur Greatsword</content>
+  <content contentuid="h2b2e6732ge464gbb52g9591gd8828d48fc57" version="2">&lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silences&lt;/LSTag&gt; targets on hit.</content>
+  <content contentuid="h9f13c6e2g8272gbd1cg5ab6g1d0e2644496e" version="2">Sussur roots extend from this sword's hilt into the blade itself. It yearns to drink magic, silencing every creature it strikes.</content>
+  <content contentuid="hd9b663c9gb2fag8cccgb48dgdf58667677ec" version="7">Potion of Experience (Max Level)</content>
+  <content contentuid="ha0f0ca0bg3763g4349g944fgd930d3fd579c" version="7">Drink</content>
+  <content contentuid="he1379c0ag9288gb018g29fcg87e336cd8573" version="7">Adds enough experience points when consumed to reach max level.</content>
+  <content contentuid="h8c1252cdgee97g6874gd466g9749b0ed4d50" version="7">For optimal use, dismiss all party members, then consume. Experience will be given to party members when they are added to the party.</content>
+  <content contentuid="hc16260ddgb8ccgded5g607fg1c08b75ca415" version="7">Potion of Experience (Max Level)</content>
+  <content contentuid="he432c621g64f6g9bb3gc0dbg97e67c6d8421" version="5">Potion of Expereince (x500)</content>
+  <content contentuid="hd60b8f44g33c9geef1g4038g16dc69471135" version="1">Potion of Experience (Max Level)</content>
+  <content contentuid="hb1b4f9cfg82c5g5d10ga5c9gf9060cf9ceb0" version="1">999,999 EXP has be added.</content>
+  <content contentuid="h70fddb1bg9521gec8dgd66dgfe0491e0e72b" version="2">Spider Egg Sac</content>
+  <content contentuid="h195f67bdgac5fg71f9gde47g41b66eff3d57" version="2">Something - or some &lt;i&gt;things&lt;/i&gt; - wriggle within the sticky shell.</content>
+  <content contentuid="h63fb2abfg2d1agcfc5g5c5cg1acb1d3d99ca" version="2">Cheaters Summon Runepowder Bomb</content>
+  <content contentuid="hfa682699gb9aeg9554gc173g8a30ab0d9dcc" version="2">Summons a Runepowder Bomb at the target location. You are responsible for what happens if you use this.</content>
+  <content contentuid="h483570adg8f81ga1c9g8d56g8e9aa541b4fe" version="1">Runepowder Bomb</content>
+  <content contentuid="h5e5f4433gbe18g0c62g00fdg84cac7f6f751" version="1">Every ounce of Ironhand Gnome ingenuity has been poured into this metal casing - a moment of all-devouring destruction eagerly waiting release. </content>
+  <content contentuid="hbc81e432g279dgd0afga2b1g604c47bcabd8" version="1">Cheat: Necrotic Aura (Active)</content>
+  <content contentuid="hff72a165g26f8gca37ga283gcde9ae90d0f4" version="3">Those affected by this aura do not require a corpse to raise the dead.</content>
+  <content contentuid="h81c2e2b1g9b7cgbd9dgbc9fg2d603ef0931e" version="2">Cheat: Necrotic Aura Toggle</content>
+  <content contentuid="h6f6a5a6eg47f9g2685g6fe4g315ee5294979" version="2">Necrotic energy surrounds you and nearby allies. Those affected by this aura do not require a corpse to raise the dead.</content>
+  <content contentuid="hb4f59efag8c8dg8394g6bbbg80d2270f52c4" version="1">Cheat: Necrotic Aura (Self)</content>
+  <content contentuid="hefa176d5g85aag5062g3ea5g4a57216f243b" version="1">Necrotic energy surrounds you and nearby allies. Those affected by this aura do not require a corpse to raise the dead.</content>
+  <content contentuid="h78a5de1fgfd44g4252g74e9g6a7526e88d0d" version="1">%%% EMPTY</content>
+  <content contentuid="h0f3e3938g1f2cgc342g1be0ge549b37f1664" version="3">Cheaters Arcane Recovery</content>
+  <content contentuid="hc386ab26g670ege0bdg1474gb517f367d7b9" version="2">Restores all Spell Slots to the caster.</content>
+  <content contentuid="hd03a2431gcddagb94cgd5c5g4da5ff9e735a" version="1">Cheaters Detect Thoughts</content>
+  <content contentuid="h8ffca78ag2139g1107g4941ga035f51c8d80" version="1">Focus your mind to read the thoughts of certain creatures while talking to them.</content>
+  <content contentuid="hde4fdb66g93d9gc46ag6513gb3220b297042" version="1">Cheaters Dimension Door</content>
+  <content contentuid="h42ef6626gc5d9g404fgf14cg210333d1bb5e" version="3">Teleport yourself and up to 1 adjacent ally to an unoccupied space.</content>
+  <content contentuid="h6babedfagdf7agd6c5g096dge98afbf7c36b" version="1">Potion of Inspiration</content>
+  <content contentuid="hcee6a2eagfe66gf684g6284g81df4256f610" version="5">Potion of Inspiration</content>
+  <content contentuid="hd95b38e0g9acagdfcdg223eg529f25cdea83" version="5">Drink</content>
+  <content contentuid="h4cb763adg99b7gb198g3a45gcff58790f6c8" version="5">Gain 1 Inspiration Point when consumed.</content>
+  <content contentuid="h10853a1egca17g1de7gcdc0g4b25d9753b32" version="5">Potion of Inspiration</content>
+  <content contentuid="h7a3ea525g9860g6a9cge4adgb2d11529b581" version="2">This potion buzzes with untapped potential. It's almost inspiring.</content>
+  <content contentuid="hf5392ed7ga25bg5350g9627gd024458cac53" version="3">Gain resistance to all sources of damage.</content>
+  <content contentuid="h17c7eb62gc732g315eg9e28g7912f72bc23d" version="1">Cheaters Resistance</content>
+  <content contentuid="h955a531eg3d2cgea19gbfddg6129bc476fd8" version="3">Give the target resistances to all sources of damage.</content>
+  <content contentuid="h73c15f79g9a5eg48dfg1b21ge5e734bbe038" version="1">Cheaters Resistance</content>
+  <content contentuid="h240c70begb56dg45bege6abgb33e1235bfbc" version="1">Cheaters Resistance</content>
+  <content contentuid="h2821b28bg49dfg5c43ge673gb8a936bcb4b6" version="1">Give the target resistances to al sources of damage.</content>
+  <content contentuid="h5184c32fg3435ge98dg17c4ga8d7551ddb29" version="1">Unreleased Item Box Cooldown</content>
+  <content contentuid="hc9a893a2ge323gebd2g093fgdf4bc3a06386" version="1">You must wait before summoning the Unreleased Item Box again.</content>
+  <content contentuid="h473fb9a1g8201gbd68gf799gcdc08c14d654" version="1">Cheaters Summon Unreleased Item Box</content>
+  <content contentuid="hee9a33acg57b2g69bbg7f2dg6e77b6535142" version="1">Summons a chest with a collection of unreleased items. These items are provided as they are in the game files and may or may not break things. Use at your own risk.
+
+Chest will be destroyed after 5 rounds. Enable Turn-Based Mode and grab what you need.</content>
+  <content contentuid="hb0332f66g675cgae5cg42aag969f0d2a40a2" version="1">Cheaters Unreleased Item Box</content>
+  <content contentuid="h9c7b47b4g060fg417dg3657g9e022e165c2e" version="1">A common chest of timber and iron.</content>
+  <content contentuid="h9c0bca0bg577cge36bg3363gecf92530db2a" version="2">Netherstone-Studded Gauntlet</content>
+  <content contentuid="h9cd1a311g7079g215fg883cg14e52fea97e2" version="2">A tyrant's grip must be one of cool, unforgiving, and intricately realised steel. It cannot budge, cannot falter, no matter the pressure, and its fingertips must deeply pierce those who would struggle against it.</content>
+  <content contentuid="h20ed0ebcg97e5g2e93g3217gec8906e59125" version="2">Netherstone-Studded Blade</content>
+  <content contentuid="h81400c00g3191ge86egb757ga14fa4d5be13" version="2">The Lord of Murder wasn't always a lord. He was once just a petty killer. When Bhaal first drew blood in a Baldurian back-alley, it dropped to the ground and lingered. When he ascended, this dried blood-drop grew, warped - and became sharp. </content>
+  <content contentuid="hf86f5706gc96ag3eceg082fg9afb11d10e51" version="3">Cheaters Common Equipment Box</content>
+  <content contentuid="hee5832b1gcfbeg4a12gcfbfg127d98435f97" version="3">This exquisitely-crafted chest, ornamented with gems and lined with cushioned velvet, is fit for storing the finest treasures.</content>
+  <content contentuid="hbb58e313g7c51g967bgd0dag9cf92c67a2a5" version="1">Common Equipment Box Cooldown</content>
+  <content contentuid="h298589a9ga9fbg9ce9g56c0gf9a961d9aa0c" version="1">You must wait before summoning the Common Equipment Box again.</content>
+  <content contentuid="ha7771181g40a1g41e5g1833gc19390e3c6fc" version="1">Cheaters Summon Common Equipment Box</content>
+  <content contentuid="h6e76607ag3922g7574g4b8dge2dc5d273d57" version="1">Summons a chest with most Common Weapons and Armor.
+
+Chest will be destroyed after 5 rounds. Enable Turn-Based Mode and grab what you need.</content>
+  <content contentuid="hcf6ded28g7149g6ba7g9f78ge646c868ce62" version="2">Devilfoil Mask</content>
+  <content contentuid="h58c41788g3d03g1d62g69cdgc50f9fbb7ce6" version="2">A placid smile and cherubic cheeks. Who knows what face once lay beneath.</content>
+  <content contentuid="h73bfa692gc1a3g10e8g07e6g927ef1efe667" version="2">Whispering Mask</content>
+  <content contentuid="hb3b9388fgcfeeg9a87g76c9g8b0fd1c7db56" version="2">Soft, unintelligible whispers seep from the dark wood, ringing in your ears and resounding in your skull.</content>
+  <content contentuid="hb801fca2gd46dg8aaeg789dgcac3486f1763" version="1">Cheaters Chain Lightning</content>
+  <content contentuid="hc4e6237ag2ffbg6fecg355cg166b0f933b06" version="3">Strike an enemy with lightning and then cause the target to explode. Six more bolts will leap from the target, electrifying and exploding as many as six other enemies within [1].</content>
+  <content contentuid="h4c1f78cag78b8gf424g3336gca352af1908a" version="1">Cheaters Chain Lightning</content>
+  <content contentuid="h6ec455e5g9a8ag5ca2g34cfg2f4efb877d75" version="1">Strike an enemy with lightning. Three more bolts will leap from the target, electrifying as many as three other enemies within [1].</content>
+  <content contentuid="hc4293e6eg17bfgfe7aga857g05dd329fdc8f" version="1">Explosion</content>
+  <content contentuid="h39ffd091gcf6fgc7abg2553g635a4e6d317b" version="1">Fireball</content>
+  <content contentuid="hd205d55bgd5f9g2777ged0fg1252c561ae39" version="1">Shoot a bright flame from your fingers that explodes upon contact, torching everything in the vicinity.</content>
+  <content contentuid="hf357eb7fg4a8cga3c3g8eaegbee5f5f2240f" version="1">Cheaters Food Crate</content>
+  <content contentuid="h0e7f0f78g1154gaa71g69b7gd118de92643a" version="1">Sturdy enough to endure rocky voyages or decades stacked ten-deep in a dusty warehouse.</content>
+  <content contentuid="h21085b21g6253g8555g2c6eg7f0ad7d67fea" version="1">Cheaters Supply Bag</content>
+  <content contentuid="h6a0e050dg8b45gce9egc910gf5d76170529c" version="1">A durable bag of thick canvas and leather, adorned with numerous straps and heavy buckles.</content>
+  <content contentuid="h6f71371cg83c1gcbd5gd8c0g9e12d4d23ae8" version="1">Cheaters Camp Supply Bag</content>
+  <content contentuid="hdb913becgfd1dgaa4eg56c7g059ac56ae3ee" version="1">Small compartments line the sack: a compass-sized furrow; a pocket packed with storing salts; and an area for stiff tent legs, fixing pegs, and folded canvas.</content>
+  <content contentuid="h33eac853gf81eg34fege2cdgf563340e5159" version="1">Cheaters Increase Approval Rating</content>
+  <content contentuid="h3526fbd9g3151gcf25gf931g34204ab83291" version="2">Increase the approval rating of the target by +25.</content>
+  <content contentuid="h5a214c3dg76e0g3feagab7eg5eb784ac8b2d" version="1">%%% EMPTY</content>
+  <content contentuid="h5e8c2faegf548ge85cg2ac7gacdd3324356e" version="3">Cheaters Free Respec</content>
+  <content contentuid="h75299376g0406gc867g72f2g6aec4d40204e" version="2">Opens the respec menu.</content>
+  <content contentuid="h135c6054gb0b5g209agca45gdf12077ba749" version="1">%%% EMPTY</content>
+  <content contentuid="h540c3471gf289ga4f9gffb5g4e196b6cd5a5" version="1">Sanguine Explosive</content>
+  <content contentuid="h89541d62g81cbg5047g6ce2g3091dd507691" version="1">Throw</content>
+  <content contentuid="h8f324e93g6631gaaceg9465g4060874744ed" version="1">Create a surface of blood.</content>
+  <content contentuid="heff6ac30g09d7g9aa7ge542gf865e255b151" version="1">Sanguine Explosive</content>
+  <content contentuid="h759f8466g973eg810cg6a96g91a8b1c8d454" version="1">Throw</content>
+  <content contentuid="h3cd7af41gd1aegf735g05b7g27e59a2ad6b0" version="1">Create a surface of blood.</content>
+  <content contentuid="h2fc739dfga27fgef6dgb982g5a84836481a3" version="2">Cheaters Hold Creature</content>
+  <content contentuid="h8bab3497g3e84gde9eg651cge4c2531b4dcc" version="1">&lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralyse&lt;/LSTag&gt; a creature. It can't move, act or react. Attacks from within [1] are always Critical Hits.</content>
+  <content contentuid="h0ad74623ge68eg6cbbg7ed4g7972396ee254" version="1">Cheaters Hold Person</content>
+  <content contentuid="hfe979500g5069gc383gc6a7g9e90cdea7c23" version="1">&lt;LSTag Type="Status" Tooltip="HOLD_PERSON"&gt;Hold&lt;/LSTag&gt; a humanoid enemy still. They can't move, act or react. Attacks from within [1] are always &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hits&lt;/LSTag&gt;.</content>
+  <content contentuid="h361e252ag66d7gd6b4g3583ge70dc19339b7" version="2">Hold Creature</content>
+  <content contentuid="hba68847dgfa26g1a0ag367ag9079345f6df5" version="1">Affected entity is &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralysed&lt;/LSTag&gt;. Attacks made against it within [1] are always &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hits&lt;/LSTag&gt;.</content>
+  <content contentuid="h34dd2704gc567g3f68gb2degdda5a1d06b02" version="1">Hold Person</content>
+  <content contentuid="he7a1f2c1g72cdg53a4g170ega3340de9e662" version="1">Affected entity can't move or take actions, bonus actions, or reactions.&lt;Br&gt;&lt;Br&gt;Attacks against the entity are always &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hits&lt;/LSTag&gt; if the attacker is within [1].</content>
+  <content contentuid="hd57d5290g119fg87f9g6835g6930fe8d3d91" version="1">Face-Painting Kit</content>
+  <content contentuid="hbf35b526g2d60ge0e9ge357g6f3f491e9ffa" version="1">This selection of face-paints transform the applicant into a vibrant clown, as if by magic.</content>
+  <content contentuid="h26e27473g7212g5fd3g6cedge227b429ab0c" version="1">Test</content>
+  <content contentuid="hb834970egd5dbg0412gea2agc9952feedb06" version="1">Test</content>
+  <content contentuid="h75bb13a0g649cgb6a7g8670g5601c2880bbf" version="1">Red Dragon</content>
+  <content contentuid="habc11feagd59agea21gfafdg316b058c7410" version="1">Djinni Scimitar</content>
+  <content contentuid="h7292125egbef2g7f64gac73g7d66352e6098" version="1">Contrary to popular belief, your standard djinni doesn't grant wishes, unless that wish is to have your nose lopped off. </content>
+  <content contentuid="h80f2ac62g609bg6be8g8e6fgf5ea2864399c" version="2">Cheat: Increase Strength</content>
+  <content contentuid="h24afba55g992egcb68ga896ga7bfc0f1efae" version="1">Strength has been increased.</content>
+  <content contentuid="hc573e484g643cgdbb4gf75cg7b40922004b6" version="26">Cheat: Increase Strength</content>
+  <content contentuid="hc8e2227ag3fe9g971bgace1ge012181c3b12" version="26">Activate</content>
+  <content contentuid="hd40874ffga9aag0c00g2645g093812c095ff" version="26">Cheat: Increase Strength</content>
+  <content contentuid="h86229c8dge394g3ff7g1d68g680975ebcb5c" version="1">Cheat: Decrease Strength</content>
+  <content contentuid="hce498250gf34dgcb58g1a2fg664b3209d12f" version="1">Strength has been decreased.</content>
+  <content contentuid="hbd69d009gf154gf141g73bfgf4da725840b5" version="2">%%% EMPTY</content>
+  <content contentuid="h5a3b80a4g870ag9b92gb954g4dba92491d38" version="2">%%% EMPTY</content>
+  <content contentuid="hd4fccae3g8e7fgd55bgc9cdgaaf967206c8a" version="15">Cheat: Decrease Strength</content>
+  <content contentuid="h9fd54e78g2b19gebcagcf12gae73a8cf198e" version="15">Activate</content>
+  <content contentuid="hf4c7d7c2g698egc33eg4d32gfb1358d67392" version="15">Cheat: Decrease Strength</content>
+  <content contentuid="h2e52b7fcg1efegf9b7g2f58gce668a58a3e4" version="1">%%% EMPTY</content>
+  <content contentuid="h8b186351g67a0g858egf353gf4b1e6b52ba5" version="6">Cheat: Reset Strength</content>
+  <content contentuid="h62b908d8g3db8g0b61ge1acga71bd083f16c" version="6">Activate</content>
+  <content contentuid="hb1cc7554g6c6bg698fgd32fg168c93261eca" version="6">Cheat: Reset Strength</content>
+  <content contentuid="h4c63342fg63d6g8a25gde5bg69ca13b79091" version="1">Cheat: Decrease Strength</content>
+  <content contentuid="h3ddf31cfg1ff8g7863g1f4dg2b081ec433ea" version="1">Strength has been decreased.</content>
+  <content contentuid="h4f8a674dgfbadge0fdg3c50g4c216d2f8614" version="1">Cheat: Increase Strength</content>
+  <content contentuid="h7d055774g1768g5a34g04ccgade51b3b16c5" version="1">Strength has been increased.</content>
+  <content contentuid="h7e787f7fg7283g52bcgde40g8e088b0c65c7" version="5">Cheat: Reset Dexterity</content>
+  <content contentuid="h7cc83cf2gaa11g574eg7f7agd48276fe5caf" version="5">Activate</content>
+  <content contentuid="h594122b9ge87agf519g6996g2cb447532a36" version="5">Cheat: Reset Dexterity</content>
+  <content contentuid="h31de423fg6892ga410g4c7bg96c6507bfce1" version="8">Cheat: Decrease Dexterity</content>
+  <content contentuid="h360f1810g0536g33cfg0d93g385d2980113f" version="8">Activate</content>
+  <content contentuid="h43027756g08e3g4f72g1417g8c523841748f" version="8">Cheat: Decrease Dexterity</content>
+  <content contentuid="h591e21b4gfa39g3a59gff31g8f2c41292056" version="4">Cheat: Increase Dexterity</content>
+  <content contentuid="h630a429cg403egae06g8c44g7931da00a6ba" version="4">Activate</content>
+  <content contentuid="h2c5ac16bg9a43gc053g88d8g9c0364624b84" version="4">Cheat: Increase Dexterity</content>
+  <content contentuid="h685b57d9g789cg34beg4063g840c950576db" version="1">%%% EMPTY</content>
+  <content contentuid="h5e7ffb21g333bg15edgdfd0g36edf73a8e71" version="1">%%% EMPTY</content>
+  <content contentuid="hd19e026fgbcc7g1ec7g4960g983918c61ef4" version="1">Cheat: Increase Dexterity</content>
+  <content contentuid="h1c49eeadg327cgc935g12eagb78dcf2df44d" version="1">Dexterity has been increased.</content>
+  <content contentuid="h1c5eb6b4gf206g0a33g9f29gc81db3f4b314" version="1">Cheat: Decrease Dexterity</content>
+  <content contentuid="h7b35601cgb4c5gddecgfebag5ad28e30eca8" version="1">Dexterity has been decreased.</content>
+  <content contentuid="h1f84f8a7g62f1gfb72ge9acgf73f2d20a09b" version="1">%%% EMPTY</content>
+  <content contentuid="h52c11b26gbc5eg75ddg816cg45d8441e428a" version="1">Cheat: Increase Constitution</content>
+  <content contentuid="hea87f526g6f37g3c9agefc5g28a6e346e318" version="1">Constitution has been increased.</content>
+  <content contentuid="h68b3146fg62afge0aegc76egbc9d4fb5024e" version="1">Cheat: Increase Intelligence</content>
+  <content contentuid="h5909acbbgd53dga0b0g3cd3gc72dbbfeaea0" version="1">Intelligence has been increased.</content>
+  <content contentuid="hb961aeb0gdbc7ged21g7dc5gd3d4e136210b" version="1">Cheat: Increase Wisdom</content>
+  <content contentuid="h2b3de3acg2b08g8a9dga5f5g98bdeabbeba2" version="1">Wisdom has been increased.</content>
+  <content contentuid="h53baa0a8g7e16g2369g0deagbe4cbc507f04" version="1">Cheat: Increase Charisma</content>
+  <content contentuid="ha702c8e5g6364gf490g2fc1gfe4b4f95df23" version="1">Charisma has been increased.</content>
+  <content contentuid="h1eedb1cdg839dgf3ddg8663gc5ed1f7de5de" version="1">%%% EMPTY</content>
+  <content contentuid="hc1f184e4g0109g7531g7030g20e0d3a81f16" version="1">%%% EMPTY</content>
+  <content contentuid="h9829b2b8g2a2dge298ga8d0gce79fed2cba7" version="1">%%% EMPTY</content>
+  <content contentuid="h0c939b1fg2fbfgfc81g83a8gd1e969d68f4e" version="1">%%% EMPTY</content>
+  <content contentuid="hcfce1bcfg5d47gedc4g2f81gdcd7082b825b" version="1">%%% EMPTY</content>
+  <content contentuid="hcc71d185gbe4eg848dg790agd0ef256c3c6a" version="1">%%% EMPTY</content>
+  <content contentuid="h3699d0c8g5b76g445age92eg9bf018a01027" version="1">%%% EMPTY</content>
+  <content contentuid="h29ab4488g4038gd6d2gc64aga2044d262964" version="1">%%% EMPTY</content>
+  <content contentuid="h60260dfdge72fgf56dg845fg88bca2ff45f9" version="1">Cheat: Decrease Constitution</content>
+  <content contentuid="h988c2bd4gafbbg43b3geb13gd5c901748f17" version="1">Constitution has been decreased.</content>
+  <content contentuid="h090a4fc2g9c68g3340g4246gbe229efe5f40" version="1">Cheat: Decrease Intelligence</content>
+  <content contentuid="hf61f106eg37e3g586cg937fg96fc4ba05e8e" version="1">Intelligence has been decreased.</content>
+  <content contentuid="h256e1b48g5fe2g034fg0e6cgede311c918a8" version="1">Cheat: Decrease Wisdom</content>
+  <content contentuid="h337c2197g009eg178cg3ebdgb660898b5b29" version="1">Wisdom has been decreased.</content>
+  <content contentuid="h07bbe617gf221gf9acg74bdg1951ad6c04a4" version="1">Cheat: Decrease Charisma</content>
+  <content contentuid="hdf4d096bg028dg77d9g8450gc47dbe5b0b6b" version="1">Charisma has been decreased.</content>
+  <content contentuid="h07613c15gefa8gc0afg3a13gbc24776f3443" version="1">%%% EMPTY</content>
+  <content contentuid="h32b359beg376eg18cbga3f7g654d7e5d66f5" version="1">%%% EMPTY</content>
+  <content contentuid="h721f21e1g129dg4682gef04gfa1b8b7de6c7" version="1">%%% EMPTY</content>
+  <content contentuid="h93b259afgbb2cgc88ag0155ge1b1a2c05492" version="1">%%% EMPTY</content>
+  <content contentuid="h1ba8e721g1e18gd042g1be8g1edf11355d35" version="4">Cheat: Decrease Constitution</content>
+  <content contentuid="ha1f675e8g497ag3cfdg5e63g85c42c2a92ef" version="4">Activate</content>
+  <content contentuid="h0a77e145g6c0egcef2g4f04g429d17f22711" version="4">Cheat: Decrease Constitution</content>
+  <content contentuid="h994c4991g6588gfbb3g091ag9a99dba9d6df" version="4">Cheat: Decrease Intelligence</content>
+  <content contentuid="heef3c628g9255g0581gdd39g488797aee434" version="4">Activate</content>
+  <content contentuid="h897f0206g5489g4bd6gf432g4b2464ff4d2b" version="4">Cheat: Decrease Intelligence</content>
+  <content contentuid="h0054d48agb37eg2b1ag53c0g983650a45f06" version="4">Cheat: Decrease Wisdom</content>
+  <content contentuid="h846b6aa1ge6ccg9a76g68ebg1faf55dc1ef9" version="4">Activate</content>
+  <content contentuid="h5f713e3cgd547g595cgb3c4g92ea31370cd3" version="4">Cheat: Decrease Wisdom</content>
+  <content contentuid="h1d753179g41aag1d99gcb92gbd6bd5e17dee" version="4">Cheat: Decrease Charisma</content>
+  <content contentuid="h95249a57g4ba1g1092g5182g44b01e257097" version="4">Activate</content>
+  <content contentuid="h4a316aa1g7b79g2583gd45cg604f8ccde427" version="4">Cheat: Decrease Charisma</content>
+  <content contentuid="h96894536g97d5g62f4g0e24gb27052651b6c" version="2">Cheat: Reset Constitution</content>
+  <content contentuid="hbd273550gbedcgcdf4g321cg0d228cf5b8e3" version="2">Activate</content>
+  <content contentuid="h9cabe425g8f09g1e4cg0059g5387a1d1ba99" version="2">Cheat: Reset Constitution</content>
+  <content contentuid="h1ca5c3bcg78d4g2a8dg1fbbgb63a892f2543" version="2">Cheat: Reset Intelligence</content>
+  <content contentuid="h77192469g02e3gd849g5e57g836cddf515c5" version="2">Activate</content>
+  <content contentuid="hfd1c2212gb7a0g9618gac1eg22b8b9cacd5c" version="2">Cheat: Reset Intelligence</content>
+  <content contentuid="hdfe54e4bg7965g5d8cg533bg86d7747e92b8" version="2">Cheat: Reset Wisdom</content>
+  <content contentuid="h5467bf99g5fbfgc575g0a83g21edf5e44377" version="2">Activate</content>
+  <content contentuid="hb666a2cdg1e85gb985g0202g47b3566c91ce" version="2">Cheat: Reset Wisdom</content>
+  <content contentuid="hcc43ad2ag2cecg0967gde71g8038b2739593" version="2">Cheat: Reset Charisma</content>
+  <content contentuid="h6840dcbcg58a9g5728g497eg7ac5cca81bf8" version="2">Activate</content>
+  <content contentuid="he6883b16g7b12g7382gfb43g3be48152956d" version="2">Cheat: Reset Charisma</content>
+  <content contentuid="h75a3218bg798dgb9cegb28dga3a7d0170132" version="3">Cheat: Increase Constitution</content>
+  <content contentuid="h0034f1b3gcc97gbb36g4043g6b177284c51e" version="3">Activate</content>
+  <content contentuid="h952e27bcg55b6gffd1g2f18g379440fa69c9" version="3">Cheat: Increase Constitution</content>
+  <content contentuid="h861724e9g8046gb942gf685g56ec4cc668bf" version="3">Cheat: Increase Intelligence</content>
+  <content contentuid="hc4046a36g8bacg18e1ga321gccbc22f034dc" version="3">Activate</content>
+  <content contentuid="h6ee0e952ga102g1385g9b5dgfd58f3486c20" version="3">Cheat: Increase Intelligence</content>
+  <content contentuid="h327f8801gfafbgafdcgfbd0gfef4d22b25ef" version="3">Cheat: Increase Wisdom</content>
+  <content contentuid="h83838235gb1daga46eg729fg70614d8d20bf" version="3">Activate</content>
+  <content contentuid="h73eac050g8f07gb377geed3g4e16f4bf630a" version="3">Cheat: Increase Wisdom</content>
+  <content contentuid="h5d2f4847g49a6gdb1ag9fb9g01d04e458f38" version="3">Cheat: Increase Charisma</content>
+  <content contentuid="h4237cb23g2e96gc54egaf78g98982a55e32d" version="3">Activate</content>
+  <content contentuid="ha291599bg79cegbd06g1346gc9ad509e0b9f" version="3">Cheat: Increase Charisma</content>
+  <content contentuid="h5d7fd1acg9c25gc2e5g71ccg9c331d52906e" version="2">Ability Score Editing Tool Box</content>
+  <content contentuid="hd06dbb7fgb3d4g4ff3ge748g18f9a0766059" version="2">This exquisitely-crafted chest, ornamented with gems and lined with cushioned velvet, is fit for storing the finest treasures.</content>
+  <content contentuid="h04d84b19g7554ge695gae44g204e42d28dc6" version="1">%%% EMPTY</content>
+  <content contentuid="hde03a315g33a6gd27bg5043gfde4cc2b889c" version="2">Activate this to decrease your Charisma stat by 1.</content>
+  <content contentuid="h8a40a48dg0b8fg6f32gd4cag76446189112d" version="2">Activate this to decrease your Constitution stat by 1.</content>
+  <content contentuid="h5df0b09eg4ba9gf753ged10g8f291d323ac2" version="2">Activate this to decrease your Dexterity stat by 1.</content>
+  <content contentuid="h0d8c523aga455gcfb1g2f9fga7642215077c" version="2">Activate this to decrease your Intelligence stat by 1.</content>
+  <content contentuid="h70c28b52gd314g9b9dg56e7g8ab44136041a" version="2">Activate this to decrease your Strength stat by 1.</content>
+  <content contentuid="h846b039egb885ge748gb8afg1bea06bbe546" version="2">Activate this to decrease your Wisdom stat by 1.</content>
+  <content contentuid="h3787b14dga648g7eb0g7834g6360149f29a5" version="2">Activate this to increase your Charisma stat by 1.</content>
+  <content contentuid="h42fd6ec6gbd2cg3009gb91fg42c5017d63d9" version="2">Activate this to increase your Constitution stat by 1.</content>
+  <content contentuid="h2ec253cdg4bb4g764cgf511g7bf4cf420ab4" version="2">Activate this to increase your Dexterity stat by 1.</content>
+  <content contentuid="h53de8d2eg3509g4c79g3f5dg82b79a205733" version="2">Activate this to increase your Intelligence stat by 1.</content>
+  <content contentuid="hc785ed62gfde9gdc25gad2cgfd157e2af370" version="2">Activate this to increase your Strength stat by 1.</content>
+  <content contentuid="h446ee0aegb7ebg572dg4434gb4da9bb02607" version="2">Activate this to increase your Wisdom stat by 1.</content>
+  <content contentuid="ha14bbd6dgcfdbg036cged1cgfa6fa8a33143" version="1">Activate this to reset your Charisma stat back to it's base value.</content>
+  <content contentuid="hdc816bfeg13ccgfb0cg17cbg5cdb1631cbd0" version="1">Activate this to reset your Constitution stat back to it's base value.</content>
+  <content contentuid="h1452b921gfd21g7820ge4c1ge43957b76ce8" version="1">Activate this to reset your Dexterity stat back to it's base value.</content>
+  <content contentuid="h890e2ec6gb139g177cgb0a6ge3e97048bbca" version="1">Activate this to reset your Intelligence stat back to it's base value.</content>
+  <content contentuid="h628aee44g6c35g8011g8e12ga71e65a7c4a9" version="1">Activate this to reset your Strength stat back to it's base value.</content>
+  <content contentuid="h6c7d4b5bg8ed1ga501g2546g5860a42489ab" version="1">Activate this to reset your Wisdom stat back to it's base value.</content>
+  <content contentuid="h5d2be8aag37c5g9b78g8a89gfe14a6180d5e" version="1">Ability Scores can be increased up to a maximum value of 30. If your base Ability Score is less than 10, the maximum value decrease by up to -2.</content>
+  <content contentuid="hb6612fe9g9cfbg3439g8e8fg41348d900e45" version="1">Ability Scores can be increased up to a maximum value of 30. If your base Ability Score is less than 10, the maximum value decrease by up to -2.</content>
+  <content contentuid="h6fbac615g222bgec89g94c4gee570a8636e8" version="1">Ability Scores can be increased up to a maximum value of 30. If your base Ability Score is less than 10, the maximum value decrease by up to -2.</content>
+  <content contentuid="hcfc2af0fga3b3gf499g272ag0bf2498d64fb" version="1">Ability Scores can be increased up to a maximum value of 30. If your base Ability Score is less than 10, the maximum value decrease by up to -2.</content>
+  <content contentuid="h9a9d472cg7cacg0473ga654g1205796be767" version="1">Ability Scores can be increased up to a maximum value of 30. If your base Ability Score is less than 10, the maximum value decrease by up to -2.</content>
+  <content contentuid="hf2b0358dg4f71g4405geabcgcd2e86994767" version="1">Ability Scores can be increased up to a maximum value of 30. If your base Ability Score is less than 10, the maximum value decrease by up to -2.</content>
+  <content contentuid="h1f3ca42dg728cgebafg6667g4572a89ad5c7" version="1">Ability Scores can be decreased to a minimum value of 0.</content>
+  <content contentuid="h553a501bg2e8cg79bdg8563ge9f2138afd2a" version="1">Ability Scores can be decreased to a minimum value of 0.</content>
+  <content contentuid="h9e554ff7g9725gff46g7aebgf286d5f4453e" version="1">Ability Scores can be decreased to a minimum value of 0.</content>
+  <content contentuid="hbb96b653g670ag0613g1fa9g66c8bc29601f" version="1">Ability Scores can be decreased to a minimum value of 0.</content>
+  <content contentuid="h89bfa696gc4d3g8517gda69g5f7c02cb365c" version="1">Ability Scores can be decreased to a minimum value of 0.</content>
+  <content contentuid="hfa202b69gd4fagcf6fg1b3agc47410809195" version="1">Ability Scores can be decreased to a minimum value of 0.</content>
+  <content contentuid="h0acd8415g7f18g82a2g8a39g84bd4c8877d7" version="7">Cheat Respec: Do you wish to respec?</content>
+  <content contentuid="hd3c95cb4g2befg600egfc9eg48b8a66e2354" version="1">Cheaters Ring Change Log</content>
+  <content contentuid="h1ad48aa9gdbdeg7667g6c4eg09244aa449d3" version="1">Opens the Cheaters Ring Change Log book.</content>
+  <content contentuid="h535cd553g87e5gf560gae66g0893c2083011" version="4">Cheaters Ring: Change Log</content>
+  <content contentuid="h18be48a9g17efga73cg7f85g1502e059bafc" version="4">This book contains the Cheatrs Ring mod change log. Read this to see what has been added, removed or changed.</content>
+  <content contentuid="h017b36e3g87dfg042cg5694g09db22df55cc" version="1">The targets approval has been increased by 25!</content>
+  <content contentuid="h8c56e052gda07g4761g9c61g2dbfcb287e2c" version="1">Cheaters Unlock Waypoints (Act 1)</content>
+  <content contentuid="h500b9243gafecgb3f0g0afag69367de7f740" version="1">WARNING! Teleporting between acts may break your game. Use at your own risk.
+
+Unlocks all waypoints in Act 1.</content>
+  <content contentuid="h389b0725gf8degd539g7e6egdd14c5db7d45" version="1">Cheaters Unlock Waypoints (Act 2)</content>
+  <content contentuid="h349e2beega767g969bgee37gc744e04bdb4d" version="1">WARNING! Teleporting between acts may break your game. Use at your own risk.
+
+Unlocks all waypoints in Act 2.</content>
+  <content contentuid="hff117852gea72g046ag33afgba09485ea95e" version="2">Cheaters Unlock Waypoints (Act 3)</content>
+  <content contentuid="h78627613g2e74g00ddg180ag35fc0d2f36f3" version="1">WARNING! Teleporting between acts may break your game. Use at your own risk.
+
+Unlocks all waypoints in Act 3.</content>
+  <content contentuid="h4b27c3b2gdf39ge010g9d90g48cc6e501d39" version="2">Cheaters Spell Scroll (Utility)</content>
+  <content contentuid="h20180cdege81dg0f67gebd3g09e50a1329f3" version="2">Contains non-combat utility spells.</content>
+  <content contentuid="h4c8eb384gad1cga088g1b15g02932ae6bfbb" version="7">Cheaters Explosion</content>
+  <content contentuid="h5bb219c9g3fb9g79f9g152egf0edbabc7a71" version="7">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h2e79cdd1gfc6dg0fdegc798g7cac4cc2ca20" version="4" />
+  <content contentuid="hfebb2403gcc4eg85bdg714dga0759e26f7e9" version="2">Cheaters Spell Pouch</content>
+  <content contentuid="hf6e6e5e3g1806g55bfg2221gb3b64b81ae71" version="2">A small pouch containing Spell Item versions of every spell from Cheaters Ring. You can add these anywhere to your hotbar or raidal action menu.</content>
+  <content contentuid="hb818fbe0g0cb9gd675g88dfg8cc4fb7d331c" version="3">Cheaters Free Respec</content>
+  <content contentuid="h396fe14cg671fg9018g869eg52a3dad3afe6" version="3" />
+  <content contentuid="h33d3cf91g95b6g429fg9e65g524ebd5808f7" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hc8abaaefgf67cg20aagf128g6971a5febb63" version="2">Cheaters Unlock Waypoints (Act 1)</content>
+  <content contentuid="h4b40386bgcf1ag68c8g8d37g03575f73b2cd" version="2" />
+  <content contentuid="hd14a60c3g02a7g733eg0d19gdfacd7873f82" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="heb6fe761gb05cg506ega0b1ge73f7de806c6" version="2">Cheaters Unlock Waypoints (Act 2)</content>
+  <content contentuid="hb176c9cdg23b3g8467g4266g3980030f4212" version="2" />
+  <content contentuid="h13a7d8e8g6e98gedd1g37f4gb11a0ca67c91" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hfc7ac4dcg40f9g90a4g5c18gbe3f02186ea3" version="2">Cheaters Unlock Waypoints (Act 3)</content>
+  <content contentuid="h30af127dg1b4eg4303g0719g20a9b7fa791c" version="2" />
+  <content contentuid="h34b8a7a3g8117g73ebg99c8geee4b3c0f04c" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hb791fe7bg14d6gdffbgb73fg15ffdfc0256c" version="1">Cheaters Unlock Passives</content>
+  <content contentuid="he0608a3fg4dbdg5ffbgc1aagc9d22e7054bd" version="2">Allows the target to use all of the Cheaters Spell Scroll passive abilities.
+
+Toggle Cheat: Remove Passives in the passives tab on the Hotbar/Wheel menu to remove this effect.</content>
+  <content contentuid="ha4474856g3fecg8ecagb237g2b944fbe3118" version="2">Cheat: Passives Unlocked</content>
+  <content contentuid="hbe43144ega88bgd263g3b1ag7a7696a183ea" version="2">While you have this effect, you will have access to all of the Cheaters Spell Scroll Passives.
+
+Toggle Cheat: Remove Passives in the passives tab on the Hotbar/Radial menu to remove this effect.</content>
+  <content contentuid="h42950027g4567g7fb0gde2bgbf2ad262f480" version="3">Cheaters Unlock Passives</content>
+  <content contentuid="h8bedd95dgad42g4501g43a0g2fe511850b41" version="3" />
+  <content contentuid="hdac387c1gf4ccgddd9g3e96g9609981f9d70" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h6a5d5b88ga431gb1bdgb86ag8abd26d1bc71" version="2">Cheat: Remove Passives</content>
+  <content contentuid="h302cab67g2b40g1993g75f8g28934d8819ba" version="2">Toggle this on to remove the effects of the Cheaters: Unlock Passives spell. 
+
+This will remove the abilitiy to use the passives from the Cheaters Spell Scroll.</content>
+  <content contentuid="h9a8c4b52g8beeg22feg649eg1f1a47b7a957" version="3">Cheaters Increase Approval Rating</content>
+  <content contentuid="hd48922cbgf4e5g30cdge8f8g143024213cd4" version="3" />
+  <content contentuid="hbff091a4gcd03g88d0g9e1fg35e22936fcad" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hacd7e083ge8e2gfe38gee72g2e80f7211946" version="3">Cheaters Opulent Revival</content>
+  <content contentuid="h65c4b941g5c4fgf4f7gbbc3gcc8f7b0893db" version="3" />
+  <content contentuid="h21aeda7cg6d74g7ed6ga513gef40c1cbd62a" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hbdb78431gdb5egbc47g7131g56f2a0caa021" version="3">Cheaters Restoration</content>
+  <content contentuid="h7e23b402g1b64g4960g45f7gbf4659a436b8" version="3" />
+  <content contentuid="hdf1d1bbcgecd9g238cg9c50ga13e7a3d2baf" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h84cf4220g3eebgb946g0d8dg35cf6ecd7ab5" version="2">Cheaters Misty Step</content>
+  <content contentuid="h30a04565ge65egad6egf139g4d3ddf382984" version="2" />
+  <content contentuid="h541a6a56g3fbag4b96g2c42g95a1b7cef55e" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h16d03aa6gdac6g83c0g3276gc2d2821882a1" version="2">Cheaters Dimension Door</content>
+  <content contentuid="h6849bb3ega815g4821g9080ge3b75026f143" version="2" />
+  <content contentuid="h1253de91gf7adg7630g2885ga8619ed1661f" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="he401c859g066ag781cgdc23g4dd06067f61b" version="2">Cheaters Mass Fly</content>
+  <content contentuid="hf14d28c6g876eg18a0g2597gad2cd6f73c6d" version="2" />
+  <content contentuid="h07efd02age6b5g6770g0d9bg29e05cb779e0" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h6ffd02fcg7f21g0f52g4c86g6c3e798dd4ba" version="2">Cheaters Mass Greater Invisibility</content>
+  <content contentuid="h404341a4g9c3ag38c6g4b89ga4b66c34c8c7" version="2" />
+  <content contentuid="h12372744gc0dcg8fa1g90b3gb1d75407391f" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h91867525g8b0cgfd5dg24b1gf785b788f808" version="2">Cheaters True Seeing</content>
+  <content contentuid="h5a97e4bfga36agcda7g5e2dg52b49b3dccf4" version="2" />
+  <content contentuid="h8f2d13d9gbce4g2076ge023gd677d22fabac" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="he12fb8b9g45a3gee77g6ffeg75c3692bb36b" version="2">Cheaters Create Water</content>
+  <content contentuid="h44b91d17g8e37gd0d9gcd23g0eef849aeca7" version="2" />
+  <content contentuid="h48a8c944gaf1fg81fag783dg0e3f31cdf7a3" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hdd36adf8g3185g8346g74a1g36aeaca98dd5" version="2">Cheaters Knock</content>
+  <content contentuid="h238eb72egb625gab31gfb4age0291fce4d9b" version="2" />
+  <content contentuid="ha2712331g0e21gdef8gf232gb452c8a2450d" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h804cc717g50deg2bf4g2d19g014c2a86c7df" version="2">Cheaters Destroy Water</content>
+  <content contentuid="had0e0360ge261g526eg728dg1a97d6f97564" version="2" />
+  <content contentuid="h19c1b5adg7303gecc6g2f0ag23a3e6ec1d68" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hea0ad3e4geb7agd999g55f6g8c2d51d244ba" version="2">Cheaters Speak with Animals</content>
+  <content contentuid="h121a6e52g749ag7b9bga58cg4d432965a88a" version="2" />
+  <content contentuid="hf9f6c00dgd759gced4gc154g458edfb8e480" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hbac76e43g31f3g9eb2gceffgdf3dbbd10087" version="2">Cheaters Speak with Dead</content>
+  <content contentuid="he1f23666ga907g1f12gb801g4bd32953eee2" version="2" />
+  <content contentuid="ha99b888cg1aa6ga588gd382g2a5402afb105" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hed54a930g0716g3ee3g0f04ga5e88a54dcf6" version="2">Cheaters Detect Thoughts</content>
+  <content contentuid="hdf16922fg2ecag4dcag3cf3gd8570486936d" version="2" />
+  <content contentuid="ha6a6d1eegf8efg7de4g9c16gd0d82ff688cb" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h8a533859g7ba9g9e20gc0ceg7f448dbb060d" version="3">Cheaters Guidance</content>
+  <content contentuid="hde785c7dg15beg2cafg6333g07ba0c4279e2" version="3" />
+  <content contentuid="h123a4216g9ff6g672fg8c42ga822ef632aaf" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h16a24ccbgf68agc2a1g82f9g2902d310615a" version="2">Cheaters Resistance</content>
+  <content contentuid="h80225a8bgc067g5a97g377eg0b70b770e7ff" version="2" />
+  <content contentuid="h1baf358egdcb7g5060g9111gc441262c4c35" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h4fca0220g2034g9fadg9feeg93753525ab94" version="4">Cheaters Action Surge</content>
+  <content contentuid="h816c0b01g49b9gf80ag7681g02dbff1d7060" version="4" />
+  <content contentuid="h4ccf4ea9g9409ge1e3gf693g8fb2f3dc49cf" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h39c0b6b7g3445g53bega252gef3a47911647" version="2">Cheaters Arcane Recovery</content>
+  <content contentuid="h330b755fg1b07g5282ge071g758a2b23ecce" version="2" />
+  <content contentuid="hb408ac2cg9c70g4eb6g1127g8783cf1360dc" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hfde9782cg7d46gc0c7g29a5g5a3baec9ccff" version="7">Cheaters Magic Missile</content>
+  <content contentuid="h742ff920gd4bcgf763g9b11g11ff7e2dff6d" version="7" />
+  <content contentuid="h04106793g62a7g87bcg3077gc83b13277eb8" version="7">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hef29b894gd405gd4b9g1fadg1f2ab6ade154" version="2">Cheaters Icy Magic Missile</content>
+  <content contentuid="hd0daec8cgd735g592dg7981g14c9d8cc5374" version="2" />
+  <content contentuid="he87b844bg3177g691dgdae9g3fcada5b9269" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h3a027b32g9362gd520g1b01g10796a8d8bf6" version="2">Cheaters Chain Lightning</content>
+  <content contentuid="hb719e426g5973gce22g76beg9ead5eda8d00" version="2" />
+  <content contentuid="hbb29888aga2e0ge3f2g12afg394dae751c7e" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h76d325d1g3e18g37edg594agc53f978bde05" version="2">Cheaters Kill</content>
+  <content contentuid="h983981e2gc8a0g3a14g6a49g9aef45e4eacc" version="2" />
+  <content contentuid="h78481a0eg1f90g73d5g4091ga8f00aeb7ab3" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h56627795g1990gc0adg4e78g933b94a69dbe" version="2">Cheaters Flesh to Stone</content>
+  <content contentuid="h1f1a6117g8457g6a18g84d1g9998f0c7ad76" version="2" />
+  <content contentuid="h5a3bfff0ge34cgbb99ga2e1gda514613ca1f" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h7c5dea8egcc62gcc13g33c4gff85371fe8f4" version="2">Cheaters Flesh to Gold</content>
+  <content contentuid="hcf67682eg4671g9deeg7fa9g9f33e6c965df" version="2" />
+  <content contentuid="hcc604aceg44e8gc095gdc0agb0ef6bd4a429" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h2b9b7d0bg5d02gfd33g7882gf1faa95509ef" version="2">Cheaters Stone to Flesh</content>
+  <content contentuid="h07c513c6gaa9dg4d2cga47cg9b127124154d" version="2" />
+  <content contentuid="hfa83906fg472eg6f96g5113g58b97189e97f" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hce665532g5806gdcc2gbc19g5db7e01db3f2" version="2">Cheaters Hold Creature</content>
+  <content contentuid="h3b2d2c38gb2c1g8057gac94gf2d8196b31c5" version="2" />
+  <content contentuid="hb327c6cagc8b0g0385g88c4gacadbb83c0c1" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h05692dffg748agaadag5646g30bcd282a2b1" version="2">Cheaters Clean Party</content>
+  <content contentuid="h4dee0624g0663gf364ge8cbgc615f50b7128" version="2" />
+  <content contentuid="hd910a267g9649g2f1fgb867g8806d97fe1f8" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hbdc565degcaa1g231eg7859gf529e28dd579" version="2">Cheaters Summon Gold</content>
+  <content contentuid="h6c9464b5g68fbgc425gbc58gce13f630c9d1" version="2" />
+  <content contentuid="h5c21a34dgf1d4g7cbegf13bgaeaa3c7514b1" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hfdaefc0cge808gefd1gf464g05cdaa97b917" version="2">Cheaters Summon Camp Supplies Bag</content>
+  <content contentuid="he210fa18ge962gbcc1gf20egdd652baa253a" version="2" />
+  <content contentuid="h6e577864ge208g7953gff2bgb4e36cd8923c" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h75662fa1g6e37g8f80g8e9eg63750675ac4c" version="3">Cheaters Summon Potion Box</content>
+  <content contentuid="hdda55990gf4aegf15fg2304g3dbd1e03063a" version="3" />
+  <content contentuid="h0b9d5239g8829g1a85g94c2g98187ea4e1c3" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h81372dacgcc88g4549gd1dcg474c57b97a94" version="2">Cheaters Summon Scroll Box</content>
+  <content contentuid="hf30d98e1g042agb114ga86dg8fb162ef1824" version="2" />
+  <content contentuid="hd598779fg3781gb3e8g9f1bg94808f871b90" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h8a4c86eag4591g0837g26dfgf147bab1dabc" version="2">Cheaters Summon Miscellaneous Box</content>
+  <content contentuid="h056699f9g5f16gf7aeg8ff2g4b69c5bddab4" version="2" />
+  <content contentuid="ha6499107g1c72g17abg4e6ag09b7db93f2e7" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hd76a743bg2a7bg417fg08c1g75296d84ec23" version="2">Cheaters Summon Alchemy Ingredient Bag</content>
+  <content contentuid="hcec3e204gecbdg8f6cga56fgb2b99d508def" version="2" />
+  <content contentuid="hcc313bc1g578bg030eg5908g1c7abaae072e" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="ha6342503g5f2egcdebgd975g60b3d529c5c7" version="2">Cheaters Summon Dye Box</content>
+  <content contentuid="hbbc77ed0gfaebg5c5ag3323g4f16bee28f19" version="2" />
+  <content contentuid="h17c516c3gc5ebgfd7ag3702g3478637881ed" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hae303316ga3c0gda28gd4acg9afd13c96d29" version="2">Cheaters Summon Clothing Box</content>
+  <content contentuid="h9a3a333bg350bg0150g5a01g3fe6c7498635" version="2" />
+  <content contentuid="hf9be49c6g1f5bg2417g4889gf3eb50b6f578" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h86486006gecc8g7e7bgdc91gbea5c999b3fe" version="2">Cheaters Summon Arrow Box</content>
+  <content contentuid="hfb16014cg56d0gd773gb5c4gced05428d488" version="2" />
+  <content contentuid="h579b77a5g96f9g351fg90f2gae49f203f3de" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hd708a689gaa5bg7fb6g7b10g9df4d3702fd7" version="2">Cheaters Summon Grenade Box</content>
+  <content contentuid="h0a5ee57dg1f8bg6efdg5c0ag1e6ae760f4e5" version="2" />
+  <content contentuid="h1b6476a6g9460gb724g49b3gc80a337d6c26" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="he2c49f43gd951gb478gbae6g2a7fd6eff8bf" version="2">Cheaters Summon Common Equipment Box</content>
+  <content contentuid="hb751af05gb0eegcf9ag8619g4a2ef0a208b7" version="2" />
+  <content contentuid="h8ec6c927g3bf4gd1f9g39aage0fa55727ca5" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h51d7fb06gff36gd0adgf630g5160426f572c" version="2">Cheaters Summon Armor Box</content>
+  <content contentuid="h3ecdde88g2962g0378gba9bg480143595a74" version="2" />
+  <content contentuid="h595b600cgc7efgf19fg985bg74b0b7a57316" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hc1e71a28g92c2g257eg137fg1c8060688fef" version="2">Cheaters Summon Weapon Box</content>
+  <content contentuid="h6eae12ebgebc9g0ed8gf721g4acaa12b21e8" version="2" />
+  <content contentuid="hc967a5f9gad7agd223gece0g051cc42f1e8a" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h3e852228gfe13g793cg1aedg7c7663194c2f" version="2">Cheaters Summon Jewelry Box</content>
+  <content contentuid="h5bbcf8cag8e13gf4e1g0647g77a8650a52eb" version="2" />
+  <content contentuid="h22762332g140ege58fg2911gdc91a8d5a4b3" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h7f453e0egb710gd5fbg9e40g2eb16b092f82" version="2">Cheaters Summon Mind Flayer Parasite Bag</content>
+  <content contentuid="h80372d4bg30b9g42fcgd694gf009605815aa" version="2" />
+  <content contentuid="h3fd4e6a0gc233ge46fg0297g5ca2d803474e" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hc335a1bcga8ddg7e69g63ffg373b2d8d4523" version="2">Cheaters Summon Unreleased Item Box</content>
+  <content contentuid="h05f2a5bbg5707g1cc0ga915g91d37e4ce787" version="2" />
+  <content contentuid="h32d0168cgbb17ge1a4ge7a4ga1359b47243e" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h9ce5a574g15f3g3e14gbbfeg642dc67d8089" version="2">Cheaters Summon Tutorial Chest</content>
+  <content contentuid="hf6a84ce4g650cgb02fg3d51gfe84de21ab09" version="2" />
+  <content contentuid="h56d81c40gf1a1ga546g61cega7285fd74eac" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h92469a67gc7dagc018g035bg0f4f70da2bb9" version="2">Cheaters Summon Water Barrel</content>
+  <content contentuid="h94372db5g59dcg9076g15f0g00d8aa740214" version="2" />
+  <content contentuid="h446fce9bg1fffgd09bgf423gdb43fa5114b7" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="ha46fe1c7gab38g8a7cg930bg5327dd524fd7" version="2">Cheaters Summon Firewine Barrel</content>
+  <content contentuid="h51287a2bg9db9g851eg785cg1470c66c5e3d" version="2" />
+  <content contentuid="h28485a21g445fg13bbg5e62g3024210c534c" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h88cea2e4gaeafg0177g1a22g29a07587ebbf" version="2">Cheaters Summon Oil Barrel</content>
+  <content contentuid="h332e6abfg32b6g35ecg74deg5131bfcd03d0" version="2" />
+  <content contentuid="hc6bcff42g9bb8g600bg36f9g64a2f8c22271" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="ha809cdecg71edg52cegb8e4g7cb7d6e17839" version="2">Cheaters Summon Acid Barrel</content>
+  <content contentuid="hd4416283gfe45g0afbged13ge778040e8df0" version="2" />
+  <content contentuid="h12a540e1g8f73g0828ge97eg0e0c736e0eb1" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hddf1b2b9g9e32ged70g4429g7c3f1ae1ecf9" version="2">Cheaters Summon Smokepowder Barrel</content>
+  <content contentuid="h01539d5ag267dgbdc8g7dd3gcb643030425b" version="2" />
+  <content contentuid="h62222a1bg869ag998ega084g4570dc1d0ac2" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="had821703g61f1g7b4eg8455g027a9e115eb9" version="2">Cheaters Summon Brine Barrel</content>
+  <content contentuid="h14f59b5cgceaag47fcg09fdg00876bb92b8a" version="2" />
+  <content contentuid="hcdeac0c6g7d4bg82f6g270bg3f753842d465" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="he842a848g0a35gef11gb7f2g8cb6438b0cb9" version="2">Cheaters Summon Nautiloid Tank</content>
+  <content contentuid="ha4258a9aga2b9g37d8g1f2eg804b8b54fc7a" version="2" />
+  <content contentuid="h24e3363cgd00fgc2f0g733agcfb704369fbd" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h89dc8f84gc5d5ga9acg46e9g56d11c0bfbdc" version="2">Cheaters Summon Runepowder Barrel</content>
+  <content contentuid="h5848cf18g233fge9f0g0d58g5f210646395e" version="2" />
+  <content contentuid="hc352dd0fgfe9ag8435g11d8g3afdaf6ab21b" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h503f4a2bg12fbg2963g385fg65e8bbd1f6b5" version="2">Cheaters Summon Runepowder Barrel</content>
+  <content contentuid="h3f0829aag64b3g82cegae31g308e3460b092" version="2" />
+  <content contentuid="ha3ad7562g0153gec88g0c99gf7600afed71c" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h2e21c688gc93egb4b3g8e3cg53a7045662bd" version="2">Cheaters Spell Scroll</content>
+  <content contentuid="he84d1c24gab30gcfe0g7f68gadd697a57dcb" version="2">A collection of cheat spells and passives. These spell items can be added to your hotbar or radial action menu.</content>
+  <content contentuid="hddcd9479g77ebg874bgcf96g2c7e1540d94c" version="1">Test</content>
+  <content contentuid="hc3d4a1b4g4073g1342g7e2dg0c0ec179fba0" version="1">%%% EMPTY</content>
+  <content contentuid="hf0f98c2cg1a6fg5ddbgad68g4c56283c853c" version="1">Cheaters Sacred Flame</content>
+  <content contentuid="hd0d0e717ga0ebg221cg8873g1efbe0a5123a" version="1">Engulf targets in a area with flame-like radiance.</content>
+  <content contentuid="ha459c05cgc70bg4d6fgc610ge45a35f10916" version="1">Cheaters Fire Bolt</content>
+  <content contentuid="h80097b2eg2f92gd947gc970gd55a6af82a03" version="3">Hurl a mote of fire at the target. Upon impact with an enemy, launch 6 more Fire Bolts that lock on to nearby enemies dealing [1] them.</content>
+  <content contentuid="hc994a906g92ffgce36g0c75gcac3a02c9604" version="1">Cheaters Fire Bolt</content>
+  <content contentuid="hee3773ffge45cg5f5dg9f8fg4105d00d9df8" version="1">Hurl a mote of fire.</content>
+  <content contentuid="h1f26043eg4112g33e3g5243gcec28f8f5940" version="4">Cheaters Fire Bolt</content>
+  <content contentuid="he66a40e1g3438g1e83g587fg3f1b4f91336f" version="4" />
+  <content contentuid="ha52ca1d8g00cbgd4e4g8868ge14b1360c249" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h70b4ae56geb08g6f08g9d5fgb31ce5433565" version="2">Cheat: Anti-Magic Field (Active)</content>
+  <content contentuid="ha38e75cagbda6gd149g78f2g19f3aa3f2931" version="1">Nullify magic in a 30m radius.</content>
+  <content contentuid="hde9e1367g1cb5gca86ga158ge2a6f4ff0e52" version="1">Cheat: Anti-Magic Field</content>
+  <content contentuid="ha1f35ffega244g8b9cg4b4eg8dce27c94af1" version="1">Nullify magic in a 30m radius for everyone except allies and party members.</content>
+  <content contentuid="h11e7a9e1gd296g5c91g3326g02f1e6b53de2" version="3">Cheaters Sacred Flame</content>
+  <content contentuid="h5900be9dg5c1bg6dd9ge63fgcffe9fb07050" version="3" />
+  <content contentuid="hbbd2e9e6g2ebagccdcgd178g4d11f2b71711" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="he112670fg9ea2g45e6g2b85gfe9f2d2c4444" version="1">Cheaters Anti-Magic Field</content>
+  <content contentuid="h7799adefg88b5g3f0dg2ab9g289d15bd7af7" version="1">A nearby character is draining this character of its magical energy, preventing it from casting spells.</content>
+  <content contentuid="h91a65e56g51c5gf835gd9a3g7703c6b76c72" version="2">Amulet of Bhaal</content>
+  <content contentuid="h4db3d3cdg9d05g0fedg93fdgd40ffe447f37" version="2">A silver amulet depicting the symbol of Bhaal.</content>
+  <content contentuid="hd2d2215cgeaccg91c1g8a58gb632a3e05b45" version="1">Summon Cheaters Spell Scroll</content>
+  <content contentuid="hb9abe94dgb393g479fg6b5ag5894afc418dd" version="1">Summon an extra copy of the Cheaters Spell Scroll.</content>
+  <content contentuid="h1418c3edg92abg97bdg6f17g878f47c5d65f" version="3">Summon Cheaters Spell Scroll</content>
+  <content contentuid="h5eced2eag25f7g43b0ge253gddde50c58451" version="3" />
+  <content contentuid="h89967245g5eecga74bg4210g8773baa757f2" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h991f886cg8ff2g4d2cgac43gd99d3e8b457f" version="1">Cheat: God Mode Type 1 (Active)</content>
+  <content contentuid="h50f25198g7ac4ga51ag8cecga8206967a81d" version="2">You are set as Invulnerable. Enemies will still attack you and you will be unaffected by Status Effects, this includes positive ones.</content>
+  <content contentuid="hfd86e6b8gee3fg4bebg990bg9a8269d82b51" version="1">Cheat: God Mode Type 2 (Active)</content>
+  <content contentuid="h9e01db62ge545g3b98g6d24g28654c6f9995" version="2">You have immunity to all damage types. Enemies will not attack you and positive Status Effects will still affect you.</content>
+  <content contentuid="h11ee1909g4292g29dcg38a2ged6d6c856592" version="2">&lt;b&gt;Which version of God Mode do you want?&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Type 1:&lt;/b&gt; Uses Invulnerable(). Enemies will still attack you but positive Status Effects such as Invisibility will not affect you.&lt;br&gt;&lt;br&gt;&lt;b&gt;Type 2:&lt;/b&gt; Uses Resistance(DamageType, Immune). Enemies will not attack you, but positive Status Effects such as Invisibility will affect you.</content>
+  <content contentuid="h26c965ceg10acg4304ga25fgac670926fa3d" version="1">Type 1</content>
+  <content contentuid="h9afdbab0g1aebg3fd2gcda9gddc5ed68a73a" version="1">Type 2</content>
+  <content contentuid="hdb6d6753gbf63gace1gcb51g5a1b3e192513" version="3">Cheat: Always Critical Fail (Active)</content>
+  <content contentuid="h981b2c44g200eg60ccg7f55g9ff7d1e40e54" version="2">Always Critical Fail on Ability Checks, Skill Checks, and Saving Throws.
+
+May not work 100% of the time. Nothing I can do about this. Disabling Karmic DIce in Options -&gt; Gameplay may give more consistent results.</content>
+  <content contentuid="h780592d5g0f36g05eagcb1bg84fcb91bb09c" version="2">Cheat: Always Critical Fail Toggle</content>
+  <content contentuid="heb55cc3agf09eg2ef6ga2f4gf0c623a5d35c" version="3">Always Critical Fail on Ability Checks, Skill Checks, and Saving Throws. 
+
+May not work 100% of the time. Nothing I can do about this. Disabling Karmic DIce in Options -&gt; Gameplay may give more consistent results.</content>
+  <content contentuid="ha79d5893g02e5g43e9g7de5g18fa9ccfaf05" version="1">Cheat: Ability Checks Always Critical Fail</content>
+  <content contentuid="h1ffb20e9gaed3gf6eag1cfdg678e1c3b02dd" version="1">Ability Checks always roll as a Critical Failure.</content>
+  <content contentuid="h506e87f9g237eg79d6g3ff6gebe3e632bc83" version="1">Cheat: Skill Checks Always Critical Fail</content>
+  <content contentuid="h5818d41bgb9cfg8602ge8fbg15a29021c1c0" version="1">Skill Checks always roll as a Critical Failure.</content>
+  <content contentuid="h1d104381gcce5g9571ga25eg54a5ca52ba35" version="1">Cheat: Saving Throws Always Critical Fail</content>
+  <content contentuid="h250a9a25g47afg925eg5990g096dca296926" version="1">Saving Throws always roll as a Critical Failure.</content>
+  <content contentuid="hfe0e7d0dg98dbg7ad8g2c7ag484480d5ca55" version="2">Cheat: Dice Roll Negative Bonus Toggle</content>
+  <content contentuid="h626dcf03g574dgd735ga0b0g79ff8ad96220" version="2">Adds a -40 to all Dice Rolls.</content>
+  <content contentuid="h508910cag174dg1662gba83gc9203959978b" version="2">Cheat: Dice Roll Negative Bonus (Active)</content>
+  <content contentuid="hd99a7a9fg7337gf1ebgf3eegd6397dfdaa5f" version="2">Adds a -40 to all Dice Rolls.</content>
+  <content contentuid="h4605eddbg884cg5ff9gace4g7720c249e4b3" version="1">Cheaters Longstrider</content>
+  <content contentuid="hb3770de7g200fg4d5dg4020g0a67c7699519" version="1">Increase nearby allies &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; by [1].</content>
+  <content contentuid="h6e08154ag2614gda0cgf1e2g915f16e54393" version="1">Cheaters Longstrider</content>
+  <content contentuid="hefac2858g095dgcb6dg4d98gf486c6732c44" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Movement speed&lt;/LSTag&gt; increased by [1].</content>
+  <content contentuid="h19950f04g3463g3e10g28b3g7682b136b6a1" version="3">Cheaters Longstrider</content>
+  <content contentuid="h5b7d1c77g50e2g14c7g9fa6g40289cb08d09" version="3" />
+  <content contentuid="he172f918gf248gc868g8989g3b639826c7e3" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hed9a67eege9fage417g652cgc9f1323b86c0" version="2">Cheaters Telekinesis</content>
+  <content contentuid="ha6e8666dgb651g8b93ge253g3b6e5665111d" version="2">Throw a creature or object up to [1] with a thought.</content>
+  <content contentuid="h9567ab39gd224gb7fbgdbd0ge97af6db3963" version="1">Heavier items deal more damage.</content>
+  <content contentuid="h6cd01c80g466eg4fd3g11a9gdf010ee66348" version="3">Cheaters Telekinesis</content>
+  <content contentuid="h44c849c1g1f96gc6edgd85bgbbe502903429" version="3" />
+  <content contentuid="h42b57b3bgeb9cg6b3ag81d4gd3c635174e95" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h9898be69g908fgd069g8e08gaf773741400a" version="1">Cheat: Passives Unlocked</content>
+  <content contentuid="h96d40decgdc83gbe4cg25f0g19b93840a7c8" version="2">While you have the ring equipped you have access to all of the Cheaters Spell Scroll passives. These passives can be found in the Passives Tab on the hotbar or in the radial menu.</content>
+  <content contentuid="h6addb278g3d15gd71cg2f40g3c56021e5d77" version="2">Cheaters Ring Passive Toggle</content>
+  <content contentuid="hc4ffaae9gc42bg86d7gb1eag40ca0f5117ad" version="2">While this is enabled, you will have access to all of the toggleable passives from the Cheaters Spell Scroll mod. 
+
+These passives are all disabled by default and must be enabled in the Passives Tab on the hotbar or radial menu.</content>
+  <content contentuid="h1b2d06dag40b1gd76cg10e1gc649a64be7c4" version="1">This string is not used yet.</content>
+  <content contentuid="h126326cfgf3f0ge80ag76fegc6d42b370084" version="1">Cheaters Magic Missile</content>
+  <content contentuid="hd82ed5d8g77dbg7fb3gcd84g0a19c7d2e011" version="1">Shoot [2] magical darts, each dealing [1]. They always hit their target.</content>
+  <content contentuid="h9fcfd041ga870ge72agc746g6f1d41043e77" version="1">Update Cheaters Spell Scroll Mod</content>
+  <content contentuid="hf39cd9d2g8aecg9200g7f84g2920aa5bd0f8" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h4f9daa8dg2af1g688cgd201g761029b9ffbf" version="1">Cheaters Psionic Overload</content>
+  <content contentuid="h27582346g49f7gbd2egdd90g847c1a2cdc39" version="1">Your attacks deal an additional [1], but you take [2] every turn.</content>
+  <content contentuid="h47c4c672g9357ge784g8da4gd917b37ffaf5" version="1">Overloaded With Synaptic Power</content>
+  <content contentuid="h9311cca1g2aa1gae62g2d30gc71c6d16927a" version="1">Affected entity deals an additional [1] with its attacks, but also receives [2] per turn.</content>
+  <content contentuid="h516d7a2bg6cb9gc834gf98fg4503d7ff4e88" version="1">Cheaters Force Tunnel</content>
+  <content contentuid="h6d54bef5g1837g08e8gefc6g6b8bf597ea41" version="1">Charge forward, pushing all objects and creatures in your path [1] away from you.</content>
+  <content contentuid="hf925b9e5gdc47ge75dg7d0eg4ebc54ec4e58" version="1">Cheaters Concentrated Blast</content>
+  <content contentuid="h05ade536g37aag46fdg1d6eg6001deac31cd" version="1">You must be &lt;LSTag Tooltip="Concentration"&gt;concentrating&lt;/LSTag&gt; on another spell to cast this. If the target was concentrating, you heal as much as the damage that was dealt to it.</content>
+  <content contentuid="h56ddea8fg157bg8e48g0db3gafe843aebe42" version="1">The spell you were concentrating on, will end.</content>
+  <content contentuid="h7e813637g4ad2gc509ga8fbg05e67dd707a2" version="1">Cheaters Transfuse Health</content>
+  <content contentuid="h19b09e82gf38cg34c1ge172g4c454c2800f9" version="1">Sacrifice half your remaining &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; to heal a target for the same amount.</content>
+  <content contentuid="hd01a9b40gf8b4g6931gb5d7g77d9db53c631" version="1">Cheaters Stage Fright</content>
+  <content contentuid="h64aa9d5cg894cg1fddg5ab0g796467801444" version="1">Your targets have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and take [1] each time they miss.</content>
+  <content contentuid="h8264f7e1gaa00g8f99g6140g733e1b9c3311" version="1">Stage Fright</content>
+  <content contentuid="hb1f1b784g30a7g0effgfbe2g755ee0b16a3f" version="1">You take [1] when you miss an attack.</content>
+  <content contentuid="h1a805145g90ddgccfdg49e9gd900f987801c" version="1">Stage Fright</content>
+  <content contentuid="hb276a34dgf58ag4266g2a3dgc3dab423d9e3" version="1">Overwhelmed with a fear of failure. &lt;br&gt;&lt;br&gt;The affected entity has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and takes damage each time they miss an Attack Roll.&lt;br&gt;&lt;br&gt;Removed upon succeeding an Attack Roll.</content>
+  <content contentuid="hc756c045g5c53gd2e6g3f6fgd15c1ec921d4" version="1">Cheaters Repulsor</content>
+  <content contentuid="h9100a538g64b5g3902gba2eg8c9cab415560" version="1">Push anything and anyone back [1].</content>
+  <content contentuid="h171491abg9b9egf26fgea01gb70d1439c642" version="1">Volatile Shield</content>
+  <content contentuid="hbbaa84f0g5fbdg1fd0gb4e8gc73049fad566" version="1">Affected entity has been granted temporary hit points by an illithid. If these are removed by incoming damage, the shield bursts, possibly &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;Stunning&lt;/LSTag&gt; nearby foes.</content>
+  <content contentuid="hdcf8bff7g4455ga810gb34ag42d804263da5" version="1">Cheaters Shield of Thralls Blast</content>
+  <content contentuid="ha35fe636g16ddgcc54g5ec7g72e4346b77e8" version="1">Cheaters Shield of Thralls</content>
+  <content contentuid="h0cb2429bg0b3ag85acg49c3g2fb5e654d253" version="1">Conjure a volatile shield around yourself or an ally, granting the target [1]. </content>
+  <content contentuid="h9f877abagae47g5e5fgb762g9e390e3e82a6" version="1">If these temporary hit points are lost due to incoming damage, the shield bursts, possibly &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;Stunning&lt;/LSTag&gt; nearby foes.</content>
+  <content contentuid="hb99e3a73g39bfgb341gf0a4g578f3c3cf63d" version="1">Perilous Stakes</content>
+  <content contentuid="he7d25335g2b8cg140fge695g08576c3e9d48" version="1">You regain [1] each time one of your &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; hits, but you are &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to all damage. </content>
+  <content contentuid="h8b0b14c8g1d25g8a01gdb4eg393dc237c6d3" version="1">Perilous Stakes</content>
+  <content contentuid="h2fefe6ecg512dg2bdfg74f2g98e31f3d4e19" version="1">Affected entity is &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to all damage, but when it attacks it heals [1].</content>
+  <content contentuid="hbb43b74cg35c2gd777g3e66g30ac37c8c4e4" version="1">Cheaters Perilous Stakes</content>
+  <content contentuid="hf14366d1g84b3g855cg81ebg8bb1c8247245" version="1">Invest a creature with power that heals it when it attacks, but also makes it &lt;LSTag Tooltip="Vulnerable"&gt;Vulnerable&lt;/LSTag&gt; to all damage. </content>
+  <content contentuid="h6dd052f8gc84egd15eg6bb3ge1e0e961ce1c" version="1">Fractured Psyche</content>
+  <content contentuid="h6d79e08fgb592g1e64g195dg471f92b6e736" version="1">&lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; reduced by [1].</content>
+  <content contentuid="hf8ab672dg7616g4ef6g9e6fg3581f53593d7" version="1">%%% EMPTY</content>
+  <content contentuid="hcd8df8cfg5bafgc280ge2a1g5b1bfa4a4fcb" version="1">Shattered Psyche</content>
+  <content contentuid="hca9da7edgebd2g75b6g2a54g4e38568ed42f" version="1">&lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; reduced by [1].</content>
+  <content contentuid="h5a7ce957g6378g1f0ag81a6g595d30dbbefe" version="1">Cheaters Fracture Psyche</content>
+  <content contentuid="h26bfb4e5g5820g8a14ged64g2891e530b69e" version="1">Invade a target's mind and disrupt its defences. The target's &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; is reduced by [1].</content>
+  <content contentuid="hb8433140g26d9gc78cg5bd2g471eda3aebcd" version="1">If the target dies while its psyche is fractured, you can cast &lt;LSTag Type="Spell" Tooltip="Target_TAD_Imperil_Recast"&gt;Shatter Psyche&lt;/LSTag&gt; on another target.</content>
+  <content contentuid="h3d43b75dgc729gb518g51acgbb60883369c0" version="1">Shatter Psyche</content>
+  <content contentuid="h6a943cbegcecagf0acg3393g69c2881a8fc4" version="1">Invade a target's mind and disrupt its defences. The target's &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; is reduced by [1].</content>
+  <content contentuid="h4d958e42g71fegb54eg3e20g8ee445106773" version="1">If the target dies while its psyche is fractured, you can cast &lt;LSTag Type="Spell" Tooltip="Target_TAD_Imperil_Recast"&gt;Shatter Psyche&lt;/LSTag&gt; on another target.</content>
+  <content contentuid="h3a78514dg18bfg0699g20fcga6d71a6bcc64" version="5">Cheaters Spell Scroll: Tadpole Series</content>
+  <content contentuid="hb1e8fc09gb0fagdab4g0a4fgf969bc99630a" version="5">Contains the various Tadpole Powers from the Tadpole Power Menu.</content>
+  <content contentuid="ha5904048gef73gf2c3g25f8g24b638f037d9" version="1">Cheaters Psionic Overload</content>
+  <content contentuid="h04adbd69g0cfaga3e5ge9afgddccc10a7dff" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hce63a2f0g4056gbc9dg6287g8ca0b7f21b37" version="1">Cheaters Force Tunnel</content>
+  <content contentuid="h775861e7g4aa2gf2c0g3b78g1f9fdbe16420" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h4e5ffd13g90edgb7f6gde7fg231658969c3e" version="1">Cheaters Concentrated Blast</content>
+  <content contentuid="h0b6bcf66g1597ge4ebg6389g7464e3d087ba" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h864eb48dg3f77g303bgfa42g2b8d325d1ed8" version="1">Cheaters Transfuse Health</content>
+  <content contentuid="hc28ae684g266dg16e4gbe7bg553704e67af7" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h68f1a1bbgd6e7gf2b9g717dg6de4e5a36704" version="1">Cheaters Stage Fright</content>
+  <content contentuid="hed1b9872g0a87g59a2g2597g52d76e9aa681" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hfbcc23feg0854ge304g3176g00c20a76569f" version="1">Cheaters Repulsor</content>
+  <content contentuid="hd6de1845g13a4ge1edg8199g7b96118d6d35" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h7c567aeega9bcga196g6cfeg1ff7f6edff8c" version="1">Cheaters Shield of Thralls</content>
+  <content contentuid="h03eb3a10gc2deg2fdbga9c9gac88bc524f3f" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h62e3f078g9c7fg2c30g3c52gb0f6c18e29c0" version="1">Cheaters Black Hole</content>
+  <content contentuid="h69c2445ag7940ga586g4811g9e4c92310fa5" version="1">Create a point of intense gravity that pulls in all nearby enemies and possibly &lt;LSTag Type="Status" Tooltip="TAD_BLACK_HOLE_SLOW"&gt;Slows&lt;/LSTag&gt; them.</content>
+  <content contentuid="ha15f6f83g91ceg13f4gace3gd5d69e1d0179" version="1">Five more black holes can be summoned after this spell's inital casting.</content>
+  <content contentuid="h59046c64gf736g6ac7gdd8fg6efa195762a3" version="1">Cheaters Black Hole</content>
+  <content contentuid="h7a1382f6g6612g7128g463dg3869c82175b0" version="1">Create a point of intense gravity that pulls in all nearby enemies and possibly &lt;LSTag Type="Status" Tooltip="TAD_BLACK_HOLE_SLOW"&gt;Slows&lt;/LSTag&gt; them.</content>
+  <content contentuid="hf7c081fbg6f2cgf4d8g5c2fg3aee98d866d0" version="1">Black Hole</content>
+  <content contentuid="h0fe07189g8aa3g276ag2f3fg5f2a49444843" version="1">The black home pulls in all nearby creatures. The area around the hole is &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt; and can &lt;LSTag Type="Status" Tooltip="SLOW"&gt;Slow&lt;/LSTag&gt; creatures within.</content>
+  <content contentuid="h67dd48cfg0e16ga93bg6aeag2cb9363c7a3f" version="1">Cheaters Mind Blast</content>
+  <content contentuid="ha24a9368gaaccga688g4568g7d744ca93475" version="1">Spew forth a conical wave of psychic energy and possibly &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;Stun&lt;/LSTag&gt; targets within. </content>
+  <content contentuid="h96f9dda0g0931g03b1gac2fg4b3eb3abe4e3" version="2">Cheaters Mind Sanctuary</content>
+  <content contentuid="h3965431eg2a33g195cge7a1g9ab405f8424c" version="2">Sculpt a magical nexus that allows those within to take actions and &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus actions&lt;/LSTag&gt; interchangeably.</content>
+  <content contentuid="hd90ee200gb110g9bfbg1ac5g1cef537f6b49" version="2">Mind Sanctuary Aura</content>
+  <content contentuid="h4b04f7b7g1deeg0955g0d45g340625871ab6" version="2">Anyone within the &lt;LSTag Type="Spell" Tooltip="Target_TAD_MindSanctuary&gt;Mind Sanctuary&lt;/LSTag&gt; can take actions and bonus actions interchangeably.</content>
+  <content contentuid="hf245a292g0501g2c67g24eagdc2245718f44" version="2">Within the Mind Sanctuary</content>
+  <content contentuid="h6c4cf02cgc010g5a3eg9330gdf296784f212" version="2">Affected entity can take actions and a bonus actions interchangeably, as long as it stays within the mind sanctuary.</content>
+  <content contentuid="h122a3c4dg2122g4fa6g6b59ga72a5e1cfc4b" version="2">%%%EMPTY</content>
+  <content contentuid="hbe5af949g2cfcga045g3061g7b8c8d04721a" version="2">Mind Sanctuary</content>
+  <content contentuid="heaf73128gb052gc419g8c8bg36f205eb93b1" version="1">Mind Sanctuary: Depleted</content>
+  <content contentuid="hf50b0daag54a9g4b87gec3bga6fda0197b0d" version="1">You cannot benefit more from Mind Sanctuary this turn.</content>
+  <content contentuid="h2986f034gd78ag61fegb6f2g3c7ef345800b" version="1">Cheaters Mind Sanctuary</content>
+  <content contentuid="haf25298cgd482gcde7g66c3gf58b3fe0c666" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h06a103b9g9b08g09f1gfd95ge4843c5644e8" version="1">Cheaters Absorb Intellect</content>
+  <content contentuid="h117e88cag1596g72efga46fg62d047e5d5d7" version="1">Gobble up a foe's intellect, lowering their &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; by [1] per turn and healing your wounds for [2] turns. </content>
+  <content contentuid="h0bc8349cg601cg54e5g67ddga61b900d2493" version="1">Cheaters Concentrated Blast</content>
+  <content contentuid="h43bd556eg09d6gf68bgd9f5g501535924315" version="1">Cheaters Transfuse Health</content>
+  <content contentuid="hed79fb3ega7fbg8b29gb785g22c06f7b53e3" version="1">Cheaters Stage Fright</content>
+  <content contentuid="h425ad09bg698bg3d71gcabbgfca12532289a" version="1">Cheaters Shield of Thralls</content>
+  <content contentuid="ha81f944bgc346g8a20g8627g535288f03703" version="1">Cheaters Perilous Stakes</content>
+  <content contentuid="h2e59d811g4d76g8ff6g2ab3g169dac18d6fb" version="1">Cheaters Fracture Psyche</content>
+  <content contentuid="h2c65258fga01ag35e4ge064g5120c3105889" version="1">Cheaters Black Hole</content>
+  <content contentuid="hd071709bg6b29g1eb1g736egff48be70ba41" version="1">Cheaters Absorb Intellect</content>
+  <content contentuid="h145babd5gec38g9386gb537g4f9312a26a7c" version="1">Cheaters Mind Blast</content>
+  <content contentuid="h55932274g746ag864fgd16egbf9822873f9d" version="1">Spew forth a conical wave of psychic energy and possibly &lt;LSTag Type="Status" Tooltip="STUNNED"&gt;Stun&lt;/LSTag&gt; targets within. </content>
+  <content contentuid="hd0c713a0g104fg5e5bg4bcag64bd39fda19c" version="1">Cheaters Force Tunnel</content>
+  <content contentuid="hb68b5711g8158gc875gf242gba21deae9185" version="1">Cheaters Psionic Overload</content>
+  <content contentuid="hd2aaf9d2g7928g55f1ge444gc85a5fb0c631" version="1">Cheaters Repulsor</content>
+  <content contentuid="h06159e8dg4c6bga94ag5469g7b1153bd5358" version="1">Cheaters Black Hole</content>
+  <content contentuid="hfdfecd45g61a4gb661g80cfg797909fd260d" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="ha8fc2334g94b4gdad4gaa73gc045da9099ed" version="1">Cheaters Mind Blast</content>
+  <content contentuid="h6f265ad0g2ed4g91a9gbaacg7c926c5db730" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="he16070dagcd90gcdfdg3537g5f4a9a22bc44" version="1">Cheaters Perilous Stakes</content>
+  <content contentuid="hb6813ea9g7a5egad3fg3ec8gc6336dd03a7d" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h53a209a3g493fg777eg87c2g0b681e520932" version="2">Cheaters Fracture Psyche</content>
+  <content contentuid="h7cf49048g89b2gbb17gd6a6g6f8ce403a4a5" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="ha3ce024fgf058g3cd9gfa73g371443efad35" version="1">Cheaters Absorb Intellect</content>
+  <content contentuid="h55f6bba1g8207gc6d9g3ca1g79719e5d44c4" version="1">Cheaters Mind Sanctuary</content>
+  <content contentuid="hcea9d47eg8c96g2eadg2f32g05c991b898cb" version="1">Cheaters Displacer Beast Shape</content>
+  <content contentuid="h07b2bd74g80beg866fg1c98gffd4d38c18d5" version="1">Cheaters Nebulous Black Hole</content>
+  <content contentuid="h4e2234e6g8413g08bcg02f4g6935be80906b" version="1">Cheaters Potent Concentrated Blast</content>
+  <content contentuid="hbec303a4gc486g97f4g74f5g577060833c8f" version="1">Cheaters Fierce Perilous Stakes</content>
+  <content contentuid="h2a1636cagdacag64a7g9645g07394288d82c" version="1">Cheaters Synaptic Consumption</content>
+  <content contentuid="h39bec20cg587ag755dg845bg3e54c98ff872" version="1">Cheaters Strengthened Force Tunnel</content>
+  <content contentuid="h91b3a0f8g34b7ga859g557dgfd393fafc570" version="1">Cheaters Augmented Shield of Thralls</content>
+  <content contentuid="h31cea74fgece6g8aadg811eg7ff50eeea331" version="1">Cheaters Mind Sanctuary</content>
+  <content contentuid="h013acb58gceaeg3469g61d7gdef6b574709c" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h1d5a1b3fg901bgca3eg9b4dg60d2b253dec4" version="1">Cheaters Absorb Intellect</content>
+  <content contentuid="h4eba7ff2g7d3dg25c0gef21g95b07a7f8abe" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h296b8332ga049g7050gd782g1f41fd8024be" version="1">Cheaters Displacer Beast Shape</content>
+  <content contentuid="hd614200fgb692g38bfg75a7g841a3882a6f6" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h624e083dgfcbag8880g88eage0a52f3c48ef" version="1">Cheaters Strengthened Force Tunnel</content>
+  <content contentuid="hd4fb64b0g82e0g8684g8d31gd70765485b7e" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h050e967bge5dcgdb5eg2181g93f53b7dde8e" version="1">Cheaters Fierce Perilous Stakes</content>
+  <content contentuid="hbfdba76dg0960g31adg7ecbg5b0114e37166" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h7289a232g3bfdgf2ecg03f0gbd3bb6097677" version="1">Cheaters Synaptic Consumption</content>
+  <content contentuid="h80e3fc98g08eegf085g5eaeg64d4667f87bf" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hd7777898g2d91gcc4bg3b83gc9902069c83a" version="1">Cheaters Augmented Shield of Thralls</content>
+  <content contentuid="h5e688735g13d6g385eg3325gaf7ee3b12de4" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hc558f226g0257gf341g7decg9a60f201462c" version="1">Cheaters Potent Concentrated Blast</content>
+  <content contentuid="h2618a671gdd7fg6a31g5809g100161e2e97e" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hb01bbf68g04cbg0a7bgbec2ga950d208d9c8" version="1">Cheaters Nebulous Black Hole</content>
+  <content contentuid="hf10e945cg03a2g0f4ag07e1g0e69113fa951" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h87bc6707gcebegc1beg0049g1195cacadbca" version="1">Cheat: Remove Illithid Passives</content>
+  <content contentuid="h765986b2ge5d1g009bg0577g618a5f42cc26" version="1">Toggle this on to remove the effects of the Unlock Illithid Passives spell.</content>
+  <content contentuid="h572aba7fg8c0dg4828ge958g8a63f412f62e" version="1">Cheaters Favourable Beginnings</content>
+  <content contentuid="hca297924ga2c2gaffege110g632b75dac067" version="1">Cheaters Unlock Illithid Passives</content>
+  <content contentuid="hbe79596fg0475g7de1gc62ag6202cf329390" version="3">Allows the target to use most of the Illithid Passives from the Tadpole Power menu. Using these while already having the vanilla version unlocked through the Tadpole Power Menu may lead to unintended side effects or may cause other issues.
+
+Toggle Cheat: Remove Illithid Passives in the passives tab on the Hotbar/Radial menu to remove this effect.</content>
+  <content contentuid="h4d1a7e2cg6f0eg6910g5309g38cc8ad9f0b5" version="1">Cheat: Illithid Passives Unlocked</content>
+  <content contentuid="h238ff514g7826gc2c9g5244g983bff90ecf0" version="4">While you have this effect, you will have access to most of the Illithid Passives from the Tadpole Power menu. Using these while already having the vanilla version unlocked through the Tadpole Power Menu may lead to unintended side effects or may cause other issues.
+
+Toggle Cheat: Remove Illithid Passives in the passives tab on the Hotbar/Radial menu to remove this effect.</content>
+  <content contentuid="h6fd0e059gad13g9824g2bfbg7327920a57e7" version="2">Cheaters Favourable Beginnings</content>
+  <content contentuid="hce4041e9g701dgc216g3460g9664c15aa703" version="2">The first &lt;LSTag Tooltip="AttackRolls"&gt;Attack Roll&lt;/LSTag&gt; or &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt; you make against any target gains a bonus equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;.</content>
+  <content contentuid="hbd558ad8g198fgc78eg7eb4g504d1f6fdbcb" version="3">Cheaters Unlock Illithid Passives</content>
+  <content contentuid="h076056f7g27b5g97ddg10a4g4168fc464f0e" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hc9e5e795gdcbfgadccg574ag26118abeff2f" version="1">TEST</content>
+  <content contentuid="h4fbb94d8g8ca4gca72g8923gebeb98887360" version="1">Cheaters Favourable Beginnings Toggle</content>
+  <content contentuid="h0c4c6748g035egda02g9a3dge2614145a426" version="1">Toggle this on to unlock the Favourable Beginnings Passive.&lt;br&gt;&lt;br&gt;Using this while already having the vanilla version of Favourable Beginnings unlocked from the Tadpole Power Menu may have unintended side effects and may lead to issues.</content>
+  <content contentuid="h2c3b6807g33b3g9c0dgb161g02afd9182805" version="1">Cheaters Ability Drain</content>
+  <content contentuid="hdb60e3a3g2678gb157g31a4gc9d2a53dfbc6" version="1">Cheaters Ability Drain Toggle</content>
+  <content contentuid="h0a73b047g5c63g5ce9g3cb6g5a7a93734c36" version="1">Toggle this on to unlock the Ability Drain Passive.&lt;br&gt;&lt;br&gt;Using this while already having the vanilla version of Ability Drain unlocked from the Tadpole Power Menu may have unintended side effects and may lead to issues.</content>
+  <content contentuid="hc36272f5g36cagd310ge73bgb2a1a7312c47" version="1">Cheaters Charm</content>
+  <content contentuid="h9549cb65geaacg7413g668agf30d446ccff2" version="1">Cheaters Charm Toggle</content>
+  <content contentuid="h244e01d9g5dbdg95cag9901g5e4ce5b89173" version="1">Toggle this on to unlock the Charm Passive.&lt;br&gt;&lt;br&gt;Using this while already having the vanilla version of Charm unlocked from the Tadpole Power Menu may have unintended side effects and may lead to issues.</content>
+  <content contentuid="h207e52eeg1ad6g7b07gaa6eg8a14c1bff6ca" version="1">Cheaters Displace Toggle</content>
+  <content contentuid="hc812ed26gadb1g4728g89cbga1c758a10e83" version="1">Toggle this on to unlock the Displace Passive.&lt;br&gt;&lt;br&gt;Using this while already having the vanilla version of Displace unlocked from the Tadpole Power Menu may have unintended side effects and may lead to issues.</content>
+  <content contentuid="h167f629bg8032g59e1g6435g926ac1e8b0d8" version="1">Cheaters Displace</content>
+  <content contentuid="h0f544b20gd76fg1da8gf09dgfee2723f46d6" version="1">Cheaters Psionic Backlash</content>
+  <content contentuid="h514738a5g83f7g3518g7e9agd45decbca551" version="1">Toggle this on to unlock the Psionic Backlash Passive.&lt;br&gt;&lt;br&gt;Using this while already having the vanilla version of Psionic Backlash unlocked from the Tadpole Power Menu may have unintended side effects and may lead to issues.</content>
+  <content contentuid="h15547a1dgb360g05f9g9d5bga4c554c15d18" version="1">Cheaters Psionic Backlash</content>
+  <content contentuid="hd477c630g131cg58fag17a1g2bc2d8121289" version="1">Cheaters Illithid Expertise</content>
+  <content contentuid="h09689f73gc8f6g56b2gd7bag956d5056ac50" version="1">Toggle this on to unlock the Illithid Expertise Passive.&lt;br&gt;&lt;br&gt;Using this while already having the vanilla version of Illithid Expertise unlocked from the Tadpole Power Menu may have unintended side effects and may lead to issues.</content>
+  <content contentuid="ha6c60dcdgfa81gdf8bgb6bdg611410b8bc0f" version="1">Cheaters Illithid Expertise</content>
+  <content contentuid="h4b40dde2g4160g6852gb873ge448b16f81a0" version="1">Cheaters Psionic Dominance</content>
+  <content contentuid="h9d076a15g5990ga6bcg775dg6b086994561a" version="1">Toggle this on to unlock the Psionic Dominance Passive.&lt;br&gt;&lt;br&gt;Using this while already having the vanilla version of Psionic Dominance unlocked from the Tadpole Power Menu may have unintended side effects and may lead to issues.</content>
+  <content contentuid="h2dffec33g7bb3g641bg27f6g95ea174705e7" version="1">Cheaters Psionic Dominance</content>
+  <content contentuid="h041aad01g7978g54c9gea4cgbfd53336bd5c" version="1">Cheaters Freecast Toggle</content>
+  <content contentuid="h8324979eg8084g2b70g4d75gab8b94fad7fc" version="1">Toggle this on to unlock the Freecast Passive.&lt;br&gt;&lt;br&gt;Using this while already having the vanilla version of Freecast unlocked from the Tadpole Power Menu may have unintended side effects and may lead to issues.</content>
+  <content contentuid="h8f27c5e9ge27cg7458gbacagaf4646520611" version="1">Cheaters Freecast</content>
+  <content contentuid="h7dada926g271fgf0ddgd10egf7244e51be2f" version="1">Cheaters Luck of the Far Realms</content>
+  <content contentuid="h7a27dfe4g943cg1202g6b24g00f82e5ba3d1" version="1">Toggle this on to unlock the Luck of the Far Realms Passive.&lt;br&gt;&lt;br&gt;Using this while already having the vanilla version of Luck of the Far Realms unlocked from the Tadpole Power Menu may have unintended side effects and may lead to issues.</content>
+  <content contentuid="h1a2414c0g18eege074g7e5bgbc4882f65b02" version="1">Cheaters Luck of the Far Realms</content>
+  <content contentuid="hb85b6eccgf321g4fe2g7c2dg8228cd2a53e5" version="1">Cheaters Survival Instinct</content>
+  <content contentuid="h3f15e260ga911g065cgda1bg3ddceecacf6e" version="1">Cheaters Survival Instinct</content>
+  <content contentuid="hf03c7b9dg57bag085fgd17dgd3204c9fd543" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h29996e83g7d5fg7900gde74g06596aef22e4" version="1">Cheaters Closed Fist of Bane</content>
+  <content contentuid="hd0122a66g1d73g4246g4368ge4ad97b2db0e" version="1">Conjure the divine aspect of Bane the Accursed - a fist that hangs in the air until the end of the round before falling, crushing anyone under it for [1].</content>
+  <content contentuid="ha3093273g94bcg427fg6849g7f173ff7c6ee" version="3">Cheaters Hellfire Orb</content>
+  <content contentuid="h8a487165gbcb2g40a8gdeb2g709146023f76" version="3">Hurl an exploding ball of &lt;LSTag Type="Status" Tooltip="BURNING_HELLFIRE"&gt;Hellfire&lt;/LSTag&gt; that damages all nearby creatures and objects.</content>
+  <content contentuid="h98c51bbfge0b3g2facgec4dgeb4392cd68af" version="1">Hellfire burns with more fervour than any mortal flame, ignoring &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; to Fire damage. </content>
+  <content contentuid="h6132b227g022bg119fgaa32g25695595ffd5" version="1">Cheaters Incinerate</content>
+  <content contentuid="h2f2d8313g6b56g85f8g1a9dg44119be3d28d" version="1">Wreath a target in malevolent flame. </content>
+  <content contentuid="h27b8992dga09age88fgc28ag9897fd053715" version="1">Cheaters Incinerate</content>
+  <content contentuid="h505a839dg00dfgf632g702eg3ad0dd67aa8c" version="1">Wreath a target in malevolent flame. </content>
+  <content contentuid="h702d25a4ga12cg1048g0e7agdbdc594019c2" version="1">Cheaters Animating Spores</content>
+  <content contentuid="hd5681b24g9ce7g3208g3adegcf6cb55dbd74" version="2">Release spores at a corpse to animate it as a spore servant under your command.&lt;br&gt;&lt;br&gt;Warning, this spell has very few restrictions on who or what you can reanimate, so please be mindful that animating story related characters could cause issues.</content>
+  <content contentuid="h50080edegd48bg2c9cg6961g6b9ee82a93ed" version="1">Cheaters Igniting Spark</content>
+  <content contentuid="hc79646a8gbdf9g4721gc52bge3577167d68b" version="1">Launch a mote of infernal flame to set a target alight and &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burn&lt;/LSTag&gt; it.</content>
+  <content contentuid="h81d16b61g7938g4d60g26f3g7fe53947657b" version="1">Cheaters Igniting Spark</content>
+  <content contentuid="h84bb3122g25f3g64f4g813bgd48f3b19d204" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hc9fe2f37g5f76g9dd2gddfdg0e381c339c43" version="1">Cheaters Hellfire Orb</content>
+  <content contentuid="h465162ccga9b0gb214gf992ga635eeba2437" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h9756ce8bg1ad3g9530g0abfg0261b9a904de" version="1">Cheaters Incinerate</content>
+  <content contentuid="h11ca230ag4531g2dc6g8e50g5b7d1e886133" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h9778f729ge72bg6669g8ed5gd6e0531e48b9" version="1">Cheaters Animating Spores</content>
+  <content contentuid="h33e346e7g355ag5ea6g1c01ga06016c1f32b" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h761839e3g2aa9gd22ag9602g964e17cb69e3" version="1">Cheaters Closed Fist of Bane</content>
+  <content contentuid="h16cdd350g0124g0469g3e91gd12d3411e162" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h5fd0b00ag7d23g0ae0gb995g3aaf5bd7aa36" version="1">Cheaters Spore Servant</content>
+  <content contentuid="h3a966b3cgb865g3897gdae9gb2a41df72ab9" version="1">The animating spores of a myconid sovereign have taken over this dead creature's body, moving it according to your will.</content>
+  <content contentuid="h45831b48g35c7g616eg7089gc84374f5d0e6" version="1">Dismiss</content>
+  <content contentuid="h8b4fb2f6gc500gcc4ag71e2g35cadd2e9ee9" version="1">Dismiss yourself from your masters service.</content>
+  <content contentuid="hb770bbe3g3739g7732g084bg15f0217e9074" version="1">This is a legacy item. It will not receive future additions.</content>
+  <content contentuid="h9a98e14dg32c6gb63agdc74g6907f851a450" version="1">Cheaters Darkness</content>
+  <content contentuid="h268fb7a1ge388g7af8g17edg12cf6a0a7219" version="1">Create a dark shroud that Heavily Obscures and &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinds&lt;/LSTag&gt; creatures within. Creatures cannot make ranged attacks into or out of it.</content>
+  <content contentuid="h065d3a1dg04deg0a68gacc1gc4716f01bbba" version="1">Cheaters Fog Cloud</content>
+  <content contentuid="h4e905ec5gacdeg7d06g9e0ege3509d0d6ccb" version="1">The cloud &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinds&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="SNEAKING_HEAVILY_OBSCURED"&gt;Heavily Obscures&lt;/LSTag&gt; creatures within it. </content>
+  <content contentuid="h8d30f60cg41a5g0580g9040g3854b3e1f99a" version="1">Cheaters Stinking Cloud</content>
+  <content contentuid="hc8225d66gf424gcab0gc4a6g4dd5a4f8632e" version="1">Create a cloud of gas so nauseating it prevents creatures from taking actions.</content>
+  <content contentuid="h4f503ef2gb77cgf07bg91c8g6bc492dde599" version="1">Cheaters Cloudkill</content>
+  <content contentuid="hbce6a6c9g5f34gae89g8e28g901e2f0a926c" version="1">Craft a large cloud that inflicts [1] per turn. You can reposition the cloud every turn.</content>
+  <content contentuid="h0b60f813g0a2eg7755g833dgecb85cbb8b60" version="1">The cloud Heavily Obscures everything within it.</content>
+  <content contentuid="hf18fb0b9gb1deg0367gfe8cg4c0c18530a25" version="1">Cheaters Grease</content>
+  <content contentuid="h7709ea18g0f49g7d5eg518cg26033ba99c7e" version="1">Cover the ground in grease, slowing creatures within and possibly making them fall &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+  <content contentuid="h28f33a2dg486dg0ad1gcd90gdd9a14cdc742" version="1">Cheaters Fog Cloud</content>
+  <content contentuid="h9e95c47ag6fbeg2876g61bfg31af1cf4003b" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hbcac1f2ag5eb6g3146g560agccd3e712d485" version="1">Cheaters Darkness</content>
+  <content contentuid="h7e4c5f44g8d14g0b6eg2a3fgf0d571561c34" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h3b939470g263dg68acg28a2g7acdaf9cce6d" version="1">Cheaters Stinking Cloud</content>
+  <content contentuid="h1f9d1344gb973gfc07g4982gdc44b46728cd" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h7744eaa3g7972g8614g3d85gef86dfb78ea2" version="1">Cheaters Cloudkill</content>
+  <content contentuid="h6b227a32g5baegef0dg0344gd1aaae3d5589" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h603ae55eg2f12gcb94gbde2g604c7bbdd7db" version="1">Cheaters Grease</content>
+  <content contentuid="h1c843f00g5c3cg541fg1bc6g92a60e037015" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h88677200g0789g4f23g2cdag86fd880f3acb" version="1">Cheaters Cloudkill</content>
+  <content contentuid="ha25931f9g98d5gb211g6f8fg5f8d105f2dfa" version="1">Craft a large cloud that inflicts [1] per turn. You can reposition the cloud every turn.</content>
+  <content contentuid="h73e7e0acg5b1aga09fgce7bg94e348d3b0f0" version="1">The cloud Heavily Obscures everything within it.</content>
+  <content contentuid="h85a9ca6fg3915ge0b6ge5b7g01cca70c31cc" version="2">Difficult terrain - &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; is halved, and creatures within are Blinded.
+
+Creatures starting their turn in the area take 50d20 Necrotic damage. 
+
+Creatures ending their turn in the area must succeed a Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or take 2d6 Acid damage.</content>
+  <content contentuid="hb62d55cag6665g7018gdf30gf62f75c3cbb1" version="2">Death</content>
+  <content contentuid="hdf56af30gaa4bgd85ega220gbc21e18e367b" version="1">Difficult terrain - &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; is halved, and creatures within are Blinded.
+
+Creatures starting their turn in the area take 2d6 Cold damage. 
+
+Creatures ending their turn in the area must succeed a Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or take 2d6 Acid damage.</content>
+  <content contentuid="he9b116e4g3294gd6a1g3617g7a355cc847a6" version="1">Death Cloud</content>
+  <content contentuid="hf99de0dbg4cb4gd609gdcc3g5e2c974b73ad" version="1">Cheaters Enlarge/Reduce</content>
+  <content contentuid="hc6b934b6g01e9g30aeg0404g91a0d3d8893f" version="1">Make a creature larger or smaller to affect their weapon damage and Strength &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+  <content contentuid="h279f6a29gd774gd53ag9602g6d02acbd5aae" version="1">Cheaters Reduce</content>
+  <content contentuid="h52791319g93e4g8670gf8b1gb372facd2a5c" version="1">Make a creature smaller. Its weapons deal [1] less damage. It has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+  <content contentuid="h19aa1a73g1fc6ge406g36ceg70fe9cc1d4ba" version="1">Cheaters Enlarge</content>
+  <content contentuid="hb61b0b19g43fbg3aebgd502g890b5e47fb7a" version="1">The target's weapon and unarmed attacks deal an additional [1] damage. It has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+  <content contentuid="h6447b34bg5da3g4557gfef7g6effc8184610" version="1">Cheaters Enlarge/Reduce</content>
+  <content contentuid="h82bbcaccgdc34g0be3gca3dga3f8a8780b50" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h25391875g64edgfd28g8557g1b060c8aa940" version="1">Cheaters Gaseous Form</content>
+  <content contentuid="ha0ddcc59g0747gc58eg74d5gb10fe8a74eb1" version="1">Transform yourself or an ally into a tiny gas cloud. It can't fall, and fits through small openings. It is very hard to damage.</content>
+  <content contentuid="h7ec256b3g4a47gdfbdgc47eged9776917f34" version="1">The cloud has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Constitution, Dexterity, and Strength &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+  <content contentuid="hb73213d5g84ffgaffcg94acgcd547b8dae02" version="1">Cheaters Gaseous Form</content>
+  <content contentuid="h601ed4c7gdf1fge7a1g8464g596327cbd89b" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h1516bc6cgf381ga374ga284gadadeb4360b9" version="1">Cheaters Cloudkill</content>
+  <content contentuid="h340cf42eg3b2cg3945g8c4eg4ff5ccaab4e9" version="1">Craft a large cloud that inflicts [1] per turn. You can reposition the cloud every turn.</content>
+  <content contentuid="h669cfa20gd9aeg10f9g4360g6e72b5a01f39" version="1">The cloud Heavily Obscures everything within it.</content>
+</contentList>

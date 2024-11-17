@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="05f87e82-499d-4e0b-8dd7-859b8b3e5beb">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="18d7f605-07e4-4828-8017-1bf24962057a" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_HOLD_CREATURE" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h361e252ag66d7gd6b4g3583ge70dc19339b7" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hba68847dgfa26g1a0ag367ag9079345f6df5" version="1" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="Distance(3)" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Enchantment_HoldMonster" />
+        <field name="AnimationLoop" type="ShortNameTableFieldDefinition" value="5f127742-79d4-4590-839f-6eb5ae45930d" />
+        <field name="AnimationEnd" type="ShortNameTableFieldDefinition" value="5f127742-79d4-4590-839f-6eb5ae45930d" />
+        <field name="StillAnimationPriority" type="EnumerationTableFieldDefinition" value="Snared" enumeration_type_name="StillAnimPriority" version="1" />
+        <field name="SoundVocalStart" type="EnumerationTableFieldDefinition" value="WEAK" enumeration_type_name="SoundVocalType" version="1" />
+        <field name="SoundLoop" type="StringTableFieldDefinition" value="Spell_Status_HoldMonster_MO" />
+        <field name="SoundStop" type="StringTableFieldDefinition" value="Spell_Status_HoldMonster_MO_Stop" />
+        <field name="FreezeTime" type="IntegerTableFieldDefinition" value="500" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="AbilityFailedSavingThrow(Strength);AbilityFailedSavingThrow(Dexterity);CriticalHit(AttackTarget,Success,Always,3);CriticalHit(AttackTarget,Failure,Never,3);Advantage(AttackTarget);ActionResourceBlock(Movement);DetectDisturbancesBlock(true);" />
+        <field name="StatusGroups" type="EnumerationListTableFieldDefinition" value="SG_Incapacitated;SG_Condition;SG_Paralyzed" enumeration_type_name="StatusGroupFlags" version="1" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="BreakConcentration()" />
+        <field name="StatusEffect" type="GuidObjectTableFieldDefinition" value="d709b541-e0f6-4494-adbe-0dfb65177e5f" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

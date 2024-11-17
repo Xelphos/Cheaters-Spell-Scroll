@@ -1,0 +1,13 @@
+new entry "XEL_CHEAT_GREATER_INVISIBILITY"
+type "StatusData"
+data "StatusType" "INVISIBLE"
+data "DisplayName" "ha95f33c6g5dd2gd746g19e9g445cd930ca14;1"
+data "Description" "h99e9a438gd88bgf319g8949g65151b406995;1"
+data "Icon" "Spell_Illusion_GreaterInvisibility"
+data "StackId" "INVISIBILITY"
+data "StackPriority" "5"
+data "Boosts" "IgnoreLeaveAttackRange; Invisibility(); Advantage(AttackRoll); DetectDisturbancesBlock(true);"
+data "StatusPropertyFlags" "UnavailableInActiveRoll;ExcludeFromPortraitRendering"
+data "StatusGroups" "SG_Invisible;SG_RemoveOnRespec"
+data "StatusEffect" "84be28b3-6fdf-4b62-86e2-1f3b333aab81"
+

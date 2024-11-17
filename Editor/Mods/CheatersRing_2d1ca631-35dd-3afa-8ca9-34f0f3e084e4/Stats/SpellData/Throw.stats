@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="c75b1787-58d1-4696-8d05-4acbda82eda1">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="21a5163b-7b00-421c-addd-c48bcb652f45" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_Telekinesis" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="10" />
+        <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Transmutation" enumeration_type_name="SpellSchool" version="1" />
+        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_Library" />
+        <field name="TargetFloor" type="StringTableFieldDefinition" value="-1" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="30" />
+        <field name="ThrowOrigin" type="EnumerationTableFieldDefinition" value="Target" enumeration_type_name="ThrowOrigin" version="1" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:DealDamage(1,Bludgeoning);TARGET:IF(HasStatus('MAG_PROJECTILE_SHOES_TECHNICAL', context.HitDescription.ThrownObject)):DealDamage(2d4, Psychic,Magical,,0,,true);TARGET:IF(HasStatus('MAG_THE_THORNS_WEAPON_BOND', context.HitDescription.ThrownObject)):ApplyStatus(MAG_THE_THORNS_AOE_DAMAGE_TECHNICAL, 100, 0);TARGET:IF(HasStatus('MAG_FIRE_THROW', context.HitDescription.ThrownObject)):DealDamage(1d4, Fire,Magical,,0,,true);TARGET:IF(HasStatus('MAG_COLD_THROW', context.HitDescription.ThrownObject)):DealDamage(1d4, Cold,Magical,,0,,true);TARGET:IF(HasStatus('MAG_LIGHTNING_THROW', context.HitDescription.ThrownObject)):DealDamage(1d4, Lightning,Magical,,0,,true);TARGET:IF(HasStatus('MAG_THUNDER_THROW', context.HitDescription.ThrownObject)):DealDamage(1d4, Thunder,Magical,,0,,true);TARGET:IF(HasStatus('MAG_ACID_THROW', context.HitDescription.ThrownObject)):DealDamage(1d4, Acid,Magical,,0,,true);TARGET:IF(HasStatus('MAG_POISON_THROW', context.HitDescription.ThrownObject)):DealDamage(1d4, Poison,Magical,,0,,true);TARGET:IF(HasStatus('MAG_NECROTIC_THROW', context.HitDescription.ThrownObject)):DealDamage(1d4, Necrotic,Magical,,0,,true);TARGET:IF(HasStatus('MAG_FORCE_THROW', context.HitDescription.ThrownObject)):DealDamage(1d4, Force,Magical,,0,,true);TARGET:IF(HasStatus('MAG_PSYCHIC_THROW', context.HitDescription.ThrownObject)):DealDamage(1d4, Psychic,Magical,,0,,true);TARGET:IF((HasStatus('BURNING', context.HitDescription.ThrownObject) or HasStatus('FLAMING_SPHERE_AURA', context.HitDescription.ThrownObject))):ApplyStatus(SELF, BURNING,100,1);TARGET:IF(IsLightThrownObject(context.HitDescription.ThrownObject,false)):DealDamage(1,Bludgeoning);TARGET:IF(IsMediumThrownObject(context.HitDescription.ThrownObject,false)):DealDamage(1d4,Bludgeoning);TARGET:IF(IsHeavyThrownObject(context.HitDescription.ThrownObject,false)):DealDamage(2d4,Bludgeoning);TARGET:IF(HasWeaponProperty(WeaponProperties.Thrown,context.HitDescription.ThrownObject)):DealDamage(ThrownWeapon, ThrownWeaponDamageType);TARGET:IF(HasWeightGreaterThan(context.Target.Weight/2, context.HitDescription.ThrownObject)):Force(2);TARGET:IF(HasWeightGreaterThan(context.Target.Weight, context.HitDescription.ThrownObject)):ApplyStatus(PRONE,100,1);" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="not Self()" />
+        <field name="ThrowableSpellSuccess" type="StringTableFieldDefinition" value="IF(Character()):ApplyStatus(PRONE_AFTER_THROW,100,1);" />
+        <field name="ThrowableTargetConditions" type="StringTableFieldDefinition" value="not Grounded() and not IsItemDisabled() and not HasAttribute('InventoryBound') and (IsMovable() or Character() or Dead()) and (not IsEquipped() or IsEquipmentSlot(EquipmentSlot.MeleeMainHand) or IsEquipmentSlot(EquipmentSlot.MeleeOffHand) or IsEquipmentSlot(EquipmentSlot.Boots))" />
+        <field name="Template" type="StringTableFieldDefinition" value="55ae7132-ee98-46a8-b111-771809a7ff76" />
+        <field name="Trajectories" type="StringTableFieldDefinition" value="55ae7132-ee98-46a8-b111-771809a7ff76, f432f788-1481-449b-a3fe-3d3e84412297, 200e3672-5ce8-482e-b880-91db9edd6566" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Transmutation_Telekinesis" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hed9a67eege9fage417g652cgc9f1323b86c0" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="ha6e8666dgb651g8b93ge253g3b6e5665111d" version="2" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="Distance(30)" />
+        <field name="ExtraDescription" type="TranslatedStringTableFieldDefinition" handle="h9567ab39gd224gb7fbgdbd0ge97af6db3963" version="1" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Generic_GeneralAction_Start" />
+        <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Generic_GeneralAction_Loop" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Control_Telekinesis_L5" />
+        <field name="TargetSound" type="StringTableFieldDefinition" value="Spell_Impact_Control_Telekinesis_L5" />
+        <field name="PreviewCursor" type="EnumerationTableFieldDefinition" value="Cast" enumeration_type_name="CursorMode" version="1" />
+        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:0" />
+        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="112f6ce5-c64e-4c47-8afc-824744390c21,,;57a133ee-98e0-46a4-8f57-e2ae436206e3,,;6359af9b-f775-42fb-8dec-00dea9acbba5,,;8285df5d-b1f5-46d0-aee6-4dccfe8c6699,,;b65bfc83-80fd-465f-ae1b-c0606482b5dd,,;,,;2129b85c-1d9e-4f56-97a6-0f6b8c664d8a,,;,,;,," />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Utility" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="RangeIgnoreVerticalThreshold;IsHarmful;HasHighGroundRangeExtension;IgnoreVisionBlock;AddFallDamageOnLand;HasVerbalComponent;HasSomaticComponent;AbortOnSpellRollFail;AbortOnSecondarySpellRollFail;CombatLogSetSingleLineRoll;IsSpell" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="HitAnimationType" type="EnumerationTableFieldDefinition" value="MagicalDamage_External" enumeration_type_name="HitAnimationType" version="1" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="1861cb83-aa7c-4b64-8dd3-37d2348f65c9" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="74c0adbe-5a19-430b-942a-f378180112b1" />
+        <field name="TargetEffect" type="GuidObjectTableFieldDefinition" value="50bedaff-dd03-43bf-a7aa-4b9bef9eeb4e" />
+        <field name="SpellAnimationType" type="EnumerationTableFieldDefinition" value="Telekinesis" enumeration_type_name="SpellAnimationType" version="1" />
+        <field name="DamageType" type="EnumerationTableFieldDefinition" value="Bludgeoning" enumeration_type_name="Damage Type" version="1" />
+        <field name="SpellSoundMagnitude" type="EnumerationTableFieldDefinition" value="Small" enumeration_type_name="SpellSoundMagnitude" version="1" />
+        <field name="Sheathing" type="EnumerationTableFieldDefinition" value="Sheathed" enumeration_type_name="SpellSheathing" version="1" />
+        <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

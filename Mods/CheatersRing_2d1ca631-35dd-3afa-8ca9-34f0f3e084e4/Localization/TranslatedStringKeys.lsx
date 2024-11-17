@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328" />
+    <region id="TranslatedStringKeys">
+        <node id="TranslatedStringKeys">
+            <children>
+                <node id="TranslatedStringKey">
+                    <attribute id="Content" type="TranslatedString" handle="h0acd8415g7f18g82a2g8a39g84bd4c8877d7" version="7" />
+                    <attribute id="UUID" type="FixedString" value="XEL_Cheat_Respec" />
+                    <attribute id="Speaker" type="FixedString" value="" />
+                    <attribute id="ExtraData" type="LSString" value="" />
+                    <attribute id="Stub" type="bool" value="False" />
+                </node>
+                <node id="TranslatedStringKey">
+                    <attribute id="Content" type="TranslatedString" handle="h017b36e3g87dfg042cg5694g09db22df55cc" version="1" />
+                    <attribute id="UUID" type="FixedString" value="XEL_Cheat_Approval" />
+                    <attribute id="Speaker" type="FixedString" value="" />
+                    <attribute id="ExtraData" type="LSString" value="" />
+                    <attribute id="Stub" type="bool" value="False" />
+                </node>
+                <node id="TranslatedStringKey">
+                    <attribute id="Content" type="TranslatedString" handle="h11ee1909g4292g29dcg38a2ged6d6c856592" version="2" />
+                    <attribute id="UUID" type="FixedString" value="XEL_GodMode_Choice" />
+                    <attribute id="Speaker" type="FixedString" value="" />
+                    <attribute id="ExtraData" type="LSString" value="" />
+                    <attribute id="Stub" type="bool" value="False" />
+                </node>
+                <node id="TranslatedStringKey">
+                    <attribute id="Content" type="TranslatedString" handle="h26c965ceg10acg4304ga25fgac670926fa3d" version="1" />
+                    <attribute id="UUID" type="FixedString" value="XEL_GodMode_Type_One" />
+                    <attribute id="Speaker" type="FixedString" value="" />
+                    <attribute id="ExtraData" type="LSString" value="" />
+                    <attribute id="Stub" type="bool" value="False" />
+                </node>
+                <node id="TranslatedStringKey">
+                    <attribute id="Content" type="TranslatedString" handle="h9afdbab0g1aebg3fd2gcda9gddc5ed68a73a" version="1" />
+                    <attribute id="UUID" type="FixedString" value="XEL_GodMode_Type_Two" />
+                    <attribute id="Speaker" type="FixedString" value="" />
+                    <attribute id="ExtraData" type="LSString" value="" />
+                    <attribute id="Stub" type="bool" value="False" />
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

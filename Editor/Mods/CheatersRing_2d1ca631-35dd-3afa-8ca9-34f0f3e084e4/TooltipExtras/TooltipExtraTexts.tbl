@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="e695a80c-766a-436d-90e8-de68031ffd1e">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e0e7e272-9ad3-452b-b7c4-66dd043ad508" />
+        <field name="Text" type="TranslatedStringTableFieldDefinition" handle="h0acd8415g7f18g82a2g8a39g84bd4c8877d7" version="7" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="10b50a40-0ab3-41c2-8e98-a538d8287a44" />
+        <field name="Text" type="TranslatedStringTableFieldDefinition" handle="h017b36e3g87dfg042cg5694g09db22df55cc" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="159ee088-321f-4433-98f9-0e6f7c4f0500" />
+        <field name="Text" type="TranslatedStringTableFieldDefinition" handle="h11ee1909g4292g29dcg38a2ged6d6c856592" version="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="579e09e8-5c97-486e-ab64-143ccc11699d" />
+        <field name="Text" type="TranslatedStringTableFieldDefinition" handle="h26c965ceg10acg4304ga25fgac670926fa3d" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_4" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c685a060-ae2e-4c7f-89d2-02568c211c22" />
+        <field name="Text" type="TranslatedStringTableFieldDefinition" handle="h9afdbab0g1aebg3fd2gcda9gddc5ed68a73a" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c0ca721a-2232-4521-b262-0c3128ba87e9" />
+        <field name="Text" type="TranslatedStringTableFieldDefinition" handle="h1b2d06dag40b1gd76cg10e1gc649a64be7c4" version="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

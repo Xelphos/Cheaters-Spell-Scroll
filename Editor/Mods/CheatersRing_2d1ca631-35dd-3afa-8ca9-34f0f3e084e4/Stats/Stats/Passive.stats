@@ -1,0 +1,488 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="3e76b74c-a5ae-4268-944a-aa9c31e2185e">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="dc380714-ceab-45ad-9f2e-2c755306b888" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_Roll_Boost_Passive" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h02345d85g95beg64e7g6627g42763f1eda81" version="14" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h69ee8de4g259fg4306g309eg63caa5867da2" version="16" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_Lucky_RollAdditionalDie" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CHEAT_ROLL_BONUS,100,-1)" />
+        <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CHEAT_ROLL_BONUS)" />
+        <field name="ToggleGroup" type="StringTableFieldDefinition" value="XEL_RollBonusCheat" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6ab5272f-0969-4a41-9619-1936b935bab5" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_Roll_Negative_Boost_Passive" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hfe0e7d0dg98dbg7ad8g2c7ag484480d5ca55" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h626dcf03g574dgd735ga0b0g79ff8ad96220" version="2" />
+        <field name="Icon" type="StringTableFieldDefinition" value="XEL_CSS_RollAdditionalDie" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CHEAT_NEGATIVE_ROLL_BONUS,100,-1)" />
+        <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CHEAT_NEGATIVE_ROLL_BONUS)" />
+        <field name="ToggleGroup" type="StringTableFieldDefinition" value="XEL_RollBonusCheat" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="40831c85-0aa0-46c0-8565-b7b7a939827e" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_Damage_Bonus_Passive" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h060ff99fg2cacg4f79g04e4gc101e9b88fef" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h923e2157g39cbgfae6g82e6g69937305f144" version="2" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_Legendary_Offensive" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CHEAT_DAMAGE_BONUS,100,-1)" />
+        <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CHEAT_DAMAGE_BONUS)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="721b9fd0-21a0-42b1-8468-956c0816ee20" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_Always_Critical_Success_Passive" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he326f16egffb4gc93fg71ecg7ac8e9e3806e" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h4d2ffa7cga815g2b29g10cbgbea892ba4947" version="7" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_Portent_20" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="ToggleGroup" type="StringTableFieldDefinition" value="XEL_CriticalRollCheat" />
+        <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CHEAT_ALWAYS_CRITICAL,100,-1)" />
+        <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CHEAT_ALWAYS_CRITICAL)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="35a3a9b8-3068-493a-b8db-3735c2363f0d" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_Always_Critcal_Fail_Passive" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h780592d5g0f36g05eagcb1bg84fcb91bb09c" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="heb55cc3agf09eg2ef6ga2f4gf0c623a5d35c" version="3" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_Portent_1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="ToggleGroup" type="StringTableFieldDefinition" value="XEL_CriticalRollCheat" />
+        <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CHEAT_ALWAYS_CRITICAL_FAILURE,100,-1)" />
+        <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CHEAT_ALWAYS_CRITICAL_FAILURE)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2c7f6190-f426-4803-9ae3-f3fbe3b76d73" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_No_Critcal_Fail_Passive" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4efd8402g7a10g29f7g6851g44a53bd6e573" version="6" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hcf1a05beg7bd0g3b75g839ag9907f9e64664" version="12" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_Portent_2" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="ToggleGroup" type="StringTableFieldDefinition" value="XEL_CriticalRollCheat" />
+        <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CHEAT_NO_CRITICAL_FAILURE,100,-1)" />
+        <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CHEAT_NO_CRITICAL_FAILURE)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9e1f7f57-4187-4e0e-9360-5c0c8160425f" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_God_Mode_Passive" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc959513bgdce6g3ed4ga0d9g93da88c0efd6" version="5" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h98cfbd7cg5532gbfa4g39a6g4c556c113488" version="9" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Skill_Sorcerer_Passive_ElementalAffinity_Resistance" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CHEAT_GOD_MODE,100,-1)" />
+        <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CHEAT_GOD_MODE)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="55683d26-0909-4ad9-830c-9eda764be226" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_Ability_Score_Boost_Passive" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8171b678g2254g85eag1241g4fd8fdefce88" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hdf6952b7ge86egf5feg28b2g551b83754454" version="3" />
+        <field name="Icon" type="StringTableFieldDefinition" value="GenericIcon_Intent_Buff" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CHEAT_ABILITY_SCORE,100,-1)" />
+        <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CHEAT_ABILITY_SCORE)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="bd79970a-07ff-4075-b2eb-655b086dee12" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_AbilityChecks_AlwaysCriticalSuccess" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h91101cfeg73d9g3e61g30dcg6d84b452d6a4" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="he394969ag3852g6f43gc40ag97dca9cdbb0d" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IF(IsAbilityChecked(Ability.Strength) or IsAbilityChecked(Ability.Dexterity) or IsAbilityChecked(Ability.Constitution) or IsAbilityChecked(Ability.Intelligence) or IsAbilityChecked(Ability.Wisdom) or IsAbilityChecked(Ability.Charisma)):MinimumRollResult(RawAbility,20)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="21c9107c-db1c-4dab-b59c-43a19a97b946" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_SkillChecks_AlwaysCriticalSuccess" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h585c074dg892dge563g251ag2da003c5daac" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h763a0c32g39b7gb221gdc39g8f44c8932874" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IF(IsSkillChecked(Skill.Acrobatics) or IsSkillChecked(Skill.AnimalHandling) or IsSkillChecked(Skill.Athletics) or IsSkillChecked(Skill.Arcana) or IsSkillChecked(Skill.History) or IsSkillChecked(Skill.Investigation) or IsSkillChecked(Skill.Nature) or IsSkillChecked(Skill.Religion) or IsSkillChecked(Skill.Insight) or IsSkillChecked(Skill.Medicine) or IsSkillChecked(Skill.Perception) or IsSkillChecked(Skill.Survival) or IsSkillChecked(Skill.Deception) or IsSkillChecked(Skill.Intimidation) or IsSkillChecked(Skill.Performance) or IsSkillChecked(Skill.Persuasion) or IsSkillChecked(Skill.SleightOfHand) or IsSkillChecked(Skill.Stealth)):MinimumRollResult(SkillCheck,20)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9ddb0a6f-6497-4c23-8f38-62c18a6fac8b" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_SavingThrows_AlwaysCriticalSuccess" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7ad4f6ddg61e4gf3dag55e8gf87207e16cc5" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h521391fcg5259gdd71g3310ga7238f3c6a6a" version="1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IF(HasSavingThrowWithAbility(Ability.Strength) or HasSavingThrowWithAbility(Ability.Dexterity) or HasSavingThrowWithAbility(Ability.Constitution) or HasSavingThrowWithAbility(Ability.Intelligence) or HasSavingThrowWithAbility(Ability.Wisdom) or HasSavingThrowWithAbility(Ability.Charisma)):MinimumRollResult(SavingThrow,20)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2d21765a-2d49-446d-8aca-c7f1a2df1375" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_AttackRoll_AlwaysCriticalSuccess" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc7a84fc6gd6e9g273bgb141g7145d5a7dfa7" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc7d8cbadg4623g0b3bg0ce7g2bfc92bac7f5" version="1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IF(IsMeleeAttack() or IsRangedAttack() or IsUnarmedAttack()):CriticalHit(AttackRoll,Success,Always)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2ed0a81c-429c-4731-b53e-e94c9dacbcf1" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_AbilityChecks_AlwaysCriticalFailure" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha79d5893g02e5g43e9g7de5g18fa9ccfaf05" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h1ffb20e9gaed3gf6eag1cfdg678e1c3b02dd" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IF(IsAbilityChecked(Ability.Strength) or IsAbilityChecked(Ability.Dexterity) or IsAbilityChecked(Ability.Constitution) or IsAbilityChecked(Ability.Intelligence) or IsAbilityChecked(Ability.Wisdom) or IsAbilityChecked(Ability.Charisma)):MaximumRollResult(RawAbility,1)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="00a7c7f8-0e4b-4441-b819-66ed7c0ff926" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_SkillChecks_AlwaysCriticalFailure" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h506e87f9g237eg79d6g3ff6gebe3e632bc83" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h5818d41bgb9cfg8602ge8fbg15a29021c1c0" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IF(IsSkillChecked(Skill.Acrobatics) or IsSkillChecked(Skill.AnimalHandling) or IsSkillChecked(Skill.Athletics) or IsSkillChecked(Skill.Arcana) or IsSkillChecked(Skill.History) or IsSkillChecked(Skill.Investigation) or IsSkillChecked(Skill.Nature) or IsSkillChecked(Skill.Religion) or IsSkillChecked(Skill.Insight) or IsSkillChecked(Skill.Medicine) or IsSkillChecked(Skill.Perception) or IsSkillChecked(Skill.Survival) or IsSkillChecked(Skill.Deception) or IsSkillChecked(Skill.Intimidation) or IsSkillChecked(Skill.Performance) or IsSkillChecked(Skill.Persuasion) or IsSkillChecked(Skill.SleightOfHand) or IsSkillChecked(Skill.Stealth)):MaximumRollResult(SkillCheck,1)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="eb0584a9-d55c-4169-b151-74b8cfc1be6d" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_SavingThrows_AlwaysCriticalFailure" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1d104381gcce5g9571ga25eg54a5ca52ba35" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h250a9a25g47afg925eg5990g096dca296926" version="1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IF(HasSavingThrowWithAbility(Ability.Strength) or HasSavingThrowWithAbility(Ability.Dexterity) or HasSavingThrowWithAbility(Ability.Constitution) or HasSavingThrowWithAbility(Ability.Intelligence) or HasSavingThrowWithAbility(Ability.Wisdom) or HasSavingThrowWithAbility(Ability.Charisma)):MaximumRollResult(SavingThrow,1)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d2c7813b-0631-4da7-9418-3cfc6d54f1fd" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_AbilityChecks_NeverCriticalFailure" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h18cb3d67g4c16g3ee0gcb4cg7ce17f43932e" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h64bfd4e9g7926gec86g86bfg3f85b55485fd" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IF(IsAbilityChecked(Ability.Strength) or IsAbilityChecked(Ability.Dexterity) or IsAbilityChecked(Ability.Constitution) or IsAbilityChecked(Ability.Intelligence) or IsAbilityChecked(Ability.Wisdom) or IsAbilityChecked(Ability.Charisma)):MinimumRollResult(RawAbility,2)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a88d02e6-25a1-4cd7-af79-72437b0b967f" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_SkillChecks_NeverCriticalFailure" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8c2006f9gc852gebb6gf6faga4209fa6abd0" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h6db71cc7g3e2bgf85agc228ga5acc420af7c" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IF(IsSkillChecked(Skill.Acrobatics) or IsSkillChecked(Skill.AnimalHandling) or IsSkillChecked(Skill.Athletics) or IsSkillChecked(Skill.Arcana) or IsSkillChecked(Skill.History) or IsSkillChecked(Skill.Investigation) or IsSkillChecked(Skill.Nature) or IsSkillChecked(Skill.Religion) or IsSkillChecked(Skill.Insight) or IsSkillChecked(Skill.Medicine) or IsSkillChecked(Skill.Perception) or IsSkillChecked(Skill.Survival) or IsSkillChecked(Skill.Deception) or IsSkillChecked(Skill.Intimidation) or IsSkillChecked(Skill.Performance) or IsSkillChecked(Skill.Persuasion) or IsSkillChecked(Skill.SleightOfHand) or IsSkillChecked(Skill.Stealth)):MinimumRollResult(SkillCheck,2)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="bda31864-9338-4629-939e-bd2784c1b244" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_SavingThrows_NeverCriticalFailure" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h84f35a29g7be5ga92ag0296gc8b85d7685c9" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h5485cd00gae07gd01dgdd43g3a0187f6bd59" version="1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IF(HasSavingThrowWithAbility(Ability.Strength) or HasSavingThrowWithAbility(Ability.Dexterity) or HasSavingThrowWithAbility(Ability.Constitution) or HasSavingThrowWithAbility(Ability.Intelligence) or HasSavingThrowWithAbility(Ability.Wisdom) or HasSavingThrowWithAbility(Ability.Charisma)):MinimumRollResult(SavingThrow,2)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4017c811-c2af-4749-a7cc-b1757bff02b5" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_AttackRoll_NeverCriticalFailure" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hce6aaa23ga069g24f7gedf4g374b7a55adb7" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h85d86299g8efeg2b19gf8e3g44ee2a9323da" version="1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IF(IsMeleeAttack() or IsRangedAttack() or IsUnarmedAttack()):CriticalHit(AttackRoll,Failure,Never)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="906fe401-1f47-419f-ae8d-96390dcd5899" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_AutoWash_Passive" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0d5da4d5g2ab8g4d2egc23fg0dab14d7e3c5" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hdb42047fg9d5agcb44g72a8g50d1b9b43683" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Item_LOOT_Bathroom_Soap_A" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="ToggledDefaultAddToHotbar;IsToggled" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnCombatEnded" enumeration_type_name="StatsFunctorContext" version="1" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_SOAP_WASH_AURA,100,1);ApplyStatus(XEL_SOAP_WASH,100,1)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e8e24de3-2483-4ca6-a46c-9ac8bdd8cfa5" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_Bone_Zone_Passive" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h81c2e2b1g9b7cgbd9dgbc9fg2d603ef0931e" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h6f6a5a6eg47f9g2685g6fe4g315ee5294979" version="2" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_Generic_Death" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="StatsFunctorContext" type="EnumerationListTableFieldDefinition" value="OnLongRest" enumeration_type_name="StatsFunctorContext" version="1" />
+        <field name="Conditions" type="StringTableFieldDefinition" value="HasStatus('XEL_CHEAT_BONE_ZONE_AURA')" />
+        <field name="StatsFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(ANIMATEDEAD_ZONE,100,-1)" />
+        <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CHEAT_BONE_ZONE_AURA,100,-1);ApplyStatus(ANIMATEDEAD_ZONE,100,-1)" />
+        <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CHEAT_BONE_ZONE_AURA);RemoveStatus(ANIMATEDEAD_ZONE)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2cf4875b-40a7-48a0-8893-97fdfe4b502c" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_Ringless_Ability_Removal" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf19d2d76g266bge3eag8fdagd63ca7e9fa9c" version="3" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h38b80b77g3ff5g6e0ag5125g12e76bc51599" version="4" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Item_LOOT_GEN_Ring_C_Gold_A_1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_NO_RING_ABILITY_UNLOCK)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cc4a5402-aad2-47d5-9532-9af4551c1e72" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_Passive_Removal" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6a5d5b88ga431gb1bdgb86ag8abd26d1bc71" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h302cab67g2b40g1993g75f8g28934d8819ba" version="2" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Item_LOOT_GEN_Ring_C_Gold_A_1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_PASSIVE_UNLOCK)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1dcb5d08-a62b-4fdf-b1a7-ce026dcab4cd" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_Ring_Passives" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6addb278g3d15gd71cg2f40g3c56021e5d77" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc4ffaae9gc42bg86d7gb1eag40ca0f5117ad" version="2" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Item_LOOT_GEN_Ring_C_Gold_A_1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar;ToggledDefaultOn" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_RING_PASSIVES_STATUS,100,-1)" />
+        <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_RING_PASSIVES_STATUS)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6dbdc5db-0bf2-451a-80cb-1f494c74b620" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_AntiMagic_Aura_Passive" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hde9e1367g1cb5gca86ga158ge2a6f4ff0e52" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="ha1f35ffega244g8b9cg4b4eg8dce27c94af1" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_Monster_Orthon_ExplosiveRetribution" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CHEAT_ANTIMAGIC_AURA,100,-1)" />
+        <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CHEAT_ANTIMAGIC_AURA)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f13dcb75-e663-4baa-be5c-9a3093ea7ae1" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RemoveIllithidPassives" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h87bc6707gcebegc1beg0049g1195cacadbca" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h765986b2ge5d1g009bg0577g618a5f42cc26" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="TadpoleSuperPower_AberrantShape" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_UNLOCK_ILLITHID_PASSIVES)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6d0b27d2-ea72-442f-838d-acf1a7e9b1aa" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_TAD_PeaceBreakerToggle" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4fbb94d8g8ca4gca72g8923gebeb98887360" version="1" />
+        <field name="BoostConditions" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h0c4c6748g035egda02g9a3dge2614145a426" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="TadpoleSuperPower_PeaceBreaker" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar;IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CSS_TAD_PEACEBREAKER_PASSIVE,100,-1)" />
+        <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_TAD_PEACEBREAKER_PASSIVE)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="fcd3ed27-29e3-4803-b892-ffac2a608d54" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_TAD_PeaceBreaker" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c4d56d7a-21d4-4eec-9e89-be7a0a58513a" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h572aba7fg8c0dg4828ge958g8a63f412f62e" version="1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="BoostConditions" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Conditions" type="StringTableFieldDefinition" value="not HasStatus('TAD_PEACE_BREAKER') and (IsAttack() or not context.HasContextFlag(StatsFunctorContext.OnAttack))" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7d456dd3-c793-40b2-9a33-c6595bb8bed4" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_TAD_DrainAbilityToggle" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hdb60e3a3g2678gb157g31a4gc9d2a53dfbc6" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h0a73b047g5c63g5ce9g3cb6g5a7a93734c36" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="TadpoleSuperPower_AbilityDrain" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar;IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CSS_TAD_ABILITYDRAIN_PASSIVE,100,-1)" />
+        <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_TAD_ABILITYDRAIN_PASSIVE)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d9010679-9e9d-49e5-bc50-c06b1fbe3d91" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_TAD_DrainAbility" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="6252570e-c883-4fcb-b541-c290b2383559" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2c3b6807g33b3g9c0dgb161g02afd9182805" version="1" />
+        <field name="Conditions" type="StringTableFieldDefinition" value="IsAttack() and HasDamageEffectFlag(DamageFlags.Hit) and Character() and not Ally()" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="75cc7f99-f0de-4f40-9e5b-70cbe81c9bdd" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_TAD_CharmToggle" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9549cb65geaacg7413g668agf30d446ccff2" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h244e01d9g5dbdg95cag9901g5e4ce5b89173" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="TadpoleSuperPower_Charm" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar;IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CSS_TAD_CHARM_PASSIVE,100,-1)" />
+        <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_TAD_CHARM_PASSIVE)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1f646097-0176-4ab0-a41e-b63b06f03df5" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_TAD_Charm" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="6c458da4-a0e2-48af-ada3-a0a4b8d5465e" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc36272f5g36cagd310ge73bgb2a1a7312c47" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e1976f40-2b84-47b5-a3fa-4f0bfbe776cc" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_TAD_DisplaceToggle" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h207e52eeg1ad6g7b07gaa6eg8a14c1bff6ca" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc812ed26gadb1g4728g89cbga1c758a10e83" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="TadpoleSuperPower_Displace" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar;IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CSS_TAD_DISPLACE_PASSIVE,100,-1)" />
+        <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_TAD_DISPLACE_PASSIVE)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a4109257-3fc0-4204-aabd-be76862c7b9b" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_TAD_Displace" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="abfcda1d-4825-4edb-9822-eb164b10592d" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h167f629bg8032g59e1g6435g926ac1e8b0d8" version="1" />
+        <field name="Conditions" type="StringTableFieldDefinition" value="not Ally() and (HasFunctor(StatsFunctorType.Force) or SpellTypeIs(SpellType.Teleportation))" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="fb6078a1-799f-4403-8b88-15bb8036cd65" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_TAD_PsionicBacklashToggle" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0f544b20gd76fg1da8gf09dgfee2723f46d6" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h514738a5g83f7g3518g7e9agd45decbca551" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="TadpoleSuperPower_PsionicBacklash" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar;IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CSS_TAD_PSIONICBACKLASH_PASSIVE,100,-1)" />
+        <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_TAD_PSIONICBACKLASH_PASSIVE)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0bb3b949-5efa-4b16-ad72-e1a6077a68e0" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_TAD_PsionicBacklash" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="71ec7dad-0a5e-473f-be70-c125aa98f05e" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h15547a1dgb360g05f9g9d5bga4c554c15d18" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="39bbb949-f49c-4165-9d9a-3e70a5c479f1" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_TAD_ExpertiseToggle" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd477c630g131cg58fag17a1g2bc2d8121289" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h09689f73gc8f6g56b2gd7bag956d5056ac50" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="TadpoleSuperPower_IllithidExpertise" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar;IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CSS_TAD_ILLITHIDEXPERTISE_PASSIVE,100,-1)" />
+        <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_TAD_ILLITHIDEXPERTISE_PASSIVE)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="abe27455-b602-4007-aab6-70aa13bb5781" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_TAD_Expertise" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="6c35c7c9-9edb-47cc-918d-3ce892b63aa6" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha6c60dcdgfa81gdf8bgb6bdg611410b8bc0f" version="1" />
+        <field name="BoostConditions" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6ce2dfa4-e5c6-4e7c-8a1e-add30c0f9001" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_TAD_PsionicDominanceToggle" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4b40dde2g4160g6852gb873ge448b16f81a0" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9d076a15g5990ga6bcg775dg6b086994561a" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="TadpoleSuperPower_PsionicDominance" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar;IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CSS_TAD_PSIONICDOMINANCE_PASSIVE,100,-1)" />
+        <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_TAD_PSIONICDOMINANCE_PASSIVE)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="abfbfb74-4dc9-4d95-bb00-71ed8ba222d3" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_TAD_PsionicDominance" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="83aa3b10-49bb-4090-a0df-a6a3b40d6a64" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2dffec33g7bb3g641bg27f6g95ea174705e7" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5987f66b-e3ef-4b94-969f-5043d78d5178" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_TAD_FreecastToggle" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h041aad01g7978g54c9gea4cgbfd53336bd5c" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h8324979eg8084g2b70g4d75gab8b94fad7fc" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="TadpoleSuperPower_Freecast" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar;IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CSS_TAD_FREECAST_PASSIVE,100,-1)" />
+        <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_TAD_FREECAST_PASSIVE)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="16641ab4-8199-4cfd-b2af-2000059464a6" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_TAD_Freecast" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="3808aa24-792a-48b8-90fe-b947be139199" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8f27c5e9ge27cg7458gbacagaf4646520611" version="1" />
+        <field name="EnabledConditions" type="StringTableFieldDefinition" value="((context.HasContextFlag(StatsFunctorContext.OnStatusApplied) and not HasStatus('TAD_FREECAST', context.Source)) or (not context.HasContextFlag(StatsFunctorContext.OnStatusApplied) and not HasStatus('TAD_FREECAST')))" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5b63648b-3619-49ba-9156-fba6836643db" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_TAD_LuckOfTheFarRealmsToggle" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7dada926g271fgf0ddgd10egf7244e51be2f" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h7a27dfe4g943cg1202g6b24g00f82e5ba3d1" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="TadpoleSuperPower_LuckOfTheFarRealm" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar;IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CSS_TAD_LUCKOFTHEFARREALMS_PASSIVE,100,-1)" />
+        <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_TAD_LUCKOFTHEFARREALMS_PASSIVE)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="18b184d2-c41a-407e-89ed-04e8fd401f90" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_TAD_LuckOfTheFarRealms" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="f9e7e4c4-89df-4e56-88a4-08582a0b4b56" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1a2414c0g18eege074g7e5bgbc4882f65b02" version="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

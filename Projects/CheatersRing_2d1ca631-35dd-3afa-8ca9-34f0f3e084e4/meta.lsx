@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="2d1ca631-35dd-3afa-8ca9-34f0f3e084e4"/>
+            <attribute id="Name" type="LSString" value="CheatersRing"/>
+            <attribute id="UUID" type="LSString" value="f937431c-86d9-e61a-79ae-aa325b314f5c"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

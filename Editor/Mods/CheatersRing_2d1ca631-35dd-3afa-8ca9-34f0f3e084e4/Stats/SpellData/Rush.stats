@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="bbe0e72e-fa2a-41d2-be9a-c604af561421">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a9e5c7e7-68e3-432a-ad9c-26c91a875071" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_TAD_ForceTunnel" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2d94c996-2313-4a4a-b756-37a4c5fa5652" />
+        <field name="Cooldown" type="EnumerationTableFieldDefinition" clear_inherited_value="true" value="" enumeration_type_name="CooldownType" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd0c713a0g104fg5e5bg4bcag64bd39fda19c" version="1" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="662f3079-609c-4eed-a2f0-d5ab33f9ae9d" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_MF_ForceTunnel" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="bff1d63f-e227-4381-9433-c97dd5670ee7" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h39bec20cg587ag755dg845bg3e54c98ff872" version="1" />
+        <field name="RequirementConditions" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

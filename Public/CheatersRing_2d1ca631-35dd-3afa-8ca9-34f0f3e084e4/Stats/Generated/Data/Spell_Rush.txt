@@ -1,0 +1,18 @@
+new entry "Rush_XEL_CSS_TAD_ForceTunnel"
+type "SpellData"
+data "SpellType" "Rush"
+using "Rush_ForceTunnel"
+data "Cooldown" ""
+data "AIFlags" "CanNotUse"
+data "DisplayName" "hd0c713a0g104fg5e5bg4bcag64bd39fda19c;1"
+data "UseCosts" "BonusActionPoint:1"
+data "RequirementConditions" ""
+
+new entry "Rush_XEL_CSS_MF_ForceTunnel"
+type "SpellData"
+data "SpellType" "Rush"
+using "Rush_MF_ForceTunnel"
+data "AIFlags" "CanNotUse"
+data "DisplayName" "h39bec20cg587ag755dg845bg3e54c98ff872;1"
+data "RequirementConditions" ""
+

@@ -1,0 +1,10 @@
+new entry "Zone_XEL_CSS_TAD_MindBlast"
+type "SpellData"
+data "SpellType" "Zone"
+using "Zone_TAD_MindBlast"
+data "Cooldown" ""
+data "AIFlags" "CanNotUse"
+data "DisplayName" "h145babd5gec38g9386gb537g4f9312a26a7c;1"
+data "Description" "h55932274g746ag864fgd16egbf9822873f9d;1"
+data "UseCosts" "BonusActionPoint:1"
+
