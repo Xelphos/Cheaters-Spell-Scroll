@@ -1,0 +1,78 @@
+Details:
+Cheaters Spell Scroll is a utility/cheat mod inspired by Faerun Utility. It originally was a ring and only meant to be a very small mod with a few utility/fun spells, but as time went on it grew and grew thanks to the feedback and suggestions from it's users and now it's more versatile and customizable than it has ever been.
+
+If you need help with my mods, encountered a bug or want to make a feature request, please report or post them on my Discord server: https://discord.gg/6Z64yaPDeP
+
+An almost complete list of changes since 2.0.0 can be found here.
+
+A note on updating. If you update the mod mid save and new spells have been added, you can get the new spells from the Miscellaneous Chest.
+
+Spells:
+Summon Cheaters Spell Scroll: Summons an extra copy of the Spell Scroll.
+Cheaters Spell Scroll : Tadpole Series: Contains most of the Tadpole Abilities and Passives.
+Unlock Passives: This spell unlocks all passives from the Cheaters Spell Scroll, they can be found in the passives tab on the hotbar or in the radial action menu, though controller users may have to manually add them to the radial menu..
+Unlock Waypoints Act 1, 2, and 3: These spells will unlock the waypoints for their respective act when cast. These are very much use at your own risk as teleporting to a waypoint in an act you have not reached yet normally can break things.
+Free Respec: Allows you to respec for free anywhere while outside of combat.
+Increase Approval Rating: Casting this on a companion will increase their approval rating by 25.
+Opulent Revival: Will resurrect any nearby downed or dead companions.
+Restoration: Will restore all nearby allies as if they had just finished a Long Rest as well as remove most negative Status Effects.
+Misty Step: Same as normal Misty Step, except a longer range and doesn't care about line of sight.
+Dimension Door: Same as the normal one, except increased range and free.
+Mass Fly: Gives you and nearby allies the ability to fly.
+Longstrider: Gives the caster and nearby allies an extra 30m of movement speed.
+Mass Greater Invisibility: Grants you and nearby allies Greater Invisibility. I've also disabled the whole progressing stealth check thing.
+True Seeing: Like See Invisibility, but not check required, things are just revealed.
+Knock: Same as the normal Knock spell. It's just free.
+Create and Destroy Water: Same as the normal version, just increased it's size.
+Speak with Animals: Free, same as normal version.
+Speak with Dead: Free, same as normal version.
+Detect Thoughts: Same as vanilla detect thoughts. Just free.
+Guidance: Adds a +20 to all rolls for 10 turns. This can be cast during conversations.
+Resistance: Gives the target resistance to all sources of damage.
+Action Surge: Restores all Actions, Bonus Actions, and Movement.
+Arcane Recovery: Restores all spells slots up to 10th level.
+Telekinesis: Works roughly the same as the vanilla one, but I increased the range to 30m.
+Fire Bolt: Upon impact with an enemy it will spawn up to 6 more Fire Bolt projectiles that will track on to enemies.
+Sacred Flame: Increased damage, and now affects enemies in an area instead of being single target.
+Kill: Does what the name implies, and instantly kills the target.
+Magic Missile: Select up to 6 targets, and does way more damage.
+Icy Magic Missile: Basically just a fancy version of Ice Knife.
+Chain Lightning: Like the normal spell, but with more explosions and damage. Fun for everyone.
+Explosion: Not much to say here. It's a massive explosion.
+Flesh to Gold: Just a fun variant of Flesh to Stone. Turns characters into gold.
+Flesh to Stone: Turns characters into stone.
+Stone to Flesh: Reverse petrification of both varieties.
+Hold Creature: Basically Hold Person and Hold Monster combined, also should work on undead.
+Clean Party: Cleans all nearby party members. Basically, it just applies the WASH_SOAP effect to them for 1 round.
+Summon Gold: Summons 10000 gold into the casters inventory.
+Summon Camp Supplies: Summons a bag with many camp supply items inside.
+Summon Potion, Scroll, Alchemy Ingredient, Dye, Clothing, Arrow, Grenade, Common Equipment, Armor, Weapon, Jewelry Box, Unreleased Item Box, Mind Flayer Parasite Bag: Summons a chest/bag containing most if not all of the aforementioned items.
+Summon Miscellaneous Chest: This chest contains various utility items that didn't fit anywhere else. Contains the following items: Cheaters Spell Scroll, Cheaters Ring, Ability Score Editing Tool Box, Hags Hair Bag, Thieves Tools, Trap Disarming Kits, Shovel, Soap, Disguise Kits, Face Paint, Soul Coins, Infernal Iron, EXP Potions, Potion of Inspiration, and Potion of Musical Proficiency.
+Ability Score Editing: Inside the Miscellaneous Chest you will find another chest called Ability Score Editing Tool Box. Inside this box are various items that can increase or decrease your Ability Scores as well as an item to reset your Ability Scores back to their base values. Ability Scores can be adjusted within a range of 0 to 30(28 if base stat is 8, 29 if base stat is 9).
+Summon Tutorial Chest: Summons the Tutorial Chest so you can access other modded items that have been added to it.
+Summon Barrel Spells: These are just for fun.
+
+Passives:
+These are toggleable and can be found in the passives tab on the hotbar after casting the Unlock Passives spell. Console users may have to manually add them to their radial action menu.
+Dice Roll Positive Bonus: Adds +20 to all Dice Rolls.
+Dice Roll Negative Bonus: Adds -40 to all Dice Rolls.
+Damage Bonus: Adds +500 damage to all attacks. (Will damage the player if enabled during the scene for Phalar Aluve in the Underdark.)
+Always Critical Success: Does it's best to make sure every Ability Check, Skill Check, Saving Throw and Attack Roll is a Critical Success. May not work 100% of the time.
+Always Critical Fail: Does it's best to make sure every Ability Check, Skill Check, and Saving Throws is a Critical Failure. May not work 100% of the time. Disabling Karmic Dice in Options -> Gameplay may give more consistent results.
+Never Critical Fail: Does it's best to make sure you never roll lower than a 2 on Ability Checks, Skill Checks, Saving Throws and Attack Rolls. May not work 100% of the time. Disabling Karmic Dice in Options -> Gameplay may give more consistent results.
+God Mode: Sets the character to be immune to all damage and status effects. You will be given a choice of what version of God Mode you want to use when you activate this passive.
+Ability Score: Sets all Ability Scores to 30.
+Unlock Proficiencies: When enabled, the character will be given Skill Proficiencies and Expertise for most skills. (There is a visual bug in the UI with Expertise, reloading should fix it.)
+Auto Wash: This will wash all nearby party members as if they had used soap when combat ends.
+Necrotic Aura: Allows those affected by the aura to raise the dead without a corpse.
+Anti-Magic Aura: Will prevent anyone who is not an ally or companion from casting spells.
+Player Automation: When enabled, he player character will be controlled by the AI during combat. Must be enabled before combat.
+Follower Automation: When enabled all summons, animated undead, and temporary followers will be controlled by the AI during combat. Must be enabled before combat.
+
+Where to find more Cheaters Spell Scrolls:
+Tutorial Chest on the Nautiloid.
+Camp Chest as a One Time Reward.
+The Summonable Miscellaneous Chest.
+
+Known Issues:
+Summoning the Unreleased Item Box will permanently unlock Counter Spell -> Fixed in 3.1.9

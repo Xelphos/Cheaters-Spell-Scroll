@@ -9397,10 +9397,20 @@
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="8ce9e094-3560-415a-9dca-24a77370218a" />
+        <field name="UUID" type="IdTableFieldDefinition" value="257d0d19-3c92-4dbb-90e2-a9b61eadfd78" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_ToolContainer_substat_13" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_Cons_Potion_Inspiration" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="8ce9e094-3560-415a-9dca-24a77370218a" />
         <field name="UUID" type="IdTableFieldDefinition" value="de377e94-059c-4930-8e95-7fefce68e423" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_ToolContainer_substat_7" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_Cons_Potion_Inspiration" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_Cons_Potion_MusicalProficiency" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>

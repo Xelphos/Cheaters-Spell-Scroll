@@ -2958,6 +2958,9 @@
         <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:0" />
         <field name="UseConditions" type="StringTableFieldDefinition" value="Tagged('PLAYABLE', context.Source)" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
@@ -2971,6 +2974,9 @@
         <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:0" />
         <field name="UseConditions" type="StringTableFieldDefinition" value="Tagged('PLAYABLE', context.Source)" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
@@ -2984,6 +2990,9 @@
         <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:0" />
         <field name="UseConditions" type="StringTableFieldDefinition" value="Tagged('PLAYABLE', context.Source)" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
@@ -2997,6 +3006,9 @@
         <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:0" />
         <field name="UseConditions" type="StringTableFieldDefinition" value="Tagged('PLAYABLE', context.Source)" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
@@ -3011,6 +3023,9 @@
         <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:0" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="10" />
         <field name="UseConditions" type="StringTableFieldDefinition" value="Tagged('PLAYABLE', context.Source)" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
@@ -3025,6 +3040,26 @@
         <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:0" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="10" />
         <field name="UseConditions" type="StringTableFieldDefinition" value="Tagged('PLAYABLE', context.Source)" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF4B0082" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="bc9047f1-50b8-4191-bd92-5b82b7710255" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_Cons_Potion_MusicalProficiency" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fc73334f-7a19-4d44-891d-f34bd3cec186" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="7cc9764c-7164-4821-b280-9fa677e318da" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="XEL_PotionMusicalProficiency" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:0" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="10" />
+        <field name="UseConditions" type="StringTableFieldDefinition" value="Tagged('PLAYABLE', context.Source)" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">

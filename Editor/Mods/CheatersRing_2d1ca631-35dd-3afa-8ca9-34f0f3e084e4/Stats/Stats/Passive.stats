@@ -44,7 +44,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="721b9fd0-21a0-42b1-8468-956c0816ee20" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Always_Critical_Success_Passive" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he326f16egffb4gc93fg71ecg7ac8e9e3806e" version="2" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h4d2ffa7cga815g2b29g10cbgbea892ba4947" version="7" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h4d2ffa7cga815g2b29g10cbgbea892ba4947" version="8" />
         <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_Portent_20" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar" enumeration_type_name="PassiveFlags" version="1" />
         <field name="ToggleGroup" type="StringTableFieldDefinition" value="XEL_CriticalRollCheat" />
@@ -57,7 +57,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="35a3a9b8-3068-493a-b8db-3735c2363f0d" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Always_Critcal_Fail_Passive" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h780592d5g0f36g05eagcb1bg84fcb91bb09c" version="2" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="heb55cc3agf09eg2ef6ga2f4gf0c623a5d35c" version="3" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="heb55cc3agf09eg2ef6ga2f4gf0c623a5d35c" version="4" />
         <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_Portent_1" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar" enumeration_type_name="PassiveFlags" version="1" />
         <field name="ToggleGroup" type="StringTableFieldDefinition" value="XEL_CriticalRollCheat" />
@@ -70,7 +70,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="2c7f6190-f426-4803-9ae3-f3fbe3b76d73" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_No_Critcal_Fail_Passive" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4efd8402g7a10g29f7g6851g44a53bd6e573" version="6" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hcf1a05beg7bd0g3b75g839ag9907f9e64664" version="12" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hcf1a05beg7bd0g3b75g839ag9907f9e64664" version="13" />
         <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_Portent_2" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar" enumeration_type_name="PassiveFlags" version="1" />
         <field name="ToggleGroup" type="StringTableFieldDefinition" value="XEL_CriticalRollCheat" />
@@ -482,6 +482,64 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_TAD_LuckOfTheFarRealms" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="f9e7e4c4-89df-4e56-88a4-08582a0b4b56" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1a2414c0g18eege074g7e5bgbc4882f65b02" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="034b175d-f21a-45f1-a34f-244d1b78d2f0" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_AutomatePlayer_Passive" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2bc4d1e4g088fg2842gaecag93ab6ae611eb" version="3" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h2b501184g3a4fg46deg0dbegdc968f6bfdf0" version="3" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Enchantment_Enthrall" />
+        <field name="EnabledConditions" type="StringTableFieldDefinition" value="!Combat" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar;IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CSS_AUTOMATEPLAYER,100,-1)" />
+        <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_AUTOMATEPLAYER)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1bdcb597-1f66-4191-abf6-a78a66df6add" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_AutomateFollower_Passive" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hde0d673ag7a3cgefa0g4cd0ga113e5866118" version="3" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9741b778g51a0g7bb9g41d4g629a30890fcf" version="3" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_CharmAnimalsAndPlants" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar;IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CSS_AUTOMATEFOLLOWER,100,-1)" />
+        <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_AUTOMATEFOLLOWER)" />
+        <field name="EnabledConditions" type="StringTableFieldDefinition" value="!Combat" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9a408660-9bfa-49aa-a609-fad5576d34a7" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_UnlockProficiencies_PassiveToggle" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h684ee461g3206g1c67g4fd4gca97cdc63173" version="3" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h89365eb1g0056g8ddbga0f1gda264c462286" version="3" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_KnowledgeOfTheAges" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar;IsHidden" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CSS_UNLOCKPROFICIENCIES,100,-1)" />
+        <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_UNLOCKPROFICIENCIES)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2388dbfd-50d8-4f44-893c-9b3f012e7846" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_UnlockProficiencies_Passive" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6387be89g515eg1dddg3dcaga0fa7cf710d3" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h6ee838d6g9c47g70ddge0cfg9c48434d4750" version="3" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_KnowledgeOfTheAges" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Athletics);ProficiencyBonus(Skill,Acrobatics);ProficiencyBonus(Skill,SleightOfHand);ProficiencyBonus(Skill,Stealth);ProficiencyBonus(Skill,Arcana);ProficiencyBonus(Skill,History);ProficiencyBonus(Skill,Nature);ProficiencyBonus(Skill,Religion);ProficiencyBonus(Skill,Investigation);ProficiencyBonus(Skill,AnimalHandling);ProficiencyBonus(Skill,Insight);ProficiencyBonus(Skill,Medicine);ProficiencyBonus(Skill,Perception);ProficiencyBonus(Skill,Survival);ProficiencyBonus(Skill,Persuasion);ProficiencyBonus(Skill,Deception);ProficiencyBonus(Skill,Intimidation);ProficiencyBonus(Skill,Performance);ExpertiseBonus(Athletics);ExpertiseBonus(Acrobatics);ExpertiseBonus(SleightOfHand);ExpertiseBonus(Stealth);ExpertiseBonus(Arcana);ExpertiseBonus(History);ExpertiseBonus(Nature);ExpertiseBonus(Religion);ExpertiseBonus(Investigation);ExpertiseBonus(AnimalHandling);ExpertiseBonus(Insight);ExpertiseBonus(Medicine);ExpertiseBonus(Perception);ExpertiseBonus(Survival);ExpertiseBonus(Persuasion);ExpertiseBonus(Deception);ExpertiseBonus(Intimidation);ExpertiseBonus(Performance)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f55c228f-9e59-44e4-b445-d0e79d4fc76b" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_MusicalInstrumentProficiency_Passive" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0b8af382gec8fg622egfd1egf1e0b2cef9a0" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h78162c05geb68g9c03g6d66g21ed6b4e51c0" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_Perform_Lute" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(MusicalInstrument)" />
       </fields>
     </stat_object>
   </stat_objects>

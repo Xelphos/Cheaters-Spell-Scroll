@@ -178,9 +178,7 @@ Chest will be destroyed after 5 rounds. Enable Turn-Based Mode and grab what you
   <content contentuid="h4b4c1e7bg4c2eg7bdbg425bg27d10e60ee0b" version="1">Cheat: Undying</content>
   <content contentuid="h67391e07g3507g4e5dgd4d9gd41807c9dfa1" version="2">Automatically revive if you die.</content>
   <content contentuid="h4efd8402g7a10g29f7g6851g44a53bd6e573" version="6">Cheat: Never Critical Fail Toggle</content>
-  <content contentuid="hcf1a05beg7bd0g3b75g839ag9907f9e64664" version="12">Never Critical Fail on Ability Checks, Skill Checks, Saving Throws and Attack Rolls. 
-
-May not work 100% of the time. Nothing I can do about this. Disabling Karmic DIce in Options -&gt; Gameplay may give more consistent results.</content>
+  <content contentuid="hcf1a05beg7bd0g3b75g839ag9907f9e64664" version="13">Never Critical Fail on Ability Checks, Skill Checks, Saving Throws and Attack Rolls.&lt;br&gt;&lt;br&gt;May not work 100% of the time. Nothing I can do about this. Disabling Karmic Dice in Options -&gt; Gameplay may give more consistent results.</content>
   <content contentuid="hb8b08ff7g9bf4g89afg8ce4g560319099d49" version="1">Cheat: Always Critical Success (Active)</content>
   <content contentuid="h9a5b3162g74cagdf2ag04aag5b40888ef1dc" version="7">Always Critical Roll on Ability Checks, Skill Checks, and Saving Throws.
 
@@ -198,9 +196,7 @@ May not work 100% of the time. Nothing I can do about this. Disabling Karmic DIc
   <content contentuid="ha1c524a5g2a00gbf83g169ag7564b4c1f9d7" version="2">Cheat: Dice Roll Positive Bonus (Active)</content>
   <content contentuid="h83918842g737bg20f5g7014g9849e952d817" version="3">Adds a +20 to all Dice Rolls.</content>
   <content contentuid="he326f16egffb4gc93fg71ecg7ac8e9e3806e" version="2">Cheat: Always Critical Success Toggle</content>
-  <content contentuid="h4d2ffa7cga815g2b29g10cbgbea892ba4947" version="7">Always Critical Roll on Ability Checks, Skill Checks, Saving Throws and Attack Rolls. 
-
-May not work 100% of the time. Nothing I can do about this. Disabling Karmic DIce in Options -&gt; Gameplay may give more consistent results.</content>
+  <content contentuid="h4d2ffa7cga815g2b29g10cbgbea892ba4947" version="8">Always Critical Roll on Ability Checks, Skill Checks, Saving Throws and Attack Rolls.&lt;br&gt;&lt;br&gt;May not work 100% of the time. Nothing I can do about this. Disabling Karmic Dice in Options -&gt; Gameplay may give more consistent results.</content>
   <content contentuid="h46cc61a7g3ce7g6b8ag8c51g6bb1608b3771" version="1">Cheaters Kill</content>
   <content contentuid="h36bc5638g31aegf174g502cg523e6006861d" version="1">Instantly kill the target.</content>
   <content contentuid="h990d514egd8fag93afg7a84g0ee82a3b5b28" version="1">Cheaters Fireball?</content>
@@ -331,25 +327,25 @@ This spell is a temporary solution and will be removed in a future version as it
   <content contentuid="h53120482g382cga202g7388gd4a277a282df" version="3">Potion of Experience (x500)</content>
   <content contentuid="hfc7c924eg4b3dg024bg2c29g705d264ce251" version="3">500 EXP has be added.</content>
   <content contentuid="ha71907efgf362g01a2gca25g58f288e34778" version="1">%%% EMPTY</content>
-  <content contentuid="h23aed2b4ga995g9568gd4bbg00d43155fc9d" version="17">Potion of Expereince (x500)</content>
-  <content contentuid="h5fb61119gd567g4c4bg4711g0b2e5d3f5a84" version="17">Drink</content>
-  <content contentuid="h05a59e80ge6f7ga077gabc5g3110c4be2b4a" version="17">Adds 500 expereince points when consumed.</content>
-  <content contentuid="h659f32a3g7d3dg148cg8716g052d0dbf9900" version="17">For optimal use, dismiss all party members, then consume. Experience will be given to party members when they are added to the party.</content>
-  <content contentuid="h3344fed9g4f50g7d45g84begf8d88eb20b7b" version="13">Potion of Experience (x1000)</content>
-  <content contentuid="h7d784e21gc5a7g5c8bg2e90g17ba32065c24" version="13">Drink</content>
-  <content contentuid="ha36d36aag0ee5g459dg4932gcc491a212155" version="13">Adds 1000 expereince points when consumed.</content>
-  <content contentuid="hd26ac0c7g0e27g4e84g3980gf8f1ae29da53" version="13">For optimal use, dismiss all party members, then consume. Experience will be given to party members when they are added to the party.</content>
-  <content contentuid="hd663bdfega5eeg0fc1g56cfg42132e9a58e0" version="13">Potion of Experience (x1000)</content>
-  <content contentuid="h79ebd6d6gc060gb6bfgcc3dgf3fc93b6b579" version="9">Potion of Experience (x5000)</content>
-  <content contentuid="h72f67a29ga341gef1fgb5a2gfd7497f5f993" version="9">Drink</content>
-  <content contentuid="hb09ace0cg80f9g2a17gf5b3g869bd957e499" version="9">Adds 5000 expereince points when consumed.</content>
-  <content contentuid="h834a5c36g7f40g31e4g8f55gcbe53c3b4d43" version="9">For optimal use, dismiss all party members, then consume. Experience will be given to party members when they are added to the party.</content>
-  <content contentuid="h69d5f7edg37c1g27e3g2acdga330298f7758" version="9">Potion of Experience (x5000)</content>
-  <content contentuid="hd0371572g2b16gff7bg56e1g3ceb4de53121" version="9">Potion of Experience (x10000)</content>
-  <content contentuid="h5cc5ac34gc060gc5a6gc8a8g687d2b6d5461" version="9">Drink</content>
-  <content contentuid="h163813c1g6db1gb1dcgeb30g4a9a043ebdcc" version="9">Adds 10000 expereince points when consumed.</content>
-  <content contentuid="h280f7d3fga9f9g9117g9fdag58d5a1bb14e6" version="9">For optimal use, dismiss all party members, then consume. Experience will be given to party members when they are added to the party.</content>
-  <content contentuid="h069de733g571bg5ce8gbff0g8c45f5d70ead" version="9">Potion of Experience (x10000)</content>
+  <content contentuid="h23aed2b4ga995g9568gd4bbg00d43155fc9d" version="19">Potion of Expereince (x500)</content>
+  <content contentuid="h5fb61119gd567g4c4bg4711g0b2e5d3f5a84" version="19">Drink</content>
+  <content contentuid="h05a59e80ge6f7ga077gabc5g3110c4be2b4a" version="19">Adds 500 expereince points when consumed.</content>
+  <content contentuid="h659f32a3g7d3dg148cg8716g052d0dbf9900" version="19" />
+  <content contentuid="h3344fed9g4f50g7d45g84begf8d88eb20b7b" version="14">Potion of Experience (x1000)</content>
+  <content contentuid="h7d784e21gc5a7g5c8bg2e90g17ba32065c24" version="14">Drink</content>
+  <content contentuid="ha36d36aag0ee5g459dg4932gcc491a212155" version="14">Adds 1000 expereince points when consumed.</content>
+  <content contentuid="hd26ac0c7g0e27g4e84g3980gf8f1ae29da53" version="14" />
+  <content contentuid="hd663bdfega5eeg0fc1g56cfg42132e9a58e0" version="14">Potion of Experience (x1000)</content>
+  <content contentuid="h79ebd6d6gc060gb6bfgcc3dgf3fc93b6b579" version="10">Potion of Experience (x5000)</content>
+  <content contentuid="h72f67a29ga341gef1fgb5a2gfd7497f5f993" version="10">Drink</content>
+  <content contentuid="hb09ace0cg80f9g2a17gf5b3g869bd957e499" version="10">Adds 5000 expereince points when consumed.</content>
+  <content contentuid="h834a5c36g7f40g31e4g8f55gcbe53c3b4d43" version="10" />
+  <content contentuid="h69d5f7edg37c1g27e3g2acdga330298f7758" version="10">Potion of Experience (x5000)</content>
+  <content contentuid="hd0371572g2b16gff7bg56e1g3ceb4de53121" version="10">Potion of Experience (x10000)</content>
+  <content contentuid="h5cc5ac34gc060gc5a6gc8a8g687d2b6d5461" version="10">Drink</content>
+  <content contentuid="h163813c1g6db1gb1dcgeb30g4a9a043ebdcc" version="10">Adds 10000 expereince points when consumed.</content>
+  <content contentuid="h280f7d3fga9f9g9117g9fdag58d5a1bb14e6" version="10" />
+  <content contentuid="h069de733g571bg5ce8gbff0g8c45f5d70ead" version="10">Potion of Experience (x10000)</content>
   <content contentuid="h30b98dc3ga714ge97ag7483gcfd80bbb2bbc" version="1">Potion of Experience (x1000)</content>
   <content contentuid="h8c14c72eg9528g483cg93b7g3dbd8e43a63d" version="2">1,000 EXP has be added.</content>
   <content contentuid="h37521f5fgcd6eg3591ge7e6g7c329a531782" version="1">Potion of Experience (x5000)</content>
@@ -381,12 +377,12 @@ Restores all Action Points, Bonus Action Points and Movement Speed.</content>
   <content contentuid="hb9ac0cb4ga1a9gebcag2253g685738a8dbee" version="2">Sussur Greatsword</content>
   <content contentuid="h2b2e6732ge464gbb52g9591gd8828d48fc57" version="2">&lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silences&lt;/LSTag&gt; targets on hit.</content>
   <content contentuid="h9f13c6e2g8272gbd1cg5ab6g1d0e2644496e" version="2">Sussur roots extend from this sword's hilt into the blade itself. It yearns to drink magic, silencing every creature it strikes.</content>
-  <content contentuid="hd9b663c9gb2fag8cccgb48dgdf58667677ec" version="7">Potion of Experience (Max Level)</content>
-  <content contentuid="ha0f0ca0bg3763g4349g944fgd930d3fd579c" version="7">Drink</content>
-  <content contentuid="he1379c0ag9288gb018g29fcg87e336cd8573" version="7">Adds enough experience points when consumed to reach max level.</content>
-  <content contentuid="h8c1252cdgee97g6874gd466g9749b0ed4d50" version="7">For optimal use, dismiss all party members, then consume. Experience will be given to party members when they are added to the party.</content>
-  <content contentuid="hc16260ddgb8ccgded5g607fg1c08b75ca415" version="7">Potion of Experience (Max Level)</content>
-  <content contentuid="he432c621g64f6g9bb3gc0dbg97e67c6d8421" version="5">Potion of Expereince (x500)</content>
+  <content contentuid="hd9b663c9gb2fag8cccgb48dgdf58667677ec" version="8">Potion of Experience (Max Level)</content>
+  <content contentuid="ha0f0ca0bg3763g4349g944fgd930d3fd579c" version="8">Drink</content>
+  <content contentuid="he1379c0ag9288gb018g29fcg87e336cd8573" version="8">Adds enough experience points when consumed to reach max level.</content>
+  <content contentuid="h8c1252cdgee97g6874gd466g9749b0ed4d50" version="8" />
+  <content contentuid="hc16260ddgb8ccgded5g607fg1c08b75ca415" version="8">Potion of Experience (Max Level)</content>
+  <content contentuid="he432c621g64f6g9bb3gc0dbg97e67c6d8421" version="7">Potion of Expereince (x500)</content>
   <content contentuid="hd60b8f44g33c9geef1g4038g16dc69471135" version="1">Potion of Experience (Max Level)</content>
   <content contentuid="hb1b4f9cfg82c5g5d10ga5c9gf9060cf9ceb0" version="1">999,999 EXP has be added.</content>
   <content contentuid="h70fddb1bg9521gec8dgd66dgfe0491e0e72b" version="2">Spider Egg Sac</content>
@@ -869,9 +865,7 @@ This will remove the abilitiy to use the passives from the Cheaters Spell Scroll
 
 May not work 100% of the time. Nothing I can do about this. Disabling Karmic DIce in Options -&gt; Gameplay may give more consistent results.</content>
   <content contentuid="h780592d5g0f36g05eagcb1bg84fcb91bb09c" version="2">Cheat: Always Critical Fail Toggle</content>
-  <content contentuid="heb55cc3agf09eg2ef6ga2f4gf0c623a5d35c" version="3">Always Critical Fail on Ability Checks, Skill Checks, and Saving Throws. 
-
-May not work 100% of the time. Nothing I can do about this. Disabling Karmic DIce in Options -&gt; Gameplay may give more consistent results.</content>
+  <content contentuid="heb55cc3agf09eg2ef6ga2f4gf0c623a5d35c" version="4">Always Critical Fail on Ability Checks, Skill Checks, and Saving Throws.&lt;br&gt;&lt;br&gt;May not work 100% of the time. Nothing I can do about this. Disabling Karmic Dice in Options -&gt; Gameplay may give more consistent results.</content>
   <content contentuid="ha79d5893g02e5g43e9g7de5g18fa9ccfaf05" version="1">Cheat: Ability Checks Always Critical Fail</content>
   <content contentuid="h1ffb20e9gaed3gf6eag1cfdg678e1c3b02dd" version="1">Ability Checks always roll as a Critical Failure.</content>
   <content contentuid="h506e87f9g237eg79d6g3ff6gebe3e632bc83" version="1">Cheat: Skill Checks Always Critical Fail</content>
@@ -1160,4 +1154,28 @@ Creatures ending their turn in the area must succeed a Dexterity &lt;LSTag Toolt
   <content contentuid="h1516bc6cgf381ga374ga284gadadeb4360b9" version="1">Cheaters Cloudkill</content>
   <content contentuid="h340cf42eg3b2cg3945g8c4eg4ff5ccaab4e9" version="1">Craft a large cloud that inflicts [1] per turn. You can reposition the cloud every turn.</content>
   <content contentuid="h669cfa20gd9aeg10f9g4360g6e72b5a01f39" version="1">The cloud Heavily Obscures everything within it.</content>
+  <content contentuid="ha10608f5g069cged69g0bcdg68c1b7b566d0" version="2">Cheat: Player Automation (Active)</content>
+  <content contentuid="h19480222g63a1g2d74g7d2bg5923a2df5860" version="1">This character will be controlled by the AI during combat.</content>
+  <content contentuid="h2bc4d1e4g088fg2842gaecag93ab6ae611eb" version="3">Cheaters Player Automation Toggle</content>
+  <content contentuid="h2b501184g3a4fg46deg0dbegdc968f6bfdf0" version="3">This character will be controlled by the AI during combat.&lt;br&gt;&lt;br&gt;Must be enabled before combat starts.</content>
+  <content contentuid="hde0d673ag7a3cgefa0g4cd0ga113e5866118" version="3">Cheaters Follower Automation Toggle</content>
+  <content contentuid="h9741b778g51a0g7bb9g41d4g629a30890fcf" version="3">Party followers such as summons, reanimated undead, and tempoaray companions will be controlled by the AI during combat.&lt;br&gt;&lt;br&gt;Must be enabled before combat starts.</content>
+  <content contentuid="h4b51294egb7dagc969g62e7gc1aa0424d67e" version="3">Cheat: Follower Automation (Active)</content>
+  <content contentuid="h17792fefgbb3bg104agee2agac0e9bf77f20" version="2">Party followers such as summons, reanimated undead, and tempoaray companions will be controlled by the AI during combat.</content>
+  <content contentuid="h4b0bf493g67d0g6887g4d11g2da563197f20" version="1">AI Controlled</content>
+  <content contentuid="h3019501dg5f11gc735gd1a1g8d48b4a8c1b2" version="1">This character is under the effects of the Cheaters Player Automation passive until combat ends.</content>
+  <content contentuid="hdee39193gcbe8gc377gbd3agf3dc34314c19" version="1">AI Controlled</content>
+  <content contentuid="h76dfc428gf26eg550eg2e86ga19daceb17a3" version="1">This character is under the effects of the Cheaters Follower Automation passive until combat ends.</content>
+  <content contentuid="h684ee461g3206g1c67g4fd4gca97cdc63173" version="3">Cheaters Unlock Proficiencies Toggle</content>
+  <content contentuid="h89365eb1g0056g8ddbga0f1gda264c462286" version="3">When active, gain proficiency with all Strength, Dexterity, Intelligence, Wisdom and Charisma skills.</content>
+  <content contentuid="h6387be89g515eg1dddg3dcaga0fa7cf710d3" version="2">Cheat: Unlock Proficiencies (Active)</content>
+  <content contentuid="h6ee838d6g9c47g70ddge0cfg9c48434d4750" version="3">This character gains proficiency with all Strength, Dexterity, Intelligence, Wisdom and Charisma skills. </content>
+  <content contentuid="h7b2afde6g5519gc34bgf4fbg6c1d0e4c9ccf" version="1">%%% EMPTY</content>
+  <content contentuid="h36705349g4ebdg7791gaf74g9cb29dd68489" version="3">Musical Instrument Proficiency</content>
+  <content contentuid="h0b12d0dag788dg6920gaa16g063a80e58783" version="4">Potion of Musical Proficiency</content>
+  <content contentuid="h06659673gad0bge3dag650eg0d6134c27d35" version="4">Drink to add Musical Instrument Proficiency from the character.&lt;br&gt;&lt;br&gt;Drink again to remove Musical Instrument Proficiency from the character.</content>
+  <content contentuid="h88843874g0954gaf31g0527g5e8a56585634" version="2">You know how to play a variety of musical instruments and are able to entertain a crowd with them.</content>
+  <content contentuid="hb50d2bf3g365bg8512g1398g8020e594213c" version="1">%%% EMPTY</content>
+  <content contentuid="h0b8af382gec8fg622egfd1egf1e0b2cef9a0" version="1">Musical Instrument Proficiency</content>
+  <content contentuid="h78162c05geb68g9c03g6d66g21ed6b4e51c0" version="1">You know how to play a variety of musical instruments and are able to entertain a crowd with them.</content>
 </contentList>

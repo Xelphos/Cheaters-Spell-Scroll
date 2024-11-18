@@ -12,8 +12,12 @@
 - Added Spell Cloudkill, same as normal version, but has a larger area.
 - Added Spell Enlarge/Reduce, same as the normal version, but increased range and is guaranteed to apply.
 - Added Spell Gaseous Form, same as normal version, but has increased range.
+- Added Passive Player Automation, when enabled, the player character will controlled by the AI during combat.
+- Added Passive Follower Automation, when enabled, non-player followers like summons, reanimated undead, and temporary followers will be controlled by the AI during combat.
+- Added Passive Unlock Proficiencies, when enabled the character will gain Proficiency and Expertise in all skills. 
 - Added a way to spawn the Cheaters Spell Scroll. While not in combat: Sneak, enable Non-Lethal, then Dash.
 - Added Concussion Grenade to the Grenade Box.
+- Added Potion of Musical Proficiency to the Miscellaneous Box, this will grant or remove Musical Instrument Proficiency to the character that consumes it.
 - Cheaters Explosion will now disintegrate targets leaving behind only a pile of ash.
 - Changed how the Experience Potions work. They will now award experience to the whole party.
 - Removed Counter Spell from the Unreleased Item Box as it was permanently unlocking Counter Spell when added to the inventory.

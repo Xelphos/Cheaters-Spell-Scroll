@@ -324,7 +324,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha4474856g3fecg8ecagb237g2b944fbe3118" version="2" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hbe43144ega88bgd263g3b1ag7a7696a183ea" version="2" />
         <field name="Icon" type="StringTableFieldDefinition" value="Item_LOOT_GEN_Ring_C_Gold_A_1" />
-        <field name="Passives" type="StringTableFieldDefinition" value="XEL_Roll_Boost_Passive;XEL_Roll_Negative_Boost_Passive;XEL_Always_Critical_Success_Passive;XEL_Always_Critcal_Fail_Passive;XEL_No_Critcal_Fail_Passive;XEL_God_Mode_Passive;XEL_Damage_Bonus_Passive;XEL_Ability_Score_Boost_Passive;XEL_Cheat_AutoWash_Passive;XEL_Cheat_Bone_Zone_Passive;XEL_Cheat_AntiMagic_Aura_Passive;XEL_Passive_Removal" />
+        <field name="Passives" type="StringTableFieldDefinition" value="XEL_Roll_Boost_Passive;XEL_Roll_Negative_Boost_Passive;XEL_Always_Critical_Success_Passive;XEL_Always_Critcal_Fail_Passive;XEL_No_Critcal_Fail_Passive;XEL_God_Mode_Passive;XEL_Damage_Bonus_Passive;XEL_Ability_Score_Boost_Passive;XEL_CSS_UnlockProficiencies_PassiveToggle;XEL_Cheat_AutoWash_Passive;XEL_Cheat_Bone_Zone_Passive;XEL_Cheat_AntiMagic_Aura_Passive;XEL_CSS_AutomatePlayer_Passive;XEL_CSS_AutomateFollower_Passive;XEL_Passive_Removal" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_NO_RING_ABILITY_UNLOCK" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_Cheat_GreaterGuidance_Passive)" />
@@ -1002,6 +1002,80 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h3a966b3cgb865g3897gdae9gb2a41df72ab9" version="1" />
         <field name="Boosts" type="StringTableFieldDefinition" value="StatusImmunity(TIMMASK_SPORES);StatusImmunity(BIBBERBANG_FUMES); Tag(PLANT); FactionOverride(Source); Tag(CREATURE_SPORE_SERVANT); StatusImmunity(SLEEPING);StatusImmunity(SLEEP); StatusImmunity(UNCONSCIOUS); StatusImmunity(HIDEOUS_LAUGHTER); StatusImmunity(CHARMED); StatusImmunity(FRIENDS); StatusImmunity(CROWN_OF_MADNESS); StatusImmunity(MIND_MASTERY); StatusImmunity(SG_Frightened); StatusImmunity(SG_Blinded); StatusImmunity(PARALYZED); StatusImmunity(HOLD_PERSON); Resistance(Poison, Resistant);ActionResourceBlock(WildShape);UnlockSpell(Shout_XEL_CSS_SporeServantDismiss)" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;ApplyToDead;IgnoreResting" enumeration_type_name="StatusPropertyFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4453cf5f-9f30-4541-ab7d-67ffc6a8a065" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_AUTOMATEPLAYER" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha10608f5g069cged69g0bcdg68c1b7b566d0" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h19480222g63a1g2d74g7d2bg5923a2df5860" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Enchantment_Enthrall" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_AUTOMATEPLAYER" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="436b9d65-bd74-4ece-bd66-c6dba4c42c8a" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_AUTOMATEFOLLOWER" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4b51294egb7dagc969g62e7gc1aa0424d67e" version="3" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h17792fefgbb3bg104agee2agac0e9bf77f20" version="2" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_CharmAnimalsAndPlants" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_AUTOMATEFOLLOWER" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c917dec5-7673-43e0-8940-343dcced75c8" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_AUTOMATEPLAYER_ENABLED" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4b0bf493g67d0g6887g4d11g2da563197f20" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h3019501dg5f11gc735gd1a1g8d48b4a8c1b2" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Enchantment_Enthrall" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_AUTOMATEPLAYER_ENABLED" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="ApplyToDead;LoseControlFriendly;LoseControl" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="RemoveEvents" type="EnumerationListTableFieldDefinition" value="OnCombatEnded" enumeration_type_name="StatusEvent" version="1" />
+        <field name="IsUnique" type="BoolTableFieldDefinition" value="True" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="eefa6b0d-0bd4-4855-9463-255d673b4bc0" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_AUTOMATEFOLLOWER_ENABLED" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_CharmAnimalsAndPlants" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_AUTOMATEFOLLOWER_ENABLED" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="ApplyToDead;LoseControlFriendly;LoseControl" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="RemoveEvents" type="EnumerationListTableFieldDefinition" value="OnCombatEnded" enumeration_type_name="StatusEvent" version="1" />
+        <field name="IsUnique" type="BoolTableFieldDefinition" value="True" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hdee39193gcbe8gc377gbd3agf3dc34314c19" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h76dfc428gf26eg550eg2e86ga19daceb17a3" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f9c589d4-cf55-47b5-bba0-9b500e39ab9c" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_UNLOCKPROFICIENCIES" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7b2afde6g5519gc34bgf4fbg6c1d0e4c9ccf" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_KnowledgeOfTheAges" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_UNLOCKPROFICIENCIES" />
+        <field name="Passives" type="StringTableFieldDefinition" value="XEL_CSS_UnlockProficiencies_Passive" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisableOverhead;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_GIVEINSTRUMENTPROFICIENCY" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h36705349g4ebdg7791gaf74g9cb29dd68489" version="3" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_Perform_Lute" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_GIVEINSTRUMENTPROFICIENCY" />
+        <field name="Passives" type="StringTableFieldDefinition" value="XEL_CSS_MusicalInstrumentProficiency_Passive" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h88843874g0954gaf31g0527g5e8a56585634" version="2" />
+        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
+        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
       </fields>
     </stat_object>
   </stat_objects>

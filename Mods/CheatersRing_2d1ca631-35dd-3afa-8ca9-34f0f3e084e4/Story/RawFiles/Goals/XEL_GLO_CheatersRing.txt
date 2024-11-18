@@ -112,7 +112,8 @@ NOT DB_XEL_EXP_Ammount("XEL_EXP_5000",5000);
 NOT DB_XEL_EXP_Ammount("XEL_EXP_10000",10000);
 NOT DB_XEL_EXP_Ammount("XEL_EXP_MAXLEVEL",999999);
 NOT DB_XEL_EXP_Ammount("XEL_NULL_STRING",42);
-DB_XEL_CheatersRing_OneTimeRewardVersion(4);
+NOT DB_XEL_CheatersRing_OneTimeRewardVersion(3);
+DB_XEL_CheatersRing_OneTimeRewardVersion(3);
 DB_XEL_PlayerCharacters(1,(CHARACTER)S_Player_Karlach_2c76687d-93a2-477b-8b18-8a14b549304c);
 DB_XEL_PlayerCharacters(2,(CHARACTER)S_Player_Minsc_0de603c5-42e2-4811-9dad-f652de080eba);
 DB_XEL_PlayerCharacters(3,(CHARACTER)S_GOB_DrowCommander_25721313-0c15-4935-8176-9f134385451b);
@@ -376,6 +377,37 @@ AND
 HasActiveStatus(_SporeServant, "XEL_CSS_CREATURE_SPORE_SERVANT", 1)
 THEN
 RestoreParty(_SporeServant);
+
+IF
+CombatStarted((GUIDSTRING)_CombatGuid)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "XEL_CSS_AUTOMATEPLAYER", 1)
+AND
+HasActiveStatus(_Player, "XEL_CSS_AUTOMATEPLAYER_ENABLED", 0)
+THEN
+ApplyStatus(_Player, "XEL_CSS_AUTOMATEPLAYER_ENABLED", -1.0, 0, _Player);
+
+IF
+CombatStarted((GUIDSTRING)_CombatGuid)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "XEL_CSS_AUTOMATEFOLLOWER", 1)
+THEN
+PROC_XEL_CSS_AUTOMATEFOLLOWER();
+
+PROC
+PROC_XEL_CSS_AUTOMATEFOLLOWER()
+AND
+DB_PartyMembers(_Follower)
+AND
+HasActiveStatus(_Follower, "XEL_CSS_AUTOMATEFOLLOWER_ENABLED", 0)
+AND
+IsPartyFollower(_Follower, 1)
+THEN
+ApplyStatus(_Follower, "XEL_CSS_AUTOMATEFOLLOWER_ENABLED", -1.0, 0, _Follower);
 
 IF
 StatusApplied((CHARACTER)_Player, "XEL_UPDATE_CHEATERS_RING_MOD", _, _)

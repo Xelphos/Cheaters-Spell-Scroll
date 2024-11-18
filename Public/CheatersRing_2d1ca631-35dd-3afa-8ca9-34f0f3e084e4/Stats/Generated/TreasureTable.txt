@@ -1930,6 +1930,8 @@ new subtable "1,1"
 object category "I_XEL_CONS_Potion_EXP_MaxLevel",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_XEL_Cons_Potion_Inspiration",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_Cons_Potion_MusicalProficiency",1,0,0,0,0,0,0,0
 new treasuretable "XEL_TadpoleBag"
 MinLevel "-20"
 MaxLevel "20"
