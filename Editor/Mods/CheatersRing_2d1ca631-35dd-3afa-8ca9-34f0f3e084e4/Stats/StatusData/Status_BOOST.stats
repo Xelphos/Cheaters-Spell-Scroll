@@ -505,9 +505,27 @@
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="a7a36ca5-bf22-4a53-ac9d-c0e9de9537e2" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_CHEAT_APPROVAL" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CHEAT_INCREASEAPPROVAL" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5a214c3dg76e0g3feagab7eg5eb784ac8b2d" version="1" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_APPROVAL" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7cbf6ba9-fdfa-4087-b711-4e2d71e314bd" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CHEAT_MAXAPPROVAL" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc46b060bgc6acg490dg5bfeg5e9296e0fdb4" version="1" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_APPROVAL" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="83b6a4ba-deb3-4d15-931a-52f57c54e20f" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CHEAT_DECREASEAPPROVAL" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h48e2569agaea1gb591g0d19g2cc923b1c8ab" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_APPROVAL" />
       </fields>
     </stat_object>

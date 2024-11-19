@@ -15957,16 +15957,6 @@
         <field name="IgnoreLevelDiff" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="StartLevel" type="IntegerTableFieldDefinition" value="1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_ARM_Cheaters_Ring" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="1f2e8517-ab06-4c1a-95e6-2d2a0fb9d53d" />
-        <field name="UUID" type="IdTableFieldDefinition" value="76e44ba3-137b-423f-9ac5-c78d19796a2e" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_SpellItemContainer_substat" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_CSS_TadpolePowerScroll" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
@@ -16008,26 +15998,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_SpellItemContainer_substat_13" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_Spell_UnlockWaypointsActOne" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="1f2e8517-ab06-4c1a-95e6-2d2a0fb9d53d" />
-        <field name="UUID" type="IdTableFieldDefinition" value="29b85de2-6cef-44e4-b464-6410b474b6ce" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_SpellItemContainer_substat_0" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_Spell_UnlockWaypointsActTwo" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="1f2e8517-ab06-4c1a-95e6-2d2a0fb9d53d" />
-        <field name="UUID" type="IdTableFieldDefinition" value="544bc887-78b0-4b91-8d4d-79b3d2f5b6f0" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_SpellItemContainer_substat_1" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_Spell_UnlockWaypointsActThree" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
@@ -16148,16 +16118,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_SpellItemContainer_substat_11" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_Spell_CreateWater" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="1f2e8517-ab06-4c1a-95e6-2d2a0fb9d53d" />
-        <field name="UUID" type="IdTableFieldDefinition" value="18d9a841-a2d9-496c-b5d9-bb55672b6ab9" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_SpellItemContainer_substat_12" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_Spell_DestroyWater" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>

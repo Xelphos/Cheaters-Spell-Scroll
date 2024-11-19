@@ -4,16 +4,6 @@ INITSECTION
 DB_XEL_CheatersRing_ModVersion(7);
 DB_XEL_CheatersRing_OneTimeRewardVersion(4);
 DB_OneTimeRewards_XEL_CheatersRing(1,(ITEMROOT)XEL_CONT_CheatersSpellScroll_c0913ecd-e8fa-481c-8a08-dd7c801c6e82);
-DB_XEL_PlayerCharacters(1,(CHARACTER)S_Player_Karlach_2c76687d-93a2-477b-8b18-8a14b549304c);
-DB_XEL_PlayerCharacters(2,(CHARACTER)S_Player_Minsc_0de603c5-42e2-4811-9dad-f652de080eba);
-DB_XEL_PlayerCharacters(3,(CHARACTER)S_GOB_DrowCommander_25721313-0c15-4935-8176-9f134385451b);
-DB_XEL_PlayerCharacters(4,(CHARACTER)S_GLO_Halsin_7628bc0e-52b8-42a7-856a-13a6fd413323);
-DB_XEL_PlayerCharacters(5,(CHARACTER)S_Player_Jaheira_91b6b200-7d00-4d62-8dc9-99e8339dfa1a);
-DB_XEL_PlayerCharacters(6,(CHARACTER)S_Player_Gale_ad9af97d-75da-406a-ae13-7071c563f604);
-DB_XEL_PlayerCharacters(7,(CHARACTER)S_Player_Astarion_c7c13742-bacd-460a-8f65-f864fe41f255);
-DB_XEL_PlayerCharacters(8,(CHARACTER)S_Player_Laezel_58a69333-40bf-8358-1d17-fff240d7fb12);
-DB_XEL_PlayerCharacters(9,(CHARACTER)S_Player_Wyll_c774d764-4a17-48dc-b470-32ace9ce447d);
-DB_XEL_PlayerCharacters(10,(CHARACTER)S_Player_ShadowHeart_3ed74f06-3c60-42dc-83f6-f034cb47c679);
 DB_XEL_Summoned_Containers(1,(ITEMROOT)XEL_CONT_GEN_Armor_Chest_6d5a0ca8-8bc3-4f88-ad2f-fb669ba8442a,"XEL_ARMOR_CONTAINER_CD");
 DB_XEL_Summoned_Containers(2,(ITEMROOT)XEL_CONT_GEN_Weapon_Chest_efe23748-95a4-4df4-9a17-a863d525ff3e,"XEL_WEAPON_CONTAINER_CD");
 DB_XEL_Summoned_Containers(3,(ITEMROOT)XEL_CONT_GEN_Jewelry_Chest_7e3fe600-de8e-46a2-b21f-c61e9023d8b5,"XEL_JEWELRY_CONTAINER_CD");
@@ -53,16 +43,6 @@ DB_Avatars(_Player)
 THEN
 NOT DB_XEL_CheatersRing_ModVersion(_Version);
 DB_XEL_CheatersRing_ModVersion(7);
-NOT DB_XEL_PlayerCharacters(1,(CHARACTER)S_Player_Karlach_2c76687d-93a2-477b-8b18-8a14b549304c);
-NOT DB_XEL_PlayerCharacters(2,(CHARACTER)S_Player_Minsc_0de603c5-42e2-4811-9dad-f652de080eba);
-NOT DB_XEL_PlayerCharacters(3,(CHARACTER)S_GOB_DrowCommander_25721313-0c15-4935-8176-9f134385451b);
-NOT DB_XEL_PlayerCharacters(4,(CHARACTER)S_GLO_Halsin_7628bc0e-52b8-42a7-856a-13a6fd413323);
-NOT DB_XEL_PlayerCharacters(5,(CHARACTER)S_Player_Jaheira_91b6b200-7d00-4d62-8dc9-99e8339dfa1a);
-NOT DB_XEL_PlayerCharacters(6,(CHARACTER)S_Player_Gale_ad9af97d-75da-406a-ae13-7071c563f604);
-NOT DB_XEL_PlayerCharacters(7,(CHARACTER)S_Player_Astarion_c7c13742-bacd-460a-8f65-f864fe41f255);
-NOT DB_XEL_PlayerCharacters(8,(CHARACTER)S_Player_Laezel_58a69333-40bf-8358-1d17-fff240d7fb12);
-NOT DB_XEL_PlayerCharacters(9,(CHARACTER)S_Player_Wyll_c774d764-4a17-48dc-b470-32ace9ce447d);
-NOT DB_XEL_PlayerCharacters(10,(CHARACTER)S_Player_ShadowHeart_3ed74f06-3c60-42dc-83f6-f034cb47c679);
 NOT DB_XEL_Summoned_Containers(1,(ITEMROOT)XEL_CONT_GEN_Armor_Chest_6d5a0ca8-8bc3-4f88-ad2f-fb669ba8442a,"XEL_ARMOR_CONTAINER_CD");
 NOT DB_XEL_Summoned_Containers(2,(ITEMROOT)XEL_CONT_GEN_Weapon_Chest_efe23748-95a4-4df4-9a17-a863d525ff3e,"XEL_WEAPON_CONTAINER_CD");
 NOT DB_XEL_Summoned_Containers(3,(ITEMROOT)XEL_CONT_GEN_Jewelry_Chest_7e3fe600-de8e-46a2-b21f-c61e9023d8b5,"XEL_JEWELRY_CONTAINER_CD");
@@ -114,16 +94,6 @@ NOT DB_XEL_EXP_Ammount("XEL_EXP_MAXLEVEL",999999);
 NOT DB_XEL_EXP_Ammount("XEL_NULL_STRING",42);
 NOT DB_XEL_CheatersRing_OneTimeRewardVersion(3);
 DB_XEL_CheatersRing_OneTimeRewardVersion(3);
-DB_XEL_PlayerCharacters(1,(CHARACTER)S_Player_Karlach_2c76687d-93a2-477b-8b18-8a14b549304c);
-DB_XEL_PlayerCharacters(2,(CHARACTER)S_Player_Minsc_0de603c5-42e2-4811-9dad-f652de080eba);
-DB_XEL_PlayerCharacters(3,(CHARACTER)S_GOB_DrowCommander_25721313-0c15-4935-8176-9f134385451b);
-DB_XEL_PlayerCharacters(4,(CHARACTER)S_GLO_Halsin_7628bc0e-52b8-42a7-856a-13a6fd413323);
-DB_XEL_PlayerCharacters(5,(CHARACTER)S_Player_Jaheira_91b6b200-7d00-4d62-8dc9-99e8339dfa1a);
-DB_XEL_PlayerCharacters(6,(CHARACTER)S_Player_Gale_ad9af97d-75da-406a-ae13-7071c563f604);
-DB_XEL_PlayerCharacters(7,(CHARACTER)S_Player_Astarion_c7c13742-bacd-460a-8f65-f864fe41f255);
-DB_XEL_PlayerCharacters(8,(CHARACTER)S_Player_Laezel_58a69333-40bf-8358-1d17-fff240d7fb12);
-DB_XEL_PlayerCharacters(9,(CHARACTER)S_Player_Wyll_c774d764-4a17-48dc-b470-32ace9ce447d);
-DB_XEL_PlayerCharacters(10,(CHARACTER)S_Player_ShadowHeart_3ed74f06-3c60-42dc-83f6-f034cb47c679);
 DB_XEL_Summoned_Containers(1,(ITEMROOT)XEL_CONT_GEN_Armor_Chest_6d5a0ca8-8bc3-4f88-ad2f-fb669ba8442a,"XEL_ARMOR_CONTAINER_CD");
 DB_XEL_Summoned_Containers(2,(ITEMROOT)XEL_CONT_GEN_Weapon_Chest_efe23748-95a4-4df4-9a17-a863d525ff3e,"XEL_WEAPON_CONTAINER_CD");
 DB_XEL_Summoned_Containers(3,(ITEMROOT)XEL_CONT_GEN_Jewelry_Chest_7e3fe600-de8e-46a2-b21f-c61e9023d8b5,"XEL_JEWELRY_CONTAINER_CD");
@@ -154,14 +124,30 @@ DB_XEL_EXP_Amount("XEL_EXP_MAXLEVEL",999999);
 TemplateAddTo(XEL_CONT_CheatersSpellScroll_c0913ecd-e8fa-481c-8a08-dd7c801c6e82, _Player, 1, 1);
 
 IF
-LevelGameplayStarted(_,_)
+SavegameLoaded()
 AND
 DB_XEL_Summoned_Containers(18,(ITEMROOT)NULL_00000000-0000-0000-0000-000000000000)
 THEN
 NOT DB_XEL_Summoned_Containers(18,(ITEMROOT)NULL_00000000-0000-0000-0000-000000000000);
 
 IF
-LevelGameplayStarted(_,_)
+SavegameLoaded()
+AND
+DB_XEL_PlayerCharacters((INTEGER)_, (CHARACTER)_)
+THEN
+NOT DB_XEL_PlayerCharacters(1,(CHARACTER)S_Player_Karlach_2c76687d-93a2-477b-8b18-8a14b549304c);
+NOT DB_XEL_PlayerCharacters(2,(CHARACTER)S_Player_Minsc_0de603c5-42e2-4811-9dad-f652de080eba);
+NOT DB_XEL_PlayerCharacters(3,(CHARACTER)S_GOB_DrowCommander_25721313-0c15-4935-8176-9f134385451b);
+NOT DB_XEL_PlayerCharacters(4,(CHARACTER)S_GLO_Halsin_7628bc0e-52b8-42a7-856a-13a6fd413323);
+NOT DB_XEL_PlayerCharacters(5,(CHARACTER)S_Player_Jaheira_91b6b200-7d00-4d62-8dc9-99e8339dfa1a);
+NOT DB_XEL_PlayerCharacters(6,(CHARACTER)S_Player_Gale_ad9af97d-75da-406a-ae13-7071c563f604);
+NOT DB_XEL_PlayerCharacters(7,(CHARACTER)S_Player_Astarion_c7c13742-bacd-460a-8f65-f864fe41f255);
+NOT DB_XEL_PlayerCharacters(8,(CHARACTER)S_Player_Laezel_58a69333-40bf-8358-1d17-fff240d7fb12);
+NOT DB_XEL_PlayerCharacters(9,(CHARACTER)S_Player_Wyll_c774d764-4a17-48dc-b470-32ace9ce447d);
+NOT DB_XEL_PlayerCharacters(10,(CHARACTER)S_Player_ShadowHeart_3ed74f06-3c60-42dc-83f6-f034cb47c679);
+
+IF
+SavegameLoaded()
 AND
 DB_XEL_EXP_Ammount("XEL_NULL_STRING",42)
 THEN
@@ -284,13 +270,41 @@ THEN
 GiveInspirationPoints(_Player, 1.0, "dQw4w9WgXcQ", "");
 
 IF
-StatusApplied((CHARACTER)_Character, "XEL_CHEAT_APPROVAL", (CHARACTER)_Avatar, _)
+StatusApplied((CHARACTER)_Character, "XEL_CHEAT_INCREASEAPPROVAL", (CHARACTER)_Caster, _)
 AND
-DB_XEL_PlayerCharacters(_CharacterNo, _Character)
+DB_ApprovalRating(_Character, _Caster, _OldValue)
 AND
-ChangeApprovalRating(_Character, _Avatar, 0, 25, _)
+IntegerSum(_OldValue,25,_NewValue)
+AND
+IntegerMin(_NewValue,100,_NewCappedValue)
+AND
+ChangeApprovalRating((CHARACTER)_Character, (CHARACTER)_Caster, 0, 25,_)
 THEN
-ShowNotification(_Avatar, "XEL_Cheat_Approval");
+PROC_ApprovalRatingChanged(_Character, _Caster, 25, _NewCappedValue);
+
+IF
+StatusApplied((CHARACTER)_Character, "XEL_CHEAT_DECREASEAPPROVAL", (CHARACTER)_Caster, _)
+AND
+DB_ApprovalRating(_Character,_Caster,_OldValue)
+AND
+IntegerSubtract(_OldValue,25,_NewValue)
+AND
+IntegerMax(_NewValue,-50,_NewCappedValue)
+AND
+ChangeApprovalRating((CHARACTER)_Character, (CHARACTER)_Caster, 0, -25,_)
+THEN
+PROC_ApprovalRatingChanged(_Character, _Caster, -25, _NewCappedValue);
+
+IF
+StatusApplied((CHARACTER)_Character, "XEL_CHEAT_MAXAPPROVAL", (CHARACTER)_Caster, _)
+AND
+DB_ApprovalRating(_Character, _Caster, _Approval)
+AND
+IntegerSubtract(100, _Approval, _Delta)
+AND
+ChangeApprovalRating((CHARACTER)_Character, (CHARACTER)_Caster, 0, _Delta, _)
+THEN
+PROC_ApprovalRatingChanged(_Character, _Caster, 100, 100);
 
 IF
 StatusApplied((CHARACTER)_Player, "XEL_CHEAT_RESPEC", _, _)
@@ -416,16 +430,6 @@ DB_XEL_CheatersRing_ModVersion(_Version)
 THEN
 NOT DB_XEL_CheatersRing_ModVersion(_Version);
 DB_XEL_CheatersRing_ModVersion(7);
-NOT DB_XEL_PlayerCharacters(1,(CHARACTER)S_Player_Karlach_2c76687d-93a2-477b-8b18-8a14b549304c);
-NOT DB_XEL_PlayerCharacters(2,(CHARACTER)S_Player_Minsc_0de603c5-42e2-4811-9dad-f652de080eba);
-NOT DB_XEL_PlayerCharacters(3,(CHARACTER)S_GOB_DrowCommander_25721313-0c15-4935-8176-9f134385451b);
-NOT DB_XEL_PlayerCharacters(4,(CHARACTER)S_GLO_Halsin_7628bc0e-52b8-42a7-856a-13a6fd413323);
-NOT DB_XEL_PlayerCharacters(5,(CHARACTER)S_Player_Jaheira_91b6b200-7d00-4d62-8dc9-99e8339dfa1a);
-NOT DB_XEL_PlayerCharacters(6,(CHARACTER)S_Player_Gale_ad9af97d-75da-406a-ae13-7071c563f604);
-NOT DB_XEL_PlayerCharacters(7,(CHARACTER)S_Player_Astarion_c7c13742-bacd-460a-8f65-f864fe41f255);
-NOT DB_XEL_PlayerCharacters(8,(CHARACTER)S_Player_Laezel_58a69333-40bf-8358-1d17-fff240d7fb12);
-NOT DB_XEL_PlayerCharacters(9,(CHARACTER)S_Player_Wyll_c774d764-4a17-48dc-b470-32ace9ce447d);
-NOT DB_XEL_PlayerCharacters(10,(CHARACTER)S_Player_ShadowHeart_3ed74f06-3c60-42dc-83f6-f034cb47c679);
 NOT DB_XEL_Summoned_Containers(1,(ITEMROOT)XEL_CONT_GEN_Armor_Chest_6d5a0ca8-8bc3-4f88-ad2f-fb669ba8442a,"XEL_ARMOR_CONTAINER_CD");
 NOT DB_XEL_Summoned_Containers(2,(ITEMROOT)XEL_CONT_GEN_Weapon_Chest_efe23748-95a4-4df4-9a17-a863d525ff3e,"XEL_WEAPON_CONTAINER_CD");
 NOT DB_XEL_Summoned_Containers(3,(ITEMROOT)XEL_CONT_GEN_Jewelry_Chest_7e3fe600-de8e-46a2-b21f-c61e9023d8b5,"XEL_JEWELRY_CONTAINER_CD");
@@ -475,16 +479,6 @@ NOT DB_XEL_EXP_Ammount("XEL_EXP_5000",5000);
 NOT DB_XEL_EXP_Ammount("XEL_EXP_10000",10000);
 NOT DB_XEL_EXP_Ammount("XEL_EXP_MAXLEVEL",999999);
 NOT DB_XEL_EXP_Ammount("XEL_NULL_STRING",42);
-DB_XEL_PlayerCharacters(1,(CHARACTER)S_Player_Karlach_2c76687d-93a2-477b-8b18-8a14b549304c);
-DB_XEL_PlayerCharacters(2,(CHARACTER)S_Player_Minsc_0de603c5-42e2-4811-9dad-f652de080eba);
-DB_XEL_PlayerCharacters(3,(CHARACTER)S_GOB_DrowCommander_25721313-0c15-4935-8176-9f134385451b);
-DB_XEL_PlayerCharacters(4,(CHARACTER)S_GLO_Halsin_7628bc0e-52b8-42a7-856a-13a6fd413323);
-DB_XEL_PlayerCharacters(5,(CHARACTER)S_Player_Jaheira_91b6b200-7d00-4d62-8dc9-99e8339dfa1a);
-DB_XEL_PlayerCharacters(6,(CHARACTER)S_Player_Gale_ad9af97d-75da-406a-ae13-7071c563f604);
-DB_XEL_PlayerCharacters(7,(CHARACTER)S_Player_Astarion_c7c13742-bacd-460a-8f65-f864fe41f255);
-DB_XEL_PlayerCharacters(8,(CHARACTER)S_Player_Laezel_58a69333-40bf-8358-1d17-fff240d7fb12);
-DB_XEL_PlayerCharacters(9,(CHARACTER)S_Player_Wyll_c774d764-4a17-48dc-b470-32ace9ce447d);
-DB_XEL_PlayerCharacters(10,(CHARACTER)S_Player_ShadowHeart_3ed74f06-3c60-42dc-83f6-f034cb47c679);
 DB_XEL_Summoned_Containers(1,(ITEMROOT)XEL_CONT_GEN_Armor_Chest_6d5a0ca8-8bc3-4f88-ad2f-fb669ba8442a,"XEL_ARMOR_CONTAINER_CD");
 DB_XEL_Summoned_Containers(2,(ITEMROOT)XEL_CONT_GEN_Weapon_Chest_efe23748-95a4-4df4-9a17-a863d525ff3e,"XEL_WEAPON_CONTAINER_CD");
 DB_XEL_Summoned_Containers(3,(ITEMROOT)XEL_CONT_GEN_Jewelry_Chest_7e3fe600-de8e-46a2-b21f-c61e9023d8b5,"XEL_JEWELRY_CONTAINER_CD");

@@ -3280,8 +3280,6 @@ MaxLevel "20"
 IgnoreLevelDiff 1
 new subtable "1,1"
 StartLevel "1"
-object category "I_XEL_ARM_Cheaters_Ring",1,0,0,0,0,0,0,0
-new subtable "1,1"
 object category "I_XEL_OBJ_CSS_TadpolePowerScroll",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_XEL_OBJ_Spell_SummonCheatersSpellScroll",1,0,0,0,0,0,0,0
@@ -3291,10 +3289,6 @@ new subtable "1,1"
 object category "I_XEL_OBJ_Spell_Respec",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_XEL_OBJ_Spell_UnlockWaypointsActOne",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_XEL_OBJ_Spell_UnlockWaypointsActTwo",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_XEL_OBJ_Spell_UnlockWaypointsActThree",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_XEL_OBJ_Spell_IncreaseApprovalRating",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -3319,8 +3313,6 @@ new subtable "1,1"
 object category "I_XEL_OBJ_Spell_Knock",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_XEL_OBJ_Spell_CreateWater",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_XEL_OBJ_Spell_DestroyWater",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_XEL_OBJ_CSS_GaseousForm",1,0,0,0,0,0,0,0
 new subtable "1,1"

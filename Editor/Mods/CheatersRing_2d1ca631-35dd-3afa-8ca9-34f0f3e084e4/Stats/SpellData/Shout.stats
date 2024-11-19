@@ -7,7 +7,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_TrueSeeing" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Divination" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_Library" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(XEL_TRUESEEING,100,-1)" />
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="15" />
@@ -34,7 +33,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_GreaterInvisibility" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Illusion" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_Library" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="AI_IGNORE:ApplyStatus(XEL_CHEAT_GREATER_INVISIBILITY,100,-1);AI_ONLY:ApplyStatus(XEL_CHEAT_GREATER_INVISIBILITY,100,1)" />
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="15" />
@@ -63,7 +61,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_Fly" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Transmutation" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_Library" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(FLY,100,-1)" />
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="15" />
@@ -94,7 +91,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_SummonGold" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Conjuration" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_LibraryUtility" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="Icon" type="StringTableFieldDefinition" value="Item_LOOT_COINS_Gold_Pile_Medium_A" />
@@ -122,7 +118,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_SummonTutorialChest" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Conjuration" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_LibraryUtility" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="AI_IGNORE:ApplyStatus(XEL_TUTORIAL_CHEST_CD,100,5)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineIntervention" />
@@ -151,7 +146,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_SummonCommonEquipmentContainer" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Conjuration" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_LibraryUtility" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="AI_IGNORE:ApplyStatus(XEL_COMMON_EQUIPMENT_CONTAINER_CD,100,5)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineIntervention" />
@@ -180,7 +174,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_SummonArmorContainer" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Conjuration" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_LibraryUtility" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="AI_IGNORE:ApplyStatus(XEL_ARMOR_CONTAINER_CD,100,5)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineIntervention" />
@@ -209,7 +202,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_SummonWeaponContainer" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Conjuration" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_LibraryUtility" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="AI_IGNORE:ApplyStatus(XEL_WEAPON_CONTAINER_CD,100,5)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineIntervention" />
@@ -238,7 +230,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_SummonJewelryContainer" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Conjuration" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_LibraryUtility" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="AI_IGNORE:ApplyStatus(XEL_JEWELRY_CONTAINER_CD,100,5)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineIntervention" />
@@ -267,7 +258,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_SummonScrollContainer" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Conjuration" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_LibraryUtility" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="AI_IGNORE:ApplyStatus(XEL_SCROLL_CONTAINER_CD,100,5)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineIntervention" />
@@ -296,7 +286,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_SummonToolContainer" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Conjuration" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_LibraryUtility" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="AI_IGNORE:ApplyStatus(XEL_TOOL_CONTAINER_CD,100,5)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineIntervention" />
@@ -325,7 +314,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_SummonUnreleasedItemContainer" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Conjuration" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_LibraryUtility" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="AI_IGNORE:ApplyStatus(XEL_UNRELEASED_ITEM_CONTAINER_CD,100,5)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineIntervention" />
@@ -354,7 +342,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_Summon_IngredientContainer" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Conjuration" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_LibraryUtility" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineIntervention" />
         <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Cleric_DivineIntervention" />
@@ -380,7 +367,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_SummonPotionContainer" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Conjuration" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_LibraryUtility" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="AI_IGNORE:ApplyStatus(XEL_POTION_CONTAINER_CD,100,5)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineIntervention" />
@@ -409,7 +395,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_SummonArrowContainer" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Conjuration" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_LibraryUtility" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="AI_IGNORE:ApplyStatus(XEL_ARROW_CONTAINER_CD,100,5)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineIntervention" />
@@ -438,7 +423,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_SummonGrenadeContainer" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Conjuration" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_LibraryUtility" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="AI_IGNORE:ApplyStatus(XEL_GRENADE_CONTAINER_CD,100,5)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineIntervention" />
@@ -467,7 +451,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_SummonDyeContainer" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Conjuration" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_LibraryUtility" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineIntervention" />
         <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Cleric_DivineIntervention" />
@@ -493,7 +476,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_SummonClothingContainer" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Conjuration" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_LibraryUtility" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineIntervention" />
         <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Cleric_DivineIntervention" />
@@ -521,7 +503,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_SummonTadpoleContainer" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Conjuration" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_LibraryUtility" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineIntervention" />
         <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Cleric_DivineIntervention" />
@@ -547,7 +528,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_SummonSupplies" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Conjuration" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_LibraryUtility" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="Icon" type="StringTableFieldDefinition" value="Item_LOOT_Camp_Pack_Greater" />
@@ -573,7 +553,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_SummonCheatersSpellScroll" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Divination" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_LibraryUtility" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="Icon" type="StringTableFieldDefinition" value="Item_BOOK_GEN_Scroll_Parchment_B" />
@@ -599,7 +578,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_OpulentRevival" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Divination" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_Library" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="30" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Ally() and not Tagged('UNDEAD') and not Tagged('CONSTRUCT') and not Item() and Dead()" />
@@ -628,7 +606,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_WashParty" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Divination" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_LibraryUtility" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(SOAP_WASH,100,1)" />
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="30" />
@@ -658,7 +635,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_SuperiorRestoration" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Divination" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_Library" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(TUT_RESTORATION,100,1);RemoveStatus(SG_Blinded);RemoveStatus(SG_Disease);RemoveStatus(SG_Exhausted);RemoveStatus(SG_Poisoned);RemoveStatus(SG_Frightened);RemoveStatus(SG_Charmed);RemoveStatus(SG_Cursed);RemoveStatus(SG_Possessed);RemoveStatus(SG_Madness);RemoveStatus(SG_Petrified);RemoveStatus(SG_Stunned);RemoveStatus(SG_Paralyzed);RemoveStatus(ASTARION_WEAK);RegainHitPoints(MaxHP)" />
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="30" />
@@ -687,7 +663,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_SpeakWithAnimals" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Divination" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_Library" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(PETPAL,100,-1)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
@@ -715,7 +690,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_DetectThoughts" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Divination" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_Library" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(DETECT_THOUGHTS,100,-1)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
@@ -744,7 +718,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_GreaterActionSurge" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Divination" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_Library" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="RestoreResource(ActionPoint,100%,0);RestoreResource(BonusActionPoint,100%,0);RestoreResource(Movement,100%,0);ApplyStatus(XEL_CHEAT_ACTIONSURGE,100,-1)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
@@ -771,7 +744,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_ArcaneRecovery" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Divination" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_Library" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="RestoreResource(SpellSlot,100%,0);RestoreResource(SpellSlot,100%,1);RestoreResource(SpellSlot,100%,2);RestoreResource(SpellSlot,100%,3);RestoreResource(SpellSlot,100%,4);RestoreResource(SpellSlot,100%,5);RestoreResource(SpellSlot,100%,6);RestoreResource(SpellSlot,100%,7);RestoreResource(SpellSlot,100%,8);RestoreResource(SpellSlot,100%,9);RestoreResource(SpellSlot,100%,10);;RestoreResource(WarlockSpellSlot,100%,1);RestoreResource(WarlockSpellSlot,100%,2);RestoreResource(WarlockSpellSlot,100%,3);RestoreResource(WarlockSpellSlot,100%,4);RestoreResource(WarlockSpellSlot,100%,5);RestoreResource(WarlockSpellSlot,100%,6)" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
@@ -796,7 +768,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_FreeRespec" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Conjuration" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_LibraryUtility" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self() and Tagged('PLAYABLE') and not Tagged('OATHBREAKER') and not Tagged('OATHBREAKER_VENGEANCE') and not Tagged('OATHBREAKER_DEVOTION') and not Tagged('OATHBREAKER_ANCIENTS')" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineIntervention" />
         <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Cleric_DivineIntervention" />
@@ -825,7 +796,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_UpdateCheatersRing" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Conjuration" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_Library" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineIntervention" />
         <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Cleric_DivineIntervention" />
@@ -850,15 +820,41 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="874082af-b00b-40c0-a4af-1c63785787e5" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_UnlockWaypoints" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="10" />
+        <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Divination" enumeration_type_name="SpellSchool" version="1" />
+        <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Item_BLD_GEN_WaypointShrine_A_" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hed900276gf289gdd3cgdbe8g88b695464d4e" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h625fbe52ge74dg112bg8725g724fb9a9c36c" version="1" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineIntervention" />
+        <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Cleric_DivineIntervention" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Cleric_DivineIntervention_Weapon" />
+        <field name="TargetSound" type="StringTableFieldDefinition" value="Action_Impact_Cleric_DivineIntervention_Weapon" />
+        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:0" />
+        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="2f0d97b9-4a1f-4bf3-a3c2-32efb563d601,,;,,;6a95a81d-62e7-4b68-9b45-7e42e538dbde,,;815364ff-bbaa-4efc-b10e-f31043fafd6e,,;57e449b3-b712-4508-afcf-f2e91dc473f6,,;,,;84f3727f-aabc-4e34-bf31-c6cd0160bec9,,;,,;,," />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Summon" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="IsSpell;IgnoreSilence;IsLinkedSpellContainer" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="HitAnimationType" type="EnumerationTableFieldDefinition" value="MagicalNonDamage" enumeration_type_name="HitAnimationType" version="1" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="cbb9715d-f27b-4ba2-99ea-5a815e8f75ca" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="0e860ad2-cf25-4deb-a91c-fd52b7839367" />
+        <field name="ContainerSpells" type="StringTableFieldDefinition" value="Shout_XEL_Cheat_UnlockWaypointsActOne;Shout_XEL_Cheat_UnlockWaypointsActTwo;Shout_XEL_Cheat_UnlockWaypointsActThree" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="50738c2f-803f-4bbc-bf4e-437fdabb6e5e" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_UnlockWaypointsActOne" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Divination" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_LibraryUtility" />
+        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Shout_XEL_Cheat_UnlockWaypoints" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="Icon" type="StringTableFieldDefinition" value="XEL_WaypointShrine_Act1_" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8c56e052gda07g4761g9c61g2dbfcb287e2c" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8c56e052gda07g4761g9c61g2dbfcb287e2c" version="2" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h500b9243gafecgb3f0g0afag69367de7f740" version="1" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineIntervention" />
         <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Cleric_DivineIntervention" />
@@ -880,11 +876,11 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_UnlockWaypointsActTwo" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Divination" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_LibraryUtility" />
+        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Shout_XEL_Cheat_UnlockWaypoints" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="Icon" type="StringTableFieldDefinition" value="XEL_WaypointShrine_Act2_" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h389b0725gf8degd539g7e6egdd14c5db7d45" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h389b0725gf8degd539g7e6egdd14c5db7d45" version="2" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h349e2beega767g969bgee37gc744e04bdb4d" version="1" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineIntervention" />
         <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Cleric_DivineIntervention" />
@@ -906,11 +902,11 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_UnlockWaypointsActThree" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Divination" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_LibraryUtility" />
+        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Shout_XEL_Cheat_UnlockWaypoints" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
         <field name="Icon" type="StringTableFieldDefinition" value="XEL_WaypointShrine_Act3_" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hff117852gea72g046ag33afgba09485ea95e" version="2" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hff117852gea72g046ag33afgba09485ea95e" version="3" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h78627613g2e74g00ddg180ag35fc0d2f36f3" version="1" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineIntervention" />
         <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Cleric_DivineIntervention" />
@@ -932,7 +928,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_Longstrider" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Transmutation" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_Library" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(XEL_CHEAT_LONGSTRIDER,100,-1)" />
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="30" />

@@ -1,0 +1,1 @@
+Allow multiple targets for Flesh to Stone, Flesh to Gold and Hold Creature.

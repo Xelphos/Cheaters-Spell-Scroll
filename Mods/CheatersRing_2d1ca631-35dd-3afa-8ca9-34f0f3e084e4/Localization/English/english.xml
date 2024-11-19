@@ -453,8 +453,8 @@ Chest will be destroyed after 5 rounds. Enable Turn-Based Mode and grab what you
   <content contentuid="h6a0e050dg8b45gce9egc910gf5d76170529c" version="1">A durable bag of thick canvas and leather, adorned with numerous straps and heavy buckles.</content>
   <content contentuid="h6f71371cg83c1gcbd5gd8c0g9e12d4d23ae8" version="1">Cheaters Camp Supply Bag</content>
   <content contentuid="hdb913becgfd1dgaa4eg56c7g059ac56ae3ee" version="1">Small compartments line the sack: a compass-sized furrow; a pocket packed with storing salts; and an area for stiff tent legs, fixing pegs, and folded canvas.</content>
-  <content contentuid="h33eac853gf81eg34fege2cdgf563340e5159" version="1">Cheaters Increase Approval Rating</content>
-  <content contentuid="h3526fbd9g3151gcf25gf931g34204ab83291" version="2">Increase the approval rating of the target by +25.</content>
+  <content contentuid="h33eac853gf81eg34fege2cdgf563340e5159" version="2">Increase Approval Rating</content>
+  <content contentuid="h3526fbd9g3151gcf25gf931g34204ab83291" version="3">Increase the approval rating of the target by 25.</content>
   <content contentuid="h5a214c3dg76e0g3feagab7eg5eb784ac8b2d" version="1">%%% EMPTY</content>
   <content contentuid="h5e8c2faegf548ge85cg2ac7gacdd3324356e" version="3">Cheaters Free Respec</content>
   <content contentuid="h75299376g0406gc867g72f2g6aec4d40204e" version="2">Opens the respec menu.</content>
@@ -619,15 +619,15 @@ Chest will be destroyed after 5 rounds. Enable Turn-Based Mode and grab what you
   <content contentuid="h535cd553g87e5gf560gae66g0893c2083011" version="4">Cheaters Ring: Change Log</content>
   <content contentuid="h18be48a9g17efga73cg7f85g1502e059bafc" version="4">This book contains the Cheatrs Ring mod change log. Read this to see what has been added, removed or changed.</content>
   <content contentuid="h017b36e3g87dfg042cg5694g09db22df55cc" version="1">The targets approval has been increased by 25!</content>
-  <content contentuid="h8c56e052gda07g4761g9c61g2dbfcb287e2c" version="1">Cheaters Unlock Waypoints (Act 1)</content>
+  <content contentuid="h8c56e052gda07g4761g9c61g2dbfcb287e2c" version="2">Unlock Act 1 Waypoints</content>
   <content contentuid="h500b9243gafecgb3f0g0afag69367de7f740" version="1">WARNING! Teleporting between acts may break your game. Use at your own risk.
 
 Unlocks all waypoints in Act 1.</content>
-  <content contentuid="h389b0725gf8degd539g7e6egdd14c5db7d45" version="1">Cheaters Unlock Waypoints (Act 2)</content>
+  <content contentuid="h389b0725gf8degd539g7e6egdd14c5db7d45" version="2">Unlock Act 2 Waypoints</content>
   <content contentuid="h349e2beega767g969bgee37gc744e04bdb4d" version="1">WARNING! Teleporting between acts may break your game. Use at your own risk.
 
 Unlocks all waypoints in Act 2.</content>
-  <content contentuid="hff117852gea72g046ag33afgba09485ea95e" version="2">Cheaters Unlock Waypoints (Act 3)</content>
+  <content contentuid="hff117852gea72g046ag33afgba09485ea95e" version="3">Unlock Act 3 Waypoints</content>
   <content contentuid="h78627613g2e74g00ddg180ag35fc0d2f36f3" version="1">WARNING! Teleporting between acts may break your game. Use at your own risk.
 
 Unlocks all waypoints in Act 3.</content>
@@ -641,9 +641,9 @@ Unlocks all waypoints in Act 3.</content>
   <content contentuid="hb818fbe0g0cb9gd675g88dfg8cc4fb7d331c" version="3">Cheaters Free Respec</content>
   <content contentuid="h396fe14cg671fg9018g869eg52a3dad3afe6" version="3" />
   <content contentuid="h33d3cf91g95b6g429fg9e65g524ebd5808f7" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="hc8abaaefgf67cg20aagf128g6971a5febb63" version="2">Cheaters Unlock Waypoints (Act 1)</content>
-  <content contentuid="h4b40386bgcf1ag68c8g8d37g03575f73b2cd" version="2" />
-  <content contentuid="hd14a60c3g02a7g733eg0d19gdfacd7873f82" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hc8abaaefgf67cg20aagf128g6971a5febb63" version="3">Cheaters Unlock Waypoints</content>
+  <content contentuid="h4b40386bgcf1ag68c8g8d37g03575f73b2cd" version="3" />
+  <content contentuid="hd14a60c3g02a7g733eg0d19gdfacd7873f82" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="heb6fe761gb05cg506ega0b1ge73f7de806c6" version="2">Cheaters Unlock Waypoints (Act 2)</content>
   <content contentuid="hb176c9cdg23b3g8467g4266g3980030f4212" version="2" />
   <content contentuid="h13a7d8e8g6e98gedd1g37f4gb11a0ca67c91" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
@@ -665,9 +665,9 @@ Toggle Cheat: Remove Passives in the passives tab on the Hotbar/Radial menu to r
   <content contentuid="h302cab67g2b40g1993g75f8g28934d8819ba" version="2">Toggle this on to remove the effects of the Cheaters: Unlock Passives spell. 
 
 This will remove the abilitiy to use the passives from the Cheaters Spell Scroll.</content>
-  <content contentuid="h9a8c4b52g8beeg22feg649eg1f1a47b7a957" version="3">Cheaters Increase Approval Rating</content>
-  <content contentuid="hd48922cbgf4e5g30cdge8f8g143024213cd4" version="3" />
-  <content contentuid="hbff091a4gcd03g88d0g9e1fg35e22936fcad" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h9a8c4b52g8beeg22feg649eg1f1a47b7a957" version="4">Cheaters Alter Approval Rating</content>
+  <content contentuid="hd48922cbgf4e5g30cdge8f8g143024213cd4" version="4" />
+  <content contentuid="hbff091a4gcd03g88d0g9e1fg35e22936fcad" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="hacd7e083ge8e2gfe38gee72g2e80f7211946" version="3">Cheaters Opulent Revival</content>
   <content contentuid="h65c4b941g5c4fgf4f7gbbc3gcc8f7b0893db" version="3" />
   <content contentuid="h21aeda7cg6d74g7ed6ga513gef40c1cbd62a" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
@@ -689,9 +689,9 @@ This will remove the abilitiy to use the passives from the Cheaters Spell Scroll
   <content contentuid="h91867525g8b0cgfd5dg24b1gf785b788f808" version="2">Cheaters True Seeing</content>
   <content contentuid="h5a97e4bfga36agcda7g5e2dg52b49b3dccf4" version="2" />
   <content contentuid="h8f2d13d9gbce4g2076ge023gd677d22fabac" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="he12fb8b9g45a3gee77g6ffeg75c3692bb36b" version="2">Cheaters Create Water</content>
-  <content contentuid="h44b91d17g8e37gd0d9gcd23g0eef849aeca7" version="2" />
-  <content contentuid="h48a8c944gaf1fg81fag783dg0e3f31cdf7a3" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="he12fb8b9g45a3gee77g6ffeg75c3692bb36b" version="3">Cheaters Create or Destroy Water</content>
+  <content contentuid="h44b91d17g8e37gd0d9gcd23g0eef849aeca7" version="3" />
+  <content contentuid="h48a8c944gaf1fg81fag783dg0e3f31cdf7a3" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="hdd36adf8g3185g8346g74a1g36aeaca98dd5" version="2">Cheaters Knock</content>
   <content contentuid="h238eb72egb625gab31gfb4age0291fce4d9b" version="2" />
   <content contentuid="ha2712331g0e21gdef8gf232gb452c8a2450d" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
@@ -1178,4 +1178,19 @@ Creatures ending their turn in the area must succeed a Dexterity &lt;LSTag Toolt
   <content contentuid="hb50d2bf3g365bg8512g1398g8020e594213c" version="1">%%% EMPTY</content>
   <content contentuid="h0b8af382gec8fg622egfd1egf1e0b2cef9a0" version="1">Musical Instrument Proficiency</content>
   <content contentuid="h78162c05geb68g9c03g6d66g21ed6b4e51c0" version="1">You know how to play a variety of musical instruments and are able to entertain a crowd with them.</content>
+  <content contentuid="h65a2d836g08d6gc9eagcf7bg85e90e0c312e" version="2">Decrease Approval Rating</content>
+  <content contentuid="h85644e20ge7bfg0cfcg1d8egf61aa997aed1" version="1">Decrease the approval rating of the target by 25.</content>
+  <content contentuid="ha500c5d9g9700g60e5gf65dg575f018d5d6c" version="1">Cheaters Alter Approval Rating</content>
+  <content contentuid="h58b050f5g54fagfb64gd926g57af356dd91c" version="2">Increase or decrease the approval rating of the target by 25 or max it out.</content>
+  <content contentuid="h48e2569agaea1gb591g0d19g2cc923b1c8ab" version="1">%%% EMPTY</content>
+  <content contentuid="h5f752596g6dabg4c0eg56c7g1e7ff084f4e6" version="1">Cheaters Create or Destroy Water</content>
+  <content contentuid="h0e3707deg6481gc9efg7104g120abbc5e8e1" version="1">Call forth rain or destroy a water-based surface.</content>
+  <content contentuid="hedd28d53g85bbg5b1bg4767g15852ccf6cdd" version="1">Cheaters Create or Destroy Water</content>
+  <content contentuid="he5fe75b0g4a20g6e77gd456gc486723e5b97" version="1">Call forth rain or destroy a water-based surface.</content>
+  <content contentuid="h609ad749g5e1cg13ccgf6b7g4857adccea6e" version="1">Max Approval Rating</content>
+  <content contentuid="h69b8c26bgf7b6gf59egde16g9c93b1f1fbff" version="1">Increase the approval rating of the target to it's maximum.</content>
+  <content contentuid="hc46b060bgc6acg490dg5bfeg5e9296e0fdb4" version="1">%%% EMPTY</content>
+  <content contentuid="hefcb23cag11f1g2943gd95fg8ffa4dde9fc6" version="1">Only a player avatar can use this.</content>
+  <content contentuid="hed900276gf289gdd3cgdbe8g88b695464d4e" version="1">Cheaters Unlock Waypoints</content>
+  <content contentuid="h625fbe52ge74dg112bg8725g724fb9a9c36c" version="1">WARNING! Teleporting between acts may break your game. Use at your own risk.&lt;br&gt;&lt;br&gt;Unlock all Waypoints for a specific Act.</content>
 </contentList>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="c045520a-c4bc-4b3a-a5d8-61667e0a1cc4">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="985a14fc-e66c-4297-9553-84abf8320337" />
+        <field name="Identifier" type="FixedStringTableFieldDefinition" value="CE_Tag_AVATAR_False" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hefcb23cag11f1g2943gd95fg8ffa4dde9fc6" version="1" />
+        <field name="ErrorDescriptionType" type="EnumerationTableFieldDefinition" value="ErrorName" enumeration_type_name="ErrorDescriptionType" version="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

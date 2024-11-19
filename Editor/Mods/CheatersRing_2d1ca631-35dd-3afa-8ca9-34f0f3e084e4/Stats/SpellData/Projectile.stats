@@ -5,7 +5,6 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="f505b84a-037e-46b7-a58b-f3bc9ea9a343" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_MagicMissile" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_Library" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="DealDamage(10d20+50,Force,Magical)" />
         <field name="TargetRadius" type="StringTableFieldDefinition" value="30" />
         <field name="AmountOfTargets" type="StringTableFieldDefinition" value="6" />
@@ -45,7 +44,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_Kill" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Evocation" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_Library" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="Kill()" />
         <field name="TargetRadius" type="StringTableFieldDefinition" value="30" />
@@ -76,7 +74,6 @@
         <field name="UUID" type="IdTableFieldDefinition" value="f4d5bae0-9944-4fa1-bc59-54bc0620b9b2" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_Fireball" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_Library" />
         <field name="TargetRadius" type="StringTableFieldDefinition" value="30" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hdb7e8c5cga4c7gd8c7g1b50g3d35411aa710" version="1" />
         <field name="TooltipDamageList" type="StringTableFieldDefinition" value="DealDamage(50d20,Fire);DealDamage(50d20,Force)" />
@@ -113,7 +110,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_IceKnifeMM" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Conjuration" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_Library" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:SurfaceChange(Freeze);GROUND:SurfaceChange(Douse);RemoveStatus(BURNING);GROUND:CreateSurface(2,3,WaterFrozen);TARGET:DealDamage(10d20,Piercing);TARGET:AOE:DealDamage(10d20, Cold,Magical)" />
         <field name="TargetFloor" type="StringTableFieldDefinition" value="-1" />
@@ -151,7 +147,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_ExplosiveChainLightning" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Evocation" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_Library" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:SurfaceChange(Electrify);DealDamage(50d20,Lightning,Magical);SpawnExtraProjectiles(Projectile_XEL_Cheat_ExplosiveChainLightning_Explosion);CreateExplosion(Projectile_XEL_Cheat_Fireball_ECL)" />
         <field name="TargetFloor" type="StringTableFieldDefinition" value="-1" />
@@ -253,7 +248,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_Firebolt" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Evocation" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_Library" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:SurfaceChange(Ignite);GROUND:SurfaceChange(Melt);DealDamage(10d10,Fire,Magical);SpawnExtraProjectiles(Projectile_XEL_Cheat_Firebolt_Extra);" />
         <field name="TargetFloor" type="StringTableFieldDefinition" value="-1" />
