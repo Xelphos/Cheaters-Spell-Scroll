@@ -1,0 +1,16 @@
+new entry "XEL_CSS_SLAYER_PLAYER"
+type "StatusData"
+data "StatusType" "POLYMORPHED"
+using "SLAYER_PLAYER"
+data "Boosts" "VoicebarkBlock();BlockSpellCast();DialogueBlock()"
+data "Passives" "Slayer_ExtraAttack"
+data "TemplateID" "f4d9c19c-7dd2-4a0a-b2d9-952d6589cdd4"
+
+new entry "XEL_CSS_SLAYER_PLAYER_10"
+type "StatusData"
+data "StatusType" "POLYMORPHED"
+using "SLAYER_PLAYER_10"
+data "Boosts" "VoicebarkBlock();BlockSpellCast();DialogueBlock()"
+data "Passives" "Slayer_ExtraAttack_2"
+data "TemplateID" "5f2fef4c-26bc-4335-b43d-2d27f30df14b"
+

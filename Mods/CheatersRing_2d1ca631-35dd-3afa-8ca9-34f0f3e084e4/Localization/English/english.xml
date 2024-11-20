@@ -1046,30 +1046,30 @@ Toggle Cheat: Remove Illithid Passives in the passives tab on the Hotbar/Radial 
   <content contentuid="h076056f7g27b5g97ddg10a4g4168fc464f0e" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="hc9e5e795gdcbfgadccg574ag26118abeff2f" version="1">TEST</content>
   <content contentuid="h4fbb94d8g8ca4gca72g8923gebeb98887360" version="1">Cheaters Favourable Beginnings Toggle</content>
-  <content contentuid="h0c4c6748g035egda02g9a3dge2614145a426" version="1">Toggle this on to unlock the Favourable Beginnings Passive.&lt;br&gt;&lt;br&gt;Using this while already having the vanilla version of Favourable Beginnings unlocked from the Tadpole Power Menu may have unintended side effects and may lead to issues.</content>
+  <content contentuid="h0c4c6748g035egda02g9a3dge2614145a426" version="2">Toggle this on to unlock the Favourable Beginnings Passive.&lt;br&gt;&lt;br&gt;The first &lt;LSTag Tooltip="AttackRolls"&gt;Attack Roll&lt;/LSTag&gt; or &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt; you make against any target gains a bonus equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;.</content>
   <content contentuid="h2c3b6807g33b3g9c0dgb161g02afd9182805" version="1">Cheaters Ability Drain</content>
   <content contentuid="hdb60e3a3g2678gb157g31a4gc9d2a53dfbc6" version="1">Cheaters Ability Drain Toggle</content>
-  <content contentuid="h0a73b047g5c63g5ce9g3cb6g5a7a93734c36" version="1">Toggle this on to unlock the Ability Drain Passive.&lt;br&gt;&lt;br&gt;Using this while already having the vanilla version of Ability Drain unlocked from the Tadpole Power Menu may have unintended side effects and may lead to issues.</content>
+  <content contentuid="h0a73b047g5c63g5ce9g3cb6g5a7a93734c36" version="2">Toggle this on to unlock the Ability Drain Passive.&lt;br&gt;&lt;br&gt;Once per turn, when you make an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, the attack reduces that target's corresponding &lt;LSTag Tooltip="Abilities"&gt;Ability&lt;/LSTag&gt; by [1]. The reduced ability score cannot be decreased lower than 1.</content>
   <content contentuid="hc36272f5g36cagd310ge73bgb2a1a7312c47" version="1">Cheaters Charm</content>
   <content contentuid="h9549cb65geaacg7413g668agf30d446ccff2" version="1">Cheaters Charm Toggle</content>
-  <content contentuid="h244e01d9g5dbdg95cag9901g5e4ce5b89173" version="1">Toggle this on to unlock the Charm Passive.&lt;br&gt;&lt;br&gt;Using this while already having the vanilla version of Charm unlocked from the Tadpole Power Menu may have unintended side effects and may lead to issues.</content>
+  <content contentuid="h244e01d9g5dbdg95cag9901g5e4ce5b89173" version="2">Toggle this on to unlock the Charm Passive.&lt;br&gt;&lt;br&gt;Channel the dark allure of the tadpole to &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charm&lt;/LSTag&gt; an enemy that attacks you, preventing them from attacking you until their next turn. </content>
   <content contentuid="h207e52eeg1ad6g7b07gaa6eg8a14c1bff6ca" version="1">Cheaters Displace Toggle</content>
-  <content contentuid="hc812ed26gadb1g4728g89cbga1c758a10e83" version="1">Toggle this on to unlock the Displace Passive.&lt;br&gt;&lt;br&gt;Using this while already having the vanilla version of Displace unlocked from the Tadpole Power Menu may have unintended side effects and may lead to issues.</content>
+  <content contentuid="hc812ed26gadb1g4728g89cbga1c758a10e83" version="2">Toggle this on to unlock the Displace Passive.&lt;br&gt;&lt;br&gt;Creatures suffering Falling damage because of your actions take an additional [1].</content>
   <content contentuid="h167f629bg8032g59e1g6435g926ac1e8b0d8" version="1">Cheaters Displace</content>
   <content contentuid="h0f544b20gd76fg1da8gf09dgfee2723f46d6" version="1">Cheaters Psionic Backlash</content>
   <content contentuid="h514738a5g83f7g3518g7e9agd45decbca551" version="1">Toggle this on to unlock the Psionic Backlash Passive.&lt;br&gt;&lt;br&gt;Using this while already having the vanilla version of Psionic Backlash unlocked from the Tadpole Power Menu may have unintended side effects and may lead to issues.</content>
   <content contentuid="h15547a1dgb360g05f9g9d5bga4c554c15d18" version="1">Cheaters Psionic Backlash</content>
   <content contentuid="hd477c630g131cg58fag17a1g2bc2d8121289" version="1">Cheaters Illithid Expertise</content>
-  <content contentuid="h09689f73gc8f6g56b2gd7bag956d5056ac50" version="1">Toggle this on to unlock the Illithid Expertise Passive.&lt;br&gt;&lt;br&gt;Using this while already having the vanilla version of Illithid Expertise unlocked from the Tadpole Power Menu may have unintended side effects and may lead to issues.</content>
+  <content contentuid="h09689f73gc8f6g56b2gd7bag956d5056ac50" version="2">Toggle this on to unlock the Illithid Expertise Passive.&lt;br&gt;&lt;br&gt;You have deepened your sense of self, gaining &lt;LSTag Tooltip="Expertise"&gt;Expertise&lt;/LSTag&gt; in Persuasion, Deception, and Intimidation &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
   <content contentuid="ha6c60dcdgfa81gdf8bgb6bdg611410b8bc0f" version="1">Cheaters Illithid Expertise</content>
   <content contentuid="h4b40dde2g4160g6852gb873ge448b16f81a0" version="1">Cheaters Psionic Dominance</content>
-  <content contentuid="h9d076a15g5990ga6bcg775dg6b086994561a" version="1">Toggle this on to unlock the Psionic Dominance Passive.&lt;br&gt;&lt;br&gt;Using this while already having the vanilla version of Psionic Dominance unlocked from the Tadpole Power Menu may have unintended side effects and may lead to issues.</content>
+  <content contentuid="h9d076a15g5990ga6bcg775dg6b086994561a" version="2">Toggle this on to unlock the Psionic Dominance Passive.&lt;br&gt;&lt;br&gt;When an enemy within [1] targets you with a spell of a Level that is lower than or equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;, you can use your reaction to nullify the spell.</content>
   <content contentuid="h2dffec33g7bb3g641bg27f6g95ea174705e7" version="1">Cheaters Psionic Dominance</content>
   <content contentuid="h041aad01g7978g54c9gea4cgbfd53336bd5c" version="1">Cheaters Freecast Toggle</content>
-  <content contentuid="h8324979eg8084g2b70g4d75gab8b94fad7fc" version="1">Toggle this on to unlock the Freecast Passive.&lt;br&gt;&lt;br&gt;Using this while already having the vanilla version of Freecast unlocked from the Tadpole Power Menu may have unintended side effects and may lead to issues.</content>
+  <content contentuid="h8324979eg8084g2b70g4d75gab8b94fad7fc" version="2">Toggle this on to unlock the Freecast Passive.&lt;br&gt;&lt;br&gt;You have discovered a marvellous adaptability within yourself. Spell slots, charges, and similar resource costs for your next action or spell are removed. Refreshes after a &lt;LSTag Tooltip="LongRest"&gt;Long&lt;/LSTag&gt; Rest.</content>
   <content contentuid="h8f27c5e9ge27cg7458gbacagaf4646520611" version="1">Cheaters Freecast</content>
   <content contentuid="h7dada926g271fgf0ddgd10egf7244e51be2f" version="1">Cheaters Luck of the Far Realms</content>
-  <content contentuid="h7a27dfe4g943cg1202g6b24g00f82e5ba3d1" version="1">Toggle this on to unlock the Luck of the Far Realms Passive.&lt;br&gt;&lt;br&gt;Using this while already having the vanilla version of Luck of the Far Realms unlocked from the Tadpole Power Menu may have unintended side effects and may lead to issues.</content>
+  <content contentuid="h7a27dfe4g943cg1202g6b24g00f82e5ba3d1" version="2">Toggle this on to unlock the Luck of the Far Realms Passive.&lt;br&gt;&lt;br&gt;Once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;, you can change a successful &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; against a foe into a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.</content>
   <content contentuid="h1a2414c0g18eege074g7e5bgbc4882f65b02" version="1">Cheaters Luck of the Far Realms</content>
   <content contentuid="hb85b6eccgf321g4fe2g7c2dg8228cd2a53e5" version="1">Cheaters Survival Instinct</content>
   <content contentuid="h3f15e260ga911g065cgda1bg3ddceecacf6e" version="1">Cheaters Survival Instinct</content>
@@ -1157,9 +1157,9 @@ Creatures ending their turn in the area must succeed a Dexterity &lt;LSTag Toolt
   <content contentuid="ha10608f5g069cged69g0bcdg68c1b7b566d0" version="2">Cheat: Player Automation (Active)</content>
   <content contentuid="h19480222g63a1g2d74g7d2bg5923a2df5860" version="1">This character will be controlled by the AI during combat.</content>
   <content contentuid="h2bc4d1e4g088fg2842gaecag93ab6ae611eb" version="3">Cheaters Player Automation Toggle</content>
-  <content contentuid="h2b501184g3a4fg46deg0dbegdc968f6bfdf0" version="3">This character will be controlled by the AI during combat.&lt;br&gt;&lt;br&gt;Must be enabled before combat starts.</content>
+  <content contentuid="h2b501184g3a4fg46deg0dbegdc968f6bfdf0" version="4">This character will be controlled by the AI during combat.</content>
   <content contentuid="hde0d673ag7a3cgefa0g4cd0ga113e5866118" version="3">Cheaters Follower Automation Toggle</content>
-  <content contentuid="h9741b778g51a0g7bb9g41d4g629a30890fcf" version="3">Party followers such as summons, reanimated undead, and tempoaray companions will be controlled by the AI during combat.&lt;br&gt;&lt;br&gt;Must be enabled before combat starts.</content>
+  <content contentuid="h9741b778g51a0g7bb9g41d4g629a30890fcf" version="4">Party followers such as summons, reanimated undead, and tempoaray companions will be controlled by the AI during combat.</content>
   <content contentuid="h4b51294egb7dagc969g62e7gc1aa0424d67e" version="3">Cheat: Follower Automation (Active)</content>
   <content contentuid="h17792fefgbb3bg104agee2agac0e9bf77f20" version="2">Party followers such as summons, reanimated undead, and tempoaray companions will be controlled by the AI during combat.</content>
   <content contentuid="h4b0bf493g67d0g6887g4d11g2da563197f20" version="1">AI Controlled</content>
@@ -1193,4 +1193,10 @@ Creatures ending their turn in the area must succeed a Dexterity &lt;LSTag Toolt
   <content contentuid="hefcb23cag11f1g2943gd95fg8ffa4dde9fc6" version="1">Only a player avatar can use this.</content>
   <content contentuid="hed900276gf289gdd3cgdbe8g88b695464d4e" version="1">Cheaters Unlock Waypoints</content>
   <content contentuid="h625fbe52ge74dg112bg8725g724fb9a9c36c" version="1">WARNING! Teleporting between acts may break your game. Use at your own risk.&lt;br&gt;&lt;br&gt;Unlock all Waypoints for a specific Act.</content>
+  <content contentuid="hf9e3fd6eg592dg69bega47eg0a5f7c8a7d1a" version="2">Slayer</content>
+  <content contentuid="hc22ec980g5054gd42dg2b62gc09844b80cb0" version="1">Cheater Assume Slayer Form</content>
+  <content contentuid="h1922f672gc811g73f0gdc50gee454b58eb59" version="1">Manifest your savage compulsions and assume a sinuously deadly Slayer form. Your Slayer form has [1] (increases to [2] at Level 10).</content>
+  <content contentuid="hb2982d3ag9d96g97dbged5fg20701dccfede" version="1">While in Slayer form, you can't talk or cast spells.&lt;br&gt;&lt;br&gt;When your Slayer form drops to 0 &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;, you revert to your normal form.</content>
+  <content contentuid="h68164cf0g20b2ga476gc23dg3aa380099582" version="2">Cheaters Assume Slayer Form</content>
+  <content contentuid="h9540e1a6g3fedg2cd0g70cagab6c53c7a04c" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
 </contentList>

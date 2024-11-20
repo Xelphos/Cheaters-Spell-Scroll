@@ -4052,6 +4052,20 @@
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="de76454b-c38f-4172-b914-655fbdf402d1" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Spell_SlayerForm" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d462b1fc-7763-49bb-be12-1f06f6241394" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="78a6abd8-f98d-4749-9304-12b9cf226121" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF4B0082" is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="df08c2dc-59e0-46a6-b0cb-eda0990062b3" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Spell_Telekinesis" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="d462b1fc-7763-49bb-be12-1f06f6241394" />

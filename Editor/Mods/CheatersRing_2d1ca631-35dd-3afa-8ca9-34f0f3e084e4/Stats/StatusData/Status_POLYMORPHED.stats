@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="ee4c30a6-9728-40e1-9722-b8a1ec68599e">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="55365f39-1d1d-451d-bef1-f9d2f298ba84" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SLAYER_PLAYER" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="c6c54dcc-f897-43fd-ba95-9fe1d771e161" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="VoicebarkBlock();BlockSpellCast();DialogueBlock()" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Slayer_ExtraAttack" />
+        <field name="TemplateID" type="StringTableFieldDefinition" value="f4d9c19c-7dd2-4a0a-b2d9-952d6589cdd4" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="79744a76-cab7-4734-8053-e595a0c49a1e" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SLAYER_PLAYER_10" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="5d944823-f305-4509-adbf-36692b04f248" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="VoicebarkBlock();BlockSpellCast();DialogueBlock()" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Slayer_ExtraAttack_2" />
+        <field name="TemplateID" type="StringTableFieldDefinition" value="5f2fef4c-26bc-4335-b43d-2d27f30df14b" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

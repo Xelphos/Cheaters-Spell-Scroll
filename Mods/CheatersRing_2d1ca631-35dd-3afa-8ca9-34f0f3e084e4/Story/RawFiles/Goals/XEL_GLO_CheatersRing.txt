@@ -393,9 +393,9 @@ THEN
 RestoreParty(_SporeServant);
 
 IF
-CombatStarted((GUIDSTRING)_CombatGuid)
+EnteredCombat((GUIDSTRING)_Player, (GUIDSTRING)_CombatGuid)
 AND
-DB_Players(_Player)
+DB_Players((CHARACTER)_Player)
 AND
 HasActiveStatus(_Player, "XEL_CSS_AUTOMATEPLAYER", 1)
 AND
@@ -404,24 +404,168 @@ THEN
 ApplyStatus(_Player, "XEL_CSS_AUTOMATEPLAYER_ENABLED", -1.0, 0, _Player);
 
 IF
+StatusApplied((CHARACTER)_Player, "XEL_CSS_AUTOMATEPLAYER", _, _)
+AND
+DB_Players(_Player)
+AND
+IsInCombat((GUIDSTRING)_Player, 1)
+AND
+HasActiveStatus(_Player, "XEL_CSS_AUTOMATEPLAYER_ENABLED", 0)
+THEN
+ApplyStatus(_Player, "XEL_CSS_AUTOMATEPLAYER_ENABLED", -1.0, 0, _Player);
+
+IF
 CombatStarted((GUIDSTRING)_CombatGuid)
+AND
+DB_Players((CHARACTER)_Player)
+AND
+CombatGetGuidFor((GUIDSTRING)_Player, (GUIDSTRING)_CombatGuid)
+AND
+HasActiveStatus(_Player, "XEL_CSS_AUTOMATEFOLLOWER", 1)
+THEN
+PROC_XEL_CSS_AutomateFollower((CHARACTER)_Player);
+PROC_XEL_CSS_AutomateFollower_Summons((CHARACTER)_Player);
+
+IF
+CharacterJoinedParty((CHARACTER)_Character)
+AND
+IsPartyFollower(_Character, 1)
+AND
+IsInCombat((GUIDSTRING)_Character, 1)
 AND
 DB_Players(_Player)
 AND
 HasActiveStatus(_Player, "XEL_CSS_AUTOMATEFOLLOWER", 1)
 THEN
-PROC_XEL_CSS_AUTOMATEFOLLOWER();
+PROC_XEL_CSS_AutomateFollower((CHARACTER)_Player);
+PROC_XEL_CSS_AutomateFollower_Summons((CHARACTER)_Player);
+
+IF
+EnteredCombat((GUIDSTRING)_Summon, (GUIDSTRING)_CombatGuid)
+AND
+IsSummon((GUIDSTRING)_Summon, 1)
+AND
+DB_Players(_Player)
+AND
+IsInPartyWith((CHARACTER)_Player, (CHARACTER)_Summon, 1)
+AND
+HasActiveStatus(_Player, "XEL_CSS_AUTOMATEFOLLOWER", 1)
+THEN
+PROC_XEL_CSS_AutomateFollower((CHARACTER)_Player);
+PROC_XEL_CSS_AutomateFollower_Summons((CHARACTER)_Player);
+
+IF
+StatusApplied((CHARACTER)_Player, "XEL_CSS_AUTOMATEFOLLOWER", _, _)
+AND
+DB_Players(_Player)
+AND
+IsInCombat((GUIDSTRING)_Player, 1)
+THEN
+PROC_XEL_CSS_AutomateFollower((CHARACTER)_Player);
+PROC_XEL_CSS_AutomateFollower_Summons((CHARACTER)_Player);
 
 PROC
-PROC_XEL_CSS_AUTOMATEFOLLOWER()
+PROC_XEL_CSS_AutomateFollower((CHARACTER)_Player)
 AND
 DB_PartyMembers(_Follower)
 AND
-HasActiveStatus(_Follower, "XEL_CSS_AUTOMATEFOLLOWER_ENABLED", 0)
-AND
 IsPartyFollower(_Follower, 1)
+AND
+IsInCombat((GUIDSTRING)_Follower, 1)
+AND
+HasActiveStatus(_Follower, "XEL_CSS_AUTOMATEFOLLOWER_ENABLED", 0)
 THEN
-ApplyStatus(_Follower, "XEL_CSS_AUTOMATEFOLLOWER_ENABLED", -1.0, 0, _Follower);
+ApplyStatus(_Follower, "XEL_CSS_AUTOMATEFOLLOWER_ENABLED", -1.0, 0, _Player);
+
+PROC
+PROC_XEL_CSS_AutomateFollower_Summons((CHARACTER)_Player)
+AND
+DB_PartyMembers(_Summon)
+AND
+IsSummon((GUIDSTRING)_Summon, 1)
+AND
+IsInCombat((GUIDSTRING)_Summon, 1)
+AND
+HasActiveStatus(_Summon, "XEL_CSS_AUTOMATEFOLLOWER_ENABLED", 0)
+THEN
+ApplyStatus(_Summon, "XEL_CSS_AUTOMATEFOLLOWER_ENABLED", -1.0, 0, _Player);
+
+IF
+StatusRemoved((CHARACTER)_Player, "XEL_CSS_AUTOMATEFOLLOWER", _, _)
+AND
+DB_Players(_Player)
+THEN
+PROC_XEL_CSS_RemoveAutomationFromFollowers(_Player);
+
+PROC
+PROC_XEL_CSS_RemoveAutomationFromFollowers((CHARACTER)_Player)
+AND
+DB_PartyMembers(_Follower)
+AND
+HasActiveStatus(_Follower, "XEL_CSS_AUTOMATEFOLLOWER_ENABLED", 1)
+THEN
+RemoveStatus(_Follower, "XEL_CSS_AUTOMATEFOLLOWER_ENABLED", _Player);
+
+IF
+StatusApplied((CHARACTER)_PassiveHolder, "XEL_CHEAT_BONE_ZONE_AURA", _, _)
+AND
+IsPartyMember(_PassiveHolder, 0, 1)
+THEN
+PROC_XEL_CSS_ApplyBoneZoneToParty(_PassiveHolder);
+
+IF
+StatusRemoved((CHARACTER)_Character, "ANIMATEDEAD_ZONE", _, _)
+AND
+IsPartyMember(_Character, 0, 1)
+AND
+DB_Players((CHARACTER)_Player)
+AND
+HasActiveStatus(_Player, "XEL_CHEAT_BONE_ZONE_AURA", 1)
+THEN
+PROC_XEL_CSS_ApplyBoneZoneToParty(_Player);
+
+PROC
+PROC_XEL_CSS_ApplyBoneZoneToParty((CHARACTER)_PassiveHolder)
+AND
+DB_PartyMembers(_PartyMember)
+AND
+HasActiveStatus(_PartyMember, "ANIMATEDEAD_ZONE", 0)
+THEN
+ApplyStatus(_PartyMember, "ANIMATEDEAD_ZONE", -1.0, 0, _PassiveHolder);
+
+IF
+StatusRemoved((CHARACTER)_PassiveHolder, "XEL_CHEAT_BONE_ZONE_AURA", _, _)
+AND
+IsPartyMember(_PassiveHolder, 0, 1)
+THEN
+PROC_XEL_CSS_RemoveBoneZoneFromParty(_PassiveHolder);
+
+PROC
+PROC_XEL_CSS_RemoveBoneZoneFromParty((CHARACTER)_PassiveHolder)
+AND
+DB_PartyMembers((CHARACTER)_PartyMember)
+AND
+HasActiveStatus(_PartyMember, "ANIMATEDEAD_ZONE", 1)
+THEN
+RemoveStatus(_PartyMember, "ANIMATEDEAD_ZONE", _PassiveHolder);
+
+IF
+CharacterLeftParty((CHARACTER)_Character)
+AND
+HasActiveStatus(_Character, "ANIMATEDEAD_ZONE", 1)
+THEN
+RemoveStatus(_Character, "ANIMATEDEAD_ZONE", _Character);
+
+IF
+CharacterJoinedParty((CHARACTER)_Character)
+AND
+HasActiveStatus(_Character, "ANIMATEDEAD_ZONE", 0)
+AND
+DB_Players(_Player)
+AND
+HasActiveStatus(_Player, "XEL_CHEAT_BONE_ZONE_AURA", 1)
+THEN
+ApplyStatus(_Character, "ANIMATEDEAD_ZONE", -1.0, 0, _Player);
 
 IF
 StatusApplied((CHARACTER)_Player, "XEL_UPDATE_CHEATERS_RING_MOD", _, _)

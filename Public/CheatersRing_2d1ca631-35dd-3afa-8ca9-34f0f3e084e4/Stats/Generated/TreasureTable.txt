@@ -3340,6 +3340,8 @@ object category "I_XEL_OBJ_Spell_GreaterActionSurge",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_XEL_OBJ_Spell_ArcaneRecovery",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_XEL_OBJ_Spell_SlayerForm",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_XEL_OBJ_Spell_Telekinesis",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_XEL_OBJ_Spell_AnimatingSpores",1,0,0,0,0,0,0,0

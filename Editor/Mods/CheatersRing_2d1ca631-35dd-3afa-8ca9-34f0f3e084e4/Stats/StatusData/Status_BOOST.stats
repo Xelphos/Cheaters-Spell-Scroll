@@ -378,9 +378,6 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hff72a165g26f8gca37ga283gcde9ae90d0f4" version="3" />
         <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_Generic_Death" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_BONE_ZONE_AURA" />
-        <field name="StackPriority" type="IntegerTableFieldDefinition" value="10" />
-        <field name="AuraRadius" type="IntegerTableFieldDefinition" value="30" />
-        <field name="AuraStatuses" type="StringTableFieldDefinition" value="IF(Ally() and Tagged('PLAYABLE')):ApplyStatus(ANIMATEDEAD_ZONE)" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
@@ -1052,9 +1049,8 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h3019501dg5f11gc735gd1a1g8d48b4a8c1b2" version="1" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Enchantment_Enthrall" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_AUTOMATEPLAYER_ENABLED" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="ApplyToDead;LoseControlFriendly;LoseControl" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="LoseControl;ApplyToDead;LoseControlFriendly" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="RemoveEvents" type="EnumerationListTableFieldDefinition" value="OnCombatEnded" enumeration_type_name="StatusEvent" version="1" />
-        <field name="IsUnique" type="BoolTableFieldDefinition" value="True" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1063,9 +1059,8 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_AUTOMATEFOLLOWER_ENABLED" />
         <field name="Icon" type="StringTableFieldDefinition" value="Action_CharmAnimalsAndPlants" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_AUTOMATEFOLLOWER_ENABLED" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="ApplyToDead;LoseControlFriendly;LoseControl" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="LoseControl;ApplyToDead;LoseControlFriendly" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="RemoveEvents" type="EnumerationListTableFieldDefinition" value="OnCombatEnded" enumeration_type_name="StatusEvent" version="1" />
-        <field name="IsUnique" type="BoolTableFieldDefinition" value="True" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hdee39193gcbe8gc377gbd3agf3dc34314c19" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h76dfc428gf26eg550eg2e86ga19daceb17a3" version="1" />
       </fields>

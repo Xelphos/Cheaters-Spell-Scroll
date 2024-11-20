@@ -1006,5 +1006,30 @@
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="820fb781-7098-45c1-869f-783423f78df5" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c9ece482-4cb5-4b1b-b991-75040a394943" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SlayerForm" />
+        <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="IF(not CharacterLevelGreaterThan(9)):ApplyStatus(XEL_CSS_SLAYER_PLAYER,100,-1); IF(CharacterLevelGreaterThan(9)):ApplyStatus(XEL_CSS_SLAYER_PLAYER_10,100,-1)" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="Self()" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Action_DarkUrge" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc22ec980g5054gd42dg2b62gc09844b80cb0" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h1922f672gc811g73f0gdc50gee454b58eb59" version="1" />
+        <field name="DescriptionParams" type="StringTableFieldDefinition" value="RegainHitPoints(98);RegainHitPoints(153)" />
+        <field name="ExtraDescription" type="TranslatedStringTableFieldDefinition" handle="hb2982d3ag9d96g97dbged5fg20701dccfede" version="1" />
+        <field name="PrepareSound" type="StringTableFieldDefinition" value="CrSpell_Prepare_Slayer_BloodBath" />
+        <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="CrSpell_Loop_Slayer_BloodBath" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Gen_DarkUrge" />
+        <field name="TargetSound" type="StringTableFieldDefinition" value="Action_Impact_Gen_DarkUrge" />
+        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:0" />
+        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="3e235dc6-2b15-4edd-863f-18efb96dbb92,,;,,;7658db84-6394-44ce-a6be-ef1e158f6033,,;721abca5-2d52-4317-82a3-2a2e970a7a16,,;13c4407f-4ffb-4e6a-8a1a-57234fba51dc,,;,,;17aba8de-ced8-4456-90ce-751b99c7866b,,;,,;,," />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Utility" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasSomaticComponent;UnavailableInDialogs;IgnoreSilence" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="cdbd7d10-08de-4e0f-8d00-08dd7ec82c45" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="9e921865-a2ab-44f0-98ff-a649b507737f" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>
