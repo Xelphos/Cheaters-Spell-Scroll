@@ -462,9 +462,9 @@ Chest will be destroyed after 5 rounds. Enable Turn-Based Mode and grab what you
   <content contentuid="h540c3471gf289ga4f9gffb5g4e196b6cd5a5" version="1">Sanguine Explosive</content>
   <content contentuid="h89541d62g81cbg5047g6ce2g3091dd507691" version="1">Throw</content>
   <content contentuid="h8f324e93g6631gaaceg9465g4060874744ed" version="1">Create a surface of blood.</content>
-  <content contentuid="heff6ac30g09d7g9aa7ge542gf865e255b151" version="1">Sanguine Explosive</content>
-  <content contentuid="h759f8466g973eg810cg6a96g91a8b1c8d454" version="1">Throw</content>
-  <content contentuid="h3cd7af41gd1aegf735g05b7g27e59a2ad6b0" version="1">Create a surface of blood.</content>
+  <content contentuid="heff6ac30g09d7g9aa7ge542gf865e255b151" version="4">Sanguine Explosive</content>
+  <content contentuid="h759f8466g973eg810cg6a96g91a8b1c8d454" version="4">Throw</content>
+  <content contentuid="h3cd7af41gd1aegf735g05b7g27e59a2ad6b0" version="4">Create a surface of blood.</content>
   <content contentuid="h2fc739dfga27fgef6dgb982g5a84836481a3" version="2">Cheaters Hold Creature</content>
   <content contentuid="h8bab3497g3e84gde9eg651cge4c2531b4dcc" version="1">&lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralyse&lt;/LSTag&gt; a creature. It can't move, act or react. Attacks from within [1] are always Critical Hits.</content>
   <content contentuid="h0ad74623ge68eg6cbbg7ed4g7972396ee254" version="1">Cheaters Hold Person</content>
@@ -1199,4 +1199,7 @@ Creatures ending their turn in the area must succeed a Dexterity &lt;LSTag Toolt
   <content contentuid="hb2982d3ag9d96g97dbged5fg20701dccfede" version="1">While in Slayer form, you can't talk or cast spells.&lt;br&gt;&lt;br&gt;When your Slayer form drops to 0 &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;, you revert to your normal form.</content>
   <content contentuid="h68164cf0g20b2ga476gc23dg3aa380099582" version="2">Cheaters Assume Slayer Form</content>
   <content contentuid="h9540e1a6g3fedg2cd0g70cagab6c53c7a04c" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h8e54a63fg6438g5dc8gc432g1e27ec892abe" version="1">Sanguine Explosive</content>
+  <content contentuid="hb5906bf2gbc47g0645g58c0g896558945161" version="1">Throw</content>
+  <content contentuid="h9ae968b3geb68gcfd3gf95eg0e77dc8f765f" version="1">Create a surface of blood.</content>
 </contentList>
