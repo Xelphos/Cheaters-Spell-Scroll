@@ -239,14 +239,14 @@ May not work 100% of the time. Nothing I can do about this. Disabling Karmic DIc
   <content contentuid="he80d42d1gf175g3f02g4c56g644e2fd1493f" version="2">This spell can be cast while you are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.</content>
   <content contentuid="h0ebab008g1739g5f14g0d90g42b7768cd181" version="1">Cheaters Clean Party</content>
   <content contentuid="h3573a2f3gaf5agf688g4b90g7e597012c5ee" version="1">Cleans the caster and nearby party members as if they had used soap.</content>
-  <content contentuid="h0369203cg4df7ge8afgf323gae9a7c18196c" version="2">Cheaters Summon Miscellaneous Box</content>
+  <content contentuid="h0369203cg4df7ge8afgf323gae9a7c18196c" version="3">Cheaters Summon Utility Box</content>
   <content contentuid="ha0583706gddf5g8d0fgee1fg1363d58f42da" version="2">Summons a chest with a collection of miscellaneous items that did not fit with one of the other chests.
 
 Chest will be destroyed after 5 rounds. Enable Turn-Based Mode and grab what you need.</content>
   <content contentuid="h0acf7f3dgc558g3ac8gdb40gb758f3c48916" version="1">Tool Box Cooldown</content>
   <content contentuid="he6a6be01gd6bcg75a2g7a93ge778663cc9a7" version="1">You must wait before summoning the Tool Box again.</content>
-  <content contentuid="h07884fcegd5f9g1283g86a8ga570249fe230" version="2">Cheaters Miscellaneous Box</content>
-  <content contentuid="hf0e2c3f7gf2c8g2916gca62g7664cdf1b07b" version="2">A common chest of timber and iron.</content>
+  <content contentuid="h07884fcegd5f9g1283g86a8ga570249fe230" version="3">Cheaters Utility Box</content>
+  <content contentuid="hf0e2c3f7gf2c8g2916gca62g7664cdf1b07b" version="3">A common chest of timber and iron.</content>
   <content contentuid="hcb0c3ceagc480g9f8dg0454g9f9cc26fabc1" version="1">Blade of the First Blood</content>
   <content contentuid="h76ef7836g0f1cgaca4g7748g16e15a65902e" version="1">The Lord of Murder wasn't always a lord. He was once just a petty killer. When Bhaal first drew blood in a Baldurian back-alley, it dropped to the ground and lingered. When he ascended, this dried blood-drop grew, warped - and became sharp. </content>
   <content contentuid="hc69845a1gbd95g9271gcef3gb201aa9bf8a3" version="3">Cheat: Ring Abilities Unlocked</content>
@@ -466,7 +466,7 @@ Chest will be destroyed after 5 rounds. Enable Turn-Based Mode and grab what you
   <content contentuid="h759f8466g973eg810cg6a96g91a8b1c8d454" version="4">Throw</content>
   <content contentuid="h3cd7af41gd1aegf735g05b7g27e59a2ad6b0" version="4">Create a surface of blood.</content>
   <content contentuid="h2fc739dfga27fgef6dgb982g5a84836481a3" version="2">Cheaters Hold Creature</content>
-  <content contentuid="h8bab3497g3e84gde9eg651cge4c2531b4dcc" version="1">&lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralyse&lt;/LSTag&gt; a creature. It can't move, act or react. Attacks from within [1] are always Critical Hits.</content>
+  <content contentuid="h8bab3497g3e84gde9eg651cge4c2531b4dcc" version="2">&lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralyse&lt;/LSTag&gt; up to [2] creature. They cannot move, act or react. Attacks from within [1] are always Critical Hits.</content>
   <content contentuid="h0ad74623ge68eg6cbbg7ed4g7972396ee254" version="1">Cheaters Hold Person</content>
   <content contentuid="hfe979500g5069gc383gc6a7g9e90cdea7c23" version="1">&lt;LSTag Type="Status" Tooltip="HOLD_PERSON"&gt;Hold&lt;/LSTag&gt; a humanoid enemy still. They can't move, act or react. Attacks from within [1] are always &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hits&lt;/LSTag&gt;.</content>
   <content contentuid="h361e252ag66d7gd6b4g3583ge70dc19339b7" version="2">Hold Creature</content>
@@ -580,8 +580,8 @@ Chest will be destroyed after 5 rounds. Enable Turn-Based Mode and grab what you
   <content contentuid="h5d2f4847g49a6gdb1ag9fb9g01d04e458f38" version="3">Cheat: Increase Charisma</content>
   <content contentuid="h4237cb23g2e96gc54egaf78g98982a55e32d" version="3">Activate</content>
   <content contentuid="ha291599bg79cegbd06g1346gc9ad509e0b9f" version="3">Cheat: Increase Charisma</content>
-  <content contentuid="h5d7fd1acg9c25gc2e5g71ccg9c331d52906e" version="2">Ability Score Editing Tool Box</content>
-  <content contentuid="hd06dbb7fgb3d4g4ff3ge748g18f9a0766059" version="2">This exquisitely-crafted chest, ornamented with gems and lined with cushioned velvet, is fit for storing the finest treasures.</content>
+  <content contentuid="h5d7fd1acg9c25gc2e5g71ccg9c331d52906e" version="3">Ability Score Editing Box</content>
+  <content contentuid="hd06dbb7fgb3d4g4ff3ge748g18f9a0766059" version="3">This exquisitely-crafted chest, ornamented with gems and lined with cushioned velvet, is fit for storing the finest treasures.</content>
   <content contentuid="h04d84b19g7554ge695gae44g204e42d28dc6" version="1">%%% EMPTY</content>
   <content contentuid="hde03a315g33a6gd27bg5043gfde4cc2b889c" version="2">Activate this to decrease your Charisma stat by 1.</content>
   <content contentuid="h8a40a48dg0b8fg6f32gd4cag76446189112d" version="2">Activate this to decrease your Constitution stat by 1.</content>
@@ -758,9 +758,9 @@ This will remove the abilitiy to use the passives from the Cheaters Spell Scroll
   <content contentuid="h81372dacgcc88g4549gd1dcg474c57b97a94" version="2">Cheaters Summon Scroll Box</content>
   <content contentuid="hf30d98e1g042agb114ga86dg8fb162ef1824" version="2" />
   <content contentuid="hd598779fg3781gb3e8g9f1bg94808f871b90" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h8a4c86eag4591g0837g26dfgf147bab1dabc" version="2">Cheaters Summon Miscellaneous Box</content>
-  <content contentuid="h056699f9g5f16gf7aeg8ff2g4b69c5bddab4" version="2" />
-  <content contentuid="ha6499107g1c72g17abg4e6ag09b7db93f2e7" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h8a4c86eag4591g0837g26dfgf147bab1dabc" version="3">Cheaters Summon Utility Box</content>
+  <content contentuid="h056699f9g5f16gf7aeg8ff2g4b69c5bddab4" version="3" />
+  <content contentuid="ha6499107g1c72g17abg4e6ag09b7db93f2e7" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="hd76a743bg2a7bg417fg08c1g75296d84ec23" version="2">Cheaters Summon Alchemy Ingredient Bag</content>
   <content contentuid="hcec3e204gecbdg8f6cga56fgb2b99d508def" version="2" />
   <content contentuid="hcc313bc1g578bg030eg5908g1c7abaae072e" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
@@ -1202,4 +1202,172 @@ Creatures ending their turn in the area must succeed a Dexterity &lt;LSTag Toolt
   <content contentuid="h8e54a63fg6438g5dc8gc432g1e27ec892abe" version="1">Sanguine Explosive</content>
   <content contentuid="hb5906bf2gbc47g0645g58c0g896558945161" version="1">Throw</content>
   <content contentuid="h9ae968b3geb68gcfd3gf95eg0e77dc8f765f" version="1">Create a surface of blood.</content>
+  <content contentuid="h335c612dg6edag4f17g04bfg5bbd6abac0b2" version="1">Cheaters True Resurrection</content>
+  <content contentuid="hb898810bg12c3g748ag3e3fgb6e249afc1c0" version="2">Resurrect any creature. They return to life with all of their &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Warning, this spell allows you to resurrect any dead creature. Resurrecting non-player characters may lead to issues. Do so at your own risk.</content>
+  <content contentuid="ha6b4a8ebg8914gbc40g37dag33c608eb350d" version="1">%%% EMPTY</content>
+  <content contentuid="he767bb46g73c8g3cb4g0270gf1a490c88a2c" version="2">Passive Feature Editing Box</content>
+  <content contentuid="h6216b3feg0ebegfee3g1b6bga6665b1635d8" version="2">Unlocking these while already having the base game version may lead to issues.</content>
+  <content contentuid="h8581f06eg38e3gfa6cga0d5g9ca9cb90d10b" version="2">This exquisitely-crafted chest, ornamented with gems and lined with cushioned velvet, is fit for storing the finest treasures.</content>
+  <content contentuid="h199bd874gb484gf2e7g4f20ga76abe1bf92f" version="3">Passive Feature: Actor</content>
+  <content contentuid="ha2432cacg5658g8ca1g1b19gfba881c6298c" version="3">Your &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; increases by 1, to a maximum of 20.&lt;br&gt;&lt;br&gt;Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; is also doubled for Deception and Performance &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
+  <content contentuid="h6319ebd0g2deeg9a3dg8a61g3dff94cc3a88" version="2">Passive Feature: Alert</content>
+  <content contentuid="hc8c2fd9bg490bg1f14gd920g68edda224ac3" version="2">You gain a +5 bonus to Initiative and can't be &lt;LSTag Type="Status" Tooltip="SURPRISED"&gt;Surprised&lt;/LSTag&gt;.</content>
+  <content contentuid="hb589d426gba8eg447eg15d9gf4bf5c6bd8d9" version="2">Passive Feature: Athlete</content>
+  <content contentuid="h91d664aeg9515gbfb7g34e1gdcf430bc2a16" version="2">Your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; or &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; increases by 1, to a maximum of 20.&lt;br&gt;&lt;br&gt;When you are Prone, standing up uses significantly less movement. Your &lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;Jump&lt;/LSTag&gt; distance also increases by 50%.</content>
+  <content contentuid="h371fbc6cgd8a3g5136g34e8g279d63ef90fa" version="1">Use</content>
+  <content contentuid="h48497dbag2a3dg88e2gd1f9gd71aa8fdaaf3" version="1">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="h735b0ae1g3de6g1812g658dg416e2ea0dcd0" version="1">Use</content>
+  <content contentuid="had63f77cg7685ge25eg4683ge8da7eda2470" version="1">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="hc6068e94ga49fgacfcgb7adg031b731fb483" version="1">Use</content>
+  <content contentuid="ha9cb63e1g8f13g5a2bg7eecg5a289f391e2c" version="1">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="hba0d162bg684dg598cga212g72144ddb2783" version="1">Passive Feature: Charger</content>
+  <content contentuid="h750ed2b9gb7c1gf2afg892dga3b67ec60d4c" version="1">Use</content>
+  <content contentuid="hfa0ae00egd507gd452gb15agb4f7b0d87a81" version="1">You gain &lt;LSTag Type="Spell" Tooltip="Rush_Charger_Attack"&gt;Charger: Weapon Attack&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Rush_Charger_Push"&gt;Charger: Shove&lt;/LSTag&gt;.</content>
+  <content contentuid="h04e85c77g0244g1a4bgfb68gc43f687ec32b" version="1">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="h42829237g7bf1g75dag1d91g163a968af527" version="2">Passive Feature: Crossbow Expert</content>
+  <content contentuid="hec9f5d6eg1118g5d9cgbdd9g7e482ec59e1d" version="2">Use</content>
+  <content contentuid="hc16c6ffbg3a2dgae43g2513gcf6f59bae68b" version="2">When you make crossbow attacks within melee range, the &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; do not have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Your &lt;LSTag Type="Spell" Tooltip="Projectile_PiercingShot"&gt;Piercing Shot&lt;/LSTag&gt; also inflicts &lt;LSTag Type="Status" Tooltip="GAPING_WOUND"&gt;Gaping Wounds&lt;/LSTag&gt; for twice as long.</content>
+  <content contentuid="h61876205g2477g7deagc94bgc91d6493ac10" version="2">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="h986a9070g51a7g3256gf212ge4241d7c3462" version="2">Passive Feature: Defensive Duelist</content>
+  <content contentuid="he417d6f4g29cfgc354g7315gd541e240df63" version="2">Use</content>
+  <content contentuid="he4d0bb0egb793g93feg85b7g1961ad3bff9e" version="2">When attacked while wielding a &lt;LSTag Tooltip="Finesse"&gt;Finesse Weapon&lt;/LSTag&gt; you're &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; with, you can use a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to add your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; to your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;, possibly causing the attack to miss.</content>
+  <content contentuid="h8701f6aag11e8gdb22g8e8agf0617600b90d" version="2">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="h7dbcc252g28c8g9938g5891g93b37fe41678" version="1">Passive Feature: Devil's Sight</content>
+  <content contentuid="h40ca302bg52a4g74a7gaa06g1aa81a5319f5" version="1">Use</content>
+  <content contentuid="had7c8c8bg673eg3ed9g22c2gf573db11a0f4" version="1">You can see normally in darkness, both magical and non-magical, to a distance of [1].</content>
+  <content contentuid="h87076153ge00eg40d9ge5cbg486351443d01" version="1">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="h5bce208ag33f6gd3e7g0d9dgdb6f00d54453" version="1">Passive Feature: Dual Wielder</content>
+  <content contentuid="h6ddb27d9g8d77g98a0g6dd1g523a333b1844" version="1">Use</content>
+  <content contentuid="hb34f1153ge922g0da3g380eg1bb87b462b6d" version="1">You can use Two-Weapon Fighting even if your weapons aren't &lt;LSTag Tooltip="Light"&gt;Light&lt;/LSTag&gt;, and you gain a +1 bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; while wielding a melee weapon in each hand. You cannot dual-wield &lt;LSTag Tooltip="TwoHanded"&gt;Two-Handed&lt;/LSTag&gt; weapons.</content>
+  <content contentuid="h67376e0dg2429gc6a6g077bgdbc702bcce6a" version="1">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="hcd3a4a2fgec05g0649ge6d1gb9510a74926b" version="4">Passive Feature: Dungeon Delver</content>
+  <content contentuid="h6edfc9ecgee25g957bg02dagffc6f3fa7b08" version="4">Use</content>
+  <content contentuid="h6e8a365fg2985g93f1g9f0egd7a08d8d7e02" version="4">You gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Perception &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; made to detect hidden objects and on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; made to avoid or resist traps.&lt;br&gt;&lt;br&gt;You gain &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to the damage dealt by traps.</content>
+  <content contentuid="h6bd975dbg6b91ga117g94adg28c1d2e3118c" version="4">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="hd0c944bbge7c3ga0e2g8107g1d3f4b5f597d" version="1">Passive Feature: Durable</content>
+  <content contentuid="hd1a67f61g4e1fg45bdg1ab3g972c13dfdbab" version="1">Use</content>
+  <content contentuid="h6b72f6c0g6dfag1a75g6c6agdab45ff3882b" version="1">Your &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; increases by 1, to a maximum of 20.&lt;br&gt;&lt;br&gt;You regain full &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; each time you take a &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt;.</content>
+  <content contentuid="hd59ca747gc684gd9f6g45d3ga8c2047fbc62" version="1">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="hb2b2b14dgc454g03d8gb646g7b1e2739b598" version="2">Passive Feature: Elemental Adept (Acid)</content>
+  <content contentuid="h2d08a929gfa23g57beg3eadg52a1f68dc392" version="2">Use</content>
+  <content contentuid="h6f78e2e6g51deg025cga455g38b5ef4d6380" version="2">Spells you cast and attacks you make ignore &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Acid damage. In addition, when you deal Acid damage with a spell, you cannot roll a [1].</content>
+  <content contentuid="hd2c49864g78e8gda64ga009g9c3463cb22cd" version="2">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="hcb373f93ge33egc62egbc52ge3a68aebe04c" version="2">Passive Feature: Elemental Adept (Cold)</content>
+  <content contentuid="h951e62abgee93g15fegb7cbg2410cf26902e" version="2">Use</content>
+  <content contentuid="h6debb4b5g5ddcgabb7g3947g97a3f388fe14" version="2">Spells you cast and attacks you make ignore &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Cold damage. In addition, when you deal Cold damage with a spell, you cannot roll a [1].</content>
+  <content contentuid="hea9509aeg3d5cge7a0gece4g0cc3b7c9be48" version="2">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="h9621d4e1g031cg8da2g5dc4gcfa4d59c5c94" version="1">Passive Feature: Elemental Adept (Fire)</content>
+  <content contentuid="hc781b2cbg7becg3e31ge2c6gc2f8409a0d58" version="1">Use</content>
+  <content contentuid="hcb44341cg7d24gfbb1gfe72geca0953aa24e" version="1">Spells you cast and attacks you make ignore &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Fire damage. In addition, when you deal Fire damage with a spell, you cannot roll a [1].</content>
+  <content contentuid="hd0e43e86gf32dg0685g8893g1b14c7f2f804" version="1">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="hcd798e13g9e72g6e94g363dgb89cb686895f" version="1">Passive Feature: Elemental Adept (Lightning)</content>
+  <content contentuid="h0a812c6bgd98bga07bg1e47gc5864498ccdc" version="1">Use</content>
+  <content contentuid="h0383b92bg70a4g7e39g5687gb60f24ca3283" version="1">Spells you cast and attacks you make ignore &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Lightning damage. In addition, when you deal Lightning damage with a spell, you cannot roll a [1].</content>
+  <content contentuid="h4db9f969g8415gcad3gcbd3gac6944f9cf6a" version="1">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="h6a740d56g3fccg5d1bgd686g4a9e8096c7e9" version="1">Passive Feature: Elemental Adept (Thunder)</content>
+  <content contentuid="h9dfa4d7dg9406g89feg98b1g5cf22c3e48f2" version="1">Use</content>
+  <content contentuid="hbb8e973agf325g17e1gc7f1g1c8433c3a187" version="1">Spells you cast and attacks you make ignore &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Thunder damage. In addition, when you deal Thunder damage with a spell, you cannot roll a [1].</content>
+  <content contentuid="h43ddcbd6gf414gb0e8gd352ged7bedd2206f" version="1">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="hf510d76cg37acgdd00g8fe5gb9a21549f14c" version="1">Passive Feature: Great Weapon Master</content>
+  <content contentuid="h884e8276g09fag8d69gd0acge0e8e8daa672" version="1">Use</content>
+  <content contentuid="h4275d6c2g7b9cg347eg1442g09c963a6f80b" version="1">When you land a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; or kill a target with a &lt;LSTag Tooltip="MeleeWeaponAttack"&gt;melee weapon attack&lt;/LSTag&gt;, you can make another melee weapon attack as a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; that turn.&lt;br&gt;&lt;br&gt;Attacks with melee weapons you are &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; with, and are wielding in both hands, can deal an additional 10 damage at the cost of a -5 &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; penalty. (You can toggle this on and off.)</content>
+  <content contentuid="h1eaf55f6g9b3ag3354gc866ga5985146430c" version="1">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="hc65c4db0g4f2dg8df0g30e7gbcd41ed36ec6" version="1">Passive Feature: Heavily Armoured</content>
+  <content contentuid="h3a15eb60g52d6ga182g6478g101d87098307" version="1">Use</content>
+  <content contentuid="h6bb89418g50b5gafcfg0759g02a32444852b" version="1">You gain &lt;LSTag Tooltip="ArmourProficiency"&gt;Armour Proficiency&lt;/LSTag&gt; with Heavy Armour and your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; increases by 1, to a maximum of 20.</content>
+  <content contentuid="he7d580d1g5eddgb8e1g434ag94e7adcf4947" version="1">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="hacf3d53dg9f2cga30cgcf84gbcf944026005" version="1">Passive Feature: Heavy Armour Master</content>
+  <content contentuid="hafc4c937g337dg390dg552ag85c31a9d6f3c" version="1">Use</content>
+  <content contentuid="h6dbc4996g854fgc3ffg4a93g77ffadffe1a3" version="1">Your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; increases by 1, to a maximum of 20.&lt;br&gt;&lt;br&gt;Incoming damage from non-magical attacks also decreases by 3 while you're wearing heavy armour.</content>
+  <content contentuid="hb80426b6g30deg1f27gd6dcg37817a4e08bc" version="1">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="hd9076421g3062g62bcgddcdgca8665233c42" version="1">Passive Feature: Lightly Armoured</content>
+  <content contentuid="hb961f0f9g3614gbad3g2e68gadd5135ec5da" version="1">Use</content>
+  <content contentuid="hdd3fd7f8g1837gc0efg49afgcc7ccf2bbeec" version="1">You gain &lt;LSTag Tooltip="ArmourProficiency"&gt;Armour Proficiency&lt;/LSTag&gt; with Light Armour and your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; or &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; increases by 1, to a maximum of 20.</content>
+  <content contentuid="h0342290egb917g2abdgc8dag6eda89b03140" version="1">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="h620df49fg5afbg2614gae5ag12a302aa5e47" version="1">Passive Feature: Lucky</content>
+  <content contentuid="h8bbff165g4593gbc42g9790ga3b40c42e606" version="1">Use</content>
+  <content contentuid="hd68d3fd9g6808g6715gc7c0g835c51422626" version="1">You gain 3 &lt;LSTag Type="ActionResource" Tooltip="LuckPoint"&gt;Luck Points&lt;/LSTag&gt;, which you can use to gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;, or &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;, or to make an enemy reroll their Attack Rolls.</content>
+  <content contentuid="h2e432be0g88b8gd6a7g3b9egefa70faf201c" version="1">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="h80d97109gbbfag73bfge14eg138ffb02d45f" version="1">Passive Feature: Mage Slayer</content>
+  <content contentuid="h831be103gabaeg4bd3g2ad0g4bc06b0e17b2" version="1">Use</content>
+  <content contentuid="hd8917d6cgc3e3g36e4g90fcg3a8d447e61dd" version="1">When a creature casts a spell within melee range of you, you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on any &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; against it, and you can use a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to immediately make an attack against the caster.&lt;br&gt;&lt;br&gt;Enemies you hit have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Concentration"&gt;Concentration&lt;/LSTag&gt; &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+  <content contentuid="h76dbd2bdg6e22gb412g6f56g9a1795b129f9" version="1">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="hab070250g74e5g5d06g8bd6g816f2d852e8d" version="1">Passive Feature: Medium Armour Master</content>
+  <content contentuid="h4e248b0bg18c3g5103gf083g0de2a07815b3" version="1">Use</content>
+  <content contentuid="h555d6b7dg746fgc8eegd9e2g748e7c0adde5" version="1">When you wear Medium Armour, it doesn't impose &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on Stealth &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;. The bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; you can gain from your Dexterity &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; also becomes +3 instead of +2.</content>
+  <content contentuid="h22909c5fgc03cgf2d5g4413g7864f2a5b0b6" version="1">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="h238935c5g0583gc2aegfe50ge2bf7c2d04a2" version="1">Passive Feature: Mobile</content>
+  <content contentuid="h48b6ec33gce12g2919gf985g2d5273cc8939" version="1">Use</content>
+  <content contentuid="hca8860d1g4e6cg48a6g32eeg2fce6c362e1b" version="1">Your &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; increases, and difficult terrain doesn't slow you down when you &lt;LSTag Type="Spell" Tooltip="Shout_Dash"&gt;Dash&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;If you move after making a melee attack, you don't provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt; from your target.</content>
+  <content contentuid="h775dec04g6767g104fg6db5g59defa5b0d72" version="1">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="hb8a59eafgd129g2a26gaac4g75a5720afd52" version="1">Passive Feature: Moderately Armoured</content>
+  <content contentuid="h05683458g6d60g82afgb5cbg5e2b75bda6c7" version="1">Use</content>
+  <content contentuid="h19e534deg9b46g36c2gab23g038ffb18a6ed" version="1">You gain &lt;LSTag Tooltip="ArmourProficiency"&gt;Armour Proficiency&lt;/LSTag&gt; with Medium Armour and shields, and your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; or &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; increases by 1, to a maximum of 20.</content>
+  <content contentuid="hbf424435ged1egc5ccg4d61gacf8b6004c1e" version="1">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="h9833816agcfc4gc0d7geb27g506692ae8948" version="1">Passive Feature: Moderately Armoured</content>
+  <content contentuid="h3671e2dfg5a2bg6797g3911g4e0d71947e3a" version="1">Use</content>
+  <content contentuid="h96e03cc9g1522gc47fgcfa0g96345cc7b20d" version="1">You gain &lt;LSTag Tooltip="MusicalInstrumentProficiency"&gt;Musical Instrument Proficiency&lt;/LSTag&gt;, and your &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; increases by 1, to a maximum of 20.</content>
+  <content contentuid="ha6f60903g4c35g056cg1b2cg8c360790f910" version="1">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="h5bc5c9aag76f4gd844gbf51g5cd8d4706503" version="1">Passive Feature: Polearm Master</content>
+  <content contentuid="h85f74484g55a7g221ag0053g33a9052596b5" version="1">Use</content>
+  <content contentuid="h987dfef3g0991gd0aeg9faagbbeb806cbdf8" version="1">When attacking with a glaive, halberd, quarterstaff, or spear, you can use a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; to attack with the butt of your weapon.&lt;br&gt;&lt;br&gt;You can also make an &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attack&lt;/LSTag&gt; when a target comes within range.</content>
+  <content contentuid="heb7d105bg6ac5g3e79g0181g681483432678" version="1">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="hf04ee9fcge9dbga361g861fg166b2fd6ff73" version="2">Passive Feature: Resilient (Strength)</content>
+  <content contentuid="hadcb542dg4b75g2246g77e8g7cbb51f563c9" version="2">Use</content>
+  <content contentuid="h6265cd29g0120g2e4bgabc4g47f429829e72" version="2">Increase your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; by [1] and gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Strength &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+  <content contentuid="hdfe8f159gf5beg5d99g6975ga078bb2600a7" version="2">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="h21011459gf803g3b57g222fgf0ee0e926a15" version="2">Passive Feature: Resilient (Dexterity)</content>
+  <content contentuid="he7e2674cg87f0g74a4g28beg32c76b4d88ec" version="2">Use</content>
+  <content contentuid="had13c124ga670g7849g52f5gd6d045a3666e" version="2">Increase your &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; by [1] and gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+  <content contentuid="h9a84a949g1188g3644g53cfg4ff1f44d93cf" version="2">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="h3664cc29gc345g0909g5ccbgb286ffd2f019" version="2">Passive Feature: Resilient (Constitution)</content>
+  <content contentuid="hefaa1b54gacddgfadcg057cg384ff1b4381c" version="2">Use</content>
+  <content contentuid="he0a27866g6a97g934dg070bg5c2aae0631aa" version="2">Increase your &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; by [1] and gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+  <content contentuid="hb76c72c0g4fe0g6997g60fbg70e01a0fc907" version="2">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="hf39ac729ge01ege85agd03bgf24ab937bd74" version="2">Passive Feature: Resilient (Intelligence)</content>
+  <content contentuid="hd527a421g5085g9c0fg9396g6c24e81f777f" version="2">Use</content>
+  <content contentuid="h2057daeegcc4cg8212g86d7gabec8ce7fefc" version="2">Increase your &lt;LSTag Tooltip="Intelligence"&gt;Intelligence&lt;/LSTag&gt; by [1] and gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Intelligence &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+  <content contentuid="hcc05ebcdg51b6gdf09g36b7g7ba59b1d323b" version="2">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="ha268ba71gecf7g5727g9d18geeb078450140" version="2">Passive Feature: Resilient (Wisdom)</content>
+  <content contentuid="hfce5c5f5g5746g8766gefdfgb9ddd057eb59" version="2">Use</content>
+  <content contentuid="h033b5f9dg1d9agf5a6g1bddg27461d1a041a" version="2">Increase your &lt;LSTag Tooltip="Wisdom"&gt;Wisdom&lt;/LSTag&gt; by [1] and gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+  <content contentuid="hd1ed6103gdd06g7f68gf234gad1e4937e9fb" version="2">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="h43292706g895dg50b1g190bgaeb9eddc8ec2" version="2">Passive Feature: Resilient (Charisma)</content>
+  <content contentuid="h9c575ab2g70e9ga0fagffedga6cd2e2d273a" version="2">Use</content>
+  <content contentuid="h7afe0f78g8289g6159gfe13ga6b49c3c83cc" version="2">Increase your &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; by [1] and gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Charisma &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+  <content contentuid="hcaacbf12g371cg8650g9538g36f193b3161b" version="2">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="h6888872cg59e2g6394g467bg99a8001ea2a3" version="1">Passive Feature: Savage Attacker</content>
+  <content contentuid="hdaa80ac7g1747g1edcg7c2dg238ccfbc0146" version="1">Use</content>
+  <content contentuid="h069ae3c8gba4dg79c3gcc5bgb92abfc47ee2" version="1">When making melee weapon attacks, you roll your damage dice twice and use the highest result.</content>
+  <content contentuid="h9fde9269g0268g7402g0260g6576404e5256" version="1">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="h46b08718g9c00gd768g6836gf1bfbaba1dc6" version="1">Passive Feature: Sentinel</content>
+  <content contentuid="hc9c0f078gb14cg899bgca84g529f1debb26f" version="1">Use</content>
+  <content contentuid="hd5c46da1gaac3g59d2g9f77g65e5278ec6e1" version="1">When an enemy within melee range attacks an ally, you can use a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to make a weapon attack against that enemy. Target ally must not have the Sentinel Feat.&lt;br&gt;&lt;br&gt;You gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;, and when you hit a creature with an Opportunity Attack, it can no longer move for the rest of its turn.</content>
+  <content contentuid="h27a1f343gd044g277eg3967gf0ac9c89468d" version="1">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="hb0e333cdg987dg0064gab96g98259bb2fdf8" version="1">Passive Feature: Sharpshooter</content>
+  <content contentuid="h8dd4ab4eg58b0g0647ge18agd2211f13468d" version="1">Use</content>
+  <content contentuid="h6cf13333g5595g288cg50a6gde391782729d" version="1">Your &lt;LSTag Tooltip="RangedWeaponAttack"&gt;ranged weapon attacks&lt;/LSTag&gt; do not receive penalties from &lt;LSTag Tooltip="HighGroundRules"&gt;High Ground Rules&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Ranged weapon attacks with weapons you are &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; with have a -5 penalty to their &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, but deal an additional 10 damage. (You can toggle this on or off.)</content>
+  <content contentuid="h43b42854ga4d0gb7adgc5afg599a2564516c" version="1">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="h367e4852g95a7g41c8g99d3g962a8bd60c57" version="1">Passive Feature: Shield Master</content>
+  <content contentuid="hf643e4d1g2fefg0cc0gd61bgc1fdaaa0e8c3" version="1">Use</content>
+  <content contentuid="h50c4db9egb004gcb4eg771eg57df5385d191" version="1">You gain a +2 bonus to Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; while wielding a shield. If a spell forces you to make a Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;, you can use a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to shield yourself and diminish the effect's damage. On a failed Saving Throw, you only take half damage. On a successful Saving Throw, you don't take any damage.</content>
+  <content contentuid="h22a8f842g4bdbg5b06gbb86gb9a96d172cf5" version="1">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="hbb21e343gcd0ag2ee2g28degc8827000ded8" version="1">Passive Feature: Tavern Brawler</content>
+  <content contentuid="h0c868394ga353g0f2ag1acbg679a382a7ca7" version="1">Use</content>
+  <content contentuid="hac15e1c7g18b2gaae1g3bb2g296cf96d3859" version="1">When you make an unarmed attack, use an improvised weapon, or throw something, your Strength &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; is added twice to the damage and &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+  <content contentuid="hf7a219c1g3265g403cg5b2fge0c2350452e8" version="1">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="he4c41886ge956gc409gf671g27e40c6ec978" version="1">Passive Feature: Tough</content>
+  <content contentuid="hf5a66c3bg1a53g4330g0aeeg9112fddb5a93" version="1">Use</content>
+  <content contentuid="he5551855gd58fge315g309dg8f5e611eadec" version="1">Your hit point maximum increases by 2 for every level you have gained.</content>
+  <content contentuid="h18318391g9d0fg472bg441fgac3478b06998" version="1">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="h9ce9116dga6aag5d08g37bbg3357fca22da3" version="1">Passive Feature: War Caster</content>
+  <content contentuid="h869c833fg07ccge32fg39a5gc4f18c658472" version="1">Use</content>
+  <content contentuid="h2f548428g890eg5a1fg9fafg146725045959" version="1">You gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; to maintain &lt;LSTag Tooltip="Concentration"&gt;Concentration&lt;/LSTag&gt; on a spell.&lt;br&gt;&lt;br&gt;You can also use a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to cast &lt;LSTag Type="Spell" Tooltip="Target_ShockingGrasp"&gt;Shocking Grasp&lt;/LSTag&gt; at a target moving out of melee range.</content>
+  <content contentuid="h12ce4ec8g27d1g02a1g8ab7g1fcf6256235f" version="1">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="hd8864c92g2d51gba4dg2108g7e0f846958d9" version="1">Cheaters True Resurrection</content>
+  <content contentuid="h543920b6gc5bcg1f22g943bgb75bfe5566b9" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hd105f322gd88agdbc8ga9e0gaa04a7809764" version="1">Cheaters Heal</content>
+  <content contentuid="h8c361e7cg62b4g283ag43a7g998dbbe17e14" version="1">Heal a target's wounds and remove &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blindness&lt;/LSTag&gt; and any diseases.</content>
+  <content contentuid="h62130e94g750dgf38egc37fged544c858b5d" version="1">Cheaters Heal</content>
+  <content contentuid="hdb1ec907g80efg66dagf730gc3bb03253ace" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
 </contentList>
