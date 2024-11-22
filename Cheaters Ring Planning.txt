@@ -1,3 +1,0 @@
-Allow multiple targets for Flesh to Stone, Flesh to Gold and Hold Creature.
-Add Daylight Spell
-Add Targeted healing.

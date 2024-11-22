@@ -4573,6 +4573,20 @@
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="81d60d7f-6d1a-45ed-bd0a-2116654e5fa9" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Spell_Daylight" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d462b1fc-7763-49bb-be12-1f06f6241394" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="328e5379-19a8-4eea-81fd-1371ff1242f9" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF4B0082" is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="8873217a-d416-42a5-8b2a-d826aba33cf4" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_CSS_GaseousForm" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="d462b1fc-7763-49bb-be12-1f06f6241394" />

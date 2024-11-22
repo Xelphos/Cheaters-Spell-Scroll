@@ -88,7 +88,7 @@
         <field name="TargetRadius" type="StringTableFieldDefinition" value="30" />
         <field name="Icon" type="StringTableFieldDefinition" value="Item_CONT_Barrel_Water_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7043a844g65e3gf03dg9a3ege83b3183f09c" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h08625e32gcf52gae22g1a4bgc1e08af36735" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h08625e32gcf52gae22g1a4bgc1e08af36735" version="3" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineIntervention" />
         <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Cleric_DivineIntervention" />
         <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Cleric_DivineIntervention_Supplies" />
@@ -101,6 +101,7 @@
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="3e655f13-f121-432d-bafe-fbe6b1ae70f1" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="7593a35a-1e1b-4760-9548-107502dd00d8" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
+        <field name="AmountOfTargets" type="StringTableFieldDefinition" value="6" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -113,7 +114,7 @@
         <field name="TargetRadius" type="StringTableFieldDefinition" value="30" />
         <field name="Icon" type="StringTableFieldDefinition" value="Item_CONT_Barrel_Alcohol_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hee0ac464g340cg112ag0647g43ddb291fdd5" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hd30edcf9g62dbgf50fg017eg23c95fb24d1b" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hd30edcf9g62dbgf50fg017eg23c95fb24d1b" version="2" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineIntervention" />
         <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Cleric_DivineIntervention" />
         <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Cleric_DivineIntervention_Supplies" />
@@ -126,6 +127,7 @@
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="3e655f13-f121-432d-bafe-fbe6b1ae70f1" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="7593a35a-1e1b-4760-9548-107502dd00d8" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
+        <field name="AmountOfTargets" type="StringTableFieldDefinition" value="6" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -138,7 +140,7 @@
         <field name="TargetRadius" type="StringTableFieldDefinition" value="30" />
         <field name="Icon" type="StringTableFieldDefinition" value="Item_CONT_Barrel_Oil_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hcb6673a1g01d3g176cg37c2g287e5bc374d0" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h71278c30gf349g50a2gf56dgffec99ec5ec9" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h71278c30gf349g50a2gf56dgffec99ec5ec9" version="3" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineIntervention" />
         <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Cleric_DivineIntervention" />
         <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Cleric_DivineIntervention_Supplies" />
@@ -151,6 +153,7 @@
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="3e655f13-f121-432d-bafe-fbe6b1ae70f1" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="7593a35a-1e1b-4760-9548-107502dd00d8" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
+        <field name="AmountOfTargets" type="StringTableFieldDefinition" value="6" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -163,7 +166,7 @@
         <field name="TargetRadius" type="StringTableFieldDefinition" value="30" />
         <field name="Icon" type="StringTableFieldDefinition" value="Item_CONT_Barrel_Acid_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0fb8f09bg9c7cg3015g9d05gf8361f85b4e7" version="2" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h75670356gde76g9903g2738g732ca50e3863" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h75670356gde76g9903g2738g732ca50e3863" version="3" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineIntervention" />
         <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Cleric_DivineIntervention" />
         <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Cleric_DivineIntervention_Supplies" />
@@ -176,6 +179,7 @@
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="3e655f13-f121-432d-bafe-fbe6b1ae70f1" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="7593a35a-1e1b-4760-9548-107502dd00d8" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
+        <field name="AmountOfTargets" type="StringTableFieldDefinition" value="6" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -188,7 +192,7 @@
         <field name="TargetRadius" type="StringTableFieldDefinition" value="30" />
         <field name="Icon" type="StringTableFieldDefinition" value="Item_CONT_Barrel_Brine_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h921afe12gcc81g115cg31f2g5519907a01a3" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h2c6157a8g49acg3b8dg3b05g5a1648626fa1" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h2c6157a8g49acg3b8dg3b05g5a1648626fa1" version="2" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineIntervention" />
         <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Cleric_DivineIntervention" />
         <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Cleric_DivineIntervention_Supplies" />
@@ -201,6 +205,7 @@
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="3e655f13-f121-432d-bafe-fbe6b1ae70f1" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="7593a35a-1e1b-4760-9548-107502dd00d8" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
+        <field name="AmountOfTargets" type="StringTableFieldDefinition" value="6" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -213,7 +218,7 @@
         <field name="TargetRadius" type="StringTableFieldDefinition" value="30" />
         <field name="Icon" type="StringTableFieldDefinition" value="Item_CONT_Barrel_Smokepowder_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h832fedbege3d3g04c6g0ba0g3d124fd0ef6e" version="2" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hf3ceb142g8f75g99f7g21d2g363ee777de6d" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hf3ceb142g8f75g99f7g21d2g363ee777de6d" version="2" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineIntervention" />
         <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Cleric_DivineIntervention" />
         <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Cleric_DivineIntervention_Supplies" />
@@ -226,6 +231,7 @@
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="3e655f13-f121-432d-bafe-fbe6b1ae70f1" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="7593a35a-1e1b-4760-9548-107502dd00d8" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
+        <field name="AmountOfTargets" type="StringTableFieldDefinition" value="6" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -238,7 +244,7 @@
         <field name="TargetRadius" type="StringTableFieldDefinition" value="30" />
         <field name="Icon" type="StringTableFieldDefinition" value="Item_PUZ_MF_Explosive_Contraption_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h73f781c9ged79g6652gc0aag68fee9bc0d45" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h29b47de1g654fgdf05g3830g3ab9f313bc90" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h29b47de1g654fgdf05g3830g3ab9f313bc90" version="2" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineIntervention" />
         <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Cleric_DivineIntervention" />
         <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Cleric_DivineIntervention_Supplies" />
@@ -251,6 +257,7 @@
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="3e655f13-f121-432d-bafe-fbe6b1ae70f1" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="7593a35a-1e1b-4760-9548-107502dd00d8" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
+        <field name="AmountOfTargets" type="StringTableFieldDefinition" value="6" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -263,7 +270,7 @@
         <field name="TargetRadius" type="StringTableFieldDefinition" value="30" />
         <field name="Icon" type="StringTableFieldDefinition" value="Item_UNI_UND_Runepowder_Barrel" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h81bb6aebgc3dcga405g9edagd6ab0c1b33a7" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h260f7180g292eg7042g996dg149546879886" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h260f7180g292eg7042g996dg149546879886" version="2" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineIntervention" />
         <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Cleric_DivineIntervention" />
         <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Cleric_DivineIntervention_Supplies" />
@@ -276,6 +283,7 @@
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="3e655f13-f121-432d-bafe-fbe6b1ae70f1" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="7593a35a-1e1b-4760-9548-107502dd00d8" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
+        <field name="AmountOfTargets" type="StringTableFieldDefinition" value="6" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -288,7 +296,7 @@
         <field name="TargetRadius" type="StringTableFieldDefinition" value="30" />
         <field name="Icon" type="StringTableFieldDefinition" value="Item_LOOT_GEN_Runepowder_Time_Bomb_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h63fb2abfg2d1agcfc5g5c5cg1acb1d3d99ca" version="2" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hfa682699gb9aeg9554gc173g8a30ab0d9dcc" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hfa682699gb9aeg9554gc173g8a30ab0d9dcc" version="3" />
         <field name="PrepareSound" type="StringTableFieldDefinition" value="Action_Prepare_Cleric_DivineIntervention" />
         <field name="PrepareLoopSound" type="StringTableFieldDefinition" value="Action_Loop_Cleric_DivineIntervention" />
         <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Cleric_DivineIntervention_Supplies" />
@@ -301,6 +309,7 @@
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="3e655f13-f121-432d-bafe-fbe6b1ae70f1" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="7593a35a-1e1b-4760-9548-107502dd00d8" />
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
+        <field name="AmountOfTargets" type="StringTableFieldDefinition" value="6" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -356,6 +365,7 @@
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="556fd141-698d-4c08-9322-ad155821260a" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="0340b957-f9eb-45bc-9c6f-d4def37f5249" />
         <field name="TargetEffect" type="GuidObjectTableFieldDefinition" value="de333436-aa42-45cc-a3da-14277ca1df60" />
+        <field name="AmountOfTargets" type="StringTableFieldDefinition" value="6" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -384,6 +394,7 @@
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="556fd141-698d-4c08-9322-ad155821260a" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="0340b957-f9eb-45bc-9c6f-d4def37f5249" />
         <field name="TargetEffect" type="GuidObjectTableFieldDefinition" value="de333436-aa42-45cc-a3da-14277ca1df60" />
+        <field name="AmountOfTargets" type="StringTableFieldDefinition" value="6" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -629,6 +640,7 @@
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="c238f860-37c1-47b1-8030-14fa6a1bdfa1" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="bcd66fb0-b0bc-41d0-abba-ad443d63dd72" />
         <field name="TargetEffect" type="GuidObjectTableFieldDefinition" value="fb919edf-4dce-45d8-9338-91f26bccec31" />
+        <field name="AmountOfTargets" type="StringTableFieldDefinition" value="4" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1319,6 +1331,7 @@
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="33302a46-4a12-41dd-8845-6b7314d50022" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="bcd66fb0-b0bc-41d0-abba-ad443d63dd72" />
         <field name="TargetEffect" type="GuidObjectTableFieldDefinition" value="7be62644-38a2-4151-a674-777f4e87da43" />
+        <field name="AmountOfTargets" type="StringTableFieldDefinition" value="4" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1352,6 +1365,7 @@
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="556fd141-698d-4c08-9322-ad155821260a" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="38776222-db33-4b53-9e23-ca3b47ab58cb" />
         <field name="TargetEffect" type="GuidObjectTableFieldDefinition" value="5940ed61-049a-41dc-889b-0efd32655f36" />
+        <field name="AmountOfTargets" type="StringTableFieldDefinition" value="4" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1413,6 +1427,96 @@
         <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="96a51ac8-2e7e-4718-bb62-dcfd18964a02" />
         <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="d80fd679-8993-4a19-b732-29c7d03dd5ff" />
         <field name="TargetEffect" type="GuidObjectTableFieldDefinition" value="c169922f-8636-46ce-aa1a-4c86a6cc7d08" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="044286ae-dbf8-44ef-8b8a-427fe3d8c2f5" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_Daylight_Container" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="10" />
+        <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Evocation" enumeration_type_name="SpellSchool" version="1" />
+        <field name="ContainerSpells" type="StringTableFieldDefinition" value="Target_XEL_CSS_Daylight;Target_XEL_CSS_Daylight_Enchantment" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(f662449b-057a-477c-a80e-9083aff62b00, -1,,,Daylight,DAYLIGHT_GROUND);GROUND:SurfaceChange(Daylight)" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="30" />
+        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="15" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="CanStand('f662449b-057a-477c-a80e-9083aff62b00') and not Character() and not Item()" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Evocation_Daylight" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hee638d73gfce1g3598gc2b8g643050dcade0" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="haeccdc0dg0c89g8ff2g8e65g3ae14562479a" version="1" />
+        <field name="ExtraDescription" type="TranslatedStringTableFieldDefinition" handle="h211a2c02ga9bcgfa42ga3d7gf58e8e6be0b1" version="1" />
+        <field name="ExtraDescriptionParams" type="StringTableFieldDefinition" value="20" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(DAYLIGHT,100,-1)" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Utility_Gen_Daylight" />
+        <field name="TargetSound" type="StringTableFieldDefinition" value="Spell_Impact_Utility_Daylight_L3" />
+        <field name="PreviewCursor" type="EnumerationTableFieldDefinition" value="Cast" enumeration_type_name="CursorMode" version="1" />
+        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:0" />
+        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="dd86aa43-8189-4d9f-9a5c-454b5fe4a197,,;,,;c0513845-6e0e-42e8-9a8c-baa5e2b6ead6,,;fbf20742-9dbf-475b-9ff5-42e4b08064ad,,;cc5b0caf-3ed1-4711-a50d-11dc3f1fdc6a,,;,,;1715b877-4512-472e-9bd0-fd568a112e90,,;,,;,," />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Utility" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;CannotTargetItems;IsLinkedSpellContainer;IgnoreSilence" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="HitAnimationType" type="EnumerationTableFieldDefinition" value="MagicalNonDamage" enumeration_type_name="HitAnimationType" version="1" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="7121a488-7c9a-4ba1-a585-f79aaa77e97c" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="518bc78f-c169-43ba-b951-977d75429199" />
+        <field name="PositionEffect" type="GuidObjectTableFieldDefinition" value="6d82d113-be7a-4393-9929-d86f30090bdb" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3707a6c5-ae4b-4994-9f51-b8fb624c80b5" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_Daylight" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="10" />
+        <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Evocation" enumeration_type_name="SpellSchool" version="1" />
+        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_CSS_Daylight_Container" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:Summon(f662449b-057a-477c-a80e-9083aff62b00, -1,,,Daylight,DAYLIGHT_GROUND);GROUND:SurfaceChange(Daylight)" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="30" />
+        <field name="AreaRadius" type="IntegerTableFieldDefinition" value="15" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="CanStand('f662449b-057a-477c-a80e-9083aff62b00') and not Character() and not Item()" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Evocation_Daylight_Sphere" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5d5c7d18g8766g46d0g6a1egb405c71785bd" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hab1445fag13ebg7ec2g6e4dg35ae7a74d37a" version="1" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(DAYLIGHT_GROUND,100,-1)" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Utility_Gen_Daylight" />
+        <field name="TargetSound" type="StringTableFieldDefinition" value="Spell_Impact_Utility_Daylight_L3" />
+        <field name="PreviewCursor" type="EnumerationTableFieldDefinition" value="Cast" enumeration_type_name="CursorMode" version="1" />
+        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:0" />
+        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="dd86aa43-8189-4d9f-9a5c-454b5fe4a197,,;,,;c0513845-6e0e-42e8-9a8c-baa5e2b6ead6,,;fbf20742-9dbf-475b-9ff5-42e4b08064ad,,;cc5b0caf-3ed1-4711-a50d-11dc3f1fdc6a,,;,,;1715b877-4512-472e-9bd0-fd568a112e90,,;,,;,," />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Utility" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;CannotTargetItems;CannotTargetCharacter;IgnoreSilence" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="HitAnimationType" type="EnumerationTableFieldDefinition" value="MagicalNonDamage" enumeration_type_name="HitAnimationType" version="1" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="7121a488-7c9a-4ba1-a585-f79aaa77e97c" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="518bc78f-c169-43ba-b951-977d75429199" />
+        <field name="PositionEffect" type="GuidObjectTableFieldDefinition" value="6d82d113-be7a-4393-9929-d86f30090bdb" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a565550b-d259-4f0c-a2cb-f5177e587f22" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_Daylight_Enchantment" />
+        <field name="Level" type="IntegerTableFieldDefinition" value="10" />
+        <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Evocation" enumeration_type_name="SpellSchool" version="1" />
+        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_CSS_Daylight_Container" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="GROUND:SurfaceChange(Daylight,100,0,100,15)" />
+        <field name="TargetRadius" type="StringTableFieldDefinition" value="30" />
+        <field name="SpellRoll" type="StringTableFieldDefinition" value="Item() or SpellAutoResolveOnAlly(Ability.Dexterity, SourceSpellDC(),true)" />
+        <field name="SpellSuccess" type="StringTableFieldDefinition" value="IF(Item()):ApplyStatus(DAYLIGHT,100,20);IF(Item()):ApplyStatus(DAYLIGHT_SUNLIGHT_AURA_TECHNICAL,100,20);IF(HasWeaponInMainHand()):ApplyEquipmentStatus(MainHand,DAYLIGHT,100,-1);IF(HasWeaponInMainHand()):ApplyEquipmentStatus(MainHand,DAYLIGHT_SUNLIGHT_AURA_TECHNICAL,100,-1);" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="(HasWeaponInMainHand() and Ally()) or Item()" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Evocation_Daylight_Enchantment" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc2205cecg1223g8dc1g6d6cg50593b4bb6c9" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h79721027g04dag8328g63d2g7d5bb9d59741" version="1" />
+        <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(DAYLIGHT,100,20)" />
+        <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Utility_Gen_Daylight" />
+        <field name="TargetSound" type="StringTableFieldDefinition" value="Spell_Impact_Utility_Daylight_L3" />
+        <field name="PreviewCursor" type="EnumerationTableFieldDefinition" value="Cast" enumeration_type_name="CursorMode" version="1" />
+        <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:0" />
+        <field name="SpellAnimation" type="CastAnimationsTableFieldDefinition" value="dd86aa43-8189-4d9f-9a5c-454b5fe4a197,,;,,;c0513845-6e0e-42e8-9a8c-baa5e2b6ead6,,;fbf20742-9dbf-475b-9ff5-42e4b08064ad,,;cc5b0caf-3ed1-4711-a50d-11dc3f1fdc6a,,;,,;1715b877-4512-472e-9bd0-fd568a112e90,,;,,;,," />
+        <field name="VerbalIntent" type="EnumerationTableFieldDefinition" value="Utility" enumeration_type_name="VerbalIntent" version="1" />
+        <field name="SpellFlags" type="EnumerationListTableFieldDefinition" value="HasVerbalComponent;HasSomaticComponent;IgnoreSilence" enumeration_type_name="SpellFlagList" version="1" />
+        <field name="HitAnimationType" type="EnumerationTableFieldDefinition" value="MagicalNonDamage" enumeration_type_name="HitAnimationType" version="1" />
+        <field name="PrepareEffect" type="GuidObjectTableFieldDefinition" value="7121a488-7c9a-4ba1-a585-f79aaa77e97c" />
+        <field name="CastEffect" type="GuidObjectTableFieldDefinition" value="518bc78f-c169-43ba-b951-977d75429199" />
+        <field name="TargetEffect" type="GuidObjectTableFieldDefinition" value="2a51387c-77c1-4304-b790-55f7722a0b70" />
       </fields>
     </stat_object>
   </stat_objects>

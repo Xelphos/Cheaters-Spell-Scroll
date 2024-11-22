@@ -3314,6 +3314,8 @@ object category "I_XEL_OBJ_Spell_TrueSeeing",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_XEL_OBJ_Spell_EnlargeReduce",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_XEL_OBJ_Spell_Daylight",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_XEL_OBJ_Spell_Knock",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_XEL_OBJ_Spell_CreateWater",1,0,0,0,0,0,0,0

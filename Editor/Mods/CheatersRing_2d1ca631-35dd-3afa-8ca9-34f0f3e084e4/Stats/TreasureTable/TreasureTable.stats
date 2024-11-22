@@ -16124,6 +16124,16 @@
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="1f2e8517-ab06-4c1a-95e6-2d2a0fb9d53d" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d480b4a5-6309-42c0-b27b-7190e6729f1c" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_SpellItemContainer_substat_76" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_Spell_Daylight" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1f2e8517-ab06-4c1a-95e6-2d2a0fb9d53d" />
         <field name="UUID" type="IdTableFieldDefinition" value="1f1b996b-1243-428d-a9b9-183194560d97" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_SpellItemContainer_substat_10" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />

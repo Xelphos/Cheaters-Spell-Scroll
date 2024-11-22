@@ -23,18 +23,18 @@
   <content contentuid="hfc55ecebg155bg2699ga534gdeb9abba7c8d" version="1">Cheaters Divine Intervention</content>
   <content contentuid="h23672371ge3f3g0d03g33fcgd8c4818aed34" version="1">Call upon your deity in your moment of greatest need.</content>
   <content contentuid="h832fedbege3d3g04c6g0ba0g3d124fd0ef6e" version="2">Cheaters Summon Smokepowder Barrel</content>
-  <content contentuid="hf3ceb142g8f75g99f7g21d2g363ee777de6d" version="1">Summons a Smokepowder Barrel at the target location.</content>
+  <content contentuid="hf3ceb142g8f75g99f7g21d2g363ee777de6d" version="2">Summons Smokepowder Barrels at the target location.</content>
   <content contentuid="h7043a844g65e3gf03dg9a3ege83b3183f09c" version="1">Cheaters Summon Water Barrel</content>
-  <content contentuid="h08625e32gcf52gae22g1a4bgc1e08af36735" version="2">Summons a Water Barrel at the target location.</content>
+  <content contentuid="h08625e32gcf52gae22g1a4bgc1e08af36735" version="3">Summons Water Barrels at the target location.</content>
   <content contentuid="hcb6673a1g01d3g176cg37c2g287e5bc374d0" version="1">Cheaters Summon Oil Barrel</content>
-  <content contentuid="h71278c30gf349g50a2gf56dgffec99ec5ec9" version="2">Summons a Oil Barrel at the target location.</content>
+  <content contentuid="h71278c30gf349g50a2gf56dgffec99ec5ec9" version="3">Summons Oil Barrels at the target location.</content>
   <content contentuid="hee0ac464g340cg112ag0647g43ddb291fdd5" version="1">Cheaters Summon Firewine Barrel</content>
-  <content contentuid="hd30edcf9g62dbgf50fg017eg23c95fb24d1b" version="1">Summons a Firewine Barrel at the target location.</content>
+  <content contentuid="hd30edcf9g62dbgf50fg017eg23c95fb24d1b" version="2">Summons Firewine Barrels at the target location.</content>
   <content contentuid="h81bb6aebgc3dcga405g9edagd6ab0c1b33a7" version="1">Cheaters Summon Runepowder Barrel</content>
-  <content contentuid="h260f7180g292eg7042g996dg149546879886" version="1">Summons a Runepowder Barrel at the target location. You are responsible for what happens if you use this.</content>
+  <content contentuid="h260f7180g292eg7042g996dg149546879886" version="2">Summons Runepowder Barrels at the target location. You are responsible for what happens if you use this.</content>
   <content contentuid="h5c193b50g4e1fg82a7g79dbgbe7c5429b7e2" version="1">Touch a creature - it can see &lt;LSTag Type="Status" Tooltip="INVISIBILITY"&gt;Invisible&lt;/LSTag&gt; creatures and pierce the planes with its eyes.</content>
   <content contentuid="h0fb8f09bg9c7cg3015g9d05gf8361f85b4e7" version="2">Cheaters Summon Acid Barrel</content>
-  <content contentuid="h75670356gde76g9903g2738g732ca50e3863" version="2">Summons a Acid Barrel at the target location.</content>
+  <content contentuid="h75670356gde76g9903g2738g732ca50e3863" version="3">Summons Acid Barrels at the target location.</content>
   <content contentuid="he3538111g9761ge41dg10f4gb8a8a2fc7cfe" version="1">Surrounded by silver mist, you teleport to an unoccupied space.</content>
   <content contentuid="hea479cbag6aeag3510gb500gb107625cf77a" version="1">Cheaters See Invisibility</content>
   <content contentuid="hf3cf5f3fg7f62ga0a5gc77egac16248e7c4b" version="1">Become able to see &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt; creatures, and possibly reveal them to others.</content>
@@ -45,9 +45,9 @@
   <content contentuid="h5d13771dg8a6agf331g9754g2bc2535b55ec" version="1">Shoot [2] magical darts, each dealing [1]. They always hit their target.</content>
   <content contentuid="hbc994efbg6936gea36g2a56gd7b8e732d13b" version="1">Shoot a bright flame from your fingers that explodes upon contact, torching everything in the vicinity.</content>
   <content contentuid="h921afe12gcc81g115cg31f2g5519907a01a3" version="1">Cheaters Summon Brine Barrel</content>
-  <content contentuid="h2c6157a8g49acg3b8dg3b05g5a1648626fa1" version="1">Summons a Brine Barrel at the target location.</content>
+  <content contentuid="h2c6157a8g49acg3b8dg3b05g5a1648626fa1" version="2">Summons Brine Barrels at the target location.</content>
   <content contentuid="h73f781c9ged79g6652gc0aag68fee9bc0d45" version="1">Cheaters Summon Nautiloid Tank</content>
-  <content contentuid="h29b47de1g654fgdf05g3830g3ab9f313bc90" version="1">Summons a Nautiloid Tank at the target location.</content>
+  <content contentuid="h29b47de1g654fgdf05g3830g3ab9f313bc90" version="2">Summons Nautiloid Tanks at the target location.</content>
   <content contentuid="h8c0a5c51g817fgf34agf334gb636ccddde35" version="2">Cheaters Summon Tutorial Chest</content>
   <content contentuid="hae389c7cg3b08g5eaegd3f0gfd6bcfe2b48e" version="1">Summons 2500 gold. What else can I say? It's free money.</content>
   <content contentuid="ha81c5accg0546ga9bcg6544gba21582cd545" version="1">Tutorial Chest</content>
@@ -388,7 +388,7 @@ Restores all Action Points, Bonus Action Points and Movement Speed.</content>
   <content contentuid="h70fddb1bg9521gec8dgd66dgfe0491e0e72b" version="2">Spider Egg Sac</content>
   <content contentuid="h195f67bdgac5fg71f9gde47g41b66eff3d57" version="2">Something - or some &lt;i&gt;things&lt;/i&gt; - wriggle within the sticky shell.</content>
   <content contentuid="h63fb2abfg2d1agcfc5g5c5cg1acb1d3d99ca" version="2">Cheaters Summon Runepowder Bomb</content>
-  <content contentuid="hfa682699gb9aeg9554gc173g8a30ab0d9dcc" version="2">Summons a Runepowder Bomb at the target location. You are responsible for what happens if you use this.</content>
+  <content contentuid="hfa682699gb9aeg9554gc173g8a30ab0d9dcc" version="3">Summons Runepowder Bombs at the target location. You are responsible for what happens if you use this.</content>
   <content contentuid="h483570adg8f81ga1c9g8d56g8e9aa541b4fe" version="1">Runepowder Bomb</content>
   <content contentuid="h5e5f4433gbe18g0c62g00fdg84cac7f6f751" version="1">Every ounce of Ironhand Gnome ingenuity has been poured into this metal casing - a moment of all-devouring destruction eagerly waiting release. </content>
   <content contentuid="hbc81e432g279dgd0afga2b1g604c47bcabd8" version="1">Cheat: Necrotic Aura (Active)</content>
@@ -1370,4 +1370,13 @@ Creatures ending their turn in the area must succeed a Dexterity &lt;LSTag Toolt
   <content contentuid="h8c361e7cg62b4g283ag43a7g998dbbe17e14" version="1">Heal a target's wounds and remove &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blindness&lt;/LSTag&gt; and any diseases.</content>
   <content contentuid="h62130e94g750dgf38egc37fged544c858b5d" version="1">Cheaters Heal</content>
   <content contentuid="hdb1ec907g80efg66dagf730gc3bb03253ace" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hee638d73gfce1g3598gc2b8g643050dcade0" version="1">Cheaters Daylight</content>
+  <content contentuid="haeccdc0dg0c89g8ff2g8e65g3ae14562479a" version="1">Enchant an item to shine like the sun or summon a sphere of sunlight that dispels all darkness around it.</content>
+  <content contentuid="h211a2c02ga9bcgfa42ga3d7gf58e8e6be0b1" version="1">Items can only be enchanted with &lt;LSTag Type="Status" Tooltip="DAYLIGHT"&gt;Daylight&lt;/LSTag&gt; for [1] turns.  </content>
+  <content contentuid="hc2205cecg1223g8dc1g6d6cg50593b4bb6c9" version="1">Daylight: Enchant Item</content>
+  <content contentuid="h79721027g04dag8328g63d2g7d5bb9d59741" version="1">Enchant an item or weapon to shine with the light of the sun and dispel all darkness around it.</content>
+  <content contentuid="h5d5c7d18g8766g46d0g6a1egb405c71785bd" version="1">Daylight: Sphere</content>
+  <content contentuid="hab1445fag13ebg7ec2g6e4dg35ae7a74d37a" version="1">Summon a sphere of sunlight that dispels all darkness around it.</content>
+  <content contentuid="h1b9b1d54g8e3eg6139g12a8g1120b3042fe5" version="1">Cheaters Daylight</content>
+  <content contentuid="h4045c1adg7836gcf1fgd204gc1084a328dcf" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
 </contentList>
