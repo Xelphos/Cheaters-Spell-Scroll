@@ -177,6 +177,12 @@ TemplateAddTo(XEL_Item_Spell_Grease_12247db5-7319-4aba-97f5-07e21a54823b, _Playe
 TemplateAddTo(XEL_Item_Spell_StinkingCloud_92d25c0b-9b30-4c70-82e5-f8722a04ff9c, _Player, 1, 1);
 TemplateAddTo(XEL_Item_Spell_GaseousForm_e449bb3a-085d-4194-9e5c-f0a49144844b, _Player, 1, 1);
 TemplateAddTo(XEL_Item_Spell_EnlargeReduce_c2b55b41-4e85-4ded-943d-a805725efb67, _Player, 1, 1);
+TemplateAddTo(XEL_Item_Spell_SlayerForm_78a6abd8-f98d-4749-9304-12b9cf226121, _Player, 1, 1);
+TemplateAddTo(XEL_Item_Spell_TrueResurrection_7d014c71-b43e-42df-b54f-e8285d6c1601, _Player, 1, 1);
+TemplateAddTo(XEL_Item_Spell_Heal_bf2139d2-a465-4ea5-ba94-318d9d131bd8, _Player, 1, 1);
+TemplateAddTo(XEL_Item_Spell_Daylight_328e5379-19a8-4eea-81fd-1371ff1242f9, _Player, 1, 1);
+TemplateAddTo(XEL_Item_Spell_FeatherFall_651ed484-c465-4205-9686-c4b56e03bc29, _Player, 1, 1);
+TemplateAddTo(XEL_Item_Spell_Jump_4af6f6f0-ce56-4351-9441-1ef3b5fc9dcf, _Player, 1, 1);
 
 IF
 LevelGameplayStarted(_,_)

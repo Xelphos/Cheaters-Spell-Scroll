@@ -3322,7 +3322,7 @@ object category "I_XEL_OBJ_Spell_Knock",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_XEL_OBJ_Spell_CreateWater",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_XEL_OBJ_CSS_GaseousForm",1,0,0,0,0,0,0,0
+object category "I_XEL_OBJ_Spell_GaseousForm",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_XEL_OBJ_Spell_Grease",1,0,0,0,0,0,0,0
 new subtable "1,1"

@@ -16167,7 +16167,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="1adf9830-83d8-4c21-aa51-a83862510d07" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_SpellItemContainer_substat_73" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_CSS_GaseousForm" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_Spell_GaseousForm" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>

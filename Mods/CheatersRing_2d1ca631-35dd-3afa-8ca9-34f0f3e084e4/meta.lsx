@@ -24,7 +24,7 @@
                     <attribute id="FileSize" type="uint64" value="27268903"/>
                     <attribute id="Folder" type="LSString" value="CheatersRing_2d1ca631-35dd-3afa-8ca9-34f0f3e084e4"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
-                    <attribute id="MD5" type="LSString" value="a3adef8c94ec5ab40d656a5ee48aed5b"/>
+                    <attribute id="MD5" type="LSString" value="6f37f267d7e5e062439de54606f3d970"/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
                     <attribute id="Name" type="LSString" value="Cheaters Spell Scroll - Formerly Cheaters Ring"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
@@ -32,7 +32,7 @@
                     <attribute id="PublishHandle" type="uint64" value="4322054"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="UUID" type="FixedString" value="2d1ca631-35dd-3afa-8ca9-34f0f3e084e4"/>
-                    <attribute id="Version64" type="int64" value="108367866033602803"/>
+                    <attribute id="Version64" type="int64" value="108367866033602806"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version64" type="int64" value="144255927717549775"/>
