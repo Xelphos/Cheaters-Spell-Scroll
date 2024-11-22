@@ -177,6 +177,19 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2d72f05a-cee5-46ee-8b02-fb2f9ecce26b" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LONG_JUMP" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0ce679cfg46c3g7c96g5795g6b5e44708a3b" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hb1cdfcdcg8650g0e48g2530gea5df4126fec" version="2" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Spell_Transmutation_LongJump" />
+        <field name="StackId" type="StringTableFieldDefinition" value="LONG_JUMP" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="JumpMaxDistanceMultiplier(10)" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="AI_ONLY:IF(not HasStatus('LONG_JUMP')):ApplyStatus(AI_HELPER_LONGJUMP,100,5)" />
+        <field name="StatusEffect" type="GuidObjectTableFieldDefinition" value="05140f43-7bb5-40bd-a584-743a3f03916a" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="9a7338e8-3e23-43d9-98c0-0ddbee7efdb1" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CHEAT_ROLL_BONUS" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha1c524a5g2a00gbf83g169ag7564b4c1f9d7" version="2" />

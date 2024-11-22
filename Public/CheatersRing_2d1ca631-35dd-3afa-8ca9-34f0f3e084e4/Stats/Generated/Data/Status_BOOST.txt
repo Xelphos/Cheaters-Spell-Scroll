@@ -144,6 +144,17 @@ data "OnApplyFunctors" "AI_ONLY:IF(not HasStatus('SEE_INVISIBILITY')):ApplyStatu
 data "StatusGroups" "SG_RemoveOnRespec"
 data "StatusEffect" "d8452a11-7c66-45fb-8ccb-64e2fa56ada5"
 
+new entry "XEL_CSS_LONG_JUMP"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h0ce679cfg46c3g7c96g5795g6b5e44708a3b;1"
+data "Description" "hb1cdfcdcg8650g0e48g2530gea5df4126fec;2"
+data "Icon" "Spell_Transmutation_LongJump"
+data "StackId" "LONG_JUMP"
+data "Boosts" "JumpMaxDistanceMultiplier(10)"
+data "OnApplyFunctors" "AI_ONLY:IF(not HasStatus('LONG_JUMP')):ApplyStatus(AI_HELPER_LONGJUMP,100,5)"
+data "StatusEffect" "05140f43-7bb5-40bd-a584-743a3f03916a"
+
 new entry "XEL_CHEAT_ROLL_BONUS"
 type "StatusData"
 data "StatusType" "BOOST"

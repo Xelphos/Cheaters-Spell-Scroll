@@ -1149,8 +1149,8 @@ Creatures ending their turn in the area must succeed a Dexterity &lt;LSTag Toolt
   <content contentuid="h25391875g64edgfd28g8557g1b060c8aa940" version="1">Cheaters Gaseous Form</content>
   <content contentuid="ha0ddcc59g0747gc58eg74d5gb10fe8a74eb1" version="1">Transform yourself or an ally into a tiny gas cloud. It can't fall, and fits through small openings. It is very hard to damage.</content>
   <content contentuid="h7ec256b3g4a47gdfbdgc47eged9776917f34" version="1">The cloud has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Constitution, Dexterity, and Strength &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
-  <content contentuid="hb73213d5g84ffgaffcg94acgcd547b8dae02" version="1">Cheaters Gaseous Form</content>
-  <content contentuid="h601ed4c7gdf1fge7a1g8464g596327cbd89b" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hb73213d5g84ffgaffcg94acgcd547b8dae02" version="3">Cheaters Gaseous Form</content>
+  <content contentuid="h601ed4c7gdf1fge7a1g8464g596327cbd89b" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="h1516bc6cgf381ga374ga284gadadeb4360b9" version="1">Cheaters Cloudkill</content>
   <content contentuid="h340cf42eg3b2cg3945g8c4eg4ff5ccaab4e9" version="1">Craft a large cloud that inflicts [1] per turn. You can reposition the cloud every turn.</content>
   <content contentuid="h669cfa20gd9aeg10f9g4360g6e72b5a01f39" version="1">The cloud Heavily Obscures everything within it.</content>
@@ -1379,4 +1379,14 @@ Creatures ending their turn in the area must succeed a Dexterity &lt;LSTag Toolt
   <content contentuid="hab1445fag13ebg7ec2g6e4dg35ae7a74d37a" version="1">Summon a sphere of sunlight that dispels all darkness around it.</content>
   <content contentuid="h1b9b1d54g8e3eg6139g12a8g1120b3042fe5" version="1">Cheaters Daylight</content>
   <content contentuid="h4045c1adg7836gcf1fgd204gc1084a328dcf" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h32b18475g84eage4ddgc33ag42d650ecba05" version="1">Cheaters Feather Fall</content>
+  <content contentuid="hd7c7ff63g1e82g1199g523fg0da8e2e4090e" version="1">You and nearby allies gain &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; to Falling damage.</content>
+  <content contentuid="hb6a44ad8gf98fg8fdbg5fb8gab3f0325b52b" version="2">Cheaters Feather Fall</content>
+  <content contentuid="h47752c1eg37bag8892g8546gef62057b8c14" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hcf6cb09cgaba3ga555gd362gffb4f2e49ee0" version="1">Cheaters Enhance Leap</content>
+  <content contentuid="hf19c804cgf60egf4cfg12dbgd2fcf94a01fc" version="2">Massively increase you and nearby allies jumping distance.</content>
+  <content contentuid="h00fc6be9gc34eg7be5g8d22g2b94df67e03a" version="1">Cheaters Jump</content>
+  <content contentuid="hdb8fea24gcd85g6743gb3e1g42127f8d7933" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h0ce679cfg46c3g7c96g5795g6b5e44708a3b" version="1">Cheaters Jump</content>
+  <content contentuid="hb1cdfcdcg8650g0e48g2530gea5df4126fec" version="2">&lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;Jump&lt;/LSTag&gt; distance is massively increased. </content>
 </contentList>

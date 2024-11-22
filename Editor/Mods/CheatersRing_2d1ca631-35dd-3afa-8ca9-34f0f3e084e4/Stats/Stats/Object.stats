@@ -4475,6 +4475,34 @@
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a84a5362-908d-4a6c-8d95-12d720972046" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Spell_Jump" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d462b1fc-7763-49bb-be12-1f06f6241394" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="4af6f6f0-ce56-4351-9441-1ef3b5fc9dcf" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF4B0082" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c98caf03-7a72-4ca1-ae34-62917d79f99b" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Spell_FeatherFall" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d462b1fc-7763-49bb-be12-1f06f6241394" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="651ed484-c465-4205-9686-c4b56e03bc29" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF4B0082" is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="a41f44ab-5a79-4f88-918d-d2e007e93531" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Spell_Longstrider" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="d462b1fc-7763-49bb-be12-1f06f6241394" />
@@ -4588,7 +4616,7 @@
     <stat_object color="#FF4B0082" is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="8873217a-d416-42a5-8b2a-d826aba33cf4" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_CSS_GaseousForm" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Spell_GaseousForm" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="d462b1fc-7763-49bb-be12-1f06f6241394" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="e449bb3a-085d-4194-9e5c-f0a49144844b" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />

@@ -1895,8 +1895,6 @@ MaxLevel "20"
 IgnoreLevelDiff 1
 new subtable "1,1"
 StartLevel "1"
-object category "I_XEL_OBJ_SpellPouch",1,0,0,0,0,0,0,0
-new subtable "1,1"
 object category "I_XEL_OBJ_Chest_EditAbilityScores",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_XEL_OBJ_Chest_EditPassiveFeatures",1,0,0,0,0,0,0,0
@@ -3305,6 +3303,10 @@ new subtable "1,1"
 object category "I_XEL_OBJ_Spell_DimensionDoor",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_XEL_OBJ_Spell_Fly",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_Spell_Jump",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_Spell_FeatherFall",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_XEL_OBJ_Spell_Longstrider",1,0,0,0,0,0,0,0
 new subtable "1,1"
