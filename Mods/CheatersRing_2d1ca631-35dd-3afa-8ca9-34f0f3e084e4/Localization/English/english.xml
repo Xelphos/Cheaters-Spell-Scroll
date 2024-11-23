@@ -1304,10 +1304,10 @@ Creatures ending their turn in the area must succeed a Dexterity &lt;LSTag Toolt
   <content contentuid="h05683458g6d60g82afgb5cbg5e2b75bda6c7" version="1">Use</content>
   <content contentuid="h19e534deg9b46g36c2gab23g038ffb18a6ed" version="1">You gain &lt;LSTag Tooltip="ArmourProficiency"&gt;Armour Proficiency&lt;/LSTag&gt; with Medium Armour and shields, and your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; or &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; increases by 1, to a maximum of 20.</content>
   <content contentuid="hbf424435ged1egc5ccg4d61gacf8b6004c1e" version="1">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
-  <content contentuid="h9833816agcfc4gc0d7geb27g506692ae8948" version="1">Passive Feature: Moderately Armoured</content>
-  <content contentuid="h3671e2dfg5a2bg6797g3911g4e0d71947e3a" version="1">Use</content>
-  <content contentuid="h96e03cc9g1522gc47fgcfa0g96345cc7b20d" version="1">You gain &lt;LSTag Tooltip="MusicalInstrumentProficiency"&gt;Musical Instrument Proficiency&lt;/LSTag&gt;, and your &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; increases by 1, to a maximum of 20.</content>
-  <content contentuid="ha6f60903g4c35g056cg1b2cg8c360790f910" version="1">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="h9833816agcfc4gc0d7geb27g506692ae8948" version="2">Passive Feature: Performer</content>
+  <content contentuid="h3671e2dfg5a2bg6797g3911g4e0d71947e3a" version="2">Use</content>
+  <content contentuid="h96e03cc9g1522gc47fgcfa0g96345cc7b20d" version="2">You gain &lt;LSTag Tooltip="MusicalInstrumentProficiency"&gt;Musical Instrument Proficiency&lt;/LSTag&gt;, and your &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; increases by 1, to a maximum of 20.</content>
+  <content contentuid="ha6f60903g4c35g056cg1b2cg8c360790f910" version="2">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
   <content contentuid="h5bc5c9aag76f4gd844gbf51g5cd8d4706503" version="1">Passive Feature: Polearm Master</content>
   <content contentuid="h85f74484g55a7g221ag0053g33a9052596b5" version="1">Use</content>
   <content contentuid="h987dfef3g0991gd0aeg9faagbbeb806cbdf8" version="1">When attacking with a glaive, halberd, quarterstaff, or spear, you can use a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; to attack with the butt of your weapon.&lt;br&gt;&lt;br&gt;You can also make an &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attack&lt;/LSTag&gt; when a target comes within range.</content>
