@@ -1389,4 +1389,6 @@ Creatures ending their turn in the area must succeed a Dexterity &lt;LSTag Toolt
   <content contentuid="hdb8fea24gcd85g6743gb3e1g42127f8d7933" version="1">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="h0ce679cfg46c3g7c96g5795g6b5e44708a3b" version="1">Cheaters Jump</content>
   <content contentuid="hb1cdfcdcg8650g0e48g2530gea5df4126fec" version="2">&lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;Jump&lt;/LSTag&gt; distance is massively increased. </content>
+  <content contentuid="hd1109e5fgb258gedf5g8147gf3d42d0343d4" version="1">Cheaters Silence</content>
+  <content contentuid="hbc68b4c0g0b04gcecagd4bbg7b2c054ffabb" version="1">Create a sound-proof sphere. All within are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt; and &lt;LSTag Tooltip="Immune"&gt;Immune&lt;/LSTag&gt; to Thunder damage.</content>
 </contentList>
