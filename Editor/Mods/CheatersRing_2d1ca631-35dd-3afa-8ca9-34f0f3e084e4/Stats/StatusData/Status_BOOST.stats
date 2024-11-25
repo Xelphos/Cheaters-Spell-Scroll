@@ -361,7 +361,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_SOAP_WASH_AURA" />
         <field name="AuraRadius" type="IntegerTableFieldDefinition" value="30" />
         <field name="AuraStatuses" type="StringTableFieldDefinition" value="IF(Ally() and Tagged('PLAYABLE')):ApplyStatus(XEL_SOAP_WASH)" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha71907efgf362g01a2gca25g58f288e34778" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_SOAP_WASH_AURA" />
         <field name="StackPriority" type="IntegerTableFieldDefinition" value="10" />
@@ -375,7 +375,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h2cad2bccg4b2bg1efbg06fdg0d1703ffa440" version="1" />
         <field name="Icon" type="StringTableFieldDefinition" value="Item_LOOT_Bathroom_Soap_A" />
         <field name="StackId" type="StringTableFieldDefinition" value="SOAP_WASH" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(SELF,DIRT_COVERED);RemoveStatus(SELF,DIRT_COVERED_FULL);RemoveStatus(SELF,DIRT_COVERED_SLIGHT);RemoveStatus(SELF,BLOOD_COVERED);RemoveStatus(SELF,BLOOD_COVERED_FULL);RemoveStatus(SELF,BLOOD_COVERED_SLIGHT);RemoveStatus(SELF,SMELLY);RemoveStatus(SELF,STENCH);RemoveStatus(SELF,STENCH_GHAST);" />
         <field name="StatusEffect" type="GuidObjectTableFieldDefinition" value="dea02a2a-2e66-4b90-8874-7d10f53ceb30" />
         <field name="SplatterDirtAmount" type="FloatTableFieldDefinition" value="-2" />
@@ -391,7 +391,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hff72a165g26f8gca37ga283gcde9ae90d0f4" version="3" />
         <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_Generic_Death" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_BONE_ZONE_AURA" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;DisableOverhead;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -554,7 +554,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CHEAT_STRENGTH_INCREASE_PREP" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbd69d009gf154gf141g73bfgf4da725840b5" version="2" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_STRENGTH_INCREASE_PREP" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="IF(not HasStatus('XEL_CHEAT_STRENGTH_DECREASE')):ApplyStatus(XEL_CHEAT_STRENGTH_INCREASE,100,1);IF(HasStatus('XEL_CHEAT_STRENGTH_DECREASE')):ApplyStatus(XEL_CHEAT_STRENGTH_DECREASE,100,-1)" />
       </fields>
     </stat_object>
@@ -564,7 +564,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CHEAT_DEXTERITY_INCREASE_PREP" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h685b57d9g789cg34beg4063g840c950576db" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_DEXTERITY_INCREASE_PREP" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="IF(not HasStatus('XEL_CHEAT_DEXTERITY_DECREASE')):ApplyStatus(XEL_CHEAT_DEXTERITY_INCREASE,100,1);IF(HasStatus('XEL_CHEAT_DEXTERITY_DECREASE')):ApplyStatus(XEL_CHEAT_DEXTERITY_DECREASE,100,-1)" />
       </fields>
     </stat_object>
@@ -574,7 +574,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CHEAT_CONSTITUTION_INCREASE_PREP" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1eedb1cdg839dgf3ddg8663gc5ed1f7de5de" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_CONSTITUTION_INCREASE_PREP" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="IF(not HasStatus('XEL_CHEAT_CONSTITUTION_DECREASE')):ApplyStatus(XEL_CHEAT_CONSTITUTION_INCREASE,100,1);IF(HasStatus('XEL_CHEAT_CONSTITUTION_DECREASE')):ApplyStatus(XEL_CHEAT_CONSTITUTION_DECREASE,100,-1)" />
       </fields>
     </stat_object>
@@ -584,7 +584,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CHEAT_INTELLIGENCE_INCREASE_PREP" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc1f184e4g0109g7531g7030g20e0d3a81f16" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_INTELLIGENCE_INCREASE_PREP" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="IF(not HasStatus('XEL_CHEAT_INTELLIGENCE_DECREASE')):ApplyStatus(XEL_CHEAT_INTELLIGENCE_INCREASE,100,1);IF(HasStatus('XEL_CHEAT_INTELLIGENCE_DECREASE')):ApplyStatus(XEL_CHEAT_INTELLIGENCE_DECREASE,100,-1)" />
       </fields>
     </stat_object>
@@ -594,7 +594,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CHEAT_WISDOM_INCREASE_PREP" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9829b2b8g2a2dge298ga8d0gce79fed2cba7" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_WISDOM_INCREASE_PREP" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="IF(not HasStatus('XEL_CHEAT_WISDOM_DECREASE')):ApplyStatus(XEL_CHEAT_WISDOM_INCREASE,100,1);IF(HasStatus('XEL_CHEAT_WISDOM_DECREASE')):ApplyStatus(XEL_CHEAT_WISDOM_DECREASE,100,-1)" />
       </fields>
     </stat_object>
@@ -604,7 +604,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CHEAT_CHARISMA_INCREASE_PREP" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0c939b1fg2fbfgfc81g83a8gd1e969d68f4e" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_CHARISMA_INCREASE_PREP" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="IF(not HasStatus('XEL_CHEAT_CHARISMA_DECREASE')):ApplyStatus(XEL_CHEAT_CHARISMA_INCREASE,100,1);IF(HasStatus('XEL_CHEAT_CHARISMA_DECREASE')):ApplyStatus(XEL_CHEAT_CHARISMA_DECREASE,100,-1)" />
       </fields>
     </stat_object>
@@ -617,7 +617,7 @@
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_STRENGTH_INCREASE" />
         <field name="StackType" type="EnumerationTableFieldDefinition" value="Additive" enumeration_type_name="StatusStackType" version="1" />
         <field name="Boosts" type="StringTableFieldDefinition" value="Ability(Strength,+1)" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;IgnoreResting;MultiplyEffectsByDuration;FreezeDuration" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;IgnoreResting;MultiplyEffectsByDuration;FreezeDuration;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -629,7 +629,7 @@
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_DEXTERITY_INCREASE" />
         <field name="StackType" type="EnumerationTableFieldDefinition" value="Additive" enumeration_type_name="StatusStackType" version="1" />
         <field name="Boosts" type="StringTableFieldDefinition" value="Ability(Dexterity,+1)" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;IgnoreResting;MultiplyEffectsByDuration;FreezeDuration" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;IgnoreResting;MultiplyEffectsByDuration;FreezeDuration;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -641,7 +641,7 @@
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_CONSTITUTION_INCREASE" />
         <field name="StackType" type="EnumerationTableFieldDefinition" value="Additive" enumeration_type_name="StatusStackType" version="1" />
         <field name="Boosts" type="StringTableFieldDefinition" value="Ability(Constitution,+1)" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;IgnoreResting;MultiplyEffectsByDuration;FreezeDuration" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;IgnoreResting;MultiplyEffectsByDuration;FreezeDuration;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -653,7 +653,7 @@
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_INTELLIGENCE_INCREASE" />
         <field name="StackType" type="EnumerationTableFieldDefinition" value="Additive" enumeration_type_name="StatusStackType" version="1" />
         <field name="Boosts" type="StringTableFieldDefinition" value="Ability(Intelligence,+1)" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;IgnoreResting;MultiplyEffectsByDuration;FreezeDuration" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;IgnoreResting;MultiplyEffectsByDuration;FreezeDuration;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -665,7 +665,7 @@
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_WISDOM_INCREASE" />
         <field name="StackType" type="EnumerationTableFieldDefinition" value="Additive" enumeration_type_name="StatusStackType" version="1" />
         <field name="Boosts" type="StringTableFieldDefinition" value="Ability(Wisdom,+1)" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;IgnoreResting;MultiplyEffectsByDuration;FreezeDuration" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;IgnoreResting;MultiplyEffectsByDuration;FreezeDuration;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -677,7 +677,7 @@
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_CHARISMA_INCREASE" />
         <field name="StackType" type="EnumerationTableFieldDefinition" value="Additive" enumeration_type_name="StatusStackType" version="1" />
         <field name="Boosts" type="StringTableFieldDefinition" value="Ability(Charisma,+1)" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;IgnoreResting;MultiplyEffectsByDuration;FreezeDuration" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;IgnoreResting;MultiplyEffectsByDuration;FreezeDuration;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -686,7 +686,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CHEAT_STRENGTH_DECREASE_PREP" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5a3b80a4g870ag9b92gb954g4dba92491d38" version="2" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_STRENGTH_DECREASE_PREP" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="IF(not HasStatus('XEL_CHEAT_STRENGTH_INCREASE')):ApplyStatus(XEL_CHEAT_STRENGTH_DECREASE,100,1);IF(HasStatus('XEL_CHEAT_STRENGTH_INCREASE')):ApplyStatus(XEL_CHEAT_STRENGTH_INCREASE,100,-1)" />
       </fields>
     </stat_object>
@@ -696,7 +696,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CHEAT_DEXTERITY_DECREASE_PREP" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5e7ffb21g333bg15edgdfd0g36edf73a8e71" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_DEXTERITY_DECREASE_PREP" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="IF(not HasStatus('XEL_CHEAT_DEXTERITY_INCREASE')):ApplyStatus(XEL_CHEAT_DEXTERITY_DECREASE,100,1);IF(HasStatus('XEL_CHEAT_DEXTERITY_INCREASE')):ApplyStatus(XEL_CHEAT_DEXTERITY_INCREASE,100,-1)" />
       </fields>
     </stat_object>
@@ -706,7 +706,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CHEAT_CONSTITUTION_DECREASE_PREP" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hcfce1bcfg5d47gedc4g2f81gdcd7082b825b" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_CONSTITUTION_DECREASE_PREP" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="IF(not HasStatus('XEL_CHEAT_CONSTITUTION_INCREASE')):ApplyStatus(XEL_CHEAT_CONSTITUTION_DECREASE,100,1);IF(HasStatus('XEL_CHEAT_CONSTITUTION_INCREASE')):ApplyStatus(XEL_CHEAT_CONSTITUTION_INCREASE,100,-1)" />
       </fields>
     </stat_object>
@@ -716,7 +716,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CHEAT_INTELLIGENCE_DECREASE_PREP" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hcc71d185gbe4eg848dg790agd0ef256c3c6a" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_INTELLIGENCE_DECREASE_PREP" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="IF(not HasStatus('XEL_CHEAT_INTELLIGENCE_INCREASE')):ApplyStatus(XEL_CHEAT_INTELLIGENCE_DECREASE,100,1);IF(HasStatus('XEL_CHEAT_INTELLIGENCE_INCREASE')):ApplyStatus(XEL_CHEAT_INTELLIGENCE_INCREASE,100,-1)" />
       </fields>
     </stat_object>
@@ -726,7 +726,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CHEAT_WISDOM_DECREASE_PREP" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3699d0c8g5b76g445age92eg9bf018a01027" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_WISDOM_DECREASE_PREP" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="IF(not HasStatus('XEL_CHEAT_WISDOM_INCREASE')):ApplyStatus(XEL_CHEAT_WISDOM_DECREASE,100,1);IF(HasStatus('XEL_CHEAT_WISDOM_INCREASE')):ApplyStatus(XEL_CHEAT_WISDOM_INCREASE,100,-1)" />
       </fields>
     </stat_object>
@@ -736,7 +736,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CHEAT_CHARISMA_DECREASE_PREP" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h29ab4488g4038gd6d2gc64aga2044d262964" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_CHARISMA_DECREASE_PREP" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="IF(not HasStatus('XEL_CHEAT_CHARISMA_INCREASE')):ApplyStatus(XEL_CHEAT_CHARISMA_DECREASE,100,1);IF(HasStatus('XEL_CHEAT_CHARISMA_INCREASE')):ApplyStatus(XEL_CHEAT_CHARISMA_INCREASE,100,-1)" />
       </fields>
     </stat_object>
@@ -747,7 +747,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4c63342fg63d6g8a25gde5bg69ca13b79091" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h3ddf31cfg1ff8g7863g1f4dg2b081ec433ea" version="1" />
         <field name="Boosts" type="StringTableFieldDefinition" value="Ability(Strength,-1)" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;IgnoreResting;MultiplyEffectsByDuration;FreezeDuration" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;IgnoreResting;MultiplyEffectsByDuration;FreezeDuration;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_STRENGTH_DECREASE" />
         <field name="StackType" type="EnumerationTableFieldDefinition" value="Additive" enumeration_type_name="StatusStackType" version="1" />
       </fields>
@@ -759,7 +759,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1c5eb6b4gf206g0a33g9f29gc81db3f4b314" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h7b35601cgb4c5gddecgfebag5ad28e30eca8" version="1" />
         <field name="Boosts" type="StringTableFieldDefinition" value="Ability(Dexterity,-1)" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;IgnoreResting;MultiplyEffectsByDuration;FreezeDuration" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;IgnoreResting;MultiplyEffectsByDuration;FreezeDuration;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_DEXTERITY_DECREASE" />
         <field name="StackType" type="EnumerationTableFieldDefinition" value="Additive" enumeration_type_name="StatusStackType" version="1" />
       </fields>
@@ -771,7 +771,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h60260dfdge72fgf56dg845fg88bca2ff45f9" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h988c2bd4gafbbg43b3geb13gd5c901748f17" version="1" />
         <field name="Boosts" type="StringTableFieldDefinition" value="Ability(Constitution,-1)" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;IgnoreResting;MultiplyEffectsByDuration;FreezeDuration" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;IgnoreResting;MultiplyEffectsByDuration;FreezeDuration;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_CONSTITUTION_DECREASE" />
         <field name="StackType" type="EnumerationTableFieldDefinition" value="Additive" enumeration_type_name="StatusStackType" version="1" />
       </fields>
@@ -783,7 +783,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h090a4fc2g9c68g3340g4246gbe229efe5f40" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hf61f106eg37e3g586cg937fg96fc4ba05e8e" version="1" />
         <field name="Boosts" type="StringTableFieldDefinition" value="Ability(Intelligence,-1)" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;IgnoreResting;MultiplyEffectsByDuration;FreezeDuration" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;IgnoreResting;MultiplyEffectsByDuration;FreezeDuration;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_INTELLIGENCE_DECREASE" />
         <field name="StackType" type="EnumerationTableFieldDefinition" value="Additive" enumeration_type_name="StatusStackType" version="1" />
       </fields>
@@ -795,7 +795,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h256e1b48g5fe2g034fg0e6cgede311c918a8" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h337c2197g009eg178cg3ebdgb660898b5b29" version="1" />
         <field name="Boosts" type="StringTableFieldDefinition" value="Ability(Wisdom,-1)" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;IgnoreResting;MultiplyEffectsByDuration;FreezeDuration" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;IgnoreResting;MultiplyEffectsByDuration;FreezeDuration;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_WISDOM_DECREASE" />
         <field name="StackType" type="EnumerationTableFieldDefinition" value="Additive" enumeration_type_name="StatusStackType" version="1" />
       </fields>
@@ -807,7 +807,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h07bbe617gf221gf9acg74bdg1951ad6c04a4" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hdf4d096bg028dg77d9g8450gc47dbe5b0b6b" version="1" />
         <field name="Boosts" type="StringTableFieldDefinition" value="Ability(Charisma,-1)" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;IgnoreResting;MultiplyEffectsByDuration;FreezeDuration" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;IgnoreResting;MultiplyEffectsByDuration;FreezeDuration;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_CHARISMA_DECREASE" />
         <field name="StackType" type="EnumerationTableFieldDefinition" value="Additive" enumeration_type_name="StatusStackType" version="1" />
       </fields>
@@ -818,7 +818,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CHEAT_STRENGTH_RESET" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2e52b7fcg1efegf9b7g2f58gce668a58a3e4" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_STRENGTH_RESET" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CHEAT_STRENGTH_INCREASE);RemoveStatus(XEL_CHEAT_STRENGTH_DECREASE)" />
       </fields>
     </stat_object>
@@ -828,7 +828,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CHEAT_DEXTERITY_RESET" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1f84f8a7g62f1gfb72ge9acgf73f2d20a09b" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_DEXTERITY_RESET" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CHEAT_DEXTERITY_INCREASE);RemoveStatus(XEL_CHEAT_DEXTERITY_DECREASE)" />
       </fields>
     </stat_object>
@@ -838,7 +838,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CHEAT_CONSTITUTION_RESET" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h07613c15gefa8gc0afg3a13gbc24776f3443" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_DEXTERITY_RESET" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CHEAT_CONSTITUTION_INCREASE);RemoveStatus(XEL_CHEAT_CONSTITUTION_DECREASE)" />
       </fields>
     </stat_object>
@@ -848,7 +848,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CHEAT_INTELLIGENCE_RESET" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h32b359beg376eg18cbga3f7g654d7e5d66f5" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_DEXTERITY_RESET" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CHEAT_INTELLIGENCE_INCREASE);RemoveStatus(XEL_CHEAT_INTELLIGENCE_DECREASE)" />
       </fields>
     </stat_object>
@@ -858,7 +858,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CHEAT_WISDOM_RESET" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h721f21e1g129dg4682gef04gfa1b8b7de6c7" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_DEXTERITY_RESET" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CHEAT_WISDOM_INCREASE);RemoveStatus(XEL_CHEAT_WISDOM_DECREASE)" />
       </fields>
     </stat_object>
@@ -868,7 +868,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CHEAT_CHARISMA_RESET" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h93b259afgbb2cgc88ag0155ge1b1a2c05492" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_DEXTERITY_RESET" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CHEAT_CHARISMA_INCREASE);RemoveStatus(XEL_CHEAT_CHARISMA_DECREASE)" />
       </fields>
     </stat_object>
@@ -880,7 +880,7 @@
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CHEAT_ACTIONSURGE" />
         <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(Movement,30,0);ActionResource(ActionPoint,3,0);ActionResource(BonusActionPoint,3,0)" />
         <field name="RemoveEvents" type="EnumerationListTableFieldDefinition" value="OnCombatEnded" enumeration_type_name="StatusEvent" version="1" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -943,7 +943,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_TAD_PEACEBREAKER_PASSIVE" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_TAD_PEACEBREAKER_PASSIVE" />
         <field name="Passives" type="StringTableFieldDefinition" value="XEL_CSS_TAD_PeaceBreaker" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;DisableOverhead;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -952,7 +952,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_TAD_ABILITYDRAIN_PASSIVE" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_TAD_ABILITYDRAIN_PASSIVE" />
         <field name="Passives" type="StringTableFieldDefinition" value="XEL_CSS_TAD_DrainAbility" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;DisableOverhead;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -961,7 +961,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_TAD_CHARM_PASSIVE" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_TAD_CHARM_PASSIVE" />
         <field name="Passives" type="StringTableFieldDefinition" value="XEL_CSS_TAD_Charm" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;DisableOverhead;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -970,7 +970,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_TAD_DISPLACE_PASSIVE" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_TAD_DISPLACE_PASSIVE" />
         <field name="Passives" type="StringTableFieldDefinition" value="XEL_CSS_TAD_Displace" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;DisableOverhead;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -979,7 +979,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_TAD_PSIONICBACKLASH_PASSIVE" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_TAD_PSIONICBACKLASH_PASSIVE" />
         <field name="Passives" type="StringTableFieldDefinition" value="XEL_CSS_TAD_PsionicBacklash" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;DisableOverhead;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -988,7 +988,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_TAD_ILLITHIDEXPERTISE_PASSIVE" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_TAD_ILLITHIDEXPERTISE_PASSIVE" />
         <field name="Passives" type="StringTableFieldDefinition" value="XEL_CSS_TAD_Expertise" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;DisableOverhead;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -997,7 +997,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_TAD_PSIONICDOMINANCE_PASSIVE" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_TAD_PSIONICDOMINANCE_PASSIVE" />
         <field name="Passives" type="StringTableFieldDefinition" value="XEL_CSS_TAD_PsionicDominance" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;DisableOverhead;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1006,7 +1006,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_TAD_FREECAST_PASSIVE" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_TAD_FREECAST_PASSIVE" />
         <field name="Passives" type="StringTableFieldDefinition" value="XEL_CSS_TAD_Freecast" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;DisableOverhead;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1015,7 +1015,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_TAD_LUCKOFTHEFARREALMS_PASSIVE" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_TAD_LUCKOFTHEFARREALMS_PASSIVE" />
         <field name="Passives" type="StringTableFieldDefinition" value="XEL_CSS_TAD_LuckOfTheFarRealms" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;DisablePortraitIndicator;DisableCombatlog;DisableOverhead;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

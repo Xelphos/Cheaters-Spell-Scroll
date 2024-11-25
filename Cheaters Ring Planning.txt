@@ -1,1 +1,2 @@
-Ad spike/vine surface spell
+Add spike/vine surface spell as well as the rest.
+Implement Silence spell.
