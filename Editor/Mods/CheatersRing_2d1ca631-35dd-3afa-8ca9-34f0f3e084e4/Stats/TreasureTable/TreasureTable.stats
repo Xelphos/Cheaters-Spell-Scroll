@@ -9433,110 +9433,10 @@
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
-        <field name="UUID" type="IdTableFieldDefinition" value="a715be8c-89c4-440e-86e7-b805862d2842" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Loot_UnicornHorn" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
-        <field name="UUID" type="IdTableFieldDefinition" value="b51dd1b1-d417-46fc-86e5-c1e7f076f2c8" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_0" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Loot_PlanetarFeather" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
-        <field name="UUID" type="IdTableFieldDefinition" value="411283ec-cf2d-4ee6-b1fd-586ecb038eac" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_1" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CONS_Mushrooms_SilvanTruffle" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
-        <field name="UUID" type="IdTableFieldDefinition" value="9e735aa9-0339-4bc7-875b-c1456bb35331" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_2" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CONS_Herbs_Autumncrocus" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
-        <field name="UUID" type="IdTableFieldDefinition" value="41709e9a-55f6-4fba-af9c-dc454343f2dd" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_3" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Part_EagleFeather" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
         <field name="UUID" type="IdTableFieldDefinition" value="efb1aad8-d078-476b-87c1-fe2a27cabe3e" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_4" />
         <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CONS_Herbs_Wispweed" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
-        <field name="UUID" type="IdTableFieldDefinition" value="3cc70e84-2c4f-425a-8a72-a5e4a18f11fd" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_5" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CONS_Mushrooms_RoguesMorsel" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
-        <field name="UUID" type="IdTableFieldDefinition" value="470b2fbc-bc53-494c-87c5-9ec06406d68f" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_6" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CONS_Herbs_Balsam" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
-        <field name="UUID" type="IdTableFieldDefinition" value="3d7c8e4d-d44d-42e6-9fd5-42d569f45d9e" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_7" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Loot_YellowMuskCreeper" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
-        <field name="UUID" type="IdTableFieldDefinition" value="41c0ee04-f194-4100-9839-bf87e7c8a7da" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_8" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Loot_KiRinHair" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
-        <field name="UUID" type="IdTableFieldDefinition" value="cdb1eb19-fa11-4c25-abf9-7e8b2bdd505c" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_9" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Part_ImpPatagium" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
@@ -9553,20 +9453,10 @@
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
-        <field name="UUID" type="IdTableFieldDefinition" value="a7c6139a-4d6f-48f3-9400-b6312c03fe67" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_11" />
+        <field name="UUID" type="IdTableFieldDefinition" value="9e735aa9-0339-4bc7-875b-c1456bb35331" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_2" />
         <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Part_HyenaEar" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
-        <field name="UUID" type="IdTableFieldDefinition" value="b1bc3dc4-585d-40cb-8d0b-42a41d106b0d" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_12" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Loot_XornScales" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CONS_Herbs_Autumncrocus" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
@@ -9583,10 +9473,210 @@
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4da1e61e-ca32-4b12-9018-77f2b4cb8d24" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_47" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CONS_Herbs_Daggeroot" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="14611849-b066-4121-8e10-24a215ec892a" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_23" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CONS_Herbs_Belladonna" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ee447fef-aa3c-43a8-920d-decaa0486c46" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_15" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Herb_NightOrchid" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="8d59f07d-d7f9-4cee-9c57-79de2d8c3098" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_26" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Herb_BlackOleander" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="470b2fbc-bc53-494c-87c5-9ec06406d68f" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_6" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CONS_Herbs_Balsam" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1b3d7874-42d8-4af2-a404-ae43a6014fb6" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_57" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_SCL_Distillery_PurpleWormPoisonIngredient" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="411283ec-cf2d-4ee6-b1fd-586ecb038eac" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CONS_Mushrooms_SilvanTruffle" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3cc70e84-2c4f-425a-8a72-a5e4a18f11fd" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_5" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CONS_Mushrooms_RoguesMorsel" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1522e0f8-a211-40be-a46e-8ac5c99d3a55" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_36" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CONS_Mushrooms_TongueOfMadness" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="59ae3d25-c2fb-4727-8784-5579678a973f" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_48" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CONS_Mushrooms_Bonecap" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="907ebe8f-5cc8-4fd2-963b-1c673e115aa6" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_51" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CONS_Mushrooms_SwarmingToadstool" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3d7c8e4d-d44d-42e6-9fd5-42d569f45d9e" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_7" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Loot_YellowMuskCreeper" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d600904c-a934-4bbc-a711-5e24e4a0eab2" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_45" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CONS_Mushrooms_BullywugTrumpet" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e19411ed-de22-4a47-b4c1-797fafcf432b" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_24" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CONS_Mushrooms_DragonEggMushroom" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="de5bd380-859c-4572-b0d6-cfbc282cdaf0" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_39" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CONS_Mushrooms_SporeTimmask" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f987ef90-887e-4629-a635-1ae649cee83b" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_34" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Mushroom_ShadowrootSac" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="44da4da5-4438-4e60-9d2e-35907985b730" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_41" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CONS_Mushrooms_Nightlight_Piece" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="fe6d617d-b57d-47f6-9759-77f3843fba18" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_40" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Part_MyconidSpore_Haste" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="bad6f0e9-f3ce-455c-841a-3ab8ce8adcec" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_42" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Part_MyconidSpore_Poison" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
         <field name="UUID" type="IdTableFieldDefinition" value="cc31660d-3fae-4d9c-bf06-3501e8696ee8" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_14" />
         <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Crystal_Laculite" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="57724218-a2b5-4142-bddf-2e67cae21cdc" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_50" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_Crystal_Viridian" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
@@ -9623,10 +9713,120 @@
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
-        <field name="UUID" type="IdTableFieldDefinition" value="ee447fef-aa3c-43a8-920d-decaa0486c46" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_15" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ea1d4062-0764-4cd4-ac02-b5a4be2372d9" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_37" />
         <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Herb_NightOrchid" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Loot_FireAmber" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0d1bf1f8-2c23-4f81-95ef-0c36e70e0dd2" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_53" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Part_MagmaMephitHeart" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a715be8c-89c4-440e-86e7-b805862d2842" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Loot_UnicornHorn" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b51dd1b1-d417-46fc-86e5-c1e7f076f2c8" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_0" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Loot_PlanetarFeather" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="41709e9a-55f6-4fba-af9c-dc454343f2dd" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_3" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Part_EagleFeather" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="41c0ee04-f194-4100-9839-bf87e7c8a7da" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_8" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Loot_KiRinHair" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="cdb1eb19-fa11-4c25-abf9-7e8b2bdd505c" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_9" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Part_ImpPatagium" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a7c6139a-4d6f-48f3-9400-b6312c03fe67" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_11" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Part_HyenaEar" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5b82c3d7-cf02-4f82-aea7-2838ef7a3b0c" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_54" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Loot_FrostSalamander" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b86726cf-37ac-43db-b947-6ae34aba266e" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_49" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Loot_CarrionCrawler" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a3a16909-76c7-48c6-a6aa-4a945f63f113" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_52" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Part_Shadowcursed" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b1bc3dc4-585d-40cb-8d0b-42a41d106b0d" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_12" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Loot_XornScales" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
@@ -9637,6 +9837,16 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_16" />
         <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Loot_BeholderEye" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f49e46bc-3dd9-45ab-8e4b-c264b0ad51b4" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_58" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Part_GremishkaTail" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
@@ -9673,20 +9883,30 @@
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
-        <field name="UUID" type="IdTableFieldDefinition" value="ced6bdef-d799-4656-9754-041850423648" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_20" />
+        <field name="UUID" type="IdTableFieldDefinition" value="895fcb0e-ff6c-4eb4-a69b-bf21f1766322" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_56" />
         <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Part_ScryingEye" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Loot_SnakeFang" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
-        <field name="UUID" type="IdTableFieldDefinition" value="4da1e61e-ca32-4b12-9018-77f2b4cb8d24" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_47" />
+        <field name="UUID" type="IdTableFieldDefinition" value="32a38447-20eb-47eb-bd96-b7a1e7f21d6a" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_55" />
         <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CONS_Herbs_Daggeroot" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Loot_PurpleWorm" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ced6bdef-d799-4656-9754-041850423648" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_20" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Part_ScryingEye" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
@@ -9713,20 +9933,10 @@
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
-        <field name="UUID" type="IdTableFieldDefinition" value="14611849-b066-4121-8e10-24a215ec892a" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_23" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d7c9d5f9-d5df-4f63-a659-516322046e8f" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_59" />
         <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CONS_Herbs_Belladonna" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
-        <field name="UUID" type="IdTableFieldDefinition" value="e19411ed-de22-4a47-b4c1-797fafcf432b" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_24" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CONS_Mushrooms_DragonEggMushroom" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Loot_WyvernStinger" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
@@ -9737,26 +9947,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_25" />
         <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_OBJ_AutomatonPart" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
-        <field name="UUID" type="IdTableFieldDefinition" value="d600904c-a934-4bbc-a711-5e24e4a0eab2" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_45" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CONS_Mushrooms_BullywugTrumpet" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
-        <field name="UUID" type="IdTableFieldDefinition" value="8d59f07d-d7f9-4cee-9c57-79de2d8c3098" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_26" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Herb_BlackOleander" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
@@ -9823,16 +10013,6 @@
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
-        <field name="UUID" type="IdTableFieldDefinition" value="f987ef90-887e-4629-a635-1ae649cee83b" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_34" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Mushroom_ShadowrootSac" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
         <field name="UUID" type="IdTableFieldDefinition" value="f90607a6-8050-4c7a-9f36-ba57c77783bf" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_35" />
         <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
@@ -9843,70 +10023,10 @@
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
-        <field name="UUID" type="IdTableFieldDefinition" value="1522e0f8-a211-40be-a46e-8ac5c99d3a55" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_36" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CONS_Mushrooms_TongueOfMadness" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
-        <field name="UUID" type="IdTableFieldDefinition" value="ea1d4062-0764-4cd4-ac02-b5a4be2372d9" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_37" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Loot_FireAmber" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
         <field name="UUID" type="IdTableFieldDefinition" value="9d22d8d1-c6b1-4911-8252-e71aef3e948e" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_38" />
         <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Loot_BehirScales" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
-        <field name="UUID" type="IdTableFieldDefinition" value="de5bd380-859c-4572-b0d6-cfbc282cdaf0" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_39" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CONS_Mushrooms_SporeTimmask" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
-        <field name="UUID" type="IdTableFieldDefinition" value="fe6d617d-b57d-47f6-9759-77f3843fba18" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_40" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Part_MyconidSpore_Haste" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
-        <field name="UUID" type="IdTableFieldDefinition" value="44da4da5-4438-4e60-9d2e-35907985b730" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_41" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_CONS_Mushrooms_Nightlight_Piece" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="1ee81826-37a7-4658-b428-4f371dd0e939" />
-        <field name="UUID" type="IdTableFieldDefinition" value="bad6f0e9-f3ce-455c-841a-3ab8ce8adcec" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_AlchemyIngredientContainer_substat_42" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="30,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_ALCH_Ingredient_Part_MyconidSpore_Poison" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>

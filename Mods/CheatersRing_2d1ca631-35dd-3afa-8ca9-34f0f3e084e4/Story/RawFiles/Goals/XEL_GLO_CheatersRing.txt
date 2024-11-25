@@ -461,6 +461,20 @@ PROC_XEL_CSS_AutomateFollower((CHARACTER)_Player);
 PROC_XEL_CSS_AutomateFollower_Summons((CHARACTER)_Player);
 
 IF
+EnteredCombat((GUIDSTRING)_Follower, (GUIDSTRING)_CombatGuid)
+AND
+IsPartyFollower((CHARACTER)_Follower, 1)
+AND
+DB_Players(_Player)
+AND
+IsInPartyWith((CHARACTER)_Player, (CHARACTER)_Follower, 1)
+AND
+HasActiveStatus(_Player, "XEL_CSS_AUTOMATEFOLLOWER", 1)
+THEN
+PROC_XEL_CSS_AutomateFollower((CHARACTER)_Player);
+PROC_XEL_CSS_AutomateFollower_Summons((CHARACTER)_Player);
+
+IF
 StatusApplied((CHARACTER)_Player, "XEL_CSS_AUTOMATEFOLLOWER", _, _)
 AND
 DB_Players(_Player)
