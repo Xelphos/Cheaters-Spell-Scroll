@@ -514,6 +514,15 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6ab7efff-8646-4fed-a9a6-efd9ef45ee3b" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_TRUE_RESURRECTION" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h67a2adb6g0164g66afg87acg4e6612c9615d" version="1" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_TRUE_RESURRECTION" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="a7a36ca5-bf22-4a53-ac9d-c0e9de9537e2" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CHEAT_INCREASEAPPROVAL" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableOverhead;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />

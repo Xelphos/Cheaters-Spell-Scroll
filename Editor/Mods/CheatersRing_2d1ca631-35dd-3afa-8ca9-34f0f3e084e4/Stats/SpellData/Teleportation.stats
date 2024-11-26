@@ -51,7 +51,7 @@
         <field name="TeleportSurface" type="EnumerationTableFieldDefinition" value="No" enumeration_type_name="YesNo" version="1" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Necromancy_Revivify" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h335c612dg6edag4f17g04bfg5bbd6abac0b2" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hb898810bg12c3g748ag3e3fgb6e249afc1c0" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hb898810bg12c3g748ag3e3fgb6e249afc1c0" version="4" />
         <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Healing_Revivify_L1to3" />
         <field name="TargetSound" type="StringTableFieldDefinition" value="Spell_Impact_Healing_Revivify_L1to3" />
         <field name="PreviewCursor" type="EnumerationTableFieldDefinition" value="Cast" enumeration_type_name="CursorMode" version="1" />

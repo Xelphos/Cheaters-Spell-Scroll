@@ -429,6 +429,13 @@ data "Boosts" "Resistance(Acid, Resistant); Resistance(Cold, Resistant); Resista
 data "StatusPropertyFlags" "IgnoreResting"
 data "StatusGroups" "SG_RemoveOnRespec"
 
+new entry "XEL_CSS_TRUE_RESURRECTION"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h67a2adb6g0164g66afg87acg4e6612c9615d;1"
+data "StackId" "XEL_CSS_TRUE_RESURRECTION"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;ApplyToDead"
+
 new entry "XEL_CHEAT_INCREASEAPPROVAL"
 type "StatusData"
 data "StatusType" "BOOST"

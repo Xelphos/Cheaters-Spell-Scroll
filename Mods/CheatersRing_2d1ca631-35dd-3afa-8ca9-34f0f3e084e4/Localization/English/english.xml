@@ -56,7 +56,7 @@
   <content contentuid="h1e1d5364g53b3g2638gbb5dg9c19e9452732" version="1">The flesh-like lid of this rubbery container seems to quiver when touched.</content>
   <content contentuid="h71b4393dg12d6g2730ge1ccg090d56f890ca" version="1">Tutorial Chest</content>
   <content contentuid="hef440d25g32d9g3e01g51cdg0f18c78ff106" version="6">Cheaters Ring (LEGACY)</content>
-  <content contentuid="h6b57f8f6g7e4dg4074ge29dg810c26c3da79" version="6">Tutorial Chest</content>
+  <content contentuid="h6b57f8f6g7e4dg4074ge29dg810c26c3da79" version="7">Tutorial Chest</content>
   <content contentuid="h3da85edagb8fbg9abbg74dcg62cac70d4f2e" version="1">fdgfdgfdg</content>
   <content contentuid="h3bd051b6gbadbg2c2cg97d6g14e7b9f51019" version="2">Tutorial Chest</content>
   <content contentuid="h70387d4ag24b9g344cg3aa0gf2d19923bfad" version="1">Cheaters Summon Tutorial Chest</content>
@@ -71,11 +71,11 @@ Chest will be destroyed after 5 rounds. Enable Turn-Based Mode and grab what you
   <content contentuid="h5ac940a6g5bdfgf8fcg44eagd7885e631c79" version="1">You must wait before summoning the Tutorial Chest again.</content>
   <content contentuid="h38d12a57gd82fg5ec5g4080g98b6ce338ad8" version="1">Runepowder Barrel</content>
   <content contentuid="hc1a06568g780egc6b8gf59cg1a9f40b23fbc" version="1">A secret concoction of smokepowder and gnomic mysticism, a single vial of runepowder is more volatile than a whole barrel of smokepowder. Who knows what this much could do...</content>
-  <content contentuid="hc1e6777ag7518gbf17gf611g122bf3189a31" version="4">Cheaters Potion Box</content>
-  <content contentuid="h1398cbc5gff24gd27fgaed4g6f9f0d2d8c1c" version="4">Made of precious stone and covered in gold, this chest is both sturdy and pleasing to the eye.</content>
-  <content contentuid="h0eae7800gaa19g80fage459ga1f7f489efcf" version="5">Cheaters Scroll Box</content>
-  <content contentuid="h79174fa0gfe72gf43eg716fg6dab05ad7bd8" version="5">Cheaters Arrow Box</content>
-  <content contentuid="h17716285g41d5g9380g7cbcg30f124e7adbe" version="5">Cheaters Dye Box</content>
+  <content contentuid="hc1e6777ag7518gbf17gf611g122bf3189a31" version="5">Cheaters Potion Box</content>
+  <content contentuid="h1398cbc5gff24gd27fgaed4g6f9f0d2d8c1c" version="5">A chest containing most of the potions, elixirs and poisons in the game.</content>
+  <content contentuid="h0eae7800gaa19g80fage459ga1f7f489efcf" version="6">Cheaters Scroll Box</content>
+  <content contentuid="h79174fa0gfe72gf43eg716fg6dab05ad7bd8" version="7">Cheaters Arrow Box</content>
+  <content contentuid="h17716285g41d5g9380g7cbcg30f124e7adbe" version="6">Cheaters Dye Box</content>
   <content contentuid="h83301058gfc62g5e8ag89fege440466bff34" version="2">Cheaters Summon Dye Box</content>
   <content contentuid="hce967e4dg026fg811cgd52agd03a0aec9597" version="2">Summon a chest which contains every Dye and Dye Remover. These Dyes are not consumed on use.</content>
   <content contentuid="h6ecae78cgaf23g0e30g8354ge75dcb4ae8fb" version="3">Cheaters Opulent Revival</content>
@@ -139,20 +139,20 @@ Chest will be destroyed after 5 rounds. Enable Turn-Based Mode and grab what you
   <content contentuid="hbfd5230agb121g8d7ag5d13gc57eaaaca694" version="1">You must wait before summoning the Arrow Box again.</content>
   <content contentuid="h0f41d154g543egccfdg4747ga051a3bb75b4" version="1">Equipment Box Cooldown</content>
   <content contentuid="hfc835cd7gf7f0gd687g9814g07a31705d80c" version="1">You must wait before summoning the Equipment Box again.</content>
-  <content contentuid="hf1ccd48ag4f6bgda80g8a2dg877fa2afaea2" version="10">Cheaters Armor Box</content>
-  <content contentuid="hf3860c51g1aedg164fg6ea3gb15ba195b276" version="10">This exquisitely-crafted chest, ornamented with gems and lined with cushioned velvet, is fit for storing the finest treasures.</content>
+  <content contentuid="hf1ccd48ag4f6bgda80g8a2dg877fa2afaea2" version="12">Cheaters Armor Box</content>
+  <content contentuid="hf3860c51g1aedg164fg6ea3gb15ba195b276" version="12">A chest containing most of the quality armor in the game.</content>
   <content contentuid="hefb44222g10b1gdecfg307fgdfc91caadc55" version="1">Cheaters Arrow Box</content>
   <content contentuid="h4df1b667g8254gc017g0b9eg59f79da74c20" version="1">This exquisitely-crafted chest, ornamented with gems and lined with cushioned velvet, is fit for storing the finest treasures.</content>
   <content contentuid="hc59d97f8g7c9ag1927g44b3g11ca80e331c6" version="2">Cheaters Grenade Box</content>
   <content contentuid="h4baf4c40g0033g9afegf9e8g094b7606c50b" version="2">A chest suitable for lashing to carts and wagons. </content>
-  <content contentuid="h8d72bde5g9087gdc1cgced2g3183d12bcd34" version="3">Cheaters Grenade Box</content>
-  <content contentuid="hd32d49begf05eg7c5cg6a8cg49aeff34849e" version="3">This exquisitely-crafted chest, ornamented with gems and lined with cushioned velvet, is fit for storing the finest treasures.</content>
+  <content contentuid="h8d72bde5g9087gdc1cgced2g3183d12bcd34" version="4">Cheaters Grenade Box</content>
+  <content contentuid="hd32d49begf05eg7c5cg6a8cg49aeff34849e" version="4">A chest containing most of the grenades in the game.</content>
   <content contentuid="hc959513bgdce6g3ed4ga0d9g93da88c0efd6" version="5">Cheat: God Mode Toggle</content>
   <content contentuid="h98cfbd7cg5532gbfa4g39a6g4c556c113488" version="9">Become immune to all Damage and Status Effects. 
 
 You will be given a choice of which version of God Mode you want when you activate this passive.</content>
-  <content contentuid="h5e278821g8caag0beeg5f17gfb7e668766eb" version="4">Cheaters Weapon Box</content>
-  <content contentuid="hf62c2a8cg302fga6a7g6c8egf5da264887ca" version="4">This exquisitely-crafted chest, ornamented with gems and lined with cushioned velvet, is fit for storing the finest treasures.</content>
+  <content contentuid="h5e278821g8caag0beeg5f17gfb7e668766eb" version="5">Cheaters Weapon Box</content>
+  <content contentuid="hf62c2a8cg302fga6a7g6c8egf5da264887ca" version="5">A chest that contains most of the quality weapons in the game.</content>
   <content contentuid="h4d148263g8985g9d4eg032dgbf59864f42b1" version="1">Cheaters Summon Weapon Box</content>
   <content contentuid="hc595c084g8c14g5a51gdfaeg5246568ee4f6" version="3">Summons a chest with most Quality Weapons.
 
@@ -169,8 +169,8 @@ Chest will be destroyed after 5 rounds. Enable Turn-Based Mode and grab what you
 Chest will be destroyed after 5 rounds. Enable Turn-Based Mode and grab what you need.</content>
   <content contentuid="h41d3f2b2g65c6g4b94ga8f6g862666badf30" version="1">Jewelry Box Cooldown</content>
   <content contentuid="hc5540161g4262gb6feg541bg81fbf39b294a" version="1">You must wait before summoning the Jewelry Box again.</content>
-  <content contentuid="hc37e3262g2be3g52cfgab58g17cee3ad95d2" version="3">Cheaters Jewelry Box</content>
-  <content contentuid="he84bffddgc6e5gdc9eg88adgb1697f914837" version="3">This exquisitely-crafted chest, ornamented with gems and lined with cushioned velvet, is fit for storing the finest treasures.</content>
+  <content contentuid="hc37e3262g2be3g52cfgab58g17cee3ad95d2" version="4">Cheaters Jewelry Box</content>
+  <content contentuid="he84bffddgc6e5gdc9eg88adgb1697f914837" version="4">A chest containing most of the quality jewelry in the game.</content>
   <content contentuid="he18750dag06bfg14eag1536g6c7d95174515" version="1">Runepowder Barrel</content>
   <content contentuid="hdc2a92c0g5c83ga215gcf39gef046a310ec5" version="1">A secret concoction of smokepowder and gnomic mysticism, a single vial of runepowder is more volatile than a whole barrel of smokepowder. Who knows what this much could do...</content>
   <content contentuid="h4f3d47fdga217g696fg3a03g768d1be51d20" version="1">Cheat: Undying</content>
@@ -245,8 +245,8 @@ May not work 100% of the time. Nothing I can do about this. Disabling Karmic DIc
 Chest will be destroyed after 5 rounds. Enable Turn-Based Mode and grab what you need.</content>
   <content contentuid="h0acf7f3dgc558g3ac8gdb40gb758f3c48916" version="1">Tool Box Cooldown</content>
   <content contentuid="he6a6be01gd6bcg75a2g7a93ge778663cc9a7" version="1">You must wait before summoning the Tool Box again.</content>
-  <content contentuid="h07884fcegd5f9g1283g86a8ga570249fe230" version="3">Cheaters Utility Box</content>
-  <content contentuid="hf0e2c3f7gf2c8g2916gca62g7664cdf1b07b" version="3">A common chest of timber and iron.</content>
+  <content contentuid="h07884fcegd5f9g1283g86a8ga570249fe230" version="4">Cheaters Utility Box</content>
+  <content contentuid="hf0e2c3f7gf2c8g2916gca62g7664cdf1b07b" version="4">A chest that contains various items that did not fit elsewhere.</content>
   <content contentuid="hcb0c3ceagc480g9f8dg0454g9f9cc26fabc1" version="1">Blade of the First Blood</content>
   <content contentuid="h76ef7836g0f1cgaca4g7748g16e15a65902e" version="1">The Lord of Murder wasn't always a lord. He was once just a petty killer. When Bhaal first drew blood in a Baldurian back-alley, it dropped to the ground and lingered. When he ascended, this dried blood-drop grew, warped - and became sharp. </content>
   <content contentuid="hc69845a1gbd95g9271gcef3gb201aa9bf8a3" version="3">Cheat: Ring Abilities Unlocked</content>
@@ -281,8 +281,8 @@ This will remove the abilitiy to use the passives from Cheaters Spell Scroll</co
   <content contentuid="hc0f5defdg4db7g07adg1df6g4327adb210a3" version="1">Summon a bag full of Mind Flayer Parasite Specimens.
 
 If the bag is empty, check your Illithid Power menu.</content>
-  <content contentuid="h29d1f740gb588gb5a4geb7cg59e0a8b9493d" version="4">Alchemy Ingredient Bag</content>
-  <content contentuid="h15e26b8cgb78fg7764g9dcfg2e4efe3d6933" version="4">A bag filled with all Alchemy Ingredients.</content>
+  <content contentuid="h29d1f740gb588gb5a4geb7cg59e0a8b9493d" version="5">Alchemy Ingredient Bag</content>
+  <content contentuid="h15e26b8cgb78fg7764g9dcfg2e4efe3d6933" version="5">A bag containing most of the alchemy ingredients in the game.</content>
   <content contentuid="hbb79191eg81bdg6a7cg0a87gbad0820cb1d3" version="2">Cheaters Summon Alchemy Ingredient Bag</content>
   <content contentuid="h6dbf9109g454dgfaf1g9453g77deaba0f7da" version="2">Summons a bag with most Alchemy Ingredients.</content>
   <content contentuid="hacd559bbg2979gcf65gfc24g2c0fa7e216f9" version="1">Reaper's Embrace</content>
@@ -302,8 +302,8 @@ If the bag is empty, check your Illithid Power menu.</content>
   <content contentuid="hc0eca06eg3f03g1899g3740g9138e15f61ea" version="2">Hard, fleshy leather has been derived from a countless slew of victims to form this armour for Bhaal's fetid chosen.</content>
   <content contentuid="h9584295fg2614gc967g179bg6333e350827c" version="1">Blood of Lathander</content>
   <content contentuid="h747fd0eega128g7ac6g580egf42f779bfc77" version="1">The large chunk of amber set into the handle of this luminous mace supposedly holds four drops of godly blood, fallen to the earth in a battle between an avatar of Lathander and a maddened Chosen of Mystra.</content>
-  <content contentuid="h5ca3613bg2f48g0c3aga607gd9bf3642cd07" version="3">Cheaters Clothing Box</content>
-  <content contentuid="h6ad7d415g192bgb893g52fcgb71f6feee92a" version="3">This exquisitely-crafted chest, ornamented with gems and lined with cushioned velvet, is fit for storing the finest treasures.</content>
+  <content contentuid="h5ca3613bg2f48g0c3aga607gd9bf3642cd07" version="4">Cheaters Clothing Box</content>
+  <content contentuid="h6ad7d415g192bgb893g52fcgb71f6feee92a" version="4">A chest containing most of the camp clothes in the game. Includes most of the epilogue clothing as well.</content>
   <content contentuid="h655a5330g70b3g2d3cgef6dg37757ac39ae2" version="1">Cheaters Summon Clothing Box</content>
   <content contentuid="ha7798a57gd510g65dcg0300gc944fb357da0" version="1">Summons a chest with most Camp Clothes.
 
@@ -422,14 +422,14 @@ Restores all Action Points, Bonus Action Points and Movement Speed.</content>
   <content contentuid="hee9a33acg57b2g69bbg7f2dg6e77b6535142" version="1">Summons a chest with a collection of unreleased items. These items are provided as they are in the game files and may or may not break things. Use at your own risk.
 
 Chest will be destroyed after 5 rounds. Enable Turn-Based Mode and grab what you need.</content>
-  <content contentuid="hb0332f66g675cgae5cg42aag969f0d2a40a2" version="1">Cheaters Unreleased Item Box</content>
-  <content contentuid="h9c7b47b4g060fg417dg3657g9e022e165c2e" version="1">A common chest of timber and iron.</content>
+  <content contentuid="hb0332f66g675cgae5cg42aag969f0d2a40a2" version="2">Cheaters Unreleased Item Box</content>
+  <content contentuid="h9c7b47b4g060fg417dg3657g9e022e165c2e" version="2">A common chest of timber and iron.</content>
   <content contentuid="h9c0bca0bg577cge36bg3363gecf92530db2a" version="2">Netherstone-Studded Gauntlet</content>
   <content contentuid="h9cd1a311g7079g215fg883cg14e52fea97e2" version="2">A tyrant's grip must be one of cool, unforgiving, and intricately realised steel. It cannot budge, cannot falter, no matter the pressure, and its fingertips must deeply pierce those who would struggle against it.</content>
   <content contentuid="h20ed0ebcg97e5g2e93g3217gec8906e59125" version="2">Netherstone-Studded Blade</content>
   <content contentuid="h81400c00g3191ge86egb757ga14fa4d5be13" version="2">The Lord of Murder wasn't always a lord. He was once just a petty killer. When Bhaal first drew blood in a Baldurian back-alley, it dropped to the ground and lingered. When he ascended, this dried blood-drop grew, warped - and became sharp. </content>
-  <content contentuid="hf86f5706gc96ag3eceg082fg9afb11d10e51" version="3">Cheaters Common Equipment Box</content>
-  <content contentuid="hee5832b1gcfbeg4a12gcfbfg127d98435f97" version="3">This exquisitely-crafted chest, ornamented with gems and lined with cushioned velvet, is fit for storing the finest treasures.</content>
+  <content contentuid="hf86f5706gc96ag3eceg082fg9afb11d10e51" version="4">Cheaters Common Equipment Box</content>
+  <content contentuid="hee5832b1gcfbeg4a12gcfbfg127d98435f97" version="4">A chest containing most of the common weapons and armor in the game.</content>
   <content contentuid="hbb58e313g7c51g967bgd0dag9cf92c67a2a5" version="1">Common Equipment Box Cooldown</content>
   <content contentuid="h298589a9ga9fbg9ce9g56c0gf9a961d9aa0c" version="1">You must wait before summoning the Common Equipment Box again.</content>
   <content contentuid="ha7771181g40a1g41e5g1833gc19390e3c6fc" version="1">Cheaters Summon Common Equipment Box</content>
@@ -451,8 +451,8 @@ Chest will be destroyed after 5 rounds. Enable Turn-Based Mode and grab what you
   <content contentuid="h0e7f0f78g1154gaa71g69b7gd118de92643a" version="1">Sturdy enough to endure rocky voyages or decades stacked ten-deep in a dusty warehouse.</content>
   <content contentuid="h21085b21g6253g8555g2c6eg7f0ad7d67fea" version="1">Cheaters Supply Bag</content>
   <content contentuid="h6a0e050dg8b45gce9egc910gf5d76170529c" version="1">A durable bag of thick canvas and leather, adorned with numerous straps and heavy buckles.</content>
-  <content contentuid="h6f71371cg83c1gcbd5gd8c0g9e12d4d23ae8" version="1">Cheaters Camp Supply Bag</content>
-  <content contentuid="hdb913becgfd1dgaa4eg56c7g059ac56ae3ee" version="1">Small compartments line the sack: a compass-sized furrow; a pocket packed with storing salts; and an area for stiff tent legs, fixing pegs, and folded canvas.</content>
+  <content contentuid="h6f71371cg83c1gcbd5gd8c0g9e12d4d23ae8" version="2">Cheaters Camp Supply Bag</content>
+  <content contentuid="hdb913becgfd1dgaa4eg56c7g059ac56ae3ee" version="2">A bag filled with various camp supplies.</content>
   <content contentuid="h33eac853gf81eg34fege2cdgf563340e5159" version="2">Increase Approval Rating</content>
   <content contentuid="h3526fbd9g3151gcf25gf931g34204ab83291" version="3">Increase the approval rating of the target by 25.</content>
   <content contentuid="h5a214c3dg76e0g3feagab7eg5eb784ac8b2d" version="1">%%% EMPTY</content>
@@ -580,8 +580,8 @@ Chest will be destroyed after 5 rounds. Enable Turn-Based Mode and grab what you
   <content contentuid="h5d2f4847g49a6gdb1ag9fb9g01d04e458f38" version="3">Cheat: Increase Charisma</content>
   <content contentuid="h4237cb23g2e96gc54egaf78g98982a55e32d" version="3">Activate</content>
   <content contentuid="ha291599bg79cegbd06g1346gc9ad509e0b9f" version="3">Cheat: Increase Charisma</content>
-  <content contentuid="h5d7fd1acg9c25gc2e5g71ccg9c331d52906e" version="3">Ability Score Editing Box</content>
-  <content contentuid="hd06dbb7fgb3d4g4ff3ge748g18f9a0766059" version="3">This exquisitely-crafted chest, ornamented with gems and lined with cushioned velvet, is fit for storing the finest treasures.</content>
+  <content contentuid="h5d7fd1acg9c25gc2e5g71ccg9c331d52906e" version="4">Ability Score Editing Box</content>
+  <content contentuid="hd06dbb7fgb3d4g4ff3ge748g18f9a0766059" version="4">A chest containing items used for editing your Ability Scores.</content>
   <content contentuid="h04d84b19g7554ge695gae44g204e42d28dc6" version="1">%%% EMPTY</content>
   <content contentuid="hde03a315g33a6gd27bg5043gfde4cc2b889c" version="2">Activate this to decrease your Charisma stat by 1.</content>
   <content contentuid="h8a40a48dg0b8fg6f32gd4cag76446189112d" version="2">Activate this to decrease your Constitution stat by 1.</content>
@@ -1203,11 +1203,11 @@ Creatures ending their turn in the area must succeed a Dexterity &lt;LSTag Toolt
   <content contentuid="hb5906bf2gbc47g0645g58c0g896558945161" version="1">Throw</content>
   <content contentuid="h9ae968b3geb68gcfd3gf95eg0e77dc8f765f" version="1">Create a surface of blood.</content>
   <content contentuid="h335c612dg6edag4f17g04bfg5bbd6abac0b2" version="1">Cheaters True Resurrection</content>
-  <content contentuid="hb898810bg12c3g748ag3e3fgb6e249afc1c0" version="2">Resurrect any creature. They return to life with all of their &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Warning, this spell allows you to resurrect any dead creature. Resurrecting non-player characters may lead to issues. Do so at your own risk.</content>
+  <content contentuid="hb898810bg12c3g748ag3e3fgb6e249afc1c0" version="4">This spell is more for fun.&lt;br&gt;&lt;br&gt;Resurrect any creature. They return to life with all of their &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Warning, this spell allows you to resurrect any dead creature. Resurrecting non-player characters will lead to them being non-interactable. Do so at your own risk.</content>
   <content contentuid="ha6b4a8ebg8914gbc40g37dag33c608eb350d" version="1">%%% EMPTY</content>
-  <content contentuid="he767bb46g73c8g3cb4g0270gf1a490c88a2c" version="2">Passive Feature Editing Box</content>
-  <content contentuid="h6216b3feg0ebegfee3g1b6bga6665b1635d8" version="2">Unlocking these while already having the base game version may lead to issues.</content>
-  <content contentuid="h8581f06eg38e3gfa6cga0d5g9ca9cb90d10b" version="2">This exquisitely-crafted chest, ornamented with gems and lined with cushioned velvet, is fit for storing the finest treasures.</content>
+  <content contentuid="he767bb46g73c8g3cb4g0270gf1a490c88a2c" version="3">Passive Feature Editing Box</content>
+  <content contentuid="h6216b3feg0ebegfee3g1b6bga6665b1635d8" version="3">Unlocking these while already having the base game version may lead to issues.</content>
+  <content contentuid="h8581f06eg38e3gfa6cga0d5g9ca9cb90d10b" version="3">A chest containing items that allow you to give yourself many of the Passive Features you can unlock through level ups.</content>
   <content contentuid="h199bd874gb484gf2e7g4f20ga76abe1bf92f" version="3">Passive Feature: Actor</content>
   <content contentuid="ha2432cacg5658g8ca1g1b19gfba881c6298c" version="3">Your &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; increases by 1, to a maximum of 20.&lt;br&gt;&lt;br&gt;Your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt; is also doubled for Deception and Performance &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
   <content contentuid="h6319ebd0g2deeg9a3dg8a61g3dff94cc3a88" version="2">Passive Feature: Alert</content>
@@ -1391,4 +1391,21 @@ Creatures ending their turn in the area must succeed a Dexterity &lt;LSTag Toolt
   <content contentuid="hb1cdfcdcg8650g0e48g2530gea5df4126fec" version="2">&lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;Jump&lt;/LSTag&gt; distance is massively increased. </content>
   <content contentuid="hd1109e5fgb258gedf5g8147gf3d42d0343d4" version="1">Cheaters Silence</content>
   <content contentuid="hbc68b4c0g0b04gcecagd4bbg7b2c054ffabb" version="1">Create a sound-proof sphere. All within are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt; and &lt;LSTag Tooltip="Immune"&gt;Immune&lt;/LSTag&gt; to Thunder damage.</content>
+  <content contentuid="h67a2adb6g0164g66afg87acg4e6612c9615d" version="1">%%% EMPTY</content>
+  <content contentuid="h6af82106gb1f0g1b83gf069gf1f8cf4b4b0a" version="2">This chest will despawn after 5 turns. Enable Turn-Based Mode and grab what you need.</content>
+  <content contentuid="hb6ea6b01g21fcgda19gc264gba0c2366fad4" version="2">This chest will despawn after 5 turns. Enable Turn-Based Mode and grab what you need.</content>
+  <content contentuid="hf4cadcfbg1d98g6427gb566g721bd8317e91" version="1">A chest containing most of the arrows in the game.</content>
+  <content contentuid="hc3613f30ga01bg691ag36d5g9594417fbef9" version="1">This chest will despawn after 5 turns. Enable Turn-Based Mode and grab what you need.</content>
+  <content contentuid="hc4aa022cgae11gbcc2g5f78g5164edda141a" version="1">This chest will despawn after 5 turns. Enable Turn-Based Mode and grab what you need.</content>
+  <content contentuid="h626fcaf9gf31dge116g3a93g904808deb05a" version="1">This chest will despawn after 5 turns. Enable Turn-Based Mode and grab what you need.</content>
+  <content contentuid="h68d1b693g41cdg44b1g742fg6fb897a713c6" version="1">This chest will despawn after 5 turns. Enable Turn-Based Mode and grab what you need.</content>
+  <content contentuid="hdba2f055g0515g1104g7d3ag43dd09541729" version="1">This chest will despawn after 5 turns. Enable Turn-Based Mode and grab what you need.</content>
+  <content contentuid="h62986647g3bfcg5423g82d6gebd9bd91659f" version="1">This chest will despawn after 5 turns. Enable Turn-Based Mode and grab what you need.</content>
+  <content contentuid="hbd16436dgb333g1d2fg451dg5e441627745d" version="1">A chest containing most of the scrolls in the game.</content>
+  <content contentuid="h8d779262gfa82g69f4g58e2gd88f447e8067" version="1">This chest will despawn after 5 turns. Enable Turn-Based Mode and grab what you need.</content>
+  <content contentuid="h72b01ab0gc749g1ca5gf9a4g434f3366e372" version="1">This chest will despawn after 5 turns. Enable Turn-Based Mode and grab what you need.</content>
+  <content contentuid="h7af015f3gae9dg0646gd53egbc312e10b9b8" version="1">This chest will despawn after 5 turns. Enable Turn-Based Mode and grab what you need.</content>
+  <content contentuid="h91849fbcg5ae1g1161g0eb4ged3e2f22ebfb" version="1">This chest will despawn after 5 turns. Enable Turn-Based Mode and grab what you need.</content>
+  <content contentuid="h51b2d40dg2110g3caega169gcb47d9feff49" version="1">A chest that is often used by mod authors to give the player modded items.</content>
+  <content contentuid="h94860b44g8890g597egd063gd090c59e933a" version="1">A chest containing most of the dyes in the game. These dyes and dye remover are not consumed when used.</content>
 </contentList>
