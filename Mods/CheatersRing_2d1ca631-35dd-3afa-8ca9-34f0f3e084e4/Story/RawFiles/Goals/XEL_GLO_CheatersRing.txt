@@ -138,6 +138,7 @@ TemplateAddTo(XEL_Item_Spell_Heal_bf2139d2-a465-4ea5-ba94-318d9d131bd8, _Player,
 TemplateAddTo(XEL_Item_Spell_Daylight_328e5379-19a8-4eea-81fd-1371ff1242f9, _Player, 1, 1);
 TemplateAddTo(XEL_Item_Spell_FeatherFall_651ed484-c465-4205-9686-c4b56e03bc29, _Player, 1, 1);
 TemplateAddTo(XEL_Item_Spell_Jump_4af6f6f0-ce56-4351-9441-1ef3b5fc9dcf, _Player, 1, 1);
+TemplateAddTo(XEL_Item_Spell_SummonCharacterEditingContainer_cae84e6d-22ca-4923-8341-ca249098065a, _Player, 1, 1);
 
 IF
 LevelGameplayStarted(_,_)
