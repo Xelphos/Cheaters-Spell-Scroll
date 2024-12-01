@@ -1107,8 +1107,8 @@
         <field name="Passives" type="StringTableFieldDefinition" value="XEL_CSS_MusicalInstrumentProficiency_Passive" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
+        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1117,10 +1117,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_ACTOR" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_ACTOR" />
         <field name="Passives" type="StringTableFieldDefinition" value="Actor" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1130,10 +1126,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_ALERT" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_ALERT" />
         <field name="Passives" type="StringTableFieldDefinition" value="Alert" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1143,10 +1135,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_ATHLETE" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_ATHLETE" />
         <field name="Passives" type="StringTableFieldDefinition" value="Athlete_PassiveBonuses;Athlete_StandUp" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1156,10 +1144,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_CHARGER" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_CHARGER" />
         <field name="Passives" type="StringTableFieldDefinition" value="Charger" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1169,10 +1153,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_CROSSBOWEXPERT" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_CROSSBOWEXPERT" />
         <field name="Passives" type="StringTableFieldDefinition" value="CrossbowExpert_PointBlank;CrossbowExpert_Wounding" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1182,10 +1162,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_DEFENSIVEDUELIST" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_DEFENSIVEDUELIST" />
         <field name="Passives" type="StringTableFieldDefinition" value="DefensiveDuelist" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1195,10 +1171,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_DEVILSSIGHT" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_DEVILSIGHT" />
         <field name="Passives" type="StringTableFieldDefinition" value="DevilsSight" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1208,10 +1180,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_DUALWIELDER" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_DUALWIELDER" />
         <field name="Passives" type="StringTableFieldDefinition" value="DualWielder_BonusAC;DualWielder_PassiveBonuses" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1221,10 +1189,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_DUNGEONDELVER" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_DUNGEONDELVER" />
         <field name="Passives" type="StringTableFieldDefinition" value="DungeonDelver_Perception;DungeonDelver_ResistTraps" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1234,10 +1198,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_DURABLE" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_DURABLE" />
         <field name="Passives" type="StringTableFieldDefinition" value="Durable" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1247,10 +1207,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_ELEMENTALADEPT_ACID" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_ELEMENTALADEPT_ACID" />
         <field name="Passives" type="StringTableFieldDefinition" value="ElementalAdept_Acid" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1260,10 +1216,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_ELEMENTALADEPT_COLD" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_ELEMENTALADEPT_COLD" />
         <field name="Passives" type="StringTableFieldDefinition" value="ElementalAdept_Cold" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1273,10 +1225,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_ELEMENTALADEPT_FIRE" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_ELEMENTALADEPT_FIRE" />
         <field name="Passives" type="StringTableFieldDefinition" value="ElementalAdept_Fire" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1286,10 +1234,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_ELEMENTALADEPT_LIGHTNING" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_ELEMENTALADEPT_LIGHTNING" />
         <field name="Passives" type="StringTableFieldDefinition" value="ElementalAdept_Lightning" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1299,10 +1243,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_ELEMENTALADEPT_THUNDER" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_ELEMENTALADEPT_THUNDER" />
         <field name="Passives" type="StringTableFieldDefinition" value="ElementalAdept_Thunder" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1312,10 +1252,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_GREATWEAPONMASTER" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_GREATWEAPONMASTER" />
         <field name="Passives" type="StringTableFieldDefinition" value="GreatWeaponMaster_BonusAttack;GreatWeaponMaster_BonusDamage" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1325,10 +1261,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_HEAVILYARMORED" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_HEAVILYARMORED" />
         <field name="Passives" type="StringTableFieldDefinition" value="HeavilyArmored" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1338,10 +1270,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_HEAVYARMORMASTER" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_HEAVYARMORMASTER" />
         <field name="Passives" type="StringTableFieldDefinition" value="HeavyArmorMaster" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1351,10 +1279,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_LIGHTLYARMORED" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_LIGHTLYARMORED" />
         <field name="Passives" type="StringTableFieldDefinition" value="LightlyArmored" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
         <field name="Boosts" type="StringTableFieldDefinition" value="Ability(Strength, 1, 20);Ability(Dexterity, 1, 20);" />
       </fields>
@@ -1365,10 +1289,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_LUCKY" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_LUCKY" />
         <field name="Passives" type="StringTableFieldDefinition" value="Lucky;Lucky_Unlock" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1378,10 +1298,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_MAGESLAYER" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_MAGESLAYER" />
         <field name="Passives" type="StringTableFieldDefinition" value="MageSlayer_Advantage;MageSlayer_AttackCaster;MageSlayer_BreakConcentration" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1391,10 +1307,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_MEDIUMARMORMASTER" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_MEDIUMARMORMASTER" />
         <field name="Passives" type="StringTableFieldDefinition" value="MediumArmorMaster" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1404,10 +1316,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_MOBILE" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_MOBILE" />
         <field name="Passives" type="StringTableFieldDefinition" value="Mobile_PassiveBonuses;Mobile_CounterAttackOfOpportunity;Mobile_DashAcrossDifficultTerrain" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1417,10 +1325,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_MODERATELYARMORED" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_MODERATLYARMORED" />
         <field name="Passives" type="StringTableFieldDefinition" value="ModeratelyArmored" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1430,11 +1334,8 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_PERFORMER" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_PERFORMER" />
         <field name="Passives" type="StringTableFieldDefinition" value="Performer" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Ability(Charisma, 1, 20);" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1443,10 +1344,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_POLEARMMASTER" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_POLEARMMASTER" />
         <field name="Passives" type="StringTableFieldDefinition" value="PolearmMaster_AttackOfOpportunity;PolearmMaster_BonusAttack" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1456,10 +1353,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_RESILIENT_STR" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_RESILIENT_STR" />
         <field name="Passives" type="StringTableFieldDefinition" value="Resilient_Strength" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1469,10 +1362,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_RESILIENT_DEX" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_RESILIENT_DEX" />
         <field name="Passives" type="StringTableFieldDefinition" value="Resilient_Dexterity" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1482,10 +1371,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_RESILIENT_CON" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_RESILIENT_CON" />
         <field name="Passives" type="StringTableFieldDefinition" value="Resilient_Constitution" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1495,10 +1380,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_RESILIENT_INT" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_RESILIENT_INT" />
         <field name="Passives" type="StringTableFieldDefinition" value="Resilient_Intelligence" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1508,10 +1389,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_RESILIENT_WIS" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_RESILIENT_WIS" />
         <field name="Passives" type="StringTableFieldDefinition" value="Resilient_Wisdom" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1521,10 +1398,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_RESILIENT_CHA" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_RESILIENT_CHA" />
         <field name="Passives" type="StringTableFieldDefinition" value="Resilient_Charisma" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1534,10 +1407,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_SAVAGEATTACKER" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_SAVAGEATTACKER" />
         <field name="Passives" type="StringTableFieldDefinition" value="SavageAttacker" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1547,10 +1416,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_SENTINEL" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_SENTINEL" />
         <field name="Passives" type="StringTableFieldDefinition" value="Sentinel_Attack;Sentinel_ZeroSpeed;Sentinel_OpportunityAdvantage" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1560,10 +1425,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_SHARPSHOOTER" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_SHARPSHOOTER" />
         <field name="Passives" type="StringTableFieldDefinition" value="Sharpshooter_AllIn;Sharpshooter_Bonuses" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1573,10 +1434,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_SHIELDMASTER" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_SHIELDMASTER" />
         <field name="Passives" type="StringTableFieldDefinition" value="ShieldMaster_PassiveBonuses;ShieldMaster_Block" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1586,10 +1443,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_TAVERNBRAWLER" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_TAVERNBRAWLER" />
         <field name="Passives" type="StringTableFieldDefinition" value="TavernBrawler" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
         <field name="Boosts" type="StringTableFieldDefinition" value="Ability(Strength, 1, 20);Ability(Constitution, 1, 20);" />
       </fields>
@@ -1600,10 +1453,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_TOUGH" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_TOUGH" />
         <field name="Passives" type="StringTableFieldDefinition" value="Tough" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
       </fields>
     </stat_object>
@@ -1613,11 +1462,601 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_FEAT_WARCASTER" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_WARCASTER" />
         <field name="Passives" type="StringTableFieldDefinition" value="WarCaster_Bonuses;WarCaster_OpportunitySpell" />
-        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
-        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
-        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_HUMAN" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_HUMAN" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead;FreezeDuration" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
+        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h35b5d6e0g84f1gd7e9ga745g982d179999d1" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_HUMAN);Tag(HUMAN)" />
+        <field name="StackType" type="EnumerationTableFieldDefinition" value="Additive" enumeration_type_name="StatusStackType" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_HUMAN_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_HUMAN_FEATURES" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf6d91246g8761gc5dcgfcb8gfb8f92372ace" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(LightArmor);Proficiency(Shields)ProficiencyBonus(Skill,Survival)" />
+        <field name="Passives" type="StringTableFieldDefinition" value="HumanMilitia;HumanVersatility" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="13606526-603c-4049-953a-6284811859ec" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_HIGHELF" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_HIGHELF" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_ELF);Tag(ELF);Tag(REALLY_HIGHELF);Tag(HIGHELF)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1c67ebba-3475-44f4-b40e-96d246f20561" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_HIGHELF_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_HIGHELF_FEATURES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Perception)" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Elf_WeaponTraining;Darkvision;FeyAncestry" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0fe74087-9bc3-4f8d-b9db-2be3daa5a1cc" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_WOODELF" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_WOODELF" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_ELF);Tag(ELF);Tag(REALLY_WOODELF);Tag(WOODELF)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7c1f41e9-7a09-498a-8308-bd803549cb32" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_WOODELF_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_WOODELF_FEATURES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Perception);ProficiencyBonus(Skill,Stealth)" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Elf_WeaponTraining;Darkvision;FeyAncestry" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2d1f06e1-2a7b-499e-9331-879df165845c" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_LOLTHSWORNDROW" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_LOLTHSWORNDROW" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_DROWELF);Tag(DROWELF);Tag(REALLY_LOLTHDROWELF);Tag(LOLTHDROWELF)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d3eb1ba0-2458-46ea-9a3e-97850baedb26" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_LOLTHSWORNDROW_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_LOLTHSWORNDROW_FEATURES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_DancingLights,,,,Charisma);UnlockSpell(Target_FaerieFire_DrowMagic,,,,Charisma);UnlockSpell(Target_Darkness_DrowMagic,,,,Charisma);ProficiencyBonus(Skill,Perception)" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Drow_DrowWeaponTraining;SuperiorDarkvision;FeyAncestry" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e99e3b61-bc95-44dc-958c-c3398847bdab" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_SELDARINEDROW" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_SELDARINEDROW" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_DROWELF);Tag(DROWELF);Tag(REALLY_SELDARINEDROWELF);Tag(SELDARINEDROWELF)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="66233459-312a-4ec6-88c7-850c7e21ea68" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_SELDARINEDROW_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_SELDARINEDROW_FEATURES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_DancingLights,,,,Charisma);UnlockSpell(Target_FaerieFire_DrowMagic,,,,Charisma);UnlockSpell(Target_Darkness_DrowMagic,,,,Charisma);ProficiencyBonus(Skill,Perception)" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Drow_DrowWeaponTraining;SuperiorDarkvision;FeyAncestry" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1d3ab41e-cf03-4554-828c-eeda164837df" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_HALFELFHGH" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_HALFELFHGH" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_HALFELF);Tag(HALFELF);Tag(REALLY_HIGHHALFELF);Tag(HIGHHALFELF)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f17f0bd3-364b-4d6f-9f1c-c0094caecd34" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_HALFELFHGH_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_HALFELFHGH_FEATURES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Boosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Passives" type="StringTableFieldDefinition" value="HumanMilitia;Darkvision;FeyAncestry" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6df9c42d-dc2e-4ed7-b9f4-ed79269afc09" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_HALFELFWOOD" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_HALFELFWOOD" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_HALFELF);Tag(HALFELF);Tag(REALLY_WOODHALFELF);Tag(WOODHALFELF)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="59aa33c6-fd41-40a9-ba0f-63f50c379e14" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_HALFELFWOOD_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_HALFELFWOOD_FEATURES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Proficiency(LightArmor);Proficiency(Shields);ProficiencyBonus(Skill,Stealth)" />
+        <field name="Passives" type="StringTableFieldDefinition" value="HumanMilitia;Darkvision;FeyAncestry" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cf0884fc-4d1e-460b-9fd6-43f8d4c74a83" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_HALFELFDROW" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_HALFELFDROW" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_HALFELF);Tag(HALFELF);Tag(REALLY_DROWHALFELF);Tag(DROWHALFELF);Tag(REALLY_RARE);Tag(RARE)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5914b9ec-6942-4af4-96fb-cd14cb29266d" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_HALFELFDROW_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_HALFELFDROW_FEATURES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_DancingLights,,,,Charisma);UnlockSpell(Target_FaerieFire_DrowMagic,,,,Charisma);UnlockSpell(Target_Darkness_DrowMagic,,,,Charisma);Proficiency(LightArmor);Proficiency(Shields)" />
+        <field name="Passives" type="StringTableFieldDefinition" value="HumanMilitia;Darkvision;FeyAncestry" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="059ef1ff-2318-45af-8942-8ad87c2156fd" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_HALFORC" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_HALFORC" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_HALFORC);Tag(HALFORC);Tag(REALLY_RARE);Tag(RARE)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e01b4796-a9aa-476c-b504-2cb1aa40f0bb" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_HALFORC_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_HALFORC_FEATURES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Intimidation)" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Darkvision;RelentlessEndurance;SavageAttacks" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7a7fdfa9-4d5c-472d-8152-a1a70d8423f9" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_HALFLINGLIGHTFOOT" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_HALFLINGLIGHTFOOT" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_HALFLING);Tag(HALFLING);Tag(REALLY_LIGHTFOOTHALFLING);Tag(LIGHTFOOTHALFLING)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d6e838f8-25ba-4cf1-8005-2ec6936e2ece" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_HALFLINGLIGHTFOOT_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_HALFLINGLIGHTFOOT_FEATURES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Boosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Halfling_Lucky;Halfling_Brave;Halfling_LightfootStealth" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="58d70a9d-02cf-4490-9c3c-a8d596355174" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_HALFLINGSTRONGHEART" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_HALFLINGSTRONGHEART" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_HALFLING);Tag(HALFLING);Tag(REALLY_STOUTHALFLING);Tag(STOUTHALFLING)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="aac24ecf-35c2-440b-b61f-480c7e182d80" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_HALFLINGSTRONGHEART_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_HALFLINGSTRONGHEART_FEATURES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Boosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Halfling_Lucky;Halfling_Brave;Halfling_StoutResilience" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ec3d71aa-cb21-40d9-ab33-8a77e6dc5978" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_DWARFGOLD" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_DWARFGOLD" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_DWARF);Tag(DWARF);Tag(REALLY_HILLDWARF);Tag(HILLDWARF)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="09e23e9c-1e8c-4d29-ae55-ff16f5c19485" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_DWARFGOLD_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_DWARFGOLD_FEATURES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IncreaseMaxHP(Level)" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Dwarf_DwarvenCombatTraining;Darkvision;Dwarf_DwarvenResilience" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c95b831b-9349-495f-bf56-1a557c7460ca" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_DWARFSHIELD" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_DWARFSHIELD" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_DWARF);Tag(DWARF);Tag(REALLY_MOUNTAINDWARF);Tag(MOUNTAINDWARF)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f7a49635-4c49-4c95-9726-e47f753867f1" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_DWARFSHIELD_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_DWARFSHIELD_FEATURES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Boosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Dwarf_DwarvenCombatTraining;MountainDwarf_DwarvenArmorTraining;Darkvision;Dwarf_DwarvenResilience" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="79897e5d-e617-45c9-8c62-74d1d4632520" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_DWARFDUERGAR" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_DWARFDUERGAR" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_DWARF);Tag(DWARF);Tag(REALLY_DUERGARDWARF);Tag(DUERGARDWARF)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="db223357-c98c-4851-880c-0a52ddd4cc1f" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_DWARFDUERGAR_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_DWARFDUERGAR_FEATURES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Enlarge_Duergar);UnlockSpell(Shout_Invisibility_Duergar)" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Dwarf_DwarvenCombatTraining;Darkvision;Dwarf_DwarvenResilience;SuperiorDarkvision;Duergar_DuergarResilience" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c7de5104-a1fc-4eca-a8fe-5137d60a0037" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_GNOMEFOREST" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_GNOMEFOREST" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_GNOME);Tag(GNOME);Tag(REALLY_FORESTGNOME);Tag(FORESTGNOME)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d94fce1e-237c-4cd8-9abc-4ebc3342812f" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_GNOMEFOREST_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_GNOMEFOREST_FEATURES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_SpeakWithAnimals,,,,Intelligence)" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Gnome_Cunning;Darkvision" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b8a00e09-2386-4e8f-8335-165d05ab3f3b" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_GNOMEDEEP" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_GNOMEDEEP" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_GNOME);Tag(GNOME);Tag(REALLY_DEEPGNOME);Tag(DEEPGNOME)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6d9b4d2c-62cd-4d68-ac10-1017d6345b98" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_GNOMEDEEP_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_GNOMEDEEP_FEATURES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Boosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Gnome_Cunning;Darkvision;SuperiorDarkvision;DeepGnome_StoneCamouflage" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a58d4fa3-71e6-4d19-a662-20e1bc4cd5d0" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_GNOMEROCK" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_GNOMEROCK" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_GNOME);Tag(GNOME);Tag(REALLY_ROCKGNOME);Tag(ROCKGNOME)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="41507c39-0e23-4b0d-91c2-16639679bb73" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_GNOMEROCK_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_GNOMEROCK_FEATURES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Boosts" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
+        <field name="Passives" type="StringTableFieldDefinition" value="RockGnome_ArtificersLore;Gnome_Cunning;Darkvision" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="dd4be6e3-9015-498f-ae69-427ac793a721" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_TIEFLINGASMODEUS" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_TIEFLINGASMODEUS" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_TIEFLING);Tag(TIEFLING);Tag(REALLY_ASMODEUSTIEFLING);Tag(ASMODEUSTIEFLING);Tag(REALLY_RARE);Tag(RARE)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="346e562c-c33a-47e8-9851-a3365f01c33f" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_TIEFLINGASMODEUS_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_TIEFLINGASMODEUS_FEATURES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_ProduceFlame,,,,Charisma);UnlockSpell(Shout_HellishRebuke_AsmodeusTiefling,,,,Charisma);UnlockSpell(Target_Darkness_DrowMagic,,,,Charisma)" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Tiefling_HellishResistance;Darkvision" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8c9ba399-2eb5-41ba-99f6-6d5e694d3c96" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_TIEFLINGMEPHISTOPHELES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_TIEFLINGMEPHISTOPHELES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_TIEFLING);Tag(TIEFLING);Tag(REALLY_MEPHISTOPHELESTIEFLING);Tag(MEPHISTOPHELESTIEFLING);Tag(REALLY_RARE);Tag(RARE)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cd2c892d-2f46-44b0-b41f-e0a57086f3c6" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_TIEFLINGMEPHISTOPHELES_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_TIEFLINGMEPHISTOPHELES_FEATURES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_MageHand,,,,Charisma);UnlockSpell(Zone_BurningHands_MephistophelesTiefling,,,,Charisma);UnlockSpell(Shout_FlameBlade_MephistophelesTiefling,,,,Charisma)" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Tiefling_HellishResistance;Darkvision" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="851a87c2-2704-414e-90a1-51a0b4b63f84" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_TIEFLINGZARIEL" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_TIEFLINGZARIEL" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_TIEFLING);Tag(TIEFLING);Tag(REALLY_ZARIELTIEFLING);Tag(ZARIELTIEFLING);Tag(REALLY_RARE);Tag(RARE)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cd1c1d2d-ecaa-42df-839b-a2ef12c8b892" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_TIEFLINGZARIEL_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_TIEFLINGZARIEL_FEATURES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_Thaumaturgy,,,,Charisma);UnlockSpell(Target_Smite_Searing_ZarielTiefling,,,,Charisma);UnlockSpell(Target_Smite_Branding_ZarielTiefling_Container,,,,Charisma)" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Tiefling_HellishResistance;Darkvision" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e4c1c28e-9bc2-4dd7-97bd-2d55cfb0a739" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_GITHYANKI" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_GITHYANKI" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_GITHYANKI);Tag(GITHYANKI);Tag(REALLY_RARE);Tag(RARE)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9047166e-ed76-4327-bbe6-c310262f1310" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_GITHYANKI_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_GITHYANKI_FEATURES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_AstralKnowledge);UnlockSpell(Target_MageHand_GithyankiPsionics,,,,Intelligence);UnlockSpell(Target_Jump_Githyanki,,,,Intelligence);UnlockSpell(Target_MistyStep_Githyanki,,,,Intelligence)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0a141138-e89e-4bbe-8153-1ecc9287400f" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_BLACK" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_BLACK" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_DRAGONBORN);Tag(DRAGONBORN);Tag(REALLY_RARE);Tag(RARE)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a3e94fec-8a77-4a52-93b5-fbdf1e9c22fa" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_BLACK_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_BLACK_FEATURES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Zone_BreathWeapon_Acid,,,,Constitution)" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Dragonborn_Resistance_Acid" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9be37e33-bc18-4235-9e86-0961b4363276" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_BLUE" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_BLUE" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_DRAGONBORN);Tag(DRAGONBORN);Tag(REALLY_RARE);Tag(RARE)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="fcc9be84-7353-4047-a8ee-733abb5b3cf2" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_BLUE_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_BLUE_FEATURES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Zone_BreathWeapon_Lightning,,,,Constitution)" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Dragonborn_Resistance_Lightning" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2be13439-9607-4238-a45c-b3ee86e512fc" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_BRASS" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_BRASS" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_DRAGONBORN);Tag(DRAGONBORN);Tag(REALLY_RARE);Tag(RARE)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8a94b3cf-13fb-4a6a-b7a7-8f056ed516ff" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_BRASS_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_BRASS_FEATURES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Zone_BreathWeapon_Fire_Line,,,,Constitution)" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Dragonborn_Resistance_Fire" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3dc82a3c-e563-436d-8e75-ca070423a199" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_BRONZE" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_BRONZE" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_DRAGONBORN);Tag(DRAGONBORN);Tag(REALLY_RARE);Tag(RARE)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d22a551f-1217-43d9-a62a-997ee3194f8e" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_BRONZE_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_BRONZE_FEATURES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Zone_BreathWeapon_Lightning,,,,Constitution)" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Dragonborn_Resistance_Lightning" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0be4dae0-e2b5-4a67-9c81-c8b0822b0c7e" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_COPPER" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_COPPER" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_DRAGONBORN);Tag(DRAGONBORN);Tag(REALLY_RARE);Tag(RARE)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c709e28e-7e0a-4eea-813a-39fc2ab846b0" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_COPPER_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_COPPER_FEATURES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Zone_BreathWeapon_Acid,,,,Constitution)" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Dragonborn_Resistance_Acid" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a3607623-dd54-4b82-88e6-71987d5bc490" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_GOLD" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_GOLD" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_DRAGONBORN);Tag(DRAGONBORN);Tag(REALLY_RARE);Tag(RARE)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c77676b0-c181-4845-8999-a65096188a69" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_GOLD_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_GOLD_FEATURES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Zone_BreathWeapon_Fire_Cone,,,,Constitution)" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Dragonborn_Resistance_Fire" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="092c1426-ea41-4845-860c-d2acbcae8661" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_GREEN" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_GREEN" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_DRAGONBORN);Tag(DRAGONBORN);Tag(REALLY_RARE);Tag(RARE)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c94998f9-6c63-435e-a764-3d4ac19e3fbc" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_GREEN_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_GREEN_FEATURES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Zone_BreathWeapon_Poison,,,,Constitution)" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Dragonborn_Resistance_Poison" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5de3c709-7364-4494-b927-41e3b1b06462" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_RED" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_RED" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_DRAGONBORN);Tag(DRAGONBORN);Tag(REALLY_RARE);Tag(RARE)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3e152afd-2dfc-45ef-b4e4-94b0d8de1d5c" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_RED_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_RED_FEATURES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Zone_BreathWeapon_Fire_Cone,,,,Constitution)" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Dragonborn_Resistance_Fire" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2937b4d4-f21c-420d-ae94-cd238b80f955" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_SILVER" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_SILVER" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_DRAGONBORN);Tag(DRAGONBORN);Tag(REALLY_RARE);Tag(RARE)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a20173f7-245d-4540-93fb-e725b25848b0" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_SILVER_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_SILVER_FEATURES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Zone_BreathWeapon_Cold,,,,Constitution)" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Dragonborn_Resistance_Cold" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e53b9403-cf94-4796-8527-bb57612cf919" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_WHITE" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_WHITE" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_DRAGONBORN);Tag(DRAGONBORN);Tag(REALLY_RARE);Tag(RARE)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0a6fdafc-044a-4a78-a01c-bb22a56d06c2" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_WHITE_FEATURES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_DRAGONBORN_WHITE_FEATURES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Zone_BreathWeapon_Cold,,,,Constitution)" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Dragonborn_Resistance_Cold" />
       </fields>
     </stat_object>
   </stat_objects>

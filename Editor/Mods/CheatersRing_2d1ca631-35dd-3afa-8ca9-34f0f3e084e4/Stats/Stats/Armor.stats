@@ -12,8 +12,6 @@
         <field name="Value" type="IntegerTableFieldDefinition" value="1" />
         <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
         <field name="Weight" type="FloatTableFieldDefinition" value="0" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_Cheat_Library);UnlockSpell(Target_XEL_Cheat_LibraryUtility)" />
-        <field name="PassivesOnEquip" type="StringTableFieldDefinition" value="XEL_Ring_Passives" />
       </fields>
     </stat_object>
     <stat_object color="#FF006400" is_substat="false">

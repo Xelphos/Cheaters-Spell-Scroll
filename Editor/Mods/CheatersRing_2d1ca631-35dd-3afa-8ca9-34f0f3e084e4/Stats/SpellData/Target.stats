@@ -1407,7 +1407,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_Heal" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Evocation" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellProperties" type="StringTableFieldDefinition" value="RegainHitPoints(500);RemoveStatus(SG_Blinded);RemoveStatus(SG_Disease)" />
+        <field name="SpellProperties" type="StringTableFieldDefinition" value="RegainHitPoints(500,Guaranteed);RemoveStatus(SG_Blinded);RemoveStatus(SG_Disease)" />
         <field name="TargetRadius" type="StringTableFieldDefinition" value="30" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Character() and not Dead()" />
         <field name="AmountOfTargets" type="StringTableFieldDefinition" value="6" />

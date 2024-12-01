@@ -1,4 +1,4 @@
 Add spike/vine surface spell as well as the rest.
 Implement Silence spell.
-
-TEST
+Added more character editing options: Proficiency, Expertise, Spell Slots, Spells, Class Tags, Race Tags.
+God Mode + Damage Cheat = GET PRONED!

@@ -7,8 +7,6 @@ data "ValueUUID" "4b9657a0-5a00-442a-b76e-535715cbaa86"
 data "ValueOverride" "1"
 data "Rarity" "Legendary"
 data "Weight" "0"
-data "Boosts" "UnlockSpell(Target_XEL_Cheat_Library);UnlockSpell(Target_XEL_Cheat_LibraryUtility)"
-data "PassivesOnEquip" "XEL_Ring_Passives"
 
 new entry "XEL_MAG_Infernal_Plate_Armor"
 type "Armor"

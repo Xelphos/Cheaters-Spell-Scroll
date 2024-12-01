@@ -1895,10 +1895,6 @@ MaxLevel "20"
 IgnoreLevelDiff 1
 new subtable "1,1"
 StartLevel "1"
-object category "I_XEL_OBJ_Chest_EditAbilityScores",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_XEL_OBJ_Chest_EditPassiveFeatures",1,0,0,0,0,0,0,0
-new subtable "1,1"
 object category "I_XEL_OBJ_HagHairBag",1,0,0,0,0,0,0,0
 new subtable "100,1"
 object category "I_OBJ_Kit_ThievesTools",1,0,0,0,0,0,0,0
@@ -3424,27 +3420,29 @@ object category "I_XEL_OBJ_Spell_SummonSupplies",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_XEL_OBJ_Spell_SummonPotionContainer",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_XEL_OBJ_Spell_SummonScrollContainer",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_XEL_OBJ_Spell_SummonToolContainer",1,0,0,0,0,0,0,0
-new subtable "1,1"
 object category "I_XEL_OBJ_Spell_SummonIngredientContainer",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_XEL_OBJ_Spell_SummonDyeContainer",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_XEL_OBJ_Spell_SummonClothingContainer",1,0,0,0,0,0,0,0
+object category "I_XEL_OBJ_Spell_SummonScrollContainer",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_XEL_OBJ_Spell_SummonArrowContainer",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_XEL_OBJ_Spell_SummonGrenadeContainer",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_XEL_OBJ_Spell_SummonCommonEquipmentContainer",1,0,0,0,0,0,0,0
+object category "I_XEL_OBJ_Spell_SummonWeaponContainer",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_XEL_OBJ_Spell_SummonArmorContainer",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_XEL_OBJ_Spell_SummonWeaponContainer",1,0,0,0,0,0,0,0
-new subtable "1,1"
 object category "I_XEL_OBJ_Spell_SummonJewelryContainer",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_Spell_SummonCommonEquipmentContainer",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_Spell_SummonClothingContainer",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_Spell_SummonDyeContainer",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_Spell_SummonToolContainer",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_Spell_SummonCharacterEditingContainer",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_XEL_OBJ_Spell_SummonTadpoleContainer",1,0,0,0,0,0,0,0
 new subtable "1,1"
@@ -3601,3 +3599,185 @@ new subtable "1,1"
 object category "I_XEL_OBJ_Feat_Tough",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_XEL_OBJ_Feat_WarCaster",1,0,0,0,0,0,0,0
+new treasuretable "XEL_CSS_ClassEditingContainer"
+MinLevel "-20"
+MaxLevel "20"
+IgnoreLevelDiff 1
+new subtable "1,1"
+StartLevel "1"
+object category "I_",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_",1,0,0,0,0,0,0,0
+new treasuretable "XEL_CSS_ProficiencyEditingContainer"
+MinLevel "-20"
+MaxLevel "20"
+IgnoreLevelDiff 1
+new subtable "1,1"
+StartLevel "1"
+object category "I_",1,0,0,0,0,0,0,0
+new treasuretable "XEL_CSS_CharacterEditingContainer"
+MinLevel "-20"
+MaxLevel "20"
+IgnoreLevelDiff 1
+new subtable "1,1"
+StartLevel "1"
+object category "I_XEL_OBJ_Chest_EditAbilityScores",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_Chest_EditPassiveFeatures",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_Chest_EditProficiencies",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_Chest_EditClassTags",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_Chest_EditRaceTags",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_",1,0,0,0,0,0,0,0
+new treasuretable "XEL_CSS_RaceEditingContainer"
+MinLevel "-20"
+MaxLevel "20"
+IgnoreLevelDiff 1
+new subtable "1,1"
+StartLevel "1"
+object category "I_XEL_OBJ_RaceTag_Human",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_CONT_RaceTag_Elf",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_CONT_RaceTag_Drow",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_CONT_RaceTag_HalfElf",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_RaceTag_HalfOrc",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_CONT_RaceTag_Halfling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_CONT_RaceTag_Dwarf",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_CONT_RaceTag_Gnome",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_CONT_RaceTag_Tiefling",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_RaceTag_Githyanki",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_CONT_RaceTag_Dragonborn",1,0,0,0,0,0,0,0
+new treasuretable "XEL_CSS_RaceTagElfContainer"
+MinLevel "-20"
+MaxLevel "20"
+IgnoreLevelDiff 1
+new subtable "1,1"
+StartLevel "1"
+object category "I_XEL_OBJ_RaceTag_Elf_HighElf",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_RaceTag_Elf_WoodElf",1,0,0,0,0,0,0,0
+new treasuretable "XEL_CSS_RaceTagDrowContainer"
+MinLevel "-20"
+MaxLevel "20"
+IgnoreLevelDiff 1
+new subtable "1,1"
+StartLevel "1"
+object category "I_XEL_OBJ_RaceTag_Drow_LolthSworn",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_RaceTag_Drow_Seldarine",1,0,0,0,0,0,0,0
+new treasuretable "XEL_CSS_RaceTagHalfElfContainer"
+MinLevel "-20"
+MaxLevel "20"
+IgnoreLevelDiff 1
+new subtable "1,1"
+StartLevel "1"
+object category "I_XEL_OBJ_RaceTag_HalfElf_HighElf",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_RaceTag_HalfElf_WoodElf",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_RaceTag_HalfElf_Drow",1,0,0,0,0,0,0,0
+new treasuretable "XEL_CSS_RaceTagHalflingContainer"
+MinLevel "-20"
+MaxLevel "20"
+IgnoreLevelDiff 1
+new subtable "1,1"
+StartLevel "1"
+object category "I_XEL_OBJ_RaceTag_Halfling_Lightfoot",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_RaceTag_Halfling_Strongheart",1,0,0,0,0,0,0,0
+new treasuretable "XEL_CSS_RaceTagDwarfContainer"
+MinLevel "-20"
+MaxLevel "20"
+IgnoreLevelDiff 1
+new subtable "1,1"
+StartLevel "1"
+object category "I_XEL_OBJ_RaceTag_Dwarf_Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_RaceTag_Dwarf_Shield",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_RaceTag_Dwarf_Duergar",1,0,0,0,0,0,0,0
+new treasuretable "XEL_CSS_RaceTagGnomeContainer"
+MinLevel "-20"
+MaxLevel "20"
+IgnoreLevelDiff 1
+new subtable "1,1"
+StartLevel "1"
+object category "I_XEL_OBJ_RaceTag_Gnome_Forest",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_RaceTag_Gnome_Deep",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_RaceTag_Gnome_Rock",1,0,0,0,0,0,0,0
+new treasuretable "XEL_CSS_RaceTagTieflingContainer"
+MinLevel "-20"
+MaxLevel "20"
+IgnoreLevelDiff 1
+new subtable "1,1"
+StartLevel "1"
+object category "I_XEL_OBJ_RaceTag_Tiefling_Asmodeus",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_RaceTag_Tiefling_Mephistopheles",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_RaceTag_Tiefling_Zariel",1,0,0,0,0,0,0,0
+new treasuretable "XEL_CSS_RaceTagDragonbornContainer"
+MinLevel "-20"
+MaxLevel "20"
+IgnoreLevelDiff 1
+new subtable "1,1"
+StartLevel "1"
+object category "I_XEL_OBJ_RaceTag_Dragonborn_Black",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_RaceTag_Dragonborn_Blue",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_RaceTag_Dragonborn_Brass",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_RaceTag_Dragonborn_Bronze",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_RaceTag_Dragonborn_Copper",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_RaceTag_Dragonborn_Gold",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_RaceTag_Dragonborn_Green",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_RaceTag_Dragonborn_Red",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_RaceTag_Dragonborn_Silver",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_RaceTag_Dragonborn_White",1,0,0,0,0,0,0,0
