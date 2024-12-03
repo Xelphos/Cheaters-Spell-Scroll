@@ -340,7 +340,7 @@
         <field name="Passives" type="StringTableFieldDefinition" value="XEL_Roll_Boost_Passive;XEL_Roll_Negative_Boost_Passive;XEL_Always_Critical_Success_Passive;XEL_Always_Critcal_Fail_Passive;XEL_No_Critcal_Fail_Passive;XEL_God_Mode_Passive;XEL_Damage_Bonus_Passive;XEL_Ability_Score_Boost_Passive;XEL_CSS_UnlockProficiencies_PassiveToggle;XEL_Cheat_AutoWash_Passive;XEL_Cheat_Bone_Zone_Passive;XEL_Cheat_AntiMagic_Aura_Passive;XEL_CSS_AutomatePlayer_Passive;XEL_CSS_AutomateFollower_Passive;XEL_Passive_Removal" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_NO_RING_ABILITY_UNLOCK" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_Cheat_GreaterGuidance_Passive)" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_Cheat_GreaterGuidance)" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1094,8 +1094,8 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7b2afde6g5519gc34bgf4fbg6c1d0e4c9ccf" version="1" />
         <field name="Icon" type="StringTableFieldDefinition" value="Action_KnowledgeOfTheAges" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_UNLOCKPROFICIENCIES" />
-        <field name="Passives" type="StringTableFieldDefinition" value="XEL_CSS_UnlockProficiencies_Passive" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisableOverhead;DisableCombatlog;DisablePortraitIndicator" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Athletics);ProficiencyBonus(Skill,Acrobatics);ProficiencyBonus(Skill,SleightOfHand);ProficiencyBonus(Skill,Stealth);ProficiencyBonus(Skill,Arcana);ProficiencyBonus(Skill,History);ProficiencyBonus(Skill,Nature);ProficiencyBonus(Skill,Religion);ProficiencyBonus(Skill,Investigation);ProficiencyBonus(Skill,AnimalHandling);ProficiencyBonus(Skill,Insight);ProficiencyBonus(Skill,Medicine);ProficiencyBonus(Skill,Perception);ProficiencyBonus(Skill,Survival);ProficiencyBonus(Skill,Persuasion);ProficiencyBonus(Skill,Deception);ProficiencyBonus(Skill,Intimidation);ProficiencyBonus(Skill,Performance);ExpertiseBonus(Athletics);ExpertiseBonus(Acrobatics);ExpertiseBonus(SleightOfHand);ExpertiseBonus(Stealth);ExpertiseBonus(Arcana);ExpertiseBonus(History);ExpertiseBonus(Nature);ExpertiseBonus(Religion);ExpertiseBonus(Investigation);ExpertiseBonus(AnimalHandling);ExpertiseBonus(Insight);ExpertiseBonus(Medicine);ExpertiseBonus(Perception);ExpertiseBonus(Survival);ExpertiseBonus(Persuasion);ExpertiseBonus(Deception);ExpertiseBonus(Intimidation);ExpertiseBonus(Performance)" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1108,7 +1108,942 @@
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="960336e8-4a7a-4485-b5c2-dfc26b15d9c5" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_MODIFIER_LEARNCHEATSPELLS" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h88dfa04bg15f9gbb02g8059g0019ce9a0892" version="3" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_MODIFIER_LEARNCHEATSPELLS" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h831178bbga7f1gf592gd85fgf94a9d85ecc8" version="2" />
+        <field name="Icon" type="StringTableFieldDefinition" value="XEL_CSS_Spell_LearnSpellModifier" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONCHEATERSPSELLSCROLL" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb2e261b4g5471gc796g683fgf3358155d7fb" version="1" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONCHEATERSPSELLSCROLL" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_SummonCheatersSpellScroll)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1330ce63-02da-4f3b-8b5e-10ec9c1aebb1" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_UNLOCKPASSIVES" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_UNLOCKPASSIVES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_Cheat_UnlockRingPassives)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="32c187b0-a417-425a-819b-4f55e6333d73" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_RESPEC" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_RESPEC" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_FreeRespec)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="28d27539-100a-42f2-8ac5-103812cfb7cd" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_UNLOCKWAYPOINTS" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_UNLOCKWAYPOINTS" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_UnlockWaypoints)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2388dea7-a6b3-4345-8f81-cbf7f4be342a" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_ALTERAPPROVALRATING" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_ALTERAPPROVALRATING" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_Cheat_AlterApprovalRating)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="bc9818f1-8a2c-4caa-87f4-2bd53f61994c" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_OPULENTREVIVAL" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_OPULENTREVIVAL" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_OpulentRevival)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="edc70349-31e1-40fe-aa7c-8a5d105c0f1c" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_RESTORATION" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_RESTORATION" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_SuperiorRestoration)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="71a45b78-427e-4262-a5df-7fa340c1ecbf" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_TRUERESURRECTION" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_TRUERESURRECTION" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Teleportation_XEL_CSS_TrueResurrection)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b13f1ff5-5b3c-4753-9679-26c22bc2b564" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_HEAL" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_HEAL" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_CSS_Heal)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cf68791f-8053-4ef9-979d-19b0e0206e9f" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_MISTYSTEP" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_MISTYSTEP" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_Cheat_MistyStep)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="72eb2f78-ec91-47b8-88d5-8f18a4c199e7" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_DIMENSIONDOOR" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_DIMENSIONDOOR" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Teleportation_XEL_Cheat_DimensionDoor)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d8d769e3-3ec4-4ada-b401-e518725af2c4" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_FLY" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_FLY" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_Fly)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4472cb6d-807b-426e-a34f-7c465568bcf4" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_JUMP" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_JUMP" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_CSS_Jump)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6da07e94-c4b5-43de-846b-ca0ea38c9d1f" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_FEATHERFALL" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_FEATHERFALL" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_CSS_FeatherFall)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e45dd19d-1a78-4e78-98af-f11536b10a7c" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_LONGSTRIDER" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_LONGSTRIDER" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_Longstrider)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7b624538-aa9e-4eae-bfb2-18e368d675ef" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_GREATERINVISIBILITY" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_GREATERINVISIBILITY" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_GreaterInvisibility)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5d5d26dc-b920-479f-b0a1-a7c44cc0cf9f" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_TRUESEEING" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_TRUESEEING" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_TrueSeeing)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ada4e6ba-46b3-4840-b074-61f93671806d" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_ENLARGEREDUCE" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_ENLARGEREDUCE" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_CSS_EnlargeReduce)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="afd4ab82-913b-4122-a1ff-4f0303b5d150" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_DAYLIGHT" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_DAYLIGHT" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_CSS_Daylight_Container)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cff48977-c361-4323-8c68-a0b95b08f53a" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_KNOCK" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_KNOCK" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_Cheat_Knock)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="df216224-374c-4df9-a7ef-57e4ae730f01" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_CREATEDESTROYWATER" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_CREATEDESTROYWATER" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_Cheat_CreateDestroyWater)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="28d416d3-7a8f-423b-b7a2-a6aade99f7aa" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_GASEOUSFORM" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_GASEOUSFORM" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_CSS_GaseousForm)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4d4b56fa-2404-4a55-bff3-25d5e4138acf" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_GREASE" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_GREASE" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_CSS_Grease)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e30d7efe-a28b-4f4f-9e17-984307b0ac7d" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_FOGCLOUD" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_FOGCLOUD" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_CSS_FogCloud)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b88564ad-7297-420c-a846-60718b2f9a1d" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_DARKNESS" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_DARKNESS" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_CSS_Darkness)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d48f5e79-231a-4f04-8c13-5fa90ca50787" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_STINKINGCLOUD" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_STINKINGCLOUD" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_CSS_StinkingCloud)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="fb8e3e5c-43af-4d65-ac7d-93856a3841c0" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_CLOUDKILL" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_CLOUDKILL" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_CSS_CloudKill)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="69d9755d-1e81-4419-8895-386886e84710" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SPEAKWITHANIMALS" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SPEAKWITHANIMALS" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_SpeakWithAnimals)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="372dd76c-5cb4-4bda-8b5f-adee9f84ebae" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SPEAKWITHDEAD" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SPEAKWITHDEAD" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_Cheat_SpeakWithDead)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9322f5a7-8d05-44b3-b258-4933a59bdba6" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_DETECTTHOUGHTS" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_DETECTTHOUGHTS" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_DetectThoughts)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cba7b956-3a3d-4cb7-a298-b6b1abbaa468" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_GUIDEANCE" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_GUIDEANCE" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_Cheat_GreaterGuidance)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b11c2a61-b70a-402a-91f3-ea3be6da6963" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_RESISTANCE" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_RESISTANCE" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_Cheat_GreaterResistance)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="77b7db41-3145-42b1-b83e-70440fe49d14" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_ACTIONSURGE" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_ACTIONSURGE" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_GreaterActionSurge)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="56de60b9-62d1-4d79-8efe-0b84dbad6ddd" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_ARCANERECOVERY" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_ARCANERECOVERY" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_ArcaneRecovery)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b4f08fb9-c41f-4fa0-a610-d0af51997972" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SLAYERFORM" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SLAYERFORM" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_CSS_SlayerForm)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ae8e1d0f-ac1f-4a17-9a9d-ac2a0af95074" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_TELEKINESIS" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_TELEKINESIS" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Throw_XEL_Cheat_Telekinesis)" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ddb8e0fa-a4d3-4d0e-9bfc-370d9b712751" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_ANIMATINGSPORES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_ANIMATINGSPORES" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_CSS_AnimatingSpores)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="271274b6-57d4-4874-9440-c1f243fea81e" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_DANCINGFLAME" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_DANCINGFLAME" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_XEL_CSS_DancingFlame)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0a9b3607-3193-4817-84fa-16490132614d" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_FIREBOLT" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_FIREBOLT" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_XEL_Cheat_Firebolt)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="98bcf38f-f9d4-4800-a5d6-8e8ada8541d6" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SACREDFLAME" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SACREDFLAME" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_Cheat_SacredFlame)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ee7c8733-d089-4652-b644-1c95ba805dc1" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_MAGICMISSILE" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_MAGICMISSILE" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_XEL_Cheat_MagicMissile)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="15ae2164-d0d2-43ab-a01c-ae22493d8e22" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_ICEKNIFEMM" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_ICEKNIFEMM" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_XEL_Cheat_IceKnifeMM)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4a4882bd-705f-475a-9717-4c17dd83b651" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_CHAINLIGHTNING" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_CHAINLIGHTNING" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_XEL_Cheat_ExplosiveChainLightning)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cad3ad17-80d4-4b0c-9114-e5a79ba0345e" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_KILL" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_KILL" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_XEL_Cheat_Kill)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c667645f-0dcc-4bb2-a2f6-2fe2023071be" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_FLAMEFURY" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_FLAMEFURY" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_CSS_FlameFury)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b67b72ef-dc1d-424f-b6d4-ba10348d3f7a" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_HELLFIREORB" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_HELLFIREORB" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_XEL_CSS_HellfireOrb)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a4c04291-464c-4413-a0fc-21ace6149095" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_EXPLOSION" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_EXPLOSION" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Projectile_XEL_Cheat_Fireball)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c7b77a0c-b87f-4610-ad76-0f765aaf20ce" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_CRUSHINGFIST" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_CRUSHINGFIST" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_CSS_CrushingFist)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f7d334d2-b45b-44c8-b29b-491f6c0af63d" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_FLESHTOSTONE" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_FLESHTOSTONE" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_Cheat_FleshToStone)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="02441faf-1ee4-476e-b639-cbbe41cdc50c" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_FLESHTOGOLD" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_FLESHTOGOLD" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_Cheat_FleshToGold)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="25764e67-d10f-49a4-973e-8d68a1b3309a" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_STONETOFLESH" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_STONETOFLESH" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_Cheat_StoneToFlesh)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="88f2a906-677e-487f-97ad-655ccf452e13" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_HOLDCREATURE" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_HOLDCREATURE" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_Cheat_HoldCreature)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d950b29b-47fb-4ec1-987d-c84ee07f26e4" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_WASHPARTY" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_WASHPARTY" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_WashParty)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6e522816-8b89-4538-9129-cb5c0d800009" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONGOLD" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONGOLD" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_SummonGold)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="706ab58c-d9a7-4fc2-bb6a-528ee7f14f56" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONSUPPLIES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONSUPPLIES" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_SummonSupplies)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="fff039d3-c2db-4e7d-9ccd-bec25611c3c8" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONPOTIONCONTAINER" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONPOTIONCONTAINER" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_SummonPotionContainer)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="373528c8-23fd-4c5e-b372-abf73e7de3a4" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONINGREDIENTCONTAINER" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONINGREDIENTCONTAINER" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_Summon_IngredientContainer)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3e0c097d-1478-4bf0-aa54-de3c0bfa4492" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONSCROLLCONTAINER" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONSCROLLCONTAINER" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_SummonScrollContainer)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cc683a29-3791-42b2-bdef-11aa41488784" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONARROWCONTAINER" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONARROWCONTAINER" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_SummonArrowContainer)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="fb97e17e-ee8f-4459-a43c-1337f56a5d42" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONGRENADECONTAINER" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONGRENADECONTAINER" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_SummonGrenadeContainer)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d2dbd754-2799-4d8a-8b95-ef10ff651d6c" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONWEAPONCONTAINER" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONWEAPONCONTAINER" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_SummonWeaponContainer)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b025ef96-6288-46a4-bea4-c47867d7a964" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONARMORCONTAINER" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONARMORCONTAINER" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_SummonArmorContainer)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="96b8080a-be32-491c-87a3-a2d3b38cb7d3" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONJEWELRYCONTAINER" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONJEWELRYCONTAINER" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_SummonJewelryContainer)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="149a7782-8ce7-4dea-9947-eac99eaced13" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONCOMMONEQUIPMENTCONTAINER" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONCOMMONEQUIPMENTCONTAINER" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_SummonCommonEquipmentContainer)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a5538a41-890b-4437-87f0-ee431f839ce6" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONCLOTHINGCONTAINER" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONCLOTHINGCONTAINER" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_SummonClothingContainer)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f0699719-4c2b-4b22-ac97-e50c2d157c75" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONDYECONTAINER" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONDYECONTAINER" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_SummonDyeContainer)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2d1325c8-cacd-491a-b8c4-3ae29dda1878" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONTOOLCONTAINER" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONTOOLCONTAINER" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_SummonToolContainer)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="87b2d2d8-26c2-4d3e-aaa1-085a6311aa04" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONCHARACTEREDITINGCONTAINER" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONCHARACTEREDITINGCONTAINER" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_CSS_SummonCharacterEditingContainer)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="79cfc77e-0ba2-4fc8-a1b6-a622aa58eb56" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONTADPOLECONTAINER" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONTADPOLECONTAINER" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_SummonTadpoleContainer)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f8b7811d-abae-437b-9afe-d2f846f5e0ae" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONUNRELEASEDITEMCONTAINER" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONUNRELEASEDITEMCONTAINER" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_SummonUnreleasedItemContainer)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="61c90ffe-e200-4706-82fd-74e09adfd384" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONTUTORIALCHEST" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONTUTORIALCHEST" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_Cheat_SummonTutorialChest)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9efda708-4dda-41c7-a6f2-d480e5a587d3" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONWATERBARREL" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONWATERBARREL" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_Cheat_SummonWaterBarrel)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4db99578-bb25-42d6-b828-145190c6e5c6" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONALCOHOLBARREL" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONALCOHOLBARREL" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_Cheat_SummonAlcoholBarrel)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="62bcfb89-19e5-447c-b715-e0e9b0e4c55a" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONOILBARREL" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONOILBARREL" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_Cheat_SummonOilBarrel)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4b99528b-f8f2-4f10-b532-47f823eb4942" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONACIDBARREL" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONACIDBARREL" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_Cheat_SummonAcidBarrel)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="59c94cee-0123-4970-a27a-c0832be2dbb4" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONBRINEBARREL" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONBRINEBARREL" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_Cheat_SummonBrineBarrel)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2a2b2bbb-0440-4007-aab4-ca3866e53c1a" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONSMOKEPOWDERBARREL" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONSMOKEPOWDERBARREL" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_Cheat_SummonSpokepowderBarrel)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="da1aab65-cd22-4306-bf37-ac408cee2509" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONNAUTILOIDTANK" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONNAUTILOIDTANK" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_Cheat_SummonNautiloidTank)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f5b1ba23-db27-4be2-849a-d260a7803d89" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONRUNEPOWDERBARREL" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONRUNEPOWDERBARREL" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_Cheat_SummonRunepowderBarrel)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a71728b6-7458-4cc5-88b8-2726d84976a8" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONRUNEPOWDERBOMB" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SUMMONRUNEPOWDERBOMB" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_Cheat_SummonRunepowderBomb)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a50ca4d3-b405-4574-93dd-399f7d2f2f45" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_UNLOCKILLITHIDPASSIVES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_UNLOCKILLITHIDPASSIVES" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_CSS_UnlockIllithidPassives)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f953500f-8179-4be0-9617-4bc5e9dd2b69" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_PSIONICOVERLOAD" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_PSIONICOVERLOAD" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_CSS_TAD_PsionicOverload)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d830419f-ec91-4c14-98ae-c3e44efb081b" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_FORCETUNNEL" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_FORCETUNNEL" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Rush_XEL_CSS_TAD_ForceTunnel)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c5564ed3-7b2d-45d3-bd06-699161d4278c" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_CONCENTRATEDBLAST" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_CONCENTRATEDBLAST" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_CSS_TAD_ConcentratedBlast)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b317c51a-898a-42c2-86bb-daaf5e0978c8" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_TRANSFUSEHEALTH" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_TRANSFUSEHEALTH" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_CSS_TAD_TransfuseHealth)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ec51a5bf-639f-4219-806e-48a821ae84e0" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_STAGEFRIGHT" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_STAGEFRIGHT" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_CSS_TAD_StageFright)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="be48aac2-17e5-475b-8a62-e6f60c349fc6" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_REPULSOR" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_REPULSOR" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_CSS_TAD_Repulsor)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="46c4e0ce-9ffc-48e3-829c-951807da8c55" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SHIELDOFTHRALLS" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SHIELDOFTHRALLS" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_CSS_TAD_ShieldOfThralls)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f548fa6d-3ff1-40ba-b5be-2fa98db33704" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_PERILOUSSTRIKES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_PERILOUSSTRIKES" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_CSS_TAD_PerilousStakes)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="fc3c4e6f-e909-4554-b404-3ce7620fea57" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_IMPERIL" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_IMPERIL" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_CSS_TAD_Imperil)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="196f9436-65e1-4f00-8f65-64c8b607a038" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_BLACKHOLE" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_BLACKHOLE" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_CSS_TAD_BlackHole)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9212a358-4ee8-44e3-981b-3a2c4704f923" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_MINDBLAST" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_MINDBLAST" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Zone_XEL_CSS_TAD_MindBlast)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b7894c44-5b54-4c35-be47-c0bcdfc47535" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_MINDSANCTUARY" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_MINDSANCTUARY" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_CSS_TAD_MindSanctuary)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="58b884a6-929c-4a8b-bcb7-5a8014660456" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_ABSORBINTELLECT" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_ABSORBINTELLECT" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_CSS_TAD_AbsorbIntellect)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="149145ba-15ab-4d53-ad23-2594359e8cc7" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_DISPLACERBEAST" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_DISPLACERBEAST" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_XEL_CSS_TAD_DisplacerBeast)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e8edb53f-078c-42f6-8201-fe9bce04e20e" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SURVIVALINSTINCT" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_SURVIVALINSTINCT" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_CSS_TAD_SurvivalInstinct)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a7369b25-6cf5-493d-8ddb-d3d16e4dedfb" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_MF_FORCETUNNEL" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_MF_FORCETUNNEL" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Rush_XEL_CSS_MF_ForceTunnel)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3c0cc7dc-efd3-4f85-a0f5-c1ac0353acf3" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_MF_PERILOUSSTRIKES" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_MF_PERILOUSSTRIKES" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_CSS_MF_PerilousStakes)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5fdadd46-b98f-4edc-ad29-0236a4146a86" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_MF_BLACKHOLE" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_MF_BLACKHOLE" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_CSS_MF_BlackHole)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0ba58239-1811-4a36-ad3a-37936c259977" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_MF_ABSORBINTELLECT" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_MF_ABSORBINTELECT" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_CSS_MF_AbsorbIntellect)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="53b4733b-32c2-4c71-8d41-8bd2e13f39e1" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_MF_SHIELDOFTHRALLS" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_MF_SHIELDOFTHRALLS" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_CSS_MF_ShieldOfThralls)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5da0615e-28bb-4ef1-bc5f-83caddd21510" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_MF_CONCENTRACTEDBLAST" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_MF_CONCENTRACTEDBLAST" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_CSS_MF_ConcentratedBlast)" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1281,6 +2216,7 @@
         <field name="Passives" type="StringTableFieldDefinition" value="LightlyArmored" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
         <field name="Boosts" type="StringTableFieldDefinition" value="Ability(Strength, 1, 20);Ability(Dexterity, 1, 20);" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h04582a62g1428g35f1g7895gcb166d11b936" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1336,6 +2272,7 @@
         <field name="Passives" type="StringTableFieldDefinition" value="Performer" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
         <field name="Boosts" type="StringTableFieldDefinition" value="Ability(Charisma, 1, 20);" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3d4c1d7ag1448g744ag548dg5b5dfc72ec90" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1445,6 +2382,7 @@
         <field name="Passives" type="StringTableFieldDefinition" value="TavernBrawler" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
         <field name="Boosts" type="StringTableFieldDefinition" value="Ability(Strength, 1, 20);Ability(Constitution, 1, 20);" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd83f97dcgb211g77bcg4980g17ad68981c77" version="1" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1467,12 +2405,340 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4130a3b8-b41b-460e-92c3-94685402aef2" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_ACROBATICS" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_ACROBATICS" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead;FreezeDuration" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h799e9a95gf5b0gfc1ag448cgfd83bd551387" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Acrobatics)" />
+        <field name="StackType" type="EnumerationTableFieldDefinition" value="Additive" enumeration_type_name="StatusStackType" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4bc622b8-dc13-4a43-a1cc-177362eb99ec" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_ACROBATICS" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_ACROBATICS" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd0d35918gf468gf37fg26b9g2a3be17459a1" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ExpertiseBonus(Acrobatics)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0027aa90-321a-474f-8820-5285bfe27fb0" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_ANIMALHANDLING" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4130a3b8-b41b-460e-92c3-94685402aef2" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_ANIMALHANDLING" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,AnimalHandling)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0f8ffcbc-aa40-4022-aec0-51623640c942" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_ANIMALHANDLING" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4bc622b8-dc13-4a43-a1cc-177362eb99ec" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_ANIMALHANDLING" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ExpertiseBonus(AnimalHandling)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5debd402-9b65-4dbd-9fe6-06ac38ff9fbe" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_ARCANA" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4130a3b8-b41b-460e-92c3-94685402aef2" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_ARCANA" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Arcana)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6cfb2efb-2ce1-426b-a17a-676564361b10" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_ARCANA" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4bc622b8-dc13-4a43-a1cc-177362eb99ec" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_ARCANA" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ExpertiseBonus(Arcana)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3a9791de-69e5-4866-a4b9-3511bc4acf5b" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_ATHLETICS" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4130a3b8-b41b-460e-92c3-94685402aef2" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_ATHLETICS" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Athletics)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="78400426-e671-494f-8804-a55504be2c38" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_ATHLETICS" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4bc622b8-dc13-4a43-a1cc-177362eb99ec" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_ATHLETICS" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ExpertiseBonus(Athletics)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f01bd6b1-f248-4de5-a4ea-b8a47e748ae8" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_DECEPTION" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4130a3b8-b41b-460e-92c3-94685402aef2" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_DECEPTION" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Deception)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c3e0c267-bf78-41c7-8dbd-562cded03db3" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_DECEPTION" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4bc622b8-dc13-4a43-a1cc-177362eb99ec" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_DECEPTION" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ExpertiseBonus(Deception)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7d198360-2261-4541-81a6-470d6af18f29" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_HISTORY" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4130a3b8-b41b-460e-92c3-94685402aef2" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_HISTORY" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,History)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6e8454e0-70df-489a-97bf-bd2dd44dbe04" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_HISTORY" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4bc622b8-dc13-4a43-a1cc-177362eb99ec" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_HISTORY" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ExpertiseBonus(History)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="483d57fc-e9e2-4795-8592-6cd49ca97b0c" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_INSIGHT" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4130a3b8-b41b-460e-92c3-94685402aef2" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_INSIGHT" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Insight)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cf20d283-08bd-4b36-9bf9-e46af4ef828f" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_INSIGHT" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4bc622b8-dc13-4a43-a1cc-177362eb99ec" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_INSIGHT" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ExpertiseBonus(Insight)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b24f77f4-a171-4252-bbd1-c2d23f07a8b3" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_INTIMIDATION" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4130a3b8-b41b-460e-92c3-94685402aef2" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_INTIMIDATION" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Intimidation)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="abd74985-e9de-454c-a4ae-4588163041df" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_INTIMIDATION" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4bc622b8-dc13-4a43-a1cc-177362eb99ec" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_INTIMIDATION" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ExpertiseBonus(Intimidation)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c24e873e-cc10-495b-a25c-27b059cefd92" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_INVESTIGATION" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4130a3b8-b41b-460e-92c3-94685402aef2" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_INVESTIGATION" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Investigation)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="fbd31652-9ed2-4a63-882b-3d928041a718" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_INVESTIGATION" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4bc622b8-dc13-4a43-a1cc-177362eb99ec" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_INVESTIGATION" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ExpertiseBonus(Investigation)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b6fb19b2-079c-4627-8632-3b14460442c7" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_MEDICINE" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4130a3b8-b41b-460e-92c3-94685402aef2" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_MEDICINE" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Medicine)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="7db7dc7b-0682-452d-b9c5-cae411b81065" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_MEDICINE" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4bc622b8-dc13-4a43-a1cc-177362eb99ec" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_MEDICINE" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ExpertiseBonus(Medicine)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4f45dc30-0c18-4f03-bb12-7f6e78c641c7" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_NATURE" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4130a3b8-b41b-460e-92c3-94685402aef2" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_NATURE" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Nature)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e81467f8-2950-4528-a131-dd5676c4d8a8" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_NATURE" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4bc622b8-dc13-4a43-a1cc-177362eb99ec" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_NATURE" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ExpertiseBonus(Nature)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a96da6e7-0c80-4524-8b89-d81c844aa2d0" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_PERCEPTION" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4130a3b8-b41b-460e-92c3-94685402aef2" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_PERCEPTION" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Perception)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2f290edb-71ae-4268-acef-f0015a9f4985" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_PERCEPTION" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4bc622b8-dc13-4a43-a1cc-177362eb99ec" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_PERCEPTION" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ExpertiseBonus(Perception)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d5497bcf-df5a-4127-91c9-af25da2370c4" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_PERFORMANCE" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4130a3b8-b41b-460e-92c3-94685402aef2" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_PERFORMANCE" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Performance)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e80cf642-5654-45d3-8822-a1dbaf0cdc01" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_PERFORMANCE" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4bc622b8-dc13-4a43-a1cc-177362eb99ec" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_PERFORMANCE" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ExpertiseBonus(Performance)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b9e88f08-33b1-4975-b316-ec0c63e538eb" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_PERSUASION" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4130a3b8-b41b-460e-92c3-94685402aef2" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_PERSUASION" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Persuasion)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1c8620e7-8be6-4d2b-81a5-e1703d11d8ff" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_PERSUASION" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4bc622b8-dc13-4a43-a1cc-177362eb99ec" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_PERSUASION" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ExpertiseBonus(Persuasion)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6c3df76e-b4ec-4abd-af79-f0ac288dd138" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_RELIGION" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4130a3b8-b41b-460e-92c3-94685402aef2" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_RELIGION" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Religion)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f7793438-d410-4a45-a17b-3de4e6e79f1f" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_RELIGION" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4bc622b8-dc13-4a43-a1cc-177362eb99ec" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_RELIGION" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ExpertiseBonus(Religion)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="da6c7b41-51a8-4332-a8a7-468d00816c1e" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_SLEIGHTOFHAND" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4130a3b8-b41b-460e-92c3-94685402aef2" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_SLEIGHTOFHAND" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,SleightOfHand)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5be92992-6b5e-42f8-8cba-addcb49720e7" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_SLEIGHTOFHAND" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4bc622b8-dc13-4a43-a1cc-177362eb99ec" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_SLEIGHTOFHAND" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ExpertiseBonus(SleightOfHand)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5b5e9d93-eb82-46e7-abe9-623c4973bd6f" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_STEALTH" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4130a3b8-b41b-460e-92c3-94685402aef2" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_STEALTH" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Stealth)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="68476bc7-612a-494b-b691-88125a145ebc" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_STEALTH" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4bc622b8-dc13-4a43-a1cc-177362eb99ec" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_STEALTH" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ExpertiseBonus(Stealth)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2852e6b5-f661-490d-88bd-6aae49891757" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_SURVIVAL" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4130a3b8-b41b-460e-92c3-94685402aef2" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_PROFICIENCY_SURVIVAL" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ProficiencyBonus(Skill,Survival)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f6c02ad7-4f62-4009-81b8-3e1ffdc46144" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_SURVIVAL" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="4bc622b8-dc13-4a43-a1cc-177362eb99ec" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_SKILL_EXPERTISE_SURVIVAL" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ExpertiseBonus(Survival)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="a75c959b-0de1-4642-9227-e3334278e213" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_HUMAN" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_HUMAN" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead;DisablePortraitIndicator;DisableCombatlog;DisableOverhead;FreezeDuration" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
-        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h35b5d6e0g84f1gd7e9ga745g982d179999d1" version="1" />
         <field name="Boosts" type="StringTableFieldDefinition" value="Tag(REALLY_HUMAN);Tag(HUMAN)" />
         <field name="StackType" type="EnumerationTableFieldDefinition" value="Additive" enumeration_type_name="StatusStackType" version="1" />
@@ -1809,7 +3075,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_RACETAG_TIEFLINGASMODEUS_FEATURES" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_RACETAG_TIEFLINGASMODEUS_FEATURES" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="4e620335-87f0-4834-bb84-ebe3e8bb0b17" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_ProduceFlame,,,,Charisma);UnlockSpell(Shout_HellishRebuke_AsmodeusTiefling,,,,Charisma);UnlockSpell(Target_Darkness_DrowMagic,,,,Charisma)" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Shout_ProduceFlame,,,,Charisma);UnlockSpell(Shout_HellishRebuke_AsmodeusTiefling,,,,Charisma);UnlockSpell(Target_Darkness_DrowMagic,,,,Charisma);ActionResource(Interrupt_HellishRebukeTiefling_Charge, 1, 0)" />
         <field name="Passives" type="StringTableFieldDefinition" value="Tiefling_HellishResistance;Darkvision" />
       </fields>
     </stat_object>

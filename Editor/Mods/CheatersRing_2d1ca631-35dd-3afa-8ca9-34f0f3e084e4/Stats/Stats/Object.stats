@@ -460,7 +460,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="996cfbdd-07e1-4e40-bfd5-e6a4f70f3c34" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="5f089bb9-1816-43b8-8e44-f2d58804ea23" />
         <field name="Weight" type="FloatTableFieldDefinition" value="0" />
-        <field name="Vitality" type="IntegerTableFieldDefinition" value="50" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
         <field name="Flags" type="EnumerationListTableFieldDefinition" value="InventoryBound" enumeration_type_name="AttributeFlags" version="1" />
         <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
       </fields>
@@ -544,7 +544,7 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="996cfbdd-07e1-4e40-bfd5-e6a4f70f3c34" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="5f089bb9-1816-43b8-8e44-f2d58804ea23" />
         <field name="Weight" type="FloatTableFieldDefinition" value="0" />
-        <field name="Vitality" type="IntegerTableFieldDefinition" value="50" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
         <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
         <field name="GameSize" type="EnumerationTableFieldDefinition" value="Tiny" enumeration_type_name="ObjectSize" version="1" />
       </fields>
@@ -4282,6 +4282,312 @@
         <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
       </fields>
     </stat_object>
+    <stat_object color="#FF6A5ACD" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b63be8a5-6ba7-424d-9f6f-57e73617ed7c" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Skill_Acrobatics" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fc73334f-7a19-4d44-891d-f34bd3cec186" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="684446b4-260e-4f36-b132-844ef11efd57" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="XEL_FeatUnlockItem" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="UseConditions" type="StringTableFieldDefinition" value="Tagged('PLAYABLE', context.Source)" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF6A5ACD" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6612ad4c-9700-4689-8204-10dd45c6d83f" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Skill_AnimalHandling" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fc73334f-7a19-4d44-891d-f34bd3cec186" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="ad99f149-e54d-4d1d-9776-2875a0814763" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="XEL_FeatUnlockItem" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="UseConditions" type="StringTableFieldDefinition" value="Tagged('PLAYABLE', context.Source)" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF6A5ACD" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8334423f-9a7d-41ba-a84e-97917dcd287e" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Skill_Arcana" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fc73334f-7a19-4d44-891d-f34bd3cec186" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="a989d7c2-d093-418c-b349-4b88535e175c" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="XEL_FeatUnlockItem" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="UseConditions" type="StringTableFieldDefinition" value="Tagged('PLAYABLE', context.Source)" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF6A5ACD" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="efc970b8-00b5-43e1-aa0b-7622499f3c14" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Skill_Athletics" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fc73334f-7a19-4d44-891d-f34bd3cec186" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="fa049355-3991-4d2c-9eb2-925f5d89ba9b" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="XEL_FeatUnlockItem" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="UseConditions" type="StringTableFieldDefinition" value="Tagged('PLAYABLE', context.Source)" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF6A5ACD" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ee2aef3b-aad9-42e7-a434-5d23cd2f8615" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Skill_Deception" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fc73334f-7a19-4d44-891d-f34bd3cec186" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="84749ef4-1a9e-4b0c-9776-5c20f9c9bc93" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="XEL_FeatUnlockItem" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="UseConditions" type="StringTableFieldDefinition" value="Tagged('PLAYABLE', context.Source)" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF6A5ACD" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2a816a00-e71e-416f-ba59-ac665d68ca64" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Skill_History" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fc73334f-7a19-4d44-891d-f34bd3cec186" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="4f7a8149-d603-4d96-9733-54db854c0c24" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="XEL_FeatUnlockItem" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="UseConditions" type="StringTableFieldDefinition" value="Tagged('PLAYABLE', context.Source)" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF6A5ACD" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="718d6751-b906-405d-b50c-eb7040d69606" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Skill_Insight" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fc73334f-7a19-4d44-891d-f34bd3cec186" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="50978efd-3f1f-4a33-9014-8d8e618639e2" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="XEL_FeatUnlockItem" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="UseConditions" type="StringTableFieldDefinition" value="Tagged('PLAYABLE', context.Source)" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF6A5ACD" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="098f8970-e833-4c9e-89e2-a5a31a38abc5" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Skill_Intimidation" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fc73334f-7a19-4d44-891d-f34bd3cec186" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="011ddd92-b2c1-4dd6-820d-24d5401879c4" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="XEL_FeatUnlockItem" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="UseConditions" type="StringTableFieldDefinition" value="Tagged('PLAYABLE', context.Source)" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF6A5ACD" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b77c3e00-665d-4490-9786-bc5c873e04d8" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Skill_Investigation" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fc73334f-7a19-4d44-891d-f34bd3cec186" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="c5233348-9a2f-45be-88b4-4106051a5ace" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="XEL_FeatUnlockItem" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="UseConditions" type="StringTableFieldDefinition" value="Tagged('PLAYABLE', context.Source)" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF6A5ACD" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="4574a657-1cf4-4562-a123-657483fbe375" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Skill_Medicine" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fc73334f-7a19-4d44-891d-f34bd3cec186" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="c718d039-7093-42a2-b3ae-d427d5e5539f" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="XEL_FeatUnlockItem" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="UseConditions" type="StringTableFieldDefinition" value="Tagged('PLAYABLE', context.Source)" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF6A5ACD" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b738ffd7-46b6-4544-ab4e-a677c061c71a" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Skill_Nature" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fc73334f-7a19-4d44-891d-f34bd3cec186" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="e8cb384d-1ab2-4e08-8013-66f10e7767e9" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="XEL_FeatUnlockItem" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="UseConditions" type="StringTableFieldDefinition" value="Tagged('PLAYABLE', context.Source)" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF6A5ACD" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d732e4bb-6a95-4f62-bb68-438cc62a2a1b" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Skill_Perception" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fc73334f-7a19-4d44-891d-f34bd3cec186" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="962b856b-b1de-4f2e-b0b0-96c1fd8b7e22" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="XEL_FeatUnlockItem" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="UseConditions" type="StringTableFieldDefinition" value="Tagged('PLAYABLE', context.Source)" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF6A5ACD" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="747faefd-515e-4602-8169-ef07c740cbdc" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Skill_Performance" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fc73334f-7a19-4d44-891d-f34bd3cec186" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="fc0b4fd5-7c3e-44d5-8996-f60eaf8c7daa" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="XEL_FeatUnlockItem" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="UseConditions" type="StringTableFieldDefinition" value="Tagged('PLAYABLE', context.Source)" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF6A5ACD" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d2c95bd8-2937-4f97-9b1f-9f86aa860670" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Skill_Persuasion" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fc73334f-7a19-4d44-891d-f34bd3cec186" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="200a9ff5-1fa1-40bf-a7fa-728abf146263" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="XEL_FeatUnlockItem" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="UseConditions" type="StringTableFieldDefinition" value="Tagged('PLAYABLE', context.Source)" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF6A5ACD" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="69b78f3e-11f6-4f53-8df2-3fad076b4ce5" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Skill_Religion" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fc73334f-7a19-4d44-891d-f34bd3cec186" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="c1aa5d3d-d773-4376-bf1b-6ad149083ce6" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="XEL_FeatUnlockItem" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="UseConditions" type="StringTableFieldDefinition" value="Tagged('PLAYABLE', context.Source)" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF6A5ACD" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cb604bbd-7c09-494c-bceb-55b2334ce655" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Skill_SleightofHand" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fc73334f-7a19-4d44-891d-f34bd3cec186" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="f0fd19e6-0af7-4a5c-b03a-c4d166c92f85" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="XEL_FeatUnlockItem" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="UseConditions" type="StringTableFieldDefinition" value="Tagged('PLAYABLE', context.Source)" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF6A5ACD" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="77140b52-76ae-464b-a05e-8a9cb81347f9" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Skill_Stealth" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fc73334f-7a19-4d44-891d-f34bd3cec186" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="b1298232-3c24-4e82-ab49-8e2c4e3b35fa" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="XEL_FeatUnlockItem" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="UseConditions" type="StringTableFieldDefinition" value="Tagged('PLAYABLE', context.Source)" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF6A5ACD" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5296ebb1-a473-4971-9aed-5333b5af84a5" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Skill_Survival" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fc73334f-7a19-4d44-891d-f34bd3cec186" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="6c987118-e2f4-4819-85ac-f405377ea278" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="XEL_FeatUnlockItem" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="UseConditions" type="StringTableFieldDefinition" value="Tagged('PLAYABLE', context.Source)" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+      </fields>
+    </stat_object>
     <stat_object color="#FF4169E1" is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="a5c4c251-f74e-4760-819d-93d2fbc0c53f" />
@@ -4675,6 +4981,23 @@
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="005d4373-1951-4b01-9e66-50fd4d315bb8" />
         <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
         <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF4B0082" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d7db6324-2faf-49ce-b3af-334949e30daa" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Modifier_LearnCheats" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fc73334f-7a19-4d44-891d-f34bd3cec186" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="6864cf2a-52ac-45c1-802b-67161eb7214b" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="XEL_FeatUnlockItem" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="UseConditions" type="StringTableFieldDefinition" value="Tagged('PLAYABLE', context.Source)" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
       </fields>
     </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">

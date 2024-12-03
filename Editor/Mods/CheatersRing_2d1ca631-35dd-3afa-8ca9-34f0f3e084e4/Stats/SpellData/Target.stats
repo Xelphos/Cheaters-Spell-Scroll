@@ -1016,7 +1016,7 @@
         <field name="SpellProperties" type="StringTableFieldDefinition" value="IF(not HasStatus('XEL_CSS_UNLOCK_ILLITHID_PASSIVES')):ApplyStatus(XEL_CSS_UNLOCK_ILLITHID_PASSIVES, 100, -1)" />
         <field name="TargetRadius" type="StringTableFieldDefinition" value="30" />
         <field name="TargetConditions" type="StringTableFieldDefinition" value="Player() and Tagged('PLAYABLE') and not HasStatus('XEL_CSS_UNLOCK_ILLITHID_PASSIVES') and not Item()" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Item_LOOT_GEN_Ring_C_Gold_A_1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="TadpoleSuperPower_AberrantShape" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hca297924ga2c2gaffege110g632b75dac067" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hbe79596fg0475g7de1gc62ag6202cf329390" version="3" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(XEL_CSS_UNLOCK_ILLITHID_PASSIVES, 100, -1)" />
@@ -1117,7 +1117,6 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h702d25a4ga12cg1048g0e7agdbdc594019c2" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hd5681b24g9ce7g3208g3adegcf6cb55dbd74" version="2" />
         <field name="TooltipStatusApply" type="StringTableFieldDefinition" value="ApplyStatus(XEL_CSS_CREATURE_SPORE_SERVANT, 100, -1)" />
-        <field name="TooltipPermanentWarnings" type="StringTableFieldDefinition" value="375fe7a4-7a8a-4bbe-812c-0af9584c0740; 635fb54e-b281-4c23-90f5-fc4abb0cf840" />
         <field name="CastSound" type="StringTableFieldDefinition" value="Action_Cast_Druid_FungalInfestation" />
         <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />
         <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:0" />
@@ -1414,8 +1413,7 @@
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Evocation_Heal" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd105f322gd88agdbc8ga9e0gaa04a7809764" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h8c361e7cg62b4g283ag43a7g998dbbe17e14" version="1" />
-        <field name="TooltipDamageList" type="StringTableFieldDefinition" value="RegainHitPoints(500)" />
-        <field name="TooltipPermanentWarnings" type="StringTableFieldDefinition" value="662e013d-e5cb-4669-9a4b-771636b24aa2" />
+        <field name="TooltipDamageList" type="StringTableFieldDefinition" value="RegainHitPoints(500,Guaranteed)" />
         <field name="CastSound" type="StringTableFieldDefinition" value="Spell_Cast_Healing_Heal_L6to8" />
         <field name="TargetSound" type="StringTableFieldDefinition" value="Spell_Impact_Healing_Heal_L6to8" />
         <field name="CastTextEvent" type="StringTableFieldDefinition" value="Cast" />

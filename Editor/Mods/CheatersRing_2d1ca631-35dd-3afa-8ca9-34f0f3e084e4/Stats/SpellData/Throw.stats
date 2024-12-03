@@ -7,7 +7,6 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_Cheat_Telekinesis" />
         <field name="Level" type="IntegerTableFieldDefinition" value="10" />
         <field name="SpellSchool" type="EnumerationTableFieldDefinition" value="Transmutation" enumeration_type_name="SpellSchool" version="1" />
-        <field name="SpellContainerID" type="StringTableFieldDefinition" value="Target_XEL_Cheat_Library" />
         <field name="TargetFloor" type="StringTableFieldDefinition" value="-1" />
         <field name="TargetRadius" type="StringTableFieldDefinition" value="30" />
         <field name="ThrowOrigin" type="EnumerationTableFieldDefinition" value="Target" enumeration_type_name="ThrowOrigin" version="1" />
