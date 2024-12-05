@@ -1046,7 +1046,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="4453cf5f-9f30-4541-ab7d-67ffc6a8a065" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_AUTOMATEPLAYER" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha10608f5g069cged69g0bcdg68c1b7b566d0" version="2" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h19480222g63a1g2d74g7d2bg5923a2df5860" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h19480222g63a1g2d74g7d2bg5923a2df5860" version="3" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Enchantment_Enthrall" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_AUTOMATEPLAYER" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
@@ -1057,7 +1057,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="436b9d65-bd74-4ece-bd66-c6dba4c42c8a" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_AUTOMATEFOLLOWER" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4b51294egb7dagc969g62e7gc1aa0424d67e" version="3" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h17792fefgbb3bg104agee2agac0e9bf77f20" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h17792fefgbb3bg104agee2agac0e9bf77f20" version="4" />
         <field name="Icon" type="StringTableFieldDefinition" value="Action_CharmAnimalsAndPlants" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_AUTOMATEFOLLOWER" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
@@ -1085,6 +1085,71 @@
         <field name="RemoveEvents" type="EnumerationListTableFieldDefinition" value="OnCombatEnded" enumeration_type_name="StatusEvent" version="1" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hdee39193gcbe8gc377gbd3agf3dc34314c19" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h76dfc428gf26eg550eg2e86ga19daceb17a3" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0a7c296b-6169-4dec-ba91-d63e74b88226" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_AIARCHETYPE_MELEE" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4450e519g9ef1gc1dcge59fg1debafcdba4c" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="haebad8a2gd3a8g1839g7495g6a11876afb48" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Target_MainHandAttack" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_AIARCHETYPE" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StackType" type="EnumerationTableFieldDefinition" value="Overwrite" enumeration_type_name="StatusStackType" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="AiArchetypeOverride(melee_smart,1)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e4ae25f7-61dd-4e6e-ab13-01ac7b0c1f9a" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_AIARCHETYPE_RANGED" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1a86b5d7ga864g8d1eg5c15g668f9b70fa72" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h0536241aga520g50b6g05ebg099a75543021" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Projectile_MainHandAttack" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_AIARCHETYPE" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StackType" type="EnumerationTableFieldDefinition" value="Overwrite" enumeration_type_name="StatusStackType" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="AiArchetypeOverride(ranged_smart,1)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0a7b9667-6f1f-483b-807e-ff07272e86cd" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_AIARCHETYPE_MAGE" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hcc3f9024gd4d5g1430gfc4cg301be24ba8e9" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h45568809gdc3bgf773g7af0gb416af26ce59" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_PactOfTheTome" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_AIARCHETYPE" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StackType" type="EnumerationTableFieldDefinition" value="Overwrite" enumeration_type_name="StatusStackType" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="AiArchetypeOverride(mage_smart,1)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0ac827de-e4c6-4faa-a2d8-bac42192cbe3" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_AIARCHETYPE_MELEERANGED" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6cdfbb2dgb7bcg8770gd05cgf8fc02716dfc" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9787f80eg13dfgde0egdf04g23987e8a3959" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="XEL_CSS_AIArchetype_MeleeRanged" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_AIARCHETYPE" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StackType" type="EnumerationTableFieldDefinition" value="Overwrite" enumeration_type_name="StatusStackType" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="AiArchetypeOverride(melee_magic_smart,1)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0c1b2c9d-33be-475d-9bec-510b0537f224" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_AIARCHETYPE_MELEEMAGE" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hdf3ff5a0g020eg955fg537dgb2fedb57efa5" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9612ec85gdb89gce18g1b82g9c8e6eabb8b4" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="XEL_CSS_AIArchetype_MeleeMage" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_AIARCHETYPE" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="StackType" type="EnumerationTableFieldDefinition" value="Overwrite" enumeration_type_name="StatusStackType" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="AiArchetypeOverride(rogue_smart,1)" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -1143,6 +1208,15 @@
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_UNLOCKPASSIVES" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
         <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_Cheat_UnlockRingPassives)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ec11fa12-90c2-4085-b9bf-4bf5204fe4b2" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_MODIFIERAIARCHETYPE" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_LEARNCHEAT_MODIFIERAIARCHETYPE" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="a9b32e8d-c942-49b5-b800-2ab7e6869b26" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="UnlockSpell(Target_XEL_CSS_AIAchetype_Container)" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2262,6 +2336,8 @@
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_MODERATLYARMORED" />
         <field name="Passives" type="StringTableFieldDefinition" value="ModeratelyArmored" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hcf5a87adgc0ddge511gd415g8bf7a1a27e32" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Ability(Strength, 1, 20);Ability(Dexterity, 1, 20);" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -2271,7 +2347,7 @@
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_FEAT_PERFORMER" />
         <field name="Passives" type="StringTableFieldDefinition" value="Performer" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="66df606c-7dc0-40a5-9986-1f0a21324cd7" />
-        <field name="Boosts" type="StringTableFieldDefinition" value="Ability(Charisma, 1, 20);" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="Ability(Charisma, 1, 20)" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3d4c1d7ag1448g744ag548dg5b5dfc72ec90" version="1" />
       </fields>
     </stat_object>

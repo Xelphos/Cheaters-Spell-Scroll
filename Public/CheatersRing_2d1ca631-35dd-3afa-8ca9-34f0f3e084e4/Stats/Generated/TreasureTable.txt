@@ -3312,6 +3312,8 @@ object category "I_XEL_OBJ_Spell_SummonCheatersSpellScroll",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_XEL_OBJ_Modifier_LearnCheats",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_XEL_OBJ_Spell_ModifierAIArchetype",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_XEL_OBJ_Spell_UnlockPassives",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_XEL_OBJ_Spell_Respec",1,0,0,0,0,0,0,0

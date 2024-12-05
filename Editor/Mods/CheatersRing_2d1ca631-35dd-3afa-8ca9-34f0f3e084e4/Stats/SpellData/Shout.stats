@@ -720,7 +720,7 @@
         <field name="AIFlags" type="EnumerationListTableFieldDefinition" value="CanNotUse" enumeration_type_name="AIFlags" version="1" />
         <field name="SpellProperties" type="StringTableFieldDefinition" value="ApplyStatus(TUT_RESTORATION,100,1);RemoveStatus(SG_Blinded);RemoveStatus(SG_Disease);RemoveStatus(SG_Exhausted);RemoveStatus(SG_Poisoned);RemoveStatus(SG_Frightened);RemoveStatus(SG_Charmed);RemoveStatus(SG_Cursed);RemoveStatus(SG_Possessed);RemoveStatus(SG_Madness);RemoveStatus(SG_Petrified);RemoveStatus(SG_Stunned);RemoveStatus(SG_Paralyzed);RemoveStatus(ASTARION_WEAK);RegainHitPoints(500,Guaranteed)" />
         <field name="AreaRadius" type="IntegerTableFieldDefinition" value="30" />
-        <field name="TargetConditions" type="StringTableFieldDefinition" value="Character() and Ally()" />
+        <field name="TargetConditions" type="StringTableFieldDefinition" value="Character() and not Enemy() and not Dead()" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Abjuration_GreaterRestoration" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbe24ff8eg6dc0gee79ge639gca388083b132" version="2" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h5af8d269gf16bg3ae6g7afcg37f3f98ad808" version="4" />

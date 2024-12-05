@@ -4992,7 +4992,7 @@
         <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="XEL_FeatUnlockItem" />
         <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
-        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:0" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
         <field name="UseConditions" type="StringTableFieldDefinition" value="Tagged('PLAYABLE', context.Source)" />
         <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
@@ -5020,6 +5020,20 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Spell_UnlockPassives" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="d462b1fc-7763-49bb-be12-1f06f6241394" />
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="57b92580-070b-4f76-9880-416b0718beb2" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="MinLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="VeryRare" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF4B0082" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2d1f255e-3dfa-4d99-b344-d4a76d7d4d18" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Spell_ModifierAIArchetype" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="d462b1fc-7763-49bb-be12-1f06f6241394" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="4e8f64ab-1624-463f-8973-ce9bad7517fb" />
         <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
         <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
         <field name="Weight" type="FloatTableFieldDefinition" value="0" />

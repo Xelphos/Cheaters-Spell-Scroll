@@ -10,6 +10,36 @@
                     <attribute id="Identifier" type="FixedString" value="CE_Tag_AVATAR_False"/>
                     <attribute id="UUID" type="guid" value="985a14fc-e66c-4297-9553-84abf8320337"/>
                 </node>
+                <node id="ConditionErrors">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h356633a7gc1e4gdb35g0dabg2de36cd332dc" version="1"/>
+                    <attribute id="ErrorDescriptionType" type="uint8" value="0"/>
+                    <attribute id="Identifier" type="FixedString" value="CE_Status_XEL_CSS_AIARCHETYPE_MELEE_False"/>
+                    <attribute id="UUID" type="guid" value="e8ff47b5-46d8-44bd-9bcf-853b999c55ed"/>
+                </node>
+                <node id="ConditionErrors">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h4060614bged13ga55cgcbcfg90f9cf5faa13" version="1"/>
+                    <attribute id="ErrorDescriptionType" type="uint8" value="0"/>
+                    <attribute id="Identifier" type="FixedString" value="CE_Status_XEL_CSS_AIARCHETYPE_RANGED_False"/>
+                    <attribute id="UUID" type="guid" value="8b348c95-d8ca-49ee-a520-7db03e940f9b"/>
+                </node>
+                <node id="ConditionErrors">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h13ba539egd7dagb04cg906cg9b5a41382e6f" version="1"/>
+                    <attribute id="ErrorDescriptionType" type="uint8" value="0"/>
+                    <attribute id="Identifier" type="FixedString" value="CE_Status_XEL_CSS_AIARCHETYPE_MAGE_False"/>
+                    <attribute id="UUID" type="guid" value="60a72292-0f93-422a-8e92-f217287b3531"/>
+                </node>
+                <node id="ConditionErrors">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7b1ad452g9cc8ga26bg764bg72ea6f83bba7" version="1"/>
+                    <attribute id="ErrorDescriptionType" type="uint8" value="0"/>
+                    <attribute id="Identifier" type="FixedString" value="CE_Status_XEL_CSS_AIARCHETYPE_MELEERANGED_False"/>
+                    <attribute id="UUID" type="guid" value="44c1448c-e86e-4e5c-9af1-ade9a3788359"/>
+                </node>
+                <node id="ConditionErrors">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h71cf668bg2181g3fcdgc038gd1b318e40528" version="1"/>
+                    <attribute id="ErrorDescriptionType" type="uint8" value="0"/>
+                    <attribute id="Identifier" type="FixedString" value="CE_Status_XEL_CSS_AIARCHETYPE_MELEEMAGE_False"/>
+                    <attribute id="UUID" type="guid" value="392e59bc-54c1-4a80-b981-8987e8ec8e9c"/>
+                </node>
             </children>
         </node>
     </region>

@@ -633,17 +633,17 @@ Unlocks all waypoints in Act 2.</content>
 Unlocks all waypoints in Act 3.</content>
   <content contentuid="h4b27c3b2gdf39ge010g9d90g48cc6e501d39" version="2">Cheaters Spell Scroll (Utility)</content>
   <content contentuid="h20180cdege81dg0f67gebd3g09e50a1329f3" version="2">Contains non-combat utility spells.</content>
-  <content contentuid="h4c8eb384gad1cga088g1b15g02932ae6bfbb" version="9">Cheaters Explosion</content>
-  <content contentuid="h5bb219c9g3fb9g79f9g152egf0edbabc7a71" version="9">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h2e79cdd1gfc6dg0fdegc798g7cac4cc2ca20" version="6" />
+  <content contentuid="h4c8eb384gad1cga088g1b15g02932ae6bfbb" version="10">Cheaters Explosion</content>
+  <content contentuid="h5bb219c9g3fb9g79f9g152egf0edbabc7a71" version="10">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h2e79cdd1gfc6dg0fdegc798g7cac4cc2ca20" version="7" />
   <content contentuid="hfebb2403gcc4eg85bdg714dga0759e26f7e9" version="2">Cheaters Spell Pouch</content>
   <content contentuid="hf6e6e5e3g1806g55bfg2221gb3b64b81ae71" version="2">A small pouch containing Spell Item versions of every spell from Cheaters Ring. You can add these anywhere to your hotbar or raidal action menu.</content>
-  <content contentuid="hb818fbe0g0cb9gd675g88dfg8cc4fb7d331c" version="5">Cheaters Free Respec</content>
-  <content contentuid="h396fe14cg671fg9018g869eg52a3dad3afe6" version="5" />
-  <content contentuid="h33d3cf91g95b6g429fg9e65g524ebd5808f7" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="hc8abaaefgf67cg20aagf128g6971a5febb63" version="5">Cheaters Unlock Waypoints</content>
-  <content contentuid="h4b40386bgcf1ag68c8g8d37g03575f73b2cd" version="5" />
-  <content contentuid="hd14a60c3g02a7g733eg0d19gdfacd7873f82" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hb818fbe0g0cb9gd675g88dfg8cc4fb7d331c" version="6">Cheaters Free Respec</content>
+  <content contentuid="h396fe14cg671fg9018g869eg52a3dad3afe6" version="6" />
+  <content contentuid="h33d3cf91g95b6g429fg9e65g524ebd5808f7" version="6">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hc8abaaefgf67cg20aagf128g6971a5febb63" version="6">Cheaters Unlock Waypoints</content>
+  <content contentuid="h4b40386bgcf1ag68c8g8d37g03575f73b2cd" version="6" />
+  <content contentuid="hd14a60c3g02a7g733eg0d19gdfacd7873f82" version="6">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="heb6fe761gb05cg506ega0b1ge73f7de806c6" version="2">Cheaters Unlock Waypoints (Act 2)</content>
   <content contentuid="hb176c9cdg23b3g8467g4266g3980030f4212" version="2" />
   <content contentuid="h13a7d8e8g6e98gedd1g37f4gb11a0ca67c91" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
@@ -658,172 +658,172 @@ Toggle Cheat: Remove Passives in the passives tab on the Hotbar/Wheel menu to re
   <content contentuid="hbe43144ega88bgd263g3b1ag7a7696a183ea" version="2">While you have this effect, you will have access to all of the Cheaters Spell Scroll Passives.
 
 Toggle Cheat: Remove Passives in the passives tab on the Hotbar/Radial menu to remove this effect.</content>
-  <content contentuid="h42950027g4567g7fb0gde2bgbf2ad262f480" version="5">Cheaters Unlock Passives</content>
-  <content contentuid="h8bedd95dgad42g4501g43a0g2fe511850b41" version="5" />
-  <content contentuid="hdac387c1gf4ccgddd9g3e96g9609981f9d70" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h42950027g4567g7fb0gde2bgbf2ad262f480" version="6">Cheaters Unlock Passives</content>
+  <content contentuid="h8bedd95dgad42g4501g43a0g2fe511850b41" version="6" />
+  <content contentuid="hdac387c1gf4ccgddd9g3e96g9609981f9d70" version="6">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="h6a5d5b88ga431gb1bdgb86ag8abd26d1bc71" version="2">Cheat: Remove Passives</content>
   <content contentuid="h302cab67g2b40g1993g75f8g28934d8819ba" version="2">Toggle this on to remove the effects of the Cheaters: Unlock Passives spell. 
 
 This will remove the abilitiy to use the passives from the Cheaters Spell Scroll.</content>
-  <content contentuid="h9a8c4b52g8beeg22feg649eg1f1a47b7a957" version="6">Cheaters Alter Approval Rating</content>
-  <content contentuid="hd48922cbgf4e5g30cdge8f8g143024213cd4" version="6" />
-  <content contentuid="hbff091a4gcd03g88d0g9e1fg35e22936fcad" version="6">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="hacd7e083ge8e2gfe38gee72g2e80f7211946" version="5">Cheaters Opulent Revival</content>
-  <content contentuid="h65c4b941g5c4fgf4f7gbbc3gcc8f7b0893db" version="5" />
-  <content contentuid="h21aeda7cg6d74g7ed6ga513gef40c1cbd62a" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="hbdb78431gdb5egbc47g7131g56f2a0caa021" version="5">Cheaters Restoration</content>
-  <content contentuid="h7e23b402g1b64g4960g45f7gbf4659a436b8" version="5" />
-  <content contentuid="hdf1d1bbcgecd9g238cg9c50ga13e7a3d2baf" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h84cf4220g3eebgb946g0d8dg35cf6ecd7ab5" version="4">Cheaters Misty Step</content>
-  <content contentuid="h30a04565ge65egad6egf139g4d3ddf382984" version="4" />
-  <content contentuid="h541a6a56g3fbag4b96g2c42g95a1b7cef55e" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h16d03aa6gdac6g83c0g3276gc2d2821882a1" version="4">Cheaters Dimension Door</content>
-  <content contentuid="h6849bb3ega815g4821g9080ge3b75026f143" version="4" />
-  <content contentuid="h1253de91gf7adg7630g2885ga8619ed1661f" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="he401c859g066ag781cgdc23g4dd06067f61b" version="4">Cheaters Mass Fly</content>
-  <content contentuid="hf14d28c6g876eg18a0g2597gad2cd6f73c6d" version="4" />
-  <content contentuid="h07efd02age6b5g6770g0d9bg29e05cb779e0" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h6ffd02fcg7f21g0f52g4c86g6c3e798dd4ba" version="4">Cheaters Mass Greater Invisibility</content>
-  <content contentuid="h404341a4g9c3ag38c6g4b89ga4b66c34c8c7" version="4" />
-  <content contentuid="h12372744gc0dcg8fa1g90b3gb1d75407391f" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h91867525g8b0cgfd5dg24b1gf785b788f808" version="4">Cheaters True Seeing</content>
-  <content contentuid="h5a97e4bfga36agcda7g5e2dg52b49b3dccf4" version="4" />
-  <content contentuid="h8f2d13d9gbce4g2076ge023gd677d22fabac" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="he12fb8b9g45a3gee77g6ffeg75c3692bb36b" version="5">Cheaters Create or Destroy Water</content>
-  <content contentuid="h44b91d17g8e37gd0d9gcd23g0eef849aeca7" version="5" />
-  <content contentuid="h48a8c944gaf1fg81fag783dg0e3f31cdf7a3" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="hdd36adf8g3185g8346g74a1g36aeaca98dd5" version="4">Cheaters Knock</content>
-  <content contentuid="h238eb72egb625gab31gfb4age0291fce4d9b" version="4" />
-  <content contentuid="ha2712331g0e21gdef8gf232gb452c8a2450d" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h9a8c4b52g8beeg22feg649eg1f1a47b7a957" version="7">Cheaters Alter Approval Rating</content>
+  <content contentuid="hd48922cbgf4e5g30cdge8f8g143024213cd4" version="7" />
+  <content contentuid="hbff091a4gcd03g88d0g9e1fg35e22936fcad" version="7">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hacd7e083ge8e2gfe38gee72g2e80f7211946" version="6">Cheaters Opulent Revival</content>
+  <content contentuid="h65c4b941g5c4fgf4f7gbbc3gcc8f7b0893db" version="6" />
+  <content contentuid="h21aeda7cg6d74g7ed6ga513gef40c1cbd62a" version="6">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hbdb78431gdb5egbc47g7131g56f2a0caa021" version="6">Cheaters Restoration</content>
+  <content contentuid="h7e23b402g1b64g4960g45f7gbf4659a436b8" version="6" />
+  <content contentuid="hdf1d1bbcgecd9g238cg9c50ga13e7a3d2baf" version="6">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h84cf4220g3eebgb946g0d8dg35cf6ecd7ab5" version="5">Cheaters Misty Step</content>
+  <content contentuid="h30a04565ge65egad6egf139g4d3ddf382984" version="5" />
+  <content contentuid="h541a6a56g3fbag4b96g2c42g95a1b7cef55e" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h16d03aa6gdac6g83c0g3276gc2d2821882a1" version="5">Cheaters Dimension Door</content>
+  <content contentuid="h6849bb3ega815g4821g9080ge3b75026f143" version="5" />
+  <content contentuid="h1253de91gf7adg7630g2885ga8619ed1661f" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="he401c859g066ag781cgdc23g4dd06067f61b" version="5">Cheaters Mass Fly</content>
+  <content contentuid="hf14d28c6g876eg18a0g2597gad2cd6f73c6d" version="5" />
+  <content contentuid="h07efd02age6b5g6770g0d9bg29e05cb779e0" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h6ffd02fcg7f21g0f52g4c86g6c3e798dd4ba" version="5">Cheaters Mass Greater Invisibility</content>
+  <content contentuid="h404341a4g9c3ag38c6g4b89ga4b66c34c8c7" version="5" />
+  <content contentuid="h12372744gc0dcg8fa1g90b3gb1d75407391f" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h91867525g8b0cgfd5dg24b1gf785b788f808" version="5">Cheaters True Seeing</content>
+  <content contentuid="h5a97e4bfga36agcda7g5e2dg52b49b3dccf4" version="5" />
+  <content contentuid="h8f2d13d9gbce4g2076ge023gd677d22fabac" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="he12fb8b9g45a3gee77g6ffeg75c3692bb36b" version="6">Cheaters Create or Destroy Water</content>
+  <content contentuid="h44b91d17g8e37gd0d9gcd23g0eef849aeca7" version="6" />
+  <content contentuid="h48a8c944gaf1fg81fag783dg0e3f31cdf7a3" version="6">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hdd36adf8g3185g8346g74a1g36aeaca98dd5" version="5">Cheaters Knock</content>
+  <content contentuid="h238eb72egb625gab31gfb4age0291fce4d9b" version="5" />
+  <content contentuid="ha2712331g0e21gdef8gf232gb452c8a2450d" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="h804cc717g50deg2bf4g2d19g014c2a86c7df" version="2">Cheaters Destroy Water</content>
   <content contentuid="had0e0360ge261g526eg728dg1a97d6f97564" version="2" />
   <content contentuid="h19c1b5adg7303gecc6g2f0ag23a3e6ec1d68" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="hea0ad3e4geb7agd999g55f6g8c2d51d244ba" version="4">Cheaters Speak with Animals</content>
-  <content contentuid="h121a6e52g749ag7b9bga58cg4d432965a88a" version="4" />
-  <content contentuid="hf9f6c00dgd759gced4gc154g458edfb8e480" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="hbac76e43g31f3g9eb2gceffgdf3dbbd10087" version="4">Cheaters Speak with Dead</content>
-  <content contentuid="he1f23666ga907g1f12gb801g4bd32953eee2" version="4" />
-  <content contentuid="ha99b888cg1aa6ga588gd382g2a5402afb105" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="hed54a930g0716g3ee3g0f04ga5e88a54dcf6" version="4">Cheaters Detect Thoughts</content>
-  <content contentuid="hdf16922fg2ecag4dcag3cf3gd8570486936d" version="4" />
-  <content contentuid="ha6a6d1eegf8efg7de4g9c16gd0d82ff688cb" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h8a533859g7ba9g9e20gc0ceg7f448dbb060d" version="5">Cheaters Guidance</content>
-  <content contentuid="hde785c7dg15beg2cafg6333g07ba0c4279e2" version="5" />
-  <content contentuid="h123a4216g9ff6g672fg8c42ga822ef632aaf" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h16a24ccbgf68agc2a1g82f9g2902d310615a" version="4">Cheaters Resistance</content>
-  <content contentuid="h80225a8bgc067g5a97g377eg0b70b770e7ff" version="4" />
-  <content contentuid="h1baf358egdcb7g5060g9111gc441262c4c35" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h4fca0220g2034g9fadg9feeg93753525ab94" version="6">Cheaters Action Surge</content>
-  <content contentuid="h816c0b01g49b9gf80ag7681g02dbff1d7060" version="6" />
-  <content contentuid="h4ccf4ea9g9409ge1e3gf693g8fb2f3dc49cf" version="6">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h39c0b6b7g3445g53bega252gef3a47911647" version="14">Cheaters Arcane Recovery</content>
-  <content contentuid="h330b755fg1b07g5282ge071g758a2b23ecce" version="14" />
-  <content contentuid="hb408ac2cg9c70g4eb6g1127g8783cf1360dc" version="14">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="hfde9782cg7d46gc0c7g29a5g5a3baec9ccff" version="9">Cheaters Magic Missile</content>
-  <content contentuid="h742ff920gd4bcgf763g9b11g11ff7e2dff6d" version="9" />
-  <content contentuid="h04106793g62a7g87bcg3077gc83b13277eb8" version="9">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="hef29b894gd405gd4b9g1fadg1f2ab6ade154" version="4">Cheaters Icy Magic Missile</content>
-  <content contentuid="hd0daec8cgd735g592dg7981g14c9d8cc5374" version="4" />
-  <content contentuid="he87b844bg3177g691dgdae9g3fcada5b9269" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h3a027b32g9362gd520g1b01g10796a8d8bf6" version="4">Cheaters Chain Lightning</content>
-  <content contentuid="hb719e426g5973gce22g76beg9ead5eda8d00" version="4" />
-  <content contentuid="hbb29888aga2e0ge3f2g12afg394dae751c7e" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h76d325d1g3e18g37edg594agc53f978bde05" version="4">Cheaters Kill</content>
-  <content contentuid="h983981e2gc8a0g3a14g6a49g9aef45e4eacc" version="4" />
-  <content contentuid="h78481a0eg1f90g73d5g4091ga8f00aeb7ab3" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h56627795g1990gc0adg4e78g933b94a69dbe" version="4">Cheaters Flesh to Stone</content>
-  <content contentuid="h1f1a6117g8457g6a18g84d1g9998f0c7ad76" version="4" />
-  <content contentuid="h5a3bfff0ge34cgbb99ga2e1gda514613ca1f" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h7c5dea8egcc62gcc13g33c4gff85371fe8f4" version="4">Cheaters Flesh to Gold</content>
-  <content contentuid="hcf67682eg4671g9deeg7fa9g9f33e6c965df" version="4" />
-  <content contentuid="hcc604aceg44e8gc095gdc0agb0ef6bd4a429" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h2b9b7d0bg5d02gfd33g7882gf1faa95509ef" version="4">Cheaters Stone to Flesh</content>
-  <content contentuid="h07c513c6gaa9dg4d2cga47cg9b127124154d" version="4" />
-  <content contentuid="hfa83906fg472eg6f96g5113g58b97189e97f" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="hce665532g5806gdcc2gbc19g5db7e01db3f2" version="4">Cheaters Hold Creature</content>
-  <content contentuid="h3b2d2c38gb2c1g8057gac94gf2d8196b31c5" version="4" />
-  <content contentuid="hb327c6cagc8b0g0385g88c4gacadbb83c0c1" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h05692dffg748agaadag5646g30bcd282a2b1" version="4">Cheaters Clean Party</content>
-  <content contentuid="h4dee0624g0663gf364ge8cbgc615f50b7128" version="4" />
-  <content contentuid="hd910a267g9649g2f1fgb867g8806d97fe1f8" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="hbdc565degcaa1g231eg7859gf529e28dd579" version="4">Cheaters Summon Gold</content>
-  <content contentuid="h6c9464b5g68fbgc425gbc58gce13f630c9d1" version="4" />
-  <content contentuid="h5c21a34dgf1d4g7cbegf13bgaeaa3c7514b1" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="hfdaefc0cge808gefd1gf464g05cdaa97b917" version="5">Cheaters Summon Camp Supplies Bag</content>
-  <content contentuid="he210fa18ge962gbcc1gf20egdd652baa253a" version="5" />
-  <content contentuid="h6e577864ge208g7953gff2bgb4e36cd8923c" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h75662fa1g6e37g8f80g8e9eg63750675ac4c" version="5">Cheaters Summon Potion Box</content>
-  <content contentuid="hdda55990gf4aegf15fg2304g3dbd1e03063a" version="5" />
-  <content contentuid="h0b9d5239g8829g1a85g94c2g98187ea4e1c3" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h81372dacgcc88g4549gd1dcg474c57b97a94" version="5">Cheaters Summon Scroll Box</content>
-  <content contentuid="hf30d98e1g042agb114ga86dg8fb162ef1824" version="5" />
-  <content contentuid="hd598779fg3781gb3e8g9f1bg94808f871b90" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h8a4c86eag4591g0837g26dfgf147bab1dabc" version="5">Cheaters Summon Utility Box</content>
-  <content contentuid="h056699f9g5f16gf7aeg8ff2g4b69c5bddab4" version="5" />
-  <content contentuid="ha6499107g1c72g17abg4e6ag09b7db93f2e7" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="hd76a743bg2a7bg417fg08c1g75296d84ec23" version="4">Cheaters Summon Alchemy Ingredient Bag</content>
-  <content contentuid="hcec3e204gecbdg8f6cga56fgb2b99d508def" version="4" />
-  <content contentuid="hcc313bc1g578bg030eg5908g1c7abaae072e" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="ha6342503g5f2egcdebgd975g60b3d529c5c7" version="4">Cheaters Summon Dye Box</content>
-  <content contentuid="hbbc77ed0gfaebg5c5ag3323g4f16bee28f19" version="4" />
-  <content contentuid="h17c516c3gc5ebgfd7ag3702g3478637881ed" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="hae303316ga3c0gda28gd4acg9afd13c96d29" version="4">Cheaters Summon Clothing Box</content>
-  <content contentuid="h9a3a333bg350bg0150g5a01g3fe6c7498635" version="4" />
-  <content contentuid="hf9be49c6g1f5bg2417g4889gf3eb50b6f578" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h86486006gecc8g7e7bgdc91gbea5c999b3fe" version="4">Cheaters Summon Arrow Box</content>
-  <content contentuid="hfb16014cg56d0gd773gb5c4gced05428d488" version="4" />
-  <content contentuid="h579b77a5g96f9g351fg90f2gae49f203f3de" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="hd708a689gaa5bg7fb6g7b10g9df4d3702fd7" version="4">Cheaters Summon Grenade Box</content>
-  <content contentuid="h0a5ee57dg1f8bg6efdg5c0ag1e6ae760f4e5" version="4" />
-  <content contentuid="h1b6476a6g9460gb724g49b3gc80a337d6c26" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="he2c49f43gd951gb478gbae6g2a7fd6eff8bf" version="4">Cheaters Summon Common Equipment Box</content>
-  <content contentuid="hb751af05gb0eegcf9ag8619g4a2ef0a208b7" version="4" />
-  <content contentuid="h8ec6c927g3bf4gd1f9g39aage0fa55727ca5" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h51d7fb06gff36gd0adgf630g5160426f572c" version="4">Cheaters Summon Armor Box</content>
-  <content contentuid="h3ecdde88g2962g0378gba9bg480143595a74" version="4" />
-  <content contentuid="h595b600cgc7efgf19fg985bg74b0b7a57316" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="hc1e71a28g92c2g257eg137fg1c8060688fef" version="4">Cheaters Summon Weapon Box</content>
-  <content contentuid="h6eae12ebgebc9g0ed8gf721g4acaa12b21e8" version="4" />
-  <content contentuid="hc967a5f9gad7agd223gece0g051cc42f1e8a" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h3e852228gfe13g793cg1aedg7c7663194c2f" version="4">Cheaters Summon Jewelry Box</content>
-  <content contentuid="h5bbcf8cag8e13gf4e1g0647g77a8650a52eb" version="4" />
-  <content contentuid="h22762332g140ege58fg2911gdc91a8d5a4b3" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h7f453e0egb710gd5fbg9e40g2eb16b092f82" version="4">Cheaters Summon Mind Flayer Parasite Bag</content>
-  <content contentuid="h80372d4bg30b9g42fcgd694gf009605815aa" version="4" />
-  <content contentuid="h3fd4e6a0gc233ge46fg0297g5ca2d803474e" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="hc335a1bcga8ddg7e69g63ffg373b2d8d4523" version="4">Cheaters Summon Unreleased Item Box</content>
-  <content contentuid="h05f2a5bbg5707g1cc0ga915g91d37e4ce787" version="4" />
-  <content contentuid="h32d0168cgbb17ge1a4ge7a4ga1359b47243e" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h9ce5a574g15f3g3e14gbbfeg642dc67d8089" version="4">Cheaters Summon Tutorial Chest</content>
-  <content contentuid="hf6a84ce4g650cgb02fg3d51gfe84de21ab09" version="4" />
-  <content contentuid="h56d81c40gf1a1ga546g61cega7285fd74eac" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h92469a67gc7dagc018g035bg0f4f70da2bb9" version="4">Cheaters Summon Water Barrel</content>
-  <content contentuid="h94372db5g59dcg9076g15f0g00d8aa740214" version="4" />
-  <content contentuid="h446fce9bg1fffgd09bgf423gdb43fa5114b7" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="ha46fe1c7gab38g8a7cg930bg5327dd524fd7" version="4">Cheaters Summon Firewine Barrel</content>
-  <content contentuid="h51287a2bg9db9g851eg785cg1470c66c5e3d" version="4" />
-  <content contentuid="h28485a21g445fg13bbg5e62g3024210c534c" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h88cea2e4gaeafg0177g1a22g29a07587ebbf" version="4">Cheaters Summon Oil Barrel</content>
-  <content contentuid="h332e6abfg32b6g35ecg74deg5131bfcd03d0" version="4" />
-  <content contentuid="hc6bcff42g9bb8g600bg36f9g64a2f8c22271" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="ha809cdecg71edg52cegb8e4g7cb7d6e17839" version="4">Cheaters Summon Acid Barrel</content>
-  <content contentuid="hd4416283gfe45g0afbged13ge778040e8df0" version="4" />
-  <content contentuid="h12a540e1g8f73g0828ge97eg0e0c736e0eb1" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="hddf1b2b9g9e32ged70g4429g7c3f1ae1ecf9" version="5">Cheaters Summon Smokepowder Barrel</content>
-  <content contentuid="h01539d5ag267dgbdc8g7dd3gcb643030425b" version="5" />
-  <content contentuid="h62222a1bg869ag998ega084g4570dc1d0ac2" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="had821703g61f1g7b4eg8455g027a9e115eb9" version="4">Cheaters Summon Brine Barrel</content>
-  <content contentuid="h14f59b5cgceaag47fcg09fdg00876bb92b8a" version="4" />
-  <content contentuid="hcdeac0c6g7d4bg82f6g270bg3f753842d465" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="he842a848g0a35gef11gb7f2g8cb6438b0cb9" version="4">Cheaters Summon Nautiloid Tank</content>
-  <content contentuid="ha4258a9aga2b9g37d8g1f2eg804b8b54fc7a" version="4" />
-  <content contentuid="h24e3363cgd00fgc2f0g733agcfb704369fbd" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h89dc8f84gc5d5ga9acg46e9g56d11c0bfbdc" version="4">Cheaters Summon Runepowder Barrel</content>
-  <content contentuid="h5848cf18g233fge9f0g0d58g5f210646395e" version="4" />
-  <content contentuid="hc352dd0fgfe9ag8435g11d8g3afdaf6ab21b" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h503f4a2bg12fbg2963g385fg65e8bbd1f6b5" version="4">Cheaters Summon Runepowder Barrel</content>
-  <content contentuid="h3f0829aag64b3g82cegae31g308e3460b092" version="4" />
-  <content contentuid="ha3ad7562g0153gec88g0c99gf7600afed71c" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hea0ad3e4geb7agd999g55f6g8c2d51d244ba" version="5">Cheaters Speak with Animals</content>
+  <content contentuid="h121a6e52g749ag7b9bga58cg4d432965a88a" version="5" />
+  <content contentuid="hf9f6c00dgd759gced4gc154g458edfb8e480" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hbac76e43g31f3g9eb2gceffgdf3dbbd10087" version="5">Cheaters Speak with Dead</content>
+  <content contentuid="he1f23666ga907g1f12gb801g4bd32953eee2" version="5" />
+  <content contentuid="ha99b888cg1aa6ga588gd382g2a5402afb105" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hed54a930g0716g3ee3g0f04ga5e88a54dcf6" version="5">Cheaters Detect Thoughts</content>
+  <content contentuid="hdf16922fg2ecag4dcag3cf3gd8570486936d" version="5" />
+  <content contentuid="ha6a6d1eegf8efg7de4g9c16gd0d82ff688cb" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h8a533859g7ba9g9e20gc0ceg7f448dbb060d" version="6">Cheaters Guidance</content>
+  <content contentuid="hde785c7dg15beg2cafg6333g07ba0c4279e2" version="6" />
+  <content contentuid="h123a4216g9ff6g672fg8c42ga822ef632aaf" version="6">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h16a24ccbgf68agc2a1g82f9g2902d310615a" version="5">Cheaters Resistance</content>
+  <content contentuid="h80225a8bgc067g5a97g377eg0b70b770e7ff" version="5" />
+  <content contentuid="h1baf358egdcb7g5060g9111gc441262c4c35" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h4fca0220g2034g9fadg9feeg93753525ab94" version="7">Cheaters Action Surge</content>
+  <content contentuid="h816c0b01g49b9gf80ag7681g02dbff1d7060" version="7" />
+  <content contentuid="h4ccf4ea9g9409ge1e3gf693g8fb2f3dc49cf" version="7">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h39c0b6b7g3445g53bega252gef3a47911647" version="15">Cheaters Arcane Recovery</content>
+  <content contentuid="h330b755fg1b07g5282ge071g758a2b23ecce" version="15" />
+  <content contentuid="hb408ac2cg9c70g4eb6g1127g8783cf1360dc" version="15">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hfde9782cg7d46gc0c7g29a5g5a3baec9ccff" version="10">Cheaters Magic Missile</content>
+  <content contentuid="h742ff920gd4bcgf763g9b11g11ff7e2dff6d" version="10" />
+  <content contentuid="h04106793g62a7g87bcg3077gc83b13277eb8" version="10">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hef29b894gd405gd4b9g1fadg1f2ab6ade154" version="5">Cheaters Icy Magic Missile</content>
+  <content contentuid="hd0daec8cgd735g592dg7981g14c9d8cc5374" version="5" />
+  <content contentuid="he87b844bg3177g691dgdae9g3fcada5b9269" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h3a027b32g9362gd520g1b01g10796a8d8bf6" version="5">Cheaters Chain Lightning</content>
+  <content contentuid="hb719e426g5973gce22g76beg9ead5eda8d00" version="5" />
+  <content contentuid="hbb29888aga2e0ge3f2g12afg394dae751c7e" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h76d325d1g3e18g37edg594agc53f978bde05" version="5">Cheaters Kill</content>
+  <content contentuid="h983981e2gc8a0g3a14g6a49g9aef45e4eacc" version="5" />
+  <content contentuid="h78481a0eg1f90g73d5g4091ga8f00aeb7ab3" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h56627795g1990gc0adg4e78g933b94a69dbe" version="5">Cheaters Flesh to Stone</content>
+  <content contentuid="h1f1a6117g8457g6a18g84d1g9998f0c7ad76" version="5" />
+  <content contentuid="h5a3bfff0ge34cgbb99ga2e1gda514613ca1f" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h7c5dea8egcc62gcc13g33c4gff85371fe8f4" version="5">Cheaters Flesh to Gold</content>
+  <content contentuid="hcf67682eg4671g9deeg7fa9g9f33e6c965df" version="5" />
+  <content contentuid="hcc604aceg44e8gc095gdc0agb0ef6bd4a429" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h2b9b7d0bg5d02gfd33g7882gf1faa95509ef" version="5">Cheaters Stone to Flesh</content>
+  <content contentuid="h07c513c6gaa9dg4d2cga47cg9b127124154d" version="5" />
+  <content contentuid="hfa83906fg472eg6f96g5113g58b97189e97f" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hce665532g5806gdcc2gbc19g5db7e01db3f2" version="5">Cheaters Hold Creature</content>
+  <content contentuid="h3b2d2c38gb2c1g8057gac94gf2d8196b31c5" version="5" />
+  <content contentuid="hb327c6cagc8b0g0385g88c4gacadbb83c0c1" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h05692dffg748agaadag5646g30bcd282a2b1" version="5">Cheaters Clean Party</content>
+  <content contentuid="h4dee0624g0663gf364ge8cbgc615f50b7128" version="5" />
+  <content contentuid="hd910a267g9649g2f1fgb867g8806d97fe1f8" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hbdc565degcaa1g231eg7859gf529e28dd579" version="5">Cheaters Summon Gold</content>
+  <content contentuid="h6c9464b5g68fbgc425gbc58gce13f630c9d1" version="5" />
+  <content contentuid="h5c21a34dgf1d4g7cbegf13bgaeaa3c7514b1" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hfdaefc0cge808gefd1gf464g05cdaa97b917" version="6">Cheaters Summon Camp Supplies Bag</content>
+  <content contentuid="he210fa18ge962gbcc1gf20egdd652baa253a" version="6" />
+  <content contentuid="h6e577864ge208g7953gff2bgb4e36cd8923c" version="6">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h75662fa1g6e37g8f80g8e9eg63750675ac4c" version="6">Cheaters Summon Potion Box</content>
+  <content contentuid="hdda55990gf4aegf15fg2304g3dbd1e03063a" version="6" />
+  <content contentuid="h0b9d5239g8829g1a85g94c2g98187ea4e1c3" version="6">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h81372dacgcc88g4549gd1dcg474c57b97a94" version="6">Cheaters Summon Scroll Box</content>
+  <content contentuid="hf30d98e1g042agb114ga86dg8fb162ef1824" version="6" />
+  <content contentuid="hd598779fg3781gb3e8g9f1bg94808f871b90" version="6">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h8a4c86eag4591g0837g26dfgf147bab1dabc" version="6">Cheaters Summon Utility Box</content>
+  <content contentuid="h056699f9g5f16gf7aeg8ff2g4b69c5bddab4" version="6" />
+  <content contentuid="ha6499107g1c72g17abg4e6ag09b7db93f2e7" version="6">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hd76a743bg2a7bg417fg08c1g75296d84ec23" version="5">Cheaters Summon Alchemy Ingredient Bag</content>
+  <content contentuid="hcec3e204gecbdg8f6cga56fgb2b99d508def" version="5" />
+  <content contentuid="hcc313bc1g578bg030eg5908g1c7abaae072e" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="ha6342503g5f2egcdebgd975g60b3d529c5c7" version="5">Cheaters Summon Dye Box</content>
+  <content contentuid="hbbc77ed0gfaebg5c5ag3323g4f16bee28f19" version="5" />
+  <content contentuid="h17c516c3gc5ebgfd7ag3702g3478637881ed" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hae303316ga3c0gda28gd4acg9afd13c96d29" version="5">Cheaters Summon Clothing Box</content>
+  <content contentuid="h9a3a333bg350bg0150g5a01g3fe6c7498635" version="5" />
+  <content contentuid="hf9be49c6g1f5bg2417g4889gf3eb50b6f578" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h86486006gecc8g7e7bgdc91gbea5c999b3fe" version="5">Cheaters Summon Arrow Box</content>
+  <content contentuid="hfb16014cg56d0gd773gb5c4gced05428d488" version="5" />
+  <content contentuid="h579b77a5g96f9g351fg90f2gae49f203f3de" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hd708a689gaa5bg7fb6g7b10g9df4d3702fd7" version="5">Cheaters Summon Grenade Box</content>
+  <content contentuid="h0a5ee57dg1f8bg6efdg5c0ag1e6ae760f4e5" version="5" />
+  <content contentuid="h1b6476a6g9460gb724g49b3gc80a337d6c26" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="he2c49f43gd951gb478gbae6g2a7fd6eff8bf" version="5">Cheaters Summon Common Equipment Box</content>
+  <content contentuid="hb751af05gb0eegcf9ag8619g4a2ef0a208b7" version="5" />
+  <content contentuid="h8ec6c927g3bf4gd1f9g39aage0fa55727ca5" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h51d7fb06gff36gd0adgf630g5160426f572c" version="5">Cheaters Summon Armor Box</content>
+  <content contentuid="h3ecdde88g2962g0378gba9bg480143595a74" version="5" />
+  <content contentuid="h595b600cgc7efgf19fg985bg74b0b7a57316" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hc1e71a28g92c2g257eg137fg1c8060688fef" version="5">Cheaters Summon Weapon Box</content>
+  <content contentuid="h6eae12ebgebc9g0ed8gf721g4acaa12b21e8" version="5" />
+  <content contentuid="hc967a5f9gad7agd223gece0g051cc42f1e8a" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h3e852228gfe13g793cg1aedg7c7663194c2f" version="5">Cheaters Summon Jewelry Box</content>
+  <content contentuid="h5bbcf8cag8e13gf4e1g0647g77a8650a52eb" version="5" />
+  <content contentuid="h22762332g140ege58fg2911gdc91a8d5a4b3" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h7f453e0egb710gd5fbg9e40g2eb16b092f82" version="5">Cheaters Summon Mind Flayer Parasite Bag</content>
+  <content contentuid="h80372d4bg30b9g42fcgd694gf009605815aa" version="5" />
+  <content contentuid="h3fd4e6a0gc233ge46fg0297g5ca2d803474e" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hc335a1bcga8ddg7e69g63ffg373b2d8d4523" version="5">Cheaters Summon Unreleased Item Box</content>
+  <content contentuid="h05f2a5bbg5707g1cc0ga915g91d37e4ce787" version="5" />
+  <content contentuid="h32d0168cgbb17ge1a4ge7a4ga1359b47243e" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h9ce5a574g15f3g3e14gbbfeg642dc67d8089" version="5">Cheaters Summon Tutorial Chest</content>
+  <content contentuid="hf6a84ce4g650cgb02fg3d51gfe84de21ab09" version="5" />
+  <content contentuid="h56d81c40gf1a1ga546g61cega7285fd74eac" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h92469a67gc7dagc018g035bg0f4f70da2bb9" version="5">Cheaters Summon Water Barrel</content>
+  <content contentuid="h94372db5g59dcg9076g15f0g00d8aa740214" version="5" />
+  <content contentuid="h446fce9bg1fffgd09bgf423gdb43fa5114b7" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="ha46fe1c7gab38g8a7cg930bg5327dd524fd7" version="5">Cheaters Summon Firewine Barrel</content>
+  <content contentuid="h51287a2bg9db9g851eg785cg1470c66c5e3d" version="5" />
+  <content contentuid="h28485a21g445fg13bbg5e62g3024210c534c" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h88cea2e4gaeafg0177g1a22g29a07587ebbf" version="5">Cheaters Summon Oil Barrel</content>
+  <content contentuid="h332e6abfg32b6g35ecg74deg5131bfcd03d0" version="5" />
+  <content contentuid="hc6bcff42g9bb8g600bg36f9g64a2f8c22271" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="ha809cdecg71edg52cegb8e4g7cb7d6e17839" version="5">Cheaters Summon Acid Barrel</content>
+  <content contentuid="hd4416283gfe45g0afbged13ge778040e8df0" version="5" />
+  <content contentuid="h12a540e1g8f73g0828ge97eg0e0c736e0eb1" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hddf1b2b9g9e32ged70g4429g7c3f1ae1ecf9" version="6">Cheaters Summon Smokepowder Barrel</content>
+  <content contentuid="h01539d5ag267dgbdc8g7dd3gcb643030425b" version="6" />
+  <content contentuid="h62222a1bg869ag998ega084g4570dc1d0ac2" version="6">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="had821703g61f1g7b4eg8455g027a9e115eb9" version="5">Cheaters Summon Brine Barrel</content>
+  <content contentuid="h14f59b5cgceaag47fcg09fdg00876bb92b8a" version="5" />
+  <content contentuid="hcdeac0c6g7d4bg82f6g270bg3f753842d465" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="he842a848g0a35gef11gb7f2g8cb6438b0cb9" version="5">Cheaters Summon Nautiloid Tank</content>
+  <content contentuid="ha4258a9aga2b9g37d8g1f2eg804b8b54fc7a" version="5" />
+  <content contentuid="h24e3363cgd00fgc2f0g733agcfb704369fbd" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h89dc8f84gc5d5ga9acg46e9g56d11c0bfbdc" version="5">Cheaters Summon Runepowder Barrel</content>
+  <content contentuid="h5848cf18g233fge9f0g0d58g5f210646395e" version="5" />
+  <content contentuid="hc352dd0fgfe9ag8435g11d8g3afdaf6ab21b" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h503f4a2bg12fbg2963g385fg65e8bbd1f6b5" version="5">Cheaters Summon Runepowder Barrel</content>
+  <content contentuid="h3f0829aag64b3g82cegae31g308e3460b092" version="5" />
+  <content contentuid="ha3ad7562g0153gec88g0c99gf7600afed71c" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="h2e21c688gc93egb4b3g8e3cg53a7045662bd" version="9">Cheaters Spell Scroll</content>
   <content contentuid="he84d1c24gab30gcfe0g7f68gadd697a57dcb" version="8">A collection of cheat spells and passives. These spell items can be added to your hotbar or radial action menu.</content>
   <content contentuid="hddcd9479g77ebg874bgcf96g2c7e1540d94c" version="1">Test</content>
@@ -834,25 +834,25 @@ This will remove the abilitiy to use the passives from the Cheaters Spell Scroll
   <content contentuid="h80097b2eg2f92gd947gc970gd55a6af82a03" version="3">Hurl a mote of fire at the target. Upon impact with an enemy, launch 6 more Fire Bolts that lock on to nearby enemies dealing [1] them.</content>
   <content contentuid="hc994a906g92ffgce36g0c75gcac3a02c9604" version="1">Cheaters Fire Bolt</content>
   <content contentuid="hee3773ffge45cg5f5dg9f8fg4105d00d9df8" version="1">Hurl a mote of fire.</content>
-  <content contentuid="h1f26043eg4112g33e3g5243gcec28f8f5940" version="12">Cheaters Fire Bolt</content>
-  <content contentuid="he66a40e1g3438g1e83g587fg3f1b4f91336f" version="12" />
-  <content contentuid="ha52ca1d8g00cbgd4e4g8868ge14b1360c249" version="12">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h1f26043eg4112g33e3g5243gcec28f8f5940" version="13">Cheaters Fire Bolt</content>
+  <content contentuid="he66a40e1g3438g1e83g587fg3f1b4f91336f" version="13" />
+  <content contentuid="ha52ca1d8g00cbgd4e4g8868ge14b1360c249" version="13">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="h70b4ae56geb08g6f08g9d5fgb31ce5433565" version="2">Cheat: Anti-Magic Field (Active)</content>
   <content contentuid="ha38e75cagbda6gd149g78f2g19f3aa3f2931" version="1">Nullify magic in a 30m radius.</content>
   <content contentuid="hde9e1367g1cb5gca86ga158ge2a6f4ff0e52" version="1">Cheat: Anti-Magic Field</content>
   <content contentuid="ha1f35ffega244g8b9cg4b4eg8dce27c94af1" version="1">Nullify magic in a 30m radius for everyone except allies and party members.</content>
-  <content contentuid="h11e7a9e1gd296g5c91g3326g02f1e6b53de2" version="5">Cheaters Sacred Flame</content>
-  <content contentuid="h5900be9dg5c1bg6dd9ge63fgcffe9fb07050" version="5" />
-  <content contentuid="hbbd2e9e6g2ebagccdcgd178g4d11f2b71711" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h11e7a9e1gd296g5c91g3326g02f1e6b53de2" version="6">Cheaters Sacred Flame</content>
+  <content contentuid="h5900be9dg5c1bg6dd9ge63fgcffe9fb07050" version="6" />
+  <content contentuid="hbbd2e9e6g2ebagccdcgd178g4d11f2b71711" version="6">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="he112670fg9ea2g45e6g2b85gfe9f2d2c4444" version="1">Cheaters Anti-Magic Field</content>
   <content contentuid="h7799adefg88b5g3f0dg2ab9g289d15bd7af7" version="1">A nearby character is draining this character of its magical energy, preventing it from casting spells.</content>
   <content contentuid="h91a65e56g51c5gf835gd9a3g7703c6b76c72" version="2">Amulet of Bhaal</content>
   <content contentuid="h4db3d3cdg9d05g0fedg93fdgd40ffe447f37" version="2">A silver amulet depicting the symbol of Bhaal.</content>
   <content contentuid="hd2d2215cgeaccg91c1g8a58gb632a3e05b45" version="1">Summon Cheaters Spell Scroll</content>
   <content contentuid="hb9abe94dgb393g479fg6b5ag5894afc418dd" version="1">Summon an extra copy of the Cheaters Spell Scroll.</content>
-  <content contentuid="h1418c3edg92abg97bdg6f17g878f47c5d65f" version="5">Summon Cheaters Spell Scroll</content>
-  <content contentuid="h5eced2eag25f7g43b0ge253gddde50c58451" version="5" />
-  <content contentuid="h89967245g5eecga74bg4210g8773baa757f2" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h1418c3edg92abg97bdg6f17g878f47c5d65f" version="6">Summon Cheaters Spell Scroll</content>
+  <content contentuid="h5eced2eag25f7g43b0ge253gddde50c58451" version="6" />
+  <content contentuid="h89967245g5eecga74bg4210g8773baa757f2" version="6">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="h991f886cg8ff2g4d2cgac43gd99d3e8b457f" version="1">Cheat: God Mode Type 1 (Active)</content>
   <content contentuid="h50f25198g7ac4ga51ag8cecga8206967a81d" version="2">You are set as Invulnerable. Enemies will still attack you and you will be unaffected by Status Effects, this includes positive ones.</content>
   <content contentuid="hfd86e6b8gee3fg4bebg990bg9a8269d82b51" version="1">Cheat: God Mode Type 2 (Active)</content>
@@ -880,15 +880,15 @@ May not work 100% of the time. Nothing I can do about this. Disabling Karmic DIc
   <content contentuid="hb3770de7g200fg4d5dg4020g0a67c7699519" version="1">Increase nearby allies &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; by [1].</content>
   <content contentuid="h6e08154ag2614gda0cgf1e2g915f16e54393" version="1">Cheaters Longstrider</content>
   <content contentuid="hefac2858g095dgcb6dg4d98gf486c6732c44" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Movement speed&lt;/LSTag&gt; increased by [1].</content>
-  <content contentuid="h19950f04g3463g3e10g28b3g7682b136b6a1" version="5">Cheaters Longstrider</content>
-  <content contentuid="h5b7d1c77g50e2g14c7g9fa6g40289cb08d09" version="5" />
-  <content contentuid="he172f918gf248gc868g8989g3b639826c7e3" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h19950f04g3463g3e10g28b3g7682b136b6a1" version="6">Cheaters Longstrider</content>
+  <content contentuid="h5b7d1c77g50e2g14c7g9fa6g40289cb08d09" version="6" />
+  <content contentuid="he172f918gf248gc868g8989g3b639826c7e3" version="6">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="hed9a67eege9fage417g652cgc9f1323b86c0" version="2">Cheaters Telekinesis</content>
   <content contentuid="ha6e8666dgb651g8b93ge253g3b6e5665111d" version="2">Throw a creature or object up to [1] with a thought.</content>
   <content contentuid="h9567ab39gd224gb7fbgdbd0ge97af6db3963" version="1">Heavier items deal more damage.</content>
-  <content contentuid="h6cd01c80g466eg4fd3g11a9gdf010ee66348" version="5">Cheaters Telekinesis</content>
-  <content contentuid="h44c849c1g1f96gc6edgd85bgbbe502903429" version="5" />
-  <content contentuid="h42b57b3bgeb9cg6b3ag81d4gd3c635174e95" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h6cd01c80g466eg4fd3g11a9gdf010ee66348" version="6">Cheaters Telekinesis</content>
+  <content contentuid="h44c849c1g1f96gc6edgd85bgbbe502903429" version="6" />
+  <content contentuid="h42b57b3bgeb9cg6b3ag81d4gd3c635174e95" version="6">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="h9898be69g908fgd069g8e08gaf773741400a" version="1">Cheat: Passives Unlocked</content>
   <content contentuid="h96d40decgdc83gbe4cg25f0g19b93840a7c8" version="2">While you have the ring equipped you have access to all of the Cheaters Spell Scroll passives. These passives can be found in the Passives Tab on the hotbar or in the radial menu.</content>
   <content contentuid="h6addb278g3d15gd71cg2f40g3c56021e5d77" version="2">Cheaters Ring Passive Toggle</content>
@@ -944,20 +944,20 @@ These passives are all disabled by default and must be enabled in the Passives T
   <content contentuid="h4d958e42g71fegb54eg3e20g8ee445106773" version="1">If the target dies while its psyche is fractured, you can cast &lt;LSTag Type="Spell" Tooltip="Target_TAD_Imperil_Recast"&gt;Shatter Psyche&lt;/LSTag&gt; on another target.</content>
   <content contentuid="h3a78514dg18bfg0699g20fcga6d71a6bcc64" version="8">Cheaters Spell Scroll: Tadpole Series</content>
   <content contentuid="hb1e8fc09gb0fagdab4g0a4fgf969bc99630a" version="8">Contains the various Tadpole Powers from the Tadpole Power Menu.</content>
-  <content contentuid="ha5904048gef73gf2c3g25f8g24b638f037d9" version="3">Cheaters Psionic Overload</content>
-  <content contentuid="h04adbd69g0cfaga3e5ge9afgddccc10a7dff" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="hce63a2f0g4056gbc9dg6287g8ca0b7f21b37" version="3">Cheaters Force Tunnel</content>
-  <content contentuid="h775861e7g4aa2gf2c0g3b78g1f9fdbe16420" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h4e5ffd13g90edgb7f6gde7fg231658969c3e" version="3">Cheaters Concentrated Blast</content>
-  <content contentuid="h0b6bcf66g1597ge4ebg6389g7464e3d087ba" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h864eb48dg3f77g303bgfa42g2b8d325d1ed8" version="3">Cheaters Transfuse Health</content>
-  <content contentuid="hc28ae684g266dg16e4gbe7bg553704e67af7" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h68f1a1bbgd6e7gf2b9g717dg6de4e5a36704" version="3">Cheaters Stage Fright</content>
-  <content contentuid="hed1b9872g0a87g59a2g2597g52d76e9aa681" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="hfbcc23feg0854ge304g3176g00c20a76569f" version="3">Cheaters Repulsor</content>
-  <content contentuid="hd6de1845g13a4ge1edg8199g7b96118d6d35" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h7c567aeega9bcga196g6cfeg1ff7f6edff8c" version="4">Cheaters Shield of Thralls</content>
-  <content contentuid="h03eb3a10gc2deg2fdbga9c9gac88bc524f3f" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="ha5904048gef73gf2c3g25f8g24b638f037d9" version="4">Cheaters Psionic Overload</content>
+  <content contentuid="h04adbd69g0cfaga3e5ge9afgddccc10a7dff" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hce63a2f0g4056gbc9dg6287g8ca0b7f21b37" version="4">Cheaters Force Tunnel</content>
+  <content contentuid="h775861e7g4aa2gf2c0g3b78g1f9fdbe16420" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h4e5ffd13g90edgb7f6gde7fg231658969c3e" version="4">Cheaters Concentrated Blast</content>
+  <content contentuid="h0b6bcf66g1597ge4ebg6389g7464e3d087ba" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h864eb48dg3f77g303bgfa42g2b8d325d1ed8" version="4">Cheaters Transfuse Health</content>
+  <content contentuid="hc28ae684g266dg16e4gbe7bg553704e67af7" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h68f1a1bbgd6e7gf2b9g717dg6de4e5a36704" version="4">Cheaters Stage Fright</content>
+  <content contentuid="hed1b9872g0a87g59a2g2597g52d76e9aa681" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hfbcc23feg0854ge304g3176g00c20a76569f" version="4">Cheaters Repulsor</content>
+  <content contentuid="hd6de1845g13a4ge1edg8199g7b96118d6d35" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h7c567aeega9bcga196g6cfeg1ff7f6edff8c" version="5">Cheaters Shield of Thralls</content>
+  <content contentuid="h03eb3a10gc2deg2fdbga9c9gac88bc524f3f" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="h62e3f078g9c7fg2c30g3c52gb0f6c18e29c0" version="1">Cheaters Black Hole</content>
   <content contentuid="h69c2445ag7940ga586g4811g9e4c92310fa5" version="1">Create a point of intense gravity that pulls in all nearby enemies and possibly &lt;LSTag Type="Status" Tooltip="TAD_BLACK_HOLE_SLOW"&gt;Slows&lt;/LSTag&gt; them.</content>
   <content contentuid="ha15f6f83g91ceg13f4gace3gd5d69e1d0179" version="1">Five more black holes can be summoned after this spell's inital casting.</content>
@@ -994,14 +994,14 @@ These passives are all disabled by default and must be enabled in the Passives T
   <content contentuid="hd0c713a0g104fg5e5bg4bcag64bd39fda19c" version="1">Cheaters Force Tunnel</content>
   <content contentuid="hb68b5711g8158gc875gf242gba21deae9185" version="1">Cheaters Psionic Overload</content>
   <content contentuid="hd2aaf9d2g7928g55f1ge444gc85a5fb0c631" version="1">Cheaters Repulsor</content>
-  <content contentuid="h06159e8dg4c6bga94ag5469g7b1153bd5358" version="3">Cheaters Black Hole</content>
-  <content contentuid="hfdfecd45g61a4gb661g80cfg797909fd260d" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="ha8fc2334g94b4gdad4gaa73gc045da9099ed" version="3">Cheaters Mind Blast</content>
-  <content contentuid="h6f265ad0g2ed4g91a9gbaacg7c926c5db730" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="he16070dagcd90gcdfdg3537g5f4a9a22bc44" version="3">Cheaters Perilous Stakes</content>
-  <content contentuid="hb6813ea9g7a5egad3fg3ec8gc6336dd03a7d" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h53a209a3g493fg777eg87c2g0b681e520932" version="4">Cheaters Fracture Psyche</content>
-  <content contentuid="h7cf49048g89b2gbb17gd6a6g6f8ce403a4a5" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h06159e8dg4c6bga94ag5469g7b1153bd5358" version="4">Cheaters Black Hole</content>
+  <content contentuid="hfdfecd45g61a4gb661g80cfg797909fd260d" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="ha8fc2334g94b4gdad4gaa73gc045da9099ed" version="4">Cheaters Mind Blast</content>
+  <content contentuid="h6f265ad0g2ed4g91a9gbaacg7c926c5db730" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="he16070dagcd90gcdfdg3537g5f4a9a22bc44" version="4">Cheaters Perilous Stakes</content>
+  <content contentuid="hb6813ea9g7a5egad3fg3ec8gc6336dd03a7d" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h53a209a3g493fg777eg87c2g0b681e520932" version="5">Cheaters Fracture Psyche</content>
+  <content contentuid="h7cf49048g89b2gbb17gd6a6g6f8ce403a4a5" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="ha3ce024fgf058g3cd9gfa73g371443efad35" version="1">Cheaters Absorb Intellect</content>
   <content contentuid="h55f6bba1g8207gc6d9g3ca1g79719e5d44c4" version="1">Cheaters Mind Sanctuary</content>
   <content contentuid="hcea9d47eg8c96g2eadg2f32g05c991b898cb" version="1">Cheaters Displacer Beast Shape</content>
@@ -1011,24 +1011,24 @@ These passives are all disabled by default and must be enabled in the Passives T
   <content contentuid="h2a1636cagdacag64a7g9645g07394288d82c" version="1">Cheaters Synaptic Consumption</content>
   <content contentuid="h39bec20cg587ag755dg845bg3e54c98ff872" version="1">Cheaters Strengthened Force Tunnel</content>
   <content contentuid="h91b3a0f8g34b7ga859g557dgfd393fafc570" version="1">Cheaters Augmented Shield of Thralls</content>
-  <content contentuid="h31cea74fgece6g8aadg811eg7ff50eeea331" version="3">Cheaters Mind Sanctuary</content>
-  <content contentuid="h013acb58gceaeg3469g61d7gdef6b574709c" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h1d5a1b3fg901bgca3eg9b4dg60d2b253dec4" version="3">Cheaters Absorb Intellect</content>
-  <content contentuid="h4eba7ff2g7d3dg25c0gef21g95b07a7f8abe" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h296b8332ga049g7050gd782g1f41fd8024be" version="3">Cheaters Displacer Beast Shape</content>
-  <content contentuid="hd614200fgb692g38bfg75a7g841a3882a6f6" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h624e083dgfcbag8880g88eage0a52f3c48ef" version="3">Cheaters Strengthened Force Tunnel</content>
-  <content contentuid="hd4fb64b0g82e0g8684g8d31gd70765485b7e" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h050e967bge5dcgdb5eg2181g93f53b7dde8e" version="3">Cheaters Fierce Perilous Stakes</content>
-  <content contentuid="hbfdba76dg0960g31adg7ecbg5b0114e37166" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h7289a232g3bfdgf2ecg03f0gbd3bb6097677" version="3">Cheaters Synaptic Consumption</content>
-  <content contentuid="h80e3fc98g08eegf085g5eaeg64d4667f87bf" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="hd7777898g2d91gcc4bg3b83gc9902069c83a" version="3">Cheaters Augmented Shield of Thralls</content>
-  <content contentuid="h5e688735g13d6g385eg3325gaf7ee3b12de4" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="hc558f226g0257gf341g7decg9a60f201462c" version="3">Cheaters Potent Concentrated Blast</content>
-  <content contentuid="h2618a671gdd7fg6a31g5809g100161e2e97e" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="hb01bbf68g04cbg0a7bgbec2ga950d208d9c8" version="3">Cheaters Nebulous Black Hole</content>
-  <content contentuid="hf10e945cg03a2g0f4ag07e1g0e69113fa951" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h31cea74fgece6g8aadg811eg7ff50eeea331" version="4">Cheaters Mind Sanctuary</content>
+  <content contentuid="h013acb58gceaeg3469g61d7gdef6b574709c" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h1d5a1b3fg901bgca3eg9b4dg60d2b253dec4" version="4">Cheaters Absorb Intellect</content>
+  <content contentuid="h4eba7ff2g7d3dg25c0gef21g95b07a7f8abe" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h296b8332ga049g7050gd782g1f41fd8024be" version="4">Cheaters Displacer Beast Shape</content>
+  <content contentuid="hd614200fgb692g38bfg75a7g841a3882a6f6" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h624e083dgfcbag8880g88eage0a52f3c48ef" version="4">Cheaters Strengthened Force Tunnel</content>
+  <content contentuid="hd4fb64b0g82e0g8684g8d31gd70765485b7e" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h050e967bge5dcgdb5eg2181g93f53b7dde8e" version="4">Cheaters Fierce Perilous Stakes</content>
+  <content contentuid="hbfdba76dg0960g31adg7ecbg5b0114e37166" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h7289a232g3bfdgf2ecg03f0gbd3bb6097677" version="4">Cheaters Synaptic Consumption</content>
+  <content contentuid="h80e3fc98g08eegf085g5eaeg64d4667f87bf" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hd7777898g2d91gcc4bg3b83gc9902069c83a" version="4">Cheaters Augmented Shield of Thralls</content>
+  <content contentuid="h5e688735g13d6g385eg3325gaf7ee3b12de4" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hc558f226g0257gf341g7decg9a60f201462c" version="4">Cheaters Potent Concentrated Blast</content>
+  <content contentuid="h2618a671gdd7fg6a31g5809g100161e2e97e" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hb01bbf68g04cbg0a7bgbec2ga950d208d9c8" version="4">Cheaters Nebulous Black Hole</content>
+  <content contentuid="hf10e945cg03a2g0f4ag07e1g0e69113fa951" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="h87bc6707gcebegc1beg0049g1195cacadbca" version="1">Cheat: Remove Illithid Passives</content>
   <content contentuid="h765986b2ge5d1g009bg0577g618a5f42cc26" version="1">Toggle this on to remove the effects of the Unlock Illithid Passives spell.</content>
   <content contentuid="h572aba7fg8c0dg4828ge958g8a63f412f62e" version="1">Cheaters Favourable Beginnings</content>
@@ -1042,8 +1042,8 @@ Toggle Cheat: Remove Illithid Passives in the passives tab on the Hotbar/Radial 
 Toggle Cheat: Remove Illithid Passives in the passives tab on the Hotbar/Radial menu to remove this effect.</content>
   <content contentuid="h6fd0e059gad13g9824g2bfbg7327920a57e7" version="2">Cheaters Favourable Beginnings</content>
   <content contentuid="hce4041e9g701dgc216g3460g9664c15aa703" version="2">The first &lt;LSTag Tooltip="AttackRolls"&gt;Attack Roll&lt;/LSTag&gt; or &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt; you make against any target gains a bonus equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;.</content>
-  <content contentuid="hbd558ad8g198fgc78eg7eb4g504d1f6fdbcb" version="5">Cheaters Unlock Illithid Passives</content>
-  <content contentuid="h076056f7g27b5g97ddg10a4g4168fc464f0e" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hbd558ad8g198fgc78eg7eb4g504d1f6fdbcb" version="6">Cheaters Unlock Illithid Passives</content>
+  <content contentuid="h076056f7g27b5g97ddg10a4g4168fc464f0e" version="6">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="hc9e5e795gdcbfgadccg574ag26118abeff2f" version="1">TEST</content>
   <content contentuid="h4fbb94d8g8ca4gca72g8923gebeb98887360" version="1">Cheaters Favourable Beginnings Toggle</content>
   <content contentuid="h0c4c6748g035egda02g9a3dge2614145a426" version="2">Toggle this on to unlock the Favourable Beginnings Passive.&lt;br&gt;&lt;br&gt;The first &lt;LSTag Tooltip="AttackRolls"&gt;Attack Roll&lt;/LSTag&gt; or &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt; you make against any target gains a bonus equal to your &lt;LSTag Tooltip="ProficiencyBonus"&gt;Proficiency Bonus&lt;/LSTag&gt;.</content>
@@ -1072,8 +1072,8 @@ Toggle Cheat: Remove Illithid Passives in the passives tab on the Hotbar/Radial 
   <content contentuid="h7a27dfe4g943cg1202g6b24g00f82e5ba3d1" version="2">Toggle this on to unlock the Luck of the Far Realms Passive.&lt;br&gt;&lt;br&gt;Once per &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;, you can change a successful &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; against a foe into a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.</content>
   <content contentuid="h1a2414c0g18eege074g7e5bgbc4882f65b02" version="1">Cheaters Luck of the Far Realms</content>
   <content contentuid="hb85b6eccgf321g4fe2g7c2dg8228cd2a53e5" version="1">Cheaters Survival Instinct</content>
-  <content contentuid="h3f15e260ga911g065cgda1bg3ddceecacf6e" version="3">Cheaters Survival Instinct</content>
-  <content contentuid="hf03c7b9dg57bag085fgd17dgd3204c9fd543" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h3f15e260ga911g065cgda1bg3ddceecacf6e" version="4">Cheaters Survival Instinct</content>
+  <content contentuid="hf03c7b9dg57bag085fgd17dgd3204c9fd543" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="h29996e83g7d5fg7900gde74g06596aef22e4" version="1">Cheaters Closed Fist of Bane</content>
   <content contentuid="hd0122a66g1d73g4246g4368ge4ad97b2db0e" version="1">Conjure the divine aspect of Bane the Accursed - a fist that hangs in the air until the end of the round before falling, crushing anyone under it for [1].</content>
   <content contentuid="ha3093273g94bcg427fg6849g7f173ff7c6ee" version="3">Cheaters Hellfire Orb</content>
@@ -1087,16 +1087,16 @@ Toggle Cheat: Remove Illithid Passives in the passives tab on the Hotbar/Radial 
   <content contentuid="hd5681b24g9ce7g3208g3adegcf6cb55dbd74" version="2">Release spores at a corpse to animate it as a spore servant under your command.&lt;br&gt;&lt;br&gt;Warning, this spell has very few restrictions on who or what you can reanimate, so please be mindful that animating story related characters could cause issues.</content>
   <content contentuid="h50080edegd48bg2c9cg6961g6b9ee82a93ed" version="1">Cheaters Igniting Spark</content>
   <content contentuid="hc79646a8gbdf9g4721gc52bge3577167d68b" version="1">Launch a mote of infernal flame to set a target alight and &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burn&lt;/LSTag&gt; it.</content>
-  <content contentuid="h81d16b61g7938g4d60g26f3g7fe53947657b" version="3">Cheaters Igniting Spark</content>
-  <content contentuid="h84bb3122g25f3g64f4g813bgd48f3b19d204" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="hc9fe2f37g5f76g9dd2gddfdg0e381c339c43" version="3">Cheaters Hellfire Orb</content>
-  <content contentuid="h465162ccga9b0gb214gf992ga635eeba2437" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h9756ce8bg1ad3g9530g0abfg0261b9a904de" version="3">Cheaters Incinerate</content>
-  <content contentuid="h11ca230ag4531g2dc6g8e50g5b7d1e886133" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h9778f729ge72bg6669g8ed5gd6e0531e48b9" version="4">Cheaters Animating Spores</content>
-  <content contentuid="h33e346e7g355ag5ea6g1c01ga06016c1f32b" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h761839e3g2aa9gd22ag9602g964e17cb69e3" version="3">Cheaters Closed Fist of Bane</content>
-  <content contentuid="h16cdd350g0124g0469g3e91gd12d3411e162" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h81d16b61g7938g4d60g26f3g7fe53947657b" version="4">Cheaters Igniting Spark</content>
+  <content contentuid="h84bb3122g25f3g64f4g813bgd48f3b19d204" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hc9fe2f37g5f76g9dd2gddfdg0e381c339c43" version="4">Cheaters Hellfire Orb</content>
+  <content contentuid="h465162ccga9b0gb214gf992ga635eeba2437" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h9756ce8bg1ad3g9530g0abfg0261b9a904de" version="4">Cheaters Incinerate</content>
+  <content contentuid="h11ca230ag4531g2dc6g8e50g5b7d1e886133" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h9778f729ge72bg6669g8ed5gd6e0531e48b9" version="5">Cheaters Animating Spores</content>
+  <content contentuid="h33e346e7g355ag5ea6g1c01ga06016c1f32b" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h761839e3g2aa9gd22ag9602g964e17cb69e3" version="4">Cheaters Closed Fist of Bane</content>
+  <content contentuid="h16cdd350g0124g0469g3e91gd12d3411e162" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="h5fd0b00ag7d23g0ae0gb995g3aaf5bd7aa36" version="1">Cheaters Spore Servant</content>
   <content contentuid="h3a966b3cgb865g3897gdae9gb2a41df72ab9" version="1">The animating spores of a myconid sovereign have taken over this dead creature's body, moving it according to your will.</content>
   <content contentuid="h45831b48g35c7g616eg7089gc84374f5d0e6" version="1">Dismiss</content>
@@ -1113,16 +1113,16 @@ Toggle Cheat: Remove Illithid Passives in the passives tab on the Hotbar/Radial 
   <content contentuid="h0b60f813g0a2eg7755g833dgecb85cbb8b60" version="1">The cloud Heavily Obscures everything within it.</content>
   <content contentuid="hf18fb0b9gb1deg0367gfe8cg4c0c18530a25" version="1">Cheaters Grease</content>
   <content contentuid="h7709ea18g0f49g7d5eg518cg26033ba99c7e" version="1">Cover the ground in grease, slowing creatures within and possibly making them fall &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
-  <content contentuid="h28f33a2dg486dg0ad1gcd90gdd9a14cdc742" version="3">Cheaters Fog Cloud</content>
-  <content contentuid="h9e95c47ag6fbeg2876g61bfg31af1cf4003b" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="hbcac1f2ag5eb6g3146g560agccd3e712d485" version="3">Cheaters Darkness</content>
-  <content contentuid="h7e4c5f44g8d14g0b6eg2a3fgf0d571561c34" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h3b939470g263dg68acg28a2g7acdaf9cce6d" version="3">Cheaters Stinking Cloud</content>
-  <content contentuid="h1f9d1344gb973gfc07g4982gdc44b46728cd" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h7744eaa3g7972g8614g3d85gef86dfb78ea2" version="3">Cheaters Cloudkill</content>
-  <content contentuid="h6b227a32g5baegef0dg0344gd1aaae3d5589" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
-  <content contentuid="h603ae55eg2f12gcb94gbde2g604c7bbdd7db" version="3">Cheaters Grease</content>
-  <content contentuid="h1c843f00g5c3cg541fg1bc6g92a60e037015" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h28f33a2dg486dg0ad1gcd90gdd9a14cdc742" version="4">Cheaters Fog Cloud</content>
+  <content contentuid="h9e95c47ag6fbeg2876g61bfg31af1cf4003b" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hbcac1f2ag5eb6g3146g560agccd3e712d485" version="4">Cheaters Darkness</content>
+  <content contentuid="h7e4c5f44g8d14g0b6eg2a3fgf0d571561c34" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h3b939470g263dg68acg28a2g7acdaf9cce6d" version="4">Cheaters Stinking Cloud</content>
+  <content contentuid="h1f9d1344gb973gfc07g4982gdc44b46728cd" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h7744eaa3g7972g8614g3d85gef86dfb78ea2" version="4">Cheaters Cloudkill</content>
+  <content contentuid="h6b227a32g5baegef0dg0344gd1aaae3d5589" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h603ae55eg2f12gcb94gbde2g604c7bbdd7db" version="4">Cheaters Grease</content>
+  <content contentuid="h1c843f00g5c3cg541fg1bc6g92a60e037015" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="h88677200g0789g4f23g2cdag86fd880f3acb" version="1">Cheaters Cloudkill</content>
   <content contentuid="ha25931f9g98d5gb211g6f8fg5f8d105f2dfa" version="1">Craft a large cloud that inflicts [1] per turn. You can reposition the cloud every turn.</content>
   <content contentuid="h73e7e0acg5b1aga09fgce7bg94e348d3b0f0" version="1">The cloud Heavily Obscures everything within it.</content>
@@ -1144,24 +1144,24 @@ Creatures ending their turn in the area must succeed a Dexterity &lt;LSTag Toolt
   <content contentuid="h52791319g93e4g8670gf8b1gb372facd2a5c" version="1">Make a creature smaller. Its weapons deal [1] less damage. It has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
   <content contentuid="h19aa1a73g1fc6ge406g36ceg70fe9cc1d4ba" version="1">Cheaters Enlarge</content>
   <content contentuid="hb61b0b19g43fbg3aebgd502g890b5e47fb7a" version="1">The target's weapon and unarmed attacks deal an additional [1] damage. It has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
-  <content contentuid="h6447b34bg5da3g4557gfef7g6effc8184610" version="3">Cheaters Enlarge/Reduce</content>
-  <content contentuid="h82bbcaccgdc34g0be3gca3dga3f8a8780b50" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h6447b34bg5da3g4557gfef7g6effc8184610" version="4">Cheaters Enlarge/Reduce</content>
+  <content contentuid="h82bbcaccgdc34g0be3gca3dga3f8a8780b50" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="h25391875g64edgfd28g8557g1b060c8aa940" version="1">Cheaters Gaseous Form</content>
   <content contentuid="ha0ddcc59g0747gc58eg74d5gb10fe8a74eb1" version="1">Transform yourself or an ally into a tiny gas cloud. It can't fall, and fits through small openings. It is very hard to damage.</content>
   <content contentuid="h7ec256b3g4a47gdfbdgc47eged9776917f34" version="1">The cloud has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Constitution, Dexterity, and Strength &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
-  <content contentuid="hb73213d5g84ffgaffcg94acgcd547b8dae02" version="5">Cheaters Gaseous Form</content>
-  <content contentuid="h601ed4c7gdf1fge7a1g8464g596327cbd89b" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hb73213d5g84ffgaffcg94acgcd547b8dae02" version="6">Cheaters Gaseous Form</content>
+  <content contentuid="h601ed4c7gdf1fge7a1g8464g596327cbd89b" version="6">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="h1516bc6cgf381ga374ga284gadadeb4360b9" version="1">Cheaters Cloudkill</content>
   <content contentuid="h340cf42eg3b2cg3945g8c4eg4ff5ccaab4e9" version="1">Craft a large cloud that inflicts [1] per turn. You can reposition the cloud every turn.</content>
   <content contentuid="h669cfa20gd9aeg10f9g4360g6e72b5a01f39" version="1">The cloud Heavily Obscures everything within it.</content>
   <content contentuid="ha10608f5g069cged69g0bcdg68c1b7b566d0" version="2">Cheat: Player Automation (Active)</content>
-  <content contentuid="h19480222g63a1g2d74g7d2bg5923a2df5860" version="1">This character will be controlled by the AI during combat.</content>
+  <content contentuid="h19480222g63a1g2d74g7d2bg5923a2df5860" version="3">This character will be controlled by the AI during combat.</content>
   <content contentuid="h2bc4d1e4g088fg2842gaecag93ab6ae611eb" version="3">Cheaters Player Automation Toggle</content>
-  <content contentuid="h2b501184g3a4fg46deg0dbegdc968f6bfdf0" version="4">This character will be controlled by the AI during combat.</content>
+  <content contentuid="h2b501184g3a4fg46deg0dbegdc968f6bfdf0" version="5">This character will be controlled by the AI during combat while this is enabled.</content>
   <content contentuid="hde0d673ag7a3cgefa0g4cd0ga113e5866118" version="3">Cheaters Follower Automation Toggle</content>
-  <content contentuid="h9741b778g51a0g7bb9g41d4g629a30890fcf" version="4">Party followers such as summons, reanimated undead, and tempoaray companions will be controlled by the AI during combat.</content>
+  <content contentuid="h9741b778g51a0g7bb9g41d4g629a30890fcf" version="5">Party followers such as summons, reanimated undead, and tempoaray companions will be controlled by the AI during combat while this is enabled.</content>
   <content contentuid="h4b51294egb7dagc969g62e7gc1aa0424d67e" version="3">Cheat: Follower Automation (Active)</content>
-  <content contentuid="h17792fefgbb3bg104agee2agac0e9bf77f20" version="2">Party followers such as summons, reanimated undead, and tempoaray companions will be controlled by the AI during combat.</content>
+  <content contentuid="h17792fefgbb3bg104agee2agac0e9bf77f20" version="4">Party followers such as summons, reanimated undead, and tempoaray companions will be controlled by the AI during combat.</content>
   <content contentuid="h4b0bf493g67d0g6887g4d11g2da563197f20" version="1">AI Controlled</content>
   <content contentuid="h3019501dg5f11gc735gd1a1g8d48b4a8c1b2" version="1">This character is under the effects of the Cheaters Player Automation passive until combat ends.</content>
   <content contentuid="hdee39193gcbe8gc377gbd3agf3dc34314c19" version="1">AI Controlled</content>
@@ -1197,8 +1197,8 @@ Creatures ending their turn in the area must succeed a Dexterity &lt;LSTag Toolt
   <content contentuid="hc22ec980g5054gd42dg2b62gc09844b80cb0" version="1">Cheater Assume Slayer Form</content>
   <content contentuid="h1922f672gc811g73f0gdc50gee454b58eb59" version="1">Manifest your savage compulsions and assume a sinuously deadly Slayer form. Your Slayer form has [1] (increases to [2] at Level 10).</content>
   <content contentuid="hb2982d3ag9d96g97dbged5fg20701dccfede" version="1">While in Slayer form, you can't talk or cast spells.&lt;br&gt;&lt;br&gt;When your Slayer form drops to 0 &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;, you revert to your normal form.</content>
-  <content contentuid="h68164cf0g20b2ga476gc23dg3aa380099582" version="4">Cheaters Assume Slayer Form</content>
-  <content contentuid="h9540e1a6g3fedg2cd0g70cagab6c53c7a04c" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h68164cf0g20b2ga476gc23dg3aa380099582" version="5">Cheaters Assume Slayer Form</content>
+  <content contentuid="h9540e1a6g3fedg2cd0g70cagab6c53c7a04c" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="h8e54a63fg6438g5dc8gc432g1e27ec892abe" version="1">Sanguine Explosive</content>
   <content contentuid="hb5906bf2gbc47g0645g58c0g896558945161" version="1">Throw</content>
   <content contentuid="h9ae968b3geb68gcfd3gf95eg0e77dc8f765f" version="1">Create a surface of blood.</content>
@@ -1300,10 +1300,10 @@ Creatures ending their turn in the area must succeed a Dexterity &lt;LSTag Toolt
   <content contentuid="h48b6ec33gce12g2919gf985g2d5273cc8939" version="2">Use</content>
   <content contentuid="hca8860d1g4e6cg48a6g32eeg2fce6c362e1b" version="2">Your &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; increases, and difficult terrain doesn't slow you down when you &lt;LSTag Type="Spell" Tooltip="Shout_Dash"&gt;Dash&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;If you move after making a melee attack, you don't provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt; from your target.</content>
   <content contentuid="h775dec04g6767g104fg6db5g59defa5b0d72" version="2">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
-  <content contentuid="hb8a59eafgd129g2a26gaac4g75a5720afd52" version="2">Passive Feature: Moderately Armoured</content>
-  <content contentuid="h05683458g6d60g82afgb5cbg5e2b75bda6c7" version="2">Use</content>
-  <content contentuid="h19e534deg9b46g36c2gab23g038ffb18a6ed" version="2">You gain &lt;LSTag Tooltip="ArmourProficiency"&gt;Armour Proficiency&lt;/LSTag&gt; with Medium Armour and shields, and your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; or &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; increases by 1, to a maximum of 20.</content>
-  <content contentuid="hbf424435ged1egc5ccg4d61gacf8b6004c1e" version="2">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
+  <content contentuid="hb8a59eafgd129g2a26gaac4g75a5720afd52" version="3">Passive Feature: Moderately Armoured</content>
+  <content contentuid="h05683458g6d60g82afgb5cbg5e2b75bda6c7" version="3">Use</content>
+  <content contentuid="h19e534deg9b46g36c2gab23g038ffb18a6ed" version="3">You gain &lt;LSTag Tooltip="ArmourProficiency"&gt;Armour Proficiency&lt;/LSTag&gt; with Medium Armour and shields, and your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; and &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; increases by 1, to a maximum of 20.</content>
+  <content contentuid="hbf424435ged1egc5ccg4d61gacf8b6004c1e" version="3">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
   <content contentuid="h9833816agcfc4gc0d7geb27g506692ae8948" version="3">Passive Feature: Performer</content>
   <content contentuid="h3671e2dfg5a2bg6797g3911g4e0d71947e3a" version="3">Use</content>
   <content contentuid="h96e03cc9g1522gc47fgcfa0g96345cc7b20d" version="3">You gain &lt;LSTag Tooltip="MusicalInstrumentProficiency"&gt;Musical Instrument Proficiency&lt;/LSTag&gt;, and your &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; increases by 1, to a maximum of 20.</content>
@@ -1364,12 +1364,12 @@ Creatures ending their turn in the area must succeed a Dexterity &lt;LSTag Toolt
   <content contentuid="h869c833fg07ccge32fg39a5gc4f18c658472" version="2">Use</content>
   <content contentuid="h2f548428g890eg5a1fg9fafg146725045959" version="2">You gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; to maintain &lt;LSTag Tooltip="Concentration"&gt;Concentration&lt;/LSTag&gt; on a spell.&lt;br&gt;&lt;br&gt;You can also use a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;reaction&lt;/LSTag&gt; to cast &lt;LSTag Type="Spell" Tooltip="Target_ShockingGrasp"&gt;Shocking Grasp&lt;/LSTag&gt; at a target moving out of melee range.</content>
   <content contentuid="h12ce4ec8g27d1g02a1g8ab7g1fcf6256235f" version="2">Use to add or remove this Passive Feature. This will not remove the version unlocked through the Level Up menu.</content>
-  <content contentuid="hd8864c92g2d51gba4dg2108g7e0f846958d9" version="3">Cheaters True Resurrection</content>
-  <content contentuid="h543920b6gc5bcg1f22g943bgb75bfe5566b9" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hd8864c92g2d51gba4dg2108g7e0f846958d9" version="4">Cheaters True Resurrection</content>
+  <content contentuid="h543920b6gc5bcg1f22g943bgb75bfe5566b9" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="hd105f322gd88agdbc8ga9e0gaa04a7809764" version="1">Cheaters Heal</content>
   <content contentuid="h8c361e7cg62b4g283ag43a7g998dbbe17e14" version="1">Heal a target's wounds and remove &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blindness&lt;/LSTag&gt; and any diseases.</content>
-  <content contentuid="h62130e94g750dgf38egc37fged544c858b5d" version="4">Cheaters Heal</content>
-  <content contentuid="hdb1ec907g80efg66dagf730gc3bb03253ace" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h62130e94g750dgf38egc37fged544c858b5d" version="5">Cheaters Heal</content>
+  <content contentuid="hdb1ec907g80efg66dagf730gc3bb03253ace" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="hee638d73gfce1g3598gc2b8g643050dcade0" version="1">Cheaters Daylight</content>
   <content contentuid="haeccdc0dg0c89g8ff2g8e65g3ae14562479a" version="1">Enchant an item to shine like the sun or summon a sphere of sunlight that dispels all darkness around it.</content>
   <content contentuid="h211a2c02ga9bcgfa42ga3d7gf58e8e6be0b1" version="1">Items can only be enchanted with &lt;LSTag Type="Status" Tooltip="DAYLIGHT"&gt;Daylight&lt;/LSTag&gt; for [1] turns.  </content>
@@ -1377,16 +1377,16 @@ Creatures ending their turn in the area must succeed a Dexterity &lt;LSTag Toolt
   <content contentuid="h79721027g04dag8328g63d2g7d5bb9d59741" version="1">Enchant an item or weapon to shine with the light of the sun and dispel all darkness around it.</content>
   <content contentuid="h5d5c7d18g8766g46d0g6a1egb405c71785bd" version="1">Daylight: Sphere</content>
   <content contentuid="hab1445fag13ebg7ec2g6e4dg35ae7a74d37a" version="1">Summon a sphere of sunlight that dispels all darkness around it.</content>
-  <content contentuid="h1b9b1d54g8e3eg6139g12a8g1120b3042fe5" version="3">Cheaters Daylight</content>
-  <content contentuid="h4045c1adg7836gcf1fgd204gc1084a328dcf" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h1b9b1d54g8e3eg6139g12a8g1120b3042fe5" version="4">Cheaters Daylight</content>
+  <content contentuid="h4045c1adg7836gcf1fgd204gc1084a328dcf" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="h32b18475g84eage4ddgc33ag42d650ecba05" version="1">Cheaters Feather Fall</content>
   <content contentuid="hd7c7ff63g1e82g1199g523fg0da8e2e4090e" version="1">You and nearby allies gain &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; to Falling damage.</content>
-  <content contentuid="hb6a44ad8gf98fg8fdbg5fb8gab3f0325b52b" version="4">Cheaters Feather Fall</content>
-  <content contentuid="h47752c1eg37bag8892g8546gef62057b8c14" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="hb6a44ad8gf98fg8fdbg5fb8gab3f0325b52b" version="5">Cheaters Feather Fall</content>
+  <content contentuid="h47752c1eg37bag8892g8546gef62057b8c14" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="hcf6cb09cgaba3ga555gd362gffb4f2e49ee0" version="1">Cheaters Enhance Leap</content>
   <content contentuid="hf19c804cgf60egf4cfg12dbgd2fcf94a01fc" version="2">Massively increase you and nearby allies jumping distance.</content>
-  <content contentuid="h00fc6be9gc34eg7be5g8d22g2b94df67e03a" version="3">Cheaters Jump</content>
-  <content contentuid="hdb8fea24gcd85g6743gb3e1g42127f8d7933" version="3">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h00fc6be9gc34eg7be5g8d22g2b94df67e03a" version="4">Cheaters Jump</content>
+  <content contentuid="hdb8fea24gcd85g6743gb3e1g42127f8d7933" version="4">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="h0ce679cfg46c3g7c96g5795g6b5e44708a3b" version="1">Cheaters Jump</content>
   <content contentuid="hb1cdfcdcg8650g0e48g2530gea5df4126fec" version="2">&lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;Jump&lt;/LSTag&gt; distance is massively increased. </content>
   <content contentuid="hd1109e5fgb258gedf5g8147gf3d42d0343d4" version="1">Cheaters Silence</content>
@@ -1566,8 +1566,8 @@ Creatures ending their turn in the area must succeed a Dexterity &lt;LSTag Toolt
   <content contentuid="h1439ef7ega9feg970egff08gca2e293a2639" version="1">You must wait before summoning again.</content>
   <content contentuid="h338f0c13ga142gd3dbg67c3g80c34fb6e4a2" version="1">Cheaters Summon Character Modification Box</content>
   <content contentuid="he856bc0bgcb7fg4fd0g62a3gd7a8d1c0313e" version="1">Summons a chest with various items for modifying your characters stats.</content>
-  <content contentuid="h97f95458g0458ge0b8g6f64g0d7bc8b7e5bc" version="5">Cheaters Summon Character Modification Box (UNFINISHED)</content>
-  <content contentuid="h86cce0a8g3eb7g733fg1899gb3ae52f8fb38" version="5">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h97f95458g0458ge0b8g6f64g0d7bc8b7e5bc" version="6">Cheaters Summon Character Modification Box (UNFINISHED)</content>
+  <content contentuid="h86cce0a8g3eb7g733fg1899gb3ae52f8fb38" version="6">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
   <content contentuid="h799e9a95gf5b0gfc1ag448cgfd83bd551387" version="1">%%% EMPTY</content>
   <content contentuid="hd0d35918gf468gf37fg26b9g2a3be17459a1" version="1">%%% EMPTY</content>
   <content contentuid="h5c235fa3g475fg5b07g0505g56373c225c1f" version="4">Skill: Acrobatics</content>
@@ -1627,11 +1627,43 @@ Creatures ending their turn in the area must succeed a Dexterity &lt;LSTag Toolt
   <content contentuid="h88dfa04bg15f9gbb02g8059g0019ce9a0892" version="3">Cheaters Spell Modifier: Learn/Unlearn Spells</content>
   <content contentuid="hb2e261b4g5471gc796g683fgf3358155d7fb" version="1">%%% EMPTY</content>
   <content contentuid="h831178bbga7f1gf592gd85fgf94a9d85ecc8" version="2">While you have this status, use any of the spell items in the Cheaters Spell Scroll to learn their respective spell.&lt;br&gt;&lt;br&gt;Use the Cheaters Spell Modifier: Learn/Unlearn Spells item to remove this status.</content>
-  <content contentuid="hc5cc9c07g6138g7310gc953gb43ae6793b71" version="5">Cheaters Spell Modifier: Learn/Unlearn Spells</content>
-  <content contentuid="h8d5d9da3g0e68ga427g2f1ag672fa8da6bdf" version="5">Use</content>
-  <content contentuid="hb2238184g8004g19cbg5eceg1ee63533edcf" version="5">Used to learn or unlearn the Cheaters Spell Scroll spells.&lt;br&gt;&lt;br&gt;&lt;b&gt;How to use:&lt;/b&gt;&lt;br&gt;&lt;b&gt;1.&lt;/b&gt; Use this item to gain the &lt;LSTag Type="Status" Tooltip="XEL_CSS_MODIFIER_LEARNCHEATSPELLS"&gt;Cheaters Spell Modifier: Learn/Unlearn Spells&lt;/LSTag&gt; status.&lt;br&gt;&lt;b&gt;2.&lt;/b&gt; While you have the modifier status select a spell and open the context menu. (PC: Right-Click, Xbox: X Button, PlayStation: Square Button)&lt;br&gt;&lt;b&gt;3.&lt;/b&gt; Select the consume option in the context menu to learn or unlearn the spell.&lt;br&gt;&lt;b&gt;4.&lt;/b&gt; Use the this item again to remove the modifier status.&lt;br&gt;&lt;br&gt;You may only learn spells you are able to cast. So spells like Action Surge can only be learned during combat. Weird quirk that I haven't found a fix for.</content>
+  <content contentuid="hc5cc9c07g6138g7310gc953gb43ae6793b71" version="6">Cheaters Spell Modifier: Learn/Unlearn Spells</content>
+  <content contentuid="h8d5d9da3g0e68ga427g2f1ag672fa8da6bdf" version="6">Use</content>
+  <content contentuid="hb2238184g8004g19cbg5eceg1ee63533edcf" version="6">Used to learn or unlearn the Cheaters Spell Scroll spells.&lt;br&gt;&lt;br&gt;&lt;b&gt;How to use:&lt;/b&gt;&lt;br&gt;&lt;b&gt;1.&lt;/b&gt; Use this item to gain the &lt;LSTag Type="Status" Tooltip="XEL_CSS_MODIFIER_LEARNCHEATSPELLS"&gt;Cheaters Spell Modifier: Learn/Unlearn Spells&lt;/LSTag&gt; status.&lt;br&gt;&lt;b&gt;2.&lt;/b&gt; While you have the modifier status select a spell and open the context menu. (PC: Right-Click, Xbox: X Button, PlayStation: Square Button)&lt;br&gt;&lt;b&gt;3.&lt;/b&gt; Select the consume option in the context menu to learn or unlearn the spell.&lt;br&gt;&lt;b&gt;4.&lt;/b&gt; Use the this item again to remove the modifier status.&lt;br&gt;&lt;br&gt;You may only learn spells you are able to cast. So spells like Action Surge can only be learned during combat. Weird quirk that I haven't found a fix for.&lt;br&gt;&lt;br&gt;Spell Item descriptions will also not show up while this is active.</content>
   <content contentuid="h391be687gca26gf2e5g082ag4191d51e85d5" version="1">A collection of cheat spells and passives. These spell items can be added to your hotbar or radial action menu.</content>
   <content contentuid="h04582a62g1428g35f1g7895gcb166d11b936" version="1">Lightly Armoured</content>
   <content contentuid="h3d4c1d7ag1448g744ag548dg5b5dfc72ec90" version="1">Performer</content>
   <content contentuid="hd83f97dcgb211g77bcg4980g17ad68981c77" version="1">Tavern Brawler</content>
+  <content contentuid="hcf5a87adgc0ddge511gd415g8bf7a1a27e32" version="1">Moderately Armoured</content>
+  <content contentuid="hc95f8574geae1gdfdbg94d6g4b1915e369d7" version="2">AI Archetype: Spellcaster</content>
+  <content contentuid="h4895543eg3238gdca9g8ba5g3d5d7cb7789f" version="1">This archetype is intended for characters that have a spellcaster setup.</content>
+  <content contentuid="hefc33c28g4c86gda3egec56g92f8400d0935" version="1">Cheaters Spell Modifier: AI Archetype</content>
+  <content contentuid="h2ed21217g6aaag0c4cge9c5g57469b6a8a99" version="3">Allows you to change the archetype of the AI used for &lt;LSTag Type="Passive" Tooltip="XEL_CSS_AutomatePlayer_Passive"&gt;Player Automation&lt;/LSTag&gt; and &lt;LSTag Type="Passive" Tooltip="XEL_CSS_AutomateFollower_Passive"&gt;Follower Automation&lt;/LSTag&gt;.</content>
+  <content contentuid="hfb41e16bg31bag0df1g0672g2d50d2526ff0" version="1">AI Archetype: Melee</content>
+  <content contentuid="h7d4f28ceg3952gf05dg033cg55640941c368" version="1">This archetype is intended for characters that have a melee setup.</content>
+  <content contentuid="h4d5c51bfg00fag5b88ge4aage8cc02b959d4" version="1">AI Archetype: Melee and Spellcaster</content>
+  <content contentuid="h6660bc08g1e88g1fa0g174cgf092d7cdb7ea" version="1">This archetype is intended for characters that have a melee and spellcasters setup.</content>
+  <content contentuid="h8a15cc18g364ega337gc372ga1007ab07c74" version="1">AI Archetype: Melee and Ranged</content>
+  <content contentuid="hb176ab5fg8c90g77f5ge873g8176b3305eb5" version="1">This archetype is intended for characters that have a melee and ranged setup.</content>
+  <content contentuid="h4365be4bg81a2gbde4g6f03g84c4e31eb472" version="1">AI Archetype: Ranged</content>
+  <content contentuid="h8a8913b8g53c4g82dfg6bd7g863d5cc7cccf" version="1">This archetype is intended for characters that have a ranged setup.</content>
+  <content contentuid="h4450e519g9ef1gc1dcge59fg1debafcdba4c" version="1">AI Archetype: Melee (Active)</content>
+  <content contentuid="haebad8a2gd3a8g1839g7495g6a11876afb48" version="1">This character is using the Melee AI Archetype.</content>
+  <content contentuid="h1a86b5d7ga864g8d1eg5c15g668f9b70fa72" version="1">AI Archetype: Ranged (Active)</content>
+  <content contentuid="h0536241aga520g50b6g05ebg099a75543021" version="1">This character is using the Ranged AI Archetype.</content>
+  <content contentuid="hcc3f9024gd4d5g1430gfc4cg301be24ba8e9" version="1">AI Archetype: Spelcaster (Active)</content>
+  <content contentuid="h45568809gdc3bgf773g7af0gb416af26ce59" version="1">This character is using the Spelcaster AI Archetype.</content>
+  <content contentuid="hdf3ff5a0g020eg955fg537dgb2fedb57efa5" version="1">AI Archetype: Melee and Spellcaster (Active)</content>
+  <content contentuid="h9612ec85gdb89gce18g1b82g9c8e6eabb8b4" version="1">This character is using the Melee and Spellcaster AI Archetype.</content>
+  <content contentuid="h6cdfbb2dgb7bcg8770gd05cgf8fc02716dfc" version="2">AI Archetype: Melee and Ranged (Active)</content>
+  <content contentuid="h9787f80eg13dfgde0egdf04g23987e8a3959" version="1">This character is using the Melee and Ranged AI Archetype.</content>
+  <content contentuid="h4cc1726dg9ea4g0f38g2779g9a3d20d33a78" version="2">Remove AI Archetype</content>
+  <content contentuid="h78fd5d20g130fg89b4g7703gf57dfeb2a759" version="2">Remove the AI Archetype status from the targetted characters.</content>
+  <content contentuid="h356633a7gc1e4gdb35g0dabg2de36cd332dc" version="1">The target does not have an AI Archetype status!</content>
+  <content contentuid="h4060614bged13ga55cgcbcfg90f9cf5faa13" version="1">The target does not have an AI Archetype status!</content>
+  <content contentuid="h13ba539egd7dagb04cg906cg9b5a41382e6f" version="1">The target does not have an AI Archetype status!</content>
+  <content contentuid="h7b1ad452g9cc8ga26bg764bg72ea6f83bba7" version="1">The target does not have an AI Archetype status!</content>
+  <content contentuid="h71cf668bg2181g3fcdgc038gd1b318e40528" version="1">The target does not have an AI Archetype status!</content>
+  <content contentuid="he6705813g7493gbd38gcd82gbfd49e05b6f6" version="2">Cheaters Spell Modifier: AI Archetype</content>
+  <content contentuid="ha31f356dgfa77g2c2ag3692ga5b8d5297aeb" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
 </contentList>

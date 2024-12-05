@@ -492,7 +492,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="034b175d-f21a-45f1-a34f-244d1b78d2f0" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_AutomatePlayer_Passive" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2bc4d1e4g088fg2842gaecag93ab6ae611eb" version="3" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h2b501184g3a4fg46deg0dbegdc968f6bfdf0" version="4" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h2b501184g3a4fg46deg0dbegdc968f6bfdf0" version="5" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Enchantment_Enthrall" />
         <field name="EnabledConditions" type="StringTableFieldDefinition" value="!Combat" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar;IsHidden" enumeration_type_name="PassiveFlags" version="1" />
@@ -505,7 +505,7 @@
         <field name="UUID" type="IdTableFieldDefinition" value="1bdcb597-1f66-4191-abf6-a78a66df6add" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_AutomateFollower_Passive" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hde0d673ag7a3cgefa0g4cd0ga113e5866118" version="3" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9741b778g51a0g7bb9g41d4g629a30890fcf" version="4" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9741b778g51a0g7bb9g41d4g629a30890fcf" version="5" />
         <field name="Icon" type="StringTableFieldDefinition" value="Action_CharmAnimalsAndPlants" />
         <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar;IsHidden;ToggleForParty" enumeration_type_name="PassiveFlags" version="1" />
         <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CSS_AUTOMATEFOLLOWER,100,-1)" />
