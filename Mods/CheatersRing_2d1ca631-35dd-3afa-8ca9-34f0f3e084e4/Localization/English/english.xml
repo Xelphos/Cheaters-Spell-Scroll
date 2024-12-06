@@ -1651,8 +1651,8 @@ Creatures ending their turn in the area must succeed a Dexterity &lt;LSTag Toolt
   <content contentuid="haebad8a2gd3a8g1839g7495g6a11876afb48" version="1">This character is using the Melee AI Archetype.</content>
   <content contentuid="h1a86b5d7ga864g8d1eg5c15g668f9b70fa72" version="1">AI Archetype: Ranged (Active)</content>
   <content contentuid="h0536241aga520g50b6g05ebg099a75543021" version="1">This character is using the Ranged AI Archetype.</content>
-  <content contentuid="hcc3f9024gd4d5g1430gfc4cg301be24ba8e9" version="1">AI Archetype: Spelcaster (Active)</content>
-  <content contentuid="h45568809gdc3bgf773g7af0gb416af26ce59" version="1">This character is using the Spelcaster AI Archetype.</content>
+  <content contentuid="hcc3f9024gd4d5g1430gfc4cg301be24ba8e9" version="2">AI Archetype: Spellcaster (Active)</content>
+  <content contentuid="h45568809gdc3bgf773g7af0gb416af26ce59" version="2">This character is using the Spellcaster AI Archetype.</content>
   <content contentuid="hdf3ff5a0g020eg955fg537dgb2fedb57efa5" version="1">AI Archetype: Melee and Spellcaster (Active)</content>
   <content contentuid="h9612ec85gdb89gce18g1b82g9c8e6eabb8b4" version="1">This character is using the Melee and Spellcaster AI Archetype.</content>
   <content contentuid="h6cdfbb2dgb7bcg8770gd05cgf8fc02716dfc" version="2">AI Archetype: Melee and Ranged (Active)</content>
@@ -1666,4 +1666,114 @@ Creatures ending their turn in the area must succeed a Dexterity &lt;LSTag Toolt
   <content contentuid="h71cf668bg2181g3fcdgc038gd1b318e40528" version="1">The target does not have an AI Archetype status!</content>
   <content contentuid="he6705813g7493gbd38gcd82gbfd49e05b6f6" version="2">Cheaters Spell Modifier: AI Archetype</content>
   <content contentuid="ha31f356dgfa77g2c2ag3692ga5b8d5297aeb" version="2">This is a Spell Item. You can add to your hotbar or radial action menu.</content>
+  <content contentuid="h80216379g9f29gf6a6g4707g52d155732f3e" version="1">%%% EMPTY</content>
+  <content contentuid="h3de25d21g991bg0cb6g00a6g6410544ca4ab" version="1">%%% EMPTY</content>
+  <content contentuid="h9071e414gfcceg40e4g9a16gc1cbbb0cd123" version="1">Cheat: Decrease Strength</content>
+  <content contentuid="hb2e49b3ag7d6ag1289g7534g35b5affc57c8" version="1">Strength has been decreased.</content>
+  <content contentuid="hb6ef4944g19c2ga658gecceg15ca6e2efe56" version="1">%%% EMPTY</content>
+  <content contentuid="hbaa3eecag5053g5ef4g2bc5g415464fc6d30" version="2">Cheat: Add Spell Slot (1st Level)</content>
+  <content contentuid="h5cc9614cgee20ge45eg261fg5e6ddae6f8cf" version="3">Increase the amount of 1st level Spell Slots you have.</content>
+  <content contentuid="h8f2c5545g75c4ge79cg7980g71394df46776" version="6">Stat: Spell Slot (1st Level)</content>
+  <content contentuid="hfdedbaf8ge8aagb504gf846gc85eb2876d59" version="6">Use</content>
+  <content contentuid="hcf4c3e86ga8a4g162ag5947gfba87064aa7a" version="6">Use to add or remove 1st Level Spell Slots depending on the active modifier. </content>
+  <content contentuid="he25b2aecg31a3g853fg5962gff3a879bc112" version="6">This will not remove Spell Slots gained from your class.</content>
+  <content contentuid="h50087ae1g032eg2580gd0ffg235338167167" version="1">%%% EMPTY</content>
+  <content contentuid="hfbdcd05dg2eddgcbbbg7dcagd4ac1fbe89df" version="1">Cheaters Spell Modifier: Increase</content>
+  <content contentuid="h3ba1ddf3g2521gc5edg3ab1g383a3ac9e5f4" version="1">Use</content>
+  <content contentuid="h25ea81bbgec9cge3dfgd163gfca7e1a40665" version="1">When active, stats editing items will increase the relevant stat.</content>
+  <content contentuid="hf0b08c7ega4a4g4edfg8074gb7cb575edec8" version="1">Cheaters Spell Modifier: Decrease</content>
+  <content contentuid="hff666e7ag63dbg49d6g632ag5e4620add438" version="1">Use</content>
+  <content contentuid="hf1c380c9gab4cg0810g0b13g1515bf683309" version="1">When active, stats editing items will decrease the relevant stat.</content>
+  <content contentuid="h2d9731dfg1149gd108g620cg2e9cae97e93b" version="1">Cheaters Spell Modifier: Reset</content>
+  <content contentuid="hb7a8d98cg7fc8g2bb5g89cega95d7cdeac8c" version="1">Use</content>
+  <content contentuid="hd2135de7g9430g9028gd6f1g865ab8bdf492" version="1">When active, stats editing items will reset the relevant stat to it's base value.</content>
+  <content contentuid="h200f57ddgc018gbbe5g10b3g28d7e535b3ff" version="1">Cheat: Add Spell Slot (2nd Level)</content>
+  <content contentuid="h61665d5cg741fgefd3g6c4eg846b8795c312" version="2">Increase the amount of 2nd level Spell Slots you have.</content>
+  <content contentuid="h082e2153g1936g8b4bg8d00gba675ac0dfb8" version="1">Cheat: Add Spell Slot (3rd Level)</content>
+  <content contentuid="hf7ac85c7gced0g1187gd4e4g8e423f6b1fc8" version="2">Increase the amount of 3rd level Spell Slots you have.</content>
+  <content contentuid="h9f03b399g5059g99a8g0381gf21bd4469f5d" version="1">Cheat: Add Spell Slot (4th Level)</content>
+  <content contentuid="hf3845c7cgdf33gd63fgc127g359658d89d68" version="2">Increase the amount of 4th level Spell Slots you have.</content>
+  <content contentuid="he18631dbg3680g6d2ag90a7g4a1a46046f23" version="1">Cheat: Add Spell Slot (5th Level)</content>
+  <content contentuid="h77a9dff4g26d5g5cbag3b24g8be00c2d0825" version="2">Increase the amount of 5th level Spell Slots you have.</content>
+  <content contentuid="hbb28fcafgac6fgd674g086bgca9f537488f6" version="1">Cheat: Add Spell Slot (6th Level)</content>
+  <content contentuid="hd7a451dcg6419g1801gcb1bg9a0c9c149c47" version="2">Increase the amount of 6th level Spell Slots you have.</content>
+  <content contentuid="h6f15f9c1g72e6g1298g2b99gccb029fdb059" version="1">Cheat: Add Spell Slot (7th Level)</content>
+  <content contentuid="h4ef69178g4a4bgd49fg32f3g449527bdae89" version="1">Increase the amount of Seventh level spell slots you have.</content>
+  <content contentuid="h7893728cgb32bgae0eg10eegb663d9494ad7" version="1">Cheat: Add Spell Slot (8th Level)</content>
+  <content contentuid="h93d64779gacc6ge9a7g5b4ag104d27ced762" version="1">Increase the amount of Eighth level spell slots you have.</content>
+  <content contentuid="h86d6dfc3g1a3age384gcae7g8aefb2726a51" version="1">Cheat: Add Spell Slot (9th Level)</content>
+  <content contentuid="heeebe0a8gb64dg5145gb162gbc22b206af04" version="1">Increase the amount of ninth level spell slots you have.</content>
+  <content contentuid="h824a32cfge7f1g15b8g985bg4310acd135fa" version="1">Stat: Spell Slot (9th Level)</content>
+  <content contentuid="h7197fac3g876agdf69ge9b7g91d588c1f358" version="1">Use</content>
+  <content contentuid="h0fa43ddcg2f1bg8d8cg6b88gba75101d829e" version="1">Use to add or remove 9th Level Spell Slots depending on the active modifier. </content>
+  <content contentuid="h2fcd643eg6152g36b1g960fge94fb3274077" version="1">This will not remove Spell Slots gained from your class.</content>
+  <content contentuid="he1e00bf0gcda3gced3gf9b5g66741ab0c06d" version="1">Stat: Spell Slot (2nd Level)</content>
+  <content contentuid="haecc9385gd82ag491fg2d03g6a1097df8e45" version="1">Use</content>
+  <content contentuid="h43038c5cgb346g2d13gbd1fg36b810f4be16" version="1">Use to add or remove 2nd Level Spell Slots depending on the active modifier. </content>
+  <content contentuid="h9dfe668dg418bg0e9cg6922ga97ff5c41d42" version="1">This will not remove Spell Slots gained from your class.</content>
+  <content contentuid="ha72c91c3gb77eg7df1ge0b3gf1aec390cf82" version="1">Stat: Spell Slot (3rd Level)</content>
+  <content contentuid="h339e6eb4g10e7g9548g25d3gceb27c64fb62" version="1">Use</content>
+  <content contentuid="h9ae807edg2504g3d4bgcc73gcb69d3061c87" version="1">Use to add or remove 3rd Level Spell Slots depending on the active modifier. </content>
+  <content contentuid="h32e90845g25f4ga7a6g8b60g6bce58013952" version="1">This will not remove Spell Slots gained from your class.</content>
+  <content contentuid="h3e482d56g2339g78d1gff32gb4770284d179" version="1">Stat: Spell Slot (4th Level)</content>
+  <content contentuid="h8eae0f39gc040gb5c5g4a03gb93920b96b48" version="1">Use</content>
+  <content contentuid="hfc212cfag4df9g803bg2250gd86b4c12bbce" version="1">Use to add or remove 4th Level Spell Slots depending on the active modifier. </content>
+  <content contentuid="he9a3d69dgedd4gfaa8gf972g1f7a82662725" version="1">This will not remove Spell Slots gained from your class.</content>
+  <content contentuid="hc7721618gde8cge097g06c3g373c0add5b2e" version="1">Stat: Spell Slot (5th Level)</content>
+  <content contentuid="h243bc1eeg1824gca68g2a85gbdbe320f21af" version="1">Use</content>
+  <content contentuid="h17b8e3eeg24d8g7af2g9021gdec01ecc1e11" version="1">Use to add or remove 5th Level Spell Slots depending on the active modifier. </content>
+  <content contentuid="hb669c581gf818g7c14g1025gc4fd1dbd3285" version="1">This will not remove Spell Slots gained from your class.</content>
+  <content contentuid="h3e6d5d39gdba8g46afg8d8fg8737ceb0c8a9" version="1">Stat: Spell Slot (6th Level)</content>
+  <content contentuid="hfef0d3a3g46bfgb55eg0db1gccbc4bfa909c" version="1">Use</content>
+  <content contentuid="h3cd753c4g26eag9b5bgcf58g49280dc7be5f" version="1">Use to add or remove 6th Level Spell Slots depending on the active modifier. </content>
+  <content contentuid="he90ed9c4gaaf0gc3cegd2d7g49ea0874ca5b" version="1">This will not remove Spell Slots gained from your class.</content>
+  <content contentuid="h57a409e3ga05eg5a3cgd842g1280ce3a34ec" version="1">Stat: Spell Slot (7th Level)</content>
+  <content contentuid="h5a15afd7g5ceagae35g4dd2gb5e42043d8bd" version="1">Use</content>
+  <content contentuid="ha717e651g936agcdeeg8ac7g80886560c691" version="1">Use to add or remove 7th Level Spell Slots depending on the active modifier. </content>
+  <content contentuid="h9b7f6533g4ef6g6c83g353bg561cf420897e" version="1">This will not remove Spell Slots gained from your class.</content>
+  <content contentuid="ha9ef93bcg67f5g7ab8g2c85g2b8910875a83" version="1">Stat: Spell Slot (8th Level)</content>
+  <content contentuid="h76253143g9d9cg8a59gffeagf94352f5af8f" version="1">Use</content>
+  <content contentuid="ha83d31f6gdf9bg48a9gcb75gabb95f8deaf2" version="1">Use to add or remove 8th Level Spell Slots depending on the active modifier. </content>
+  <content contentuid="h53e5585eg5415gcb02ge967g54fe1d8bf489" version="1">This will not remove Spell Slots gained from your class.</content>
+  <content contentuid="h87ab4a0cgb5afg4adagfc36gde5992d68c4c" version="2">Stat: Spell Slots</content>
+  <content contentuid="hd6e44c9fge71fgc578g567bgbb7aca27af05" version="2">Increase or decrease the amount of 1st through 8th Level Spell slots you have depending on the active modifier. You may increase the amount of each Spell Slot you have by up to 20.</content>
+  <content contentuid="h362ba23ag2906g029fg5f87gb1c71cb17218" version="2">Action Resource Editing</content>
+  <content contentuid="hcbecc1b1g293ag1a7fgd895gd122c8e18ebc" version="2">A chest containing items used for editing your Action Resources.</content>
+  <content contentuid="hf8c713d2g2e45gde36g7b87gc7811e16100c" version="2">These are not used for removing aspects included with your class, race or features unlocked through levelling up.</content>
+  <content contentuid="haaf68b5dgabb1g45fbg6259g9a41b24dba71" version="1">Cheat: Add Warlock Spell Slot (1st Level)</content>
+  <content contentuid="h2b1529a0g3932geb89g7bbcg22cba4a51288" version="1">Increase the amount of 1st level Warlock Spell Slots you have.</content>
+  <content contentuid="h2316814cg8e11g9b92gf514gb8943a755153" version="1">Cheat: Add Warlock Spell Slot (2nd Level)</content>
+  <content contentuid="hddd07531g7080gc824gd9d2g5d4780108fcb" version="1">Increase the amount of 2nd level Warlock Spell Slots you have.</content>
+  <content contentuid="h4a167bf5g0bc2g88bfg3737gb72e33ac5979" version="1">Cheat: Add Warlock Spell Slot (3rd Level)</content>
+  <content contentuid="h396bf844ga242gd334g9197gaca5efe4b608" version="1">Increase the amount of 3rd level Warlock Spell Slots you have.</content>
+  <content contentuid="h46e9976fgf982g545egd6feg4d2363d88140" version="1">Cheat: Add Warlock Spell Slot (4th Level)</content>
+  <content contentuid="h9af1efb6g6f10gc22fgbc4cg5d76509a4368" version="1">Increase the amount of 4th level Warlock Spell Slots you have.</content>
+  <content contentuid="h018ca649g98e0g3ea0ge804g309de12f0d0b" version="1">Cheat: Add Warlock Spell Slot (5th Level)</content>
+  <content contentuid="hac0ff752g23d9g2cf6g178cg4ff8915146b1" version="1">Increase the amount of 5th level Warlock Spell Slots you have.</content>
+  <content contentuid="h095827d1g8d36g7cf2g2a6dgdb12caca0e10" version="1">Stat: Warlock Spell Slots</content>
+  <content contentuid="hd0d039acg018egc822gbafagc623ec6187c0" version="1">Increase or decrease the amount of 1st through 5th Level Warlock Spell slots you have depending on the active modifier. You may increase the amount of each Spell Slot you have by up to 20.&lt;br&gt;&lt;br&gt;Due to how Warlocks work, this will override your Warlock Spell Slots.</content>
+  <content contentuid="h0da96c33g1e60gd8c3g214cg5a5081a86805" version="6">Stat: Warlock Spell Slot (1st Level)</content>
+  <content contentuid="h21f1ca91g07dfgec37ga6b2g622ef45ee02e" version="6">Use</content>
+  <content contentuid="h97e32de7g5efbgc717g5a96g0c26664bd0a5" version="6">Use to add or remove 1st Level Warlock Spell Slots depending on the active modifier. &lt;br&gt;&lt;br&gt;This feature does not play well with natural Warlock progression, as the added lower level Spell Slots will become inaccessible once a higher level of Spell Slot is naturally unlocked through levelling up the Warlock class.</content>
+  <content contentuid="h7e0c55c2g1fa5g40b8ge86dgb7ca56b48a9e" version="6">This will not remove Spell Slots gained from your class.</content>
+  <content contentuid="hb8e28d43g5dc8g5a74g045ag2d5f5235d7f3" version="4">Stat: Warlock Spell Slot (2nd Level)</content>
+  <content contentuid="hb77614e3g3fd8g9415gd1eag3d5ea15084ee" version="4">Use</content>
+  <content contentuid="h35a2af10g2073ge871gfdf5gdcc710ab1b41" version="4">Use to add or remove 2nd Level Warlock Spell Slots depending on the active modifier.&lt;br&gt;&lt;br&gt;This feature does not play well with natural Warlock progression, as the added lower level Spell Slots will become inaccessible once a higher level of Spell Slot is naturally unlocked through levelling up the Warlock class.</content>
+  <content contentuid="h2ac664b5g469eg58fcg1a45g004fb0bb32e5" version="4">This will not remove Spell Slots gained from your class.</content>
+  <content contentuid="h063f8c36g213bgec84g2c92gccd3aecc9ec9" version="1">Stat: Warlock Spell Slot (3rd Level)</content>
+  <content contentuid="h26874d24gcf57g14d5g290dg446f464d9f52" version="1">Use</content>
+  <content contentuid="hd2c46486g5beeg60b6g9745g81c837574ba9" version="1">Use to add or remove 3rd Level Warlock Spell Slots depending on the active modifier.&lt;br&gt;&lt;br&gt;This feature does not play well with natural Warlock progression, as the added lower level Spell Slots will become inaccessible once a higher level of Spell Slot is naturally unlocked through levelling up the Warlock class.</content>
+  <content contentuid="h84ca9f85gc852g5592g74d6g5147f33be531" version="1">This will not remove Spell Slots gained from your class.</content>
+  <content contentuid="h1466d0e8g95c0g583eg5d71gf71960b1429d" version="1">Stat: Warlock Spell Slot (4th Level)</content>
+  <content contentuid="hc816ec03g7547g881bgab99g7f2e65a93c0d" version="1">Use</content>
+  <content contentuid="h9a374a2aga2f6gfad3g8427g456a2bb15be2" version="1">Use to add or remove 4th Level Warlock Spell Slots depending on the active modifier.&lt;br&gt;&lt;br&gt;This feature does not play well with natural Warlock progression, as the added lower level Spell Slots will become inaccessible once a higher level of Spell Slot is naturally unlocked through levelling up the Warlock class.</content>
+  <content contentuid="hcf4b8ab7ga88ag47f8g6069g979ae62cf7cb" version="1">This will not remove Spell Slots gained from your class.</content>
+  <content contentuid="h6d53bdb8g8ee3g6210g5ba1g067bc98cdc3e" version="1">Stat: Warlock Spell Slot (4th Level)</content>
+  <content contentuid="heed0d1a4g1d5dgdfd6g137dg96192e84e274" version="1">Use</content>
+  <content contentuid="h7ec89e96g2a51g8becgec46ga0777fcac0d9" version="1">Use to add or remove 4th Level Warlock Spell Slots depending on the active modifier.&lt;br&gt;&lt;br&gt;This feature does not play well with natural Warlock progression, as the added lower level Spell Slots will become inaccessible once a higher level of Spell Slot is naturally unlocked through levelling up the Warlock class.</content>
+  <content contentuid="he7a6631bg94d8g0d6dg8193g5b9adbd6ff86" version="1">This will not remove Spell Slots gained from your class.</content>
+  <content contentuid="h123f59cbg4107g69abg7369gb387d7b54d05" version="1">Stat: Warlock Spell Slot (5th Level)</content>
+  <content contentuid="hb645c646gcf1bg9f13ge6dbg2ebd839e50d7" version="1">Use</content>
+  <content contentuid="h101abaaeg42b6gbdadg28c0gd1cfa3d1ae24" version="1">Use to add or remove 5th Level Warlock Spell Slots depending on the active modifier.&lt;br&gt;&lt;br&gt;This feature does not play well with natural Warlock progression, as the added lower level Spell Slots will become inaccessible once a higher level of Spell Slot is naturally unlocked through levelling up the Warlock class.</content>
+  <content contentuid="h62d1c2cfg7e0agc53fgc82bgf62a4fb34006" version="1">This will not remove Spell Slots gained from your class.</content>
 </contentList>

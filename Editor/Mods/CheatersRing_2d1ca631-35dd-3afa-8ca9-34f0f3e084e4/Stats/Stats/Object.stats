@@ -537,6 +537,42 @@
         <field name="GameSize" type="EnumerationTableFieldDefinition" value="Tiny" enumeration_type_name="ObjectSize" version="1" />
       </fields>
     </stat_object>
+    <stat_object color="#FF9400D3" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="cd02b867-cf17-4c4a-88bf-2e276a9d4880" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Chest_EditActionResources" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="996cfbdd-07e1-4e40-bfd5-e6a4f70f3c34" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="5343ab7e-8889-4055-a94a-b3d134ac6dfa" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="GameSize" type="EnumerationTableFieldDefinition" value="Tiny" enumeration_type_name="ObjectSize" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF9400D3" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2edd731b-0a77-40c6-809a-667beb78bf94" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Chest_EditSpellSlots" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="996cfbdd-07e1-4e40-bfd5-e6a4f70f3c34" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="c656dd5b-ac31-41ee-b0d9-05f102a4fcd5" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="GameSize" type="EnumerationTableFieldDefinition" value="Tiny" enumeration_type_name="ObjectSize" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF9400D3" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="693c9e81-3085-4a0f-8426-c19e5301589c" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Chest_EditWarlockSpellSlots" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="996cfbdd-07e1-4e40-bfd5-e6a4f70f3c34" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="800621da-90a0-4201-9a69-4c3f6bf9daa6" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="GameSize" type="EnumerationTableFieldDefinition" value="Tiny" enumeration_type_name="ObjectSize" version="1" />
+      </fields>
+    </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="9827421f-0c2e-48fc-adbd-32fb375cdb88" />
@@ -3313,6 +3349,39 @@
         <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="68d20010-994b-40f6-8211-14a4fd2cab96" />
       </fields>
     </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5985a0ea-a64d-4f82-8424-45515e5efb7f" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_ModifierIncrease" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fc73334f-7a19-4d44-891d-f34bd3cec186" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="f5657b12-51fc-428c-8c06-beff79d9c4df" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="XEL_FeatUnlockItem" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="ActionPoint:0" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="UseConditions" type="StringTableFieldDefinition" value="Tagged('PLAYABLE', context.Source)" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a04a9079-edb3-44b2-9f94-e62d612257f8" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_ModifierDecrease" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="5985a0ea-a64d-4f82-8424-45515e5efb7f" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="560316e0-5b61-496a-853d-f95682c1f0ac" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800080" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1030b960-7e34-4c56-9417-dce31522f79a" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_ModifierReset" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="5985a0ea-a64d-4f82-8424-45515e5efb7f" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="d5cb19eb-0ba9-44d1-88b3-4f69c734ba7c" />
+      </fields>
+    </stat_object>
     <stat_object color="#FF4B0082" is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="e1b15684-f947-4c31-ac1c-e6acc2b6c5b9" />
@@ -3617,6 +3686,103 @@
         <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
         <field name="Weight" type="FloatTableFieldDefinition" value="0" />
         <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF2E8B57" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="25fef0d9-b5a6-47c6-a95e-da01b9c7fcea" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Stat_SpellSlot_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fc73334f-7a19-4d44-891d-f34bd3cec186" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="3c8c2a54-efa9-46b9-956e-512bb1789e36" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="XEL_FeatUnlockItem" />
+        <field name="Unique" type="IntegerTableFieldDefinition" value="0" />
+        <field name="UseCosts" type="StringTableFieldDefinition" value="BonusActionPoint:1" />
+        <field name="ValueLevel" type="IntegerTableFieldDefinition" value="1" />
+        <field name="UseConditions" type="StringTableFieldDefinition" value="Tagged('PLAYABLE', context.Source)" />
+        <field name="ValueScale" type="FloatTableFieldDefinition" value="0" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="0" />
+        <field name="Vitality" type="IntegerTableFieldDefinition" value="-1" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF2E8B57" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b691fdfc-9735-469e-b6d7-20fc81fb258c" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Stat_SpellSlot_2" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="25fef0d9-b5a6-47c6-a95e-da01b9c7fcea" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="b21b0b5e-6935-401d-8862-bb408819db5f" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF2E8B57" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e9ca7743-24f4-4212-97c6-58064a5e9e37" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Stat_SpellSlot_3" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="25fef0d9-b5a6-47c6-a95e-da01b9c7fcea" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="80bd3506-4a45-4058-a257-62140ffc8ee5" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF2E8B57" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="b813677d-55da-471c-917c-b055ee73c7f8" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Stat_SpellSlot_4" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="25fef0d9-b5a6-47c6-a95e-da01b9c7fcea" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="c6aba2a5-61e8-4471-a603-0404c88e355a" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF2E8B57" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="67882fb2-821e-46af-a52f-7027a74e5351" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Stat_SpellSlot_5" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="25fef0d9-b5a6-47c6-a95e-da01b9c7fcea" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="48950e76-89a7-458f-98db-869f0eae1931" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF2E8B57" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2b7cddd8-8ff4-44fb-aca3-b8cce3f87e62" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Stat_SpellSlot_6" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="25fef0d9-b5a6-47c6-a95e-da01b9c7fcea" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="a0b1e9eb-06eb-4678-9e1c-dd832997944e" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF2E8B57" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="73819210-85d1-4165-964b-2181006a7c16" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Stat_WarlockSpellSlot_1" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="25fef0d9-b5a6-47c6-a95e-da01b9c7fcea" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="65f807fe-f0a2-4199-b420-886c4b0ed56f" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF2E8B57" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="60e1c6fd-0d34-41db-8fb8-dfc7b6cb6054" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Stat_WarlockSpellSlot_2" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="25fef0d9-b5a6-47c6-a95e-da01b9c7fcea" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="6fd69a6a-a3b6-4e98-800b-08d19d323600" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF2E8B57" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="dca08532-aa00-4238-a08c-37a2fffa1e89" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Stat_WarlockSpellSlot_3" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="25fef0d9-b5a6-47c6-a95e-da01b9c7fcea" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="522fa7f3-da6a-4f13-a6ac-599aa1c7578e" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF2E8B57" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2e2efde4-191f-47b2-977a-375ab0d614c9" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Stat_WarlockSpellSlot_4" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="25fef0d9-b5a6-47c6-a95e-da01b9c7fcea" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="2cec3632-fbdc-4aef-81d8-cf47a9ab2c39" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF2E8B57" is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6fac4c10-f02d-4c9b-a4e2-24c7101100e4" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_OBJ_Stat_WarlockSpellSlot_5" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="25fef0d9-b5a6-47c6-a95e-da01b9c7fcea" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="2ebde586-c86e-483b-8398-6b5e15538630" />
       </fields>
     </stat_object>
     <stat_object color="#FF00008B" is_substat="false">

@@ -5357,7 +5357,6 @@ database DB_LOW_SteelWatchFoundry_OperatingZombies([in](CHARACTER)_, [in](ITEM)_
 database DB_UND_BroodingSovereign_Home([in](TRIGGER)_)
 database DB_WYR_Ironhand_Init([in](CHARACTER)_, [in](TRIGGER)_, [in](DIALOGRESOURCE)_, [in](FLAG)_)
 database DB_WYR_KillDirectorGortash_AudienceHallBanites([in](CHARACTER)_, [in](DIALOGRESOURCE)_)
-database DB_XEL_CSS_RaceTagStatus([in](STRING)_, [in](STRING)_)
 call PROC_InternalCounterEntry([in](GUIDSTRING)_, [in](DIALOGRESOURCE)_)
 call PROC_OskarsBeloved_SpawnAllyPortrait([in](GUIDSTRING)_)
 call PROC_WYR_SkeletalDragon_FindSteerToTargetCandidate([in](CHARACTER)_)

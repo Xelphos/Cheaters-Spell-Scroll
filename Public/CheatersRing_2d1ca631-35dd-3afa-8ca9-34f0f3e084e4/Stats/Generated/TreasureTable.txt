@@ -3688,6 +3688,8 @@ new subtable "1,1"
 object category "I_XEL_OBJ_Chest_EditClassTags",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_XEL_OBJ_Chest_EditRaceTags",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_Chest_EditActionResources",1,0,0,0,0,0,0,0
 new treasuretable "XEL_CSS_RaceEditingContainer"
 MinLevel "-20"
 MaxLevel "20"
@@ -3811,3 +3813,66 @@ new subtable "1,1"
 object category "I_XEL_OBJ_RaceTag_Dragonborn_Silver",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_XEL_OBJ_RaceTag_Dragonborn_White",1,0,0,0,0,0,0,0
+new treasuretable "XEL_CSS_EditActionResourceContainer"
+MinLevel "-20"
+MaxLevel "20"
+IgnoreLevelDiff 1
+new subtable "1,1"
+StartLevel "1"
+object category "I_XEL_OBJ_ModifierIncrease",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_ModifierReset",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_ModifierDecrease",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_Chest_EditSpellSlots",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_Chest_EditWarlockSpellSlots",1,0,0,0,0,0,0,0
+new treasuretable "XEL_CSS_SpellSlotsContainer"
+MinLevel "-20"
+MaxLevel "20"
+IgnoreLevelDiff 1
+new subtable "1,1"
+StartLevel "1"
+object category "I_XEL_OBJ_ModifierIncrease",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_ModifierReset",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_ModifierDecrease",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_Stat_SpellSlot_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_Stat_SpellSlot_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_Stat_SpellSlot_3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_Stat_SpellSlot_4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_Stat_SpellSlot_5",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_Stat_SpellSlot_6",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_Stat_SpellSlot_7",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_Stat_SpellSlot_8",1,0,0,0,0,0,0,0
+new treasuretable "XEL_CSS_WarlockSpellSlotsContainer"
+MinLevel "-20"
+MaxLevel "20"
+IgnoreLevelDiff 1
+new subtable "1,1"
+StartLevel "1"
+object category "I_XEL_OBJ_ModifierIncrease",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_ModifierReset",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_ModifierDecrease",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_Stat_WarlockSpellSlot_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_Stat_WarlockSpellSlot_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_Stat_WarlockSpellSlot_3",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_Stat_WarlockSpellSlot_4",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_Stat_WarlockSpellSlot_5",1,0,0,0,0,0,0,0

@@ -559,6 +559,33 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5711748d-5f50-48b6-bee0-d92484de9ba7" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_MODIFIER_INCREASE" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h50087ae1g032eg2580gd0ffg235338167167" version="1" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_MODIFIER_INCREASE_DECREASE_RESET" />
+        <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
+        <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
+        <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3a92d4c4-0dca-4a07-b381-3d7b9a376d42" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_MODIFIER_DECREASE" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="5711748d-5f50-48b6-bee0-d92484de9ba7" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_MODIFIER_INCREASE_DECREASE_RESET" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="e91a0e25-2f2d-47a5-ba26-a7b1df84b063" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_MODIFIER_RESET" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="5711748d-5f50-48b6-bee0-d92484de9ba7" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_MODIFIER_INCREASE_DECREASE_RESET" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="cd54f875-978c-4579-abcd-0bdf495518b2" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CHEAT_STRENGTH_INCREASE_PREP" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbd69d009gf154gf141g73bfgf4da725840b5" version="2" />
@@ -883,6 +910,229 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ebd1ad10-7879-4327-a8f5-f31382ce9099" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_STAT_SPELLSLOT_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbaa3eecag5053g5ef4g2bc5g415464fc6d30" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h5cc9614cgee20ge45eg261fg5e6ddae6f8cf" version="3" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_STAT_SPELLSLOT_1" />
+        <field name="StackType" type="EnumerationTableFieldDefinition" value="Additive" enumeration_type_name="StatusStackType" version="1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(SpellSlot,1,1)" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;IgnoreResting;MultiplyEffectsByDuration;FreezeDuration;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="82d822f6-7020-4a2e-834f-60ece96f0cbf" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_STAT_SPELLSLOT_2" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ebd1ad10-7879-4327-a8f5-f31382ce9099" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h200f57ddgc018gbbe5g10b3g28d7e535b3ff" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h61665d5cg741fgefd3g6c4eg846b8795c312" version="2" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_STAT_SPELLSLOT_2" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(SpellSlot,1,2)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="32bd7a28-2617-47d5-8ca3-0fbec53fb3d1" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_STAT_SPELLSLOT_3" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ebd1ad10-7879-4327-a8f5-f31382ce9099" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h082e2153g1936g8b4bg8d00gba675ac0dfb8" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hf7ac85c7gced0g1187gd4e4g8e423f6b1fc8" version="2" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_STAT_SPELLSLOT_3" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(SpellSlot,1,3)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d25ee584-e2f4-4ffc-aaa0-1c1161a8399c" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_STAT_SPELLSLOT_4" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ebd1ad10-7879-4327-a8f5-f31382ce9099" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9f03b399g5059g99a8g0381gf21bd4469f5d" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hf3845c7cgdf33gd63fgc127g359658d89d68" version="2" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_STAT_SPELLSLOT_4" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(SpellSlot,1,4)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="ab151327-aa88-49d4-9c79-879454872f7c" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_STAT_SPELLSLOT_5" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ebd1ad10-7879-4327-a8f5-f31382ce9099" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he18631dbg3680g6d2ag90a7g4a1a46046f23" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h77a9dff4g26d5g5cbag3b24g8be00c2d0825" version="2" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_STAT_SPELLSLOT_5" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(SpellSlot,1,5)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="245fc47c-e3bd-48aa-9239-5c78b0a2ec25" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_STAT_SPELLSLOT_6" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="ebd1ad10-7879-4327-a8f5-f31382ce9099" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbb28fcafgac6fgd674g086bgca9f537488f6" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hd7a451dcg6419g1801gcb1bg9a0c9c149c47" version="2" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_STAT_SPELLSLOT_6" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(SpellSlot,1,6)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="fd43eb62-c0b1-49eb-aabd-bcbf48ec1c25" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_STAT_WARLOCKSPELLSLOT_1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="haaf68b5dgabb1g45fbg6259g9a41b24dba71" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h2b1529a0g3932geb89g7bbcg22cba4a51288" version="1" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_STAT_WARLOCKSPELLSLOT_1" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(WarlockSpellSlot,1,1)" />
+        <field name="StackType" type="EnumerationTableFieldDefinition" value="Additive" enumeration_type_name="StatusStackType" version="1" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;IgnoreResting;MultiplyEffectsByDuration;FreezeDuration;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="561d8f23-91a5-4312-ab19-787c3d53d4aa" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_STAT_WARLOCKSPELLSLOT_2" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fd43eb62-c0b1-49eb-aabd-bcbf48ec1c25" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2316814cg8e11g9b92gf514gb8943a755153" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hddd07531g7080gc824gd9d2g5d4780108fcb" version="1" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_STAT_WARLOCKSPELLSLOT_2" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(WarlockSpellSlot,1,2)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="28033a47-e3f1-4c17-a7f3-26a920d5b859" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_STAT_WARLOCKSPELLSLOT_3" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fd43eb62-c0b1-49eb-aabd-bcbf48ec1c25" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4a167bf5g0bc2g88bfg3737gb72e33ac5979" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h396bf844ga242gd334g9197gaca5efe4b608" version="1" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_STAT_WARLOCKSPELLSLOT_3" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(WarlockSpellSlot,1,3)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c017f8c1-a37d-4cac-aa8b-056125a46d02" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_STAT_WARLOCKSPELLSLOT_4" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fd43eb62-c0b1-49eb-aabd-bcbf48ec1c25" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h46e9976fgf982g545egd6feg4d2363d88140" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9af1efb6g6f10gc22fgbc4cg5d76509a4368" version="1" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_STAT_WARLOCKSPELLSLOT_4" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(WarlockSpellSlot,1,4)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="3bbbdb7e-cb7e-4efd-9ff7-4cde15e3e2b4" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_STAT_WARLOCKSPELLSLOT_5" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="fd43eb62-c0b1-49eb-aabd-bcbf48ec1c25" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h018ca649g98e0g3ea0ge804g309de12f0d0b" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hac0ff752g23d9g2cf6g178cg4ff8915146b1" version="1" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_STAT_WARLOCKSPELLSLOT_5" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(WarlockSpellSlot,1,5)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="50487f0e-08ff-4acf-b97a-98d45c29fd39" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_STAT_SPELLSLOT_1_RESET" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3de25d21g991bg0cb6g00a6g6410544ca4ab" version="1" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_STAT_SPELLSLOT_1_RESET" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_STAT_SPELLSLOT_1)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0ba7d442-b378-485b-a596-c7acdda52abb" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_STAT_SPELLSLOT_2_RESET" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="50487f0e-08ff-4acf-b97a-98d45c29fd39" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_STAT_SPELLSLOT_2_RESET" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_STAT_SPELLSLOT_2)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="da6ee816-1c2c-4194-8fc6-2bca7f26489b" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_STAT_SPELLSLOT_3_RESET" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="50487f0e-08ff-4acf-b97a-98d45c29fd39" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_STAT_SPELLSLOT_3_RESET" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_STAT_SPELLSLOT_3)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="046316db-598d-43d8-ae4b-26dd9ee205bf" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_STAT_SPELLSLOT_4_RESET" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="50487f0e-08ff-4acf-b97a-98d45c29fd39" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_STAT_SPELLSLOT_4_RESET" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_STAT_SPELLSLOT_4)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="f58eeea2-ae94-4288-a950-dab1ece4176e" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_STAT_SPELLSLOT_5_RESET" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="50487f0e-08ff-4acf-b97a-98d45c29fd39" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_STAT_SPELLSLOT_5_RESET" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_STAT_SPELLSLOT_5)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="d85d5ff6-0e23-464e-aa27-5b7c7964ad44" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_STAT_SPELLSLOT_6_RESET" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="50487f0e-08ff-4acf-b97a-98d45c29fd39" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_STAT_SPELLSLOT_6_RESET" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_STAT_SPELLSLOT_6)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0fcf1e16-79fa-4cfb-80eb-0fb1e7a3ca2e" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_STAT_WARLOCKSPELLSLOT_1_RESET" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_STAT_WARLOCKSPELLSLOT_1_RESET" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_STAT_WARLOCKSPELLSLOT_1)" />
+        <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="DisableCombatlog;DisableOverhead;DisablePortraitIndicator;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="c727b70a-868b-4b50-a23a-69a9692afa42" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_STAT_WARLOCKSPELLSLOT_2_RESET" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="0fcf1e16-79fa-4cfb-80eb-0fb1e7a3ca2e" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_STAT_WARLOCKSPELLSLOT_2_RESET" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_STAT_WARLOCKSPELLSLOT_2)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="94ef23e7-28de-4007-b42f-e8a2f412f22a" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_STAT_WARLOCKSPELLSLOT_3_RESET" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="0fcf1e16-79fa-4cfb-80eb-0fb1e7a3ca2e" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_STAT_WARLOCKSPELLSLOT_3_RESET" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_STAT_WARLOCKSPELLSLOT_3)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="a1067e7f-a931-429f-a763-c4e837c3d9a4" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_STAT_WARLOCKSPELLSLOT_4_RESET" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="0fcf1e16-79fa-4cfb-80eb-0fb1e7a3ca2e" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_STAT_WARLOCKSPELLSLOT_4_RESET" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_STAT_WARLOCKSPELLSLOT_4)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="eac643f1-f910-428c-b0eb-af2d1a9e4015" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_STAT_WARLOCKSPELLSLOT_5_RESET" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="0fcf1e16-79fa-4cfb-80eb-0fb1e7a3ca2e" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_STAT_WARLOCKSPELLSLOT_5_RESET" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_STAT_WARLOCKSPELLSLOT_5)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="7d7eb5ac-7779-406b-9b7d-b94f3091a72d" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CHEAT_ACTIONSURGE" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc3d4a1b4g4073g1342g7e2dg0c0ec179fba0" version="1" />
@@ -1093,7 +1343,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_AIARCHETYPE_MELEE" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4450e519g9ef1gc1dcge59fg1debafcdba4c" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="haebad8a2gd3a8g1839g7495g6a11876afb48" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Target_MainHandAttack" />
+        <field name="Icon" type="StringTableFieldDefinition" value="XEL_CSS_AIArchetype_Melee" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_AIARCHETYPE" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="StackType" type="EnumerationTableFieldDefinition" value="Overwrite" enumeration_type_name="StatusStackType" version="1" />
@@ -1106,7 +1356,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_AIARCHETYPE_RANGED" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1a86b5d7ga864g8d1eg5c15g668f9b70fa72" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h0536241aga520g50b6g05ebg099a75543021" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Projectile_MainHandAttack" />
+        <field name="Icon" type="StringTableFieldDefinition" value="XEL_CSS_AIArchetype_Ranged" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_AIARCHETYPE" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="StackType" type="EnumerationTableFieldDefinition" value="Overwrite" enumeration_type_name="StatusStackType" version="1" />
@@ -1117,9 +1367,9 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="0a7b9667-6f1f-483b-807e-ff07272e86cd" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_AIARCHETYPE_MAGE" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hcc3f9024gd4d5g1430gfc4cg301be24ba8e9" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h45568809gdc3bgf773g7af0gb416af26ce59" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="PassiveFeature_PactOfTheTome" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hcc3f9024gd4d5g1430gfc4cg301be24ba8e9" version="2" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h45568809gdc3bgf773g7af0gb416af26ce59" version="2" />
+        <field name="Icon" type="StringTableFieldDefinition" value="XEL_CSS_AIArchetype_Mage" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_AIARCHETYPE" />
         <field name="StatusPropertyFlags" type="EnumerationListTableFieldDefinition" value="IgnoreResting;ApplyToDead" enumeration_type_name="StatusPropertyFlags" version="1" />
         <field name="StackType" type="EnumerationTableFieldDefinition" value="Overwrite" enumeration_type_name="StatusStackType" version="1" />
