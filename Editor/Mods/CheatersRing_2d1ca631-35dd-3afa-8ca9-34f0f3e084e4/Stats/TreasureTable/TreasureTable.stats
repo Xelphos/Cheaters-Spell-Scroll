@@ -18349,6 +18349,46 @@
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="990f7214-ed59-4a33-aad8-869e6c827ae3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="efa3b84f-9c8b-42df-8f51-ec0f97a662d2" />
+        <field name="Name" type="NameTableFieldDefinition" value="990f7214-ed59-4a33-aad8-869e6c827ae3_substat_1" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_Stat_ActionPoint" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="990f7214-ed59-4a33-aad8-869e6c827ae3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="7a30b177-d26d-46a3-a4b6-02441ba50e97" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_EditActionResourceContainer_substat_3" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_Stat_BonusActionPoint" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="990f7214-ed59-4a33-aad8-869e6c827ae3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1a9c1b49-cfbf-4d17-b5b1-6597d6a94488" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_EditActionResourceContainer_substat_4" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_Stat_ReactionActionPoint" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="990f7214-ed59-4a33-aad8-869e6c827ae3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d834bb09-7d27-4df6-a6f9-fbc50f1cdeeb" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_EditActionResourceContainer_substat_5" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_Stat_MovementSpeedPoint" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="990f7214-ed59-4a33-aad8-869e6c827ae3" />
         <field name="UUID" type="IdTableFieldDefinition" value="a87f5b40-9a88-419e-bb8d-f5bba3e4c4d5" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_EditActionResourceContainer_substat_1" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
@@ -18363,6 +18403,156 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_EditActionResourceContainer_substat" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
         <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_Chest_EditWarlockSpellSlots" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="990f7214-ed59-4a33-aad8-869e6c827ae3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="26288e2a-4af0-4d17-b560-179c370cba18" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_EditActionResourceContainer_substat_2" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_Stat_ShadowSpellSlot_3" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="990f7214-ed59-4a33-aad8-869e6c827ae3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="dc2e3b34-26ea-430f-be5e-365c1e5cbfd5" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_EditActionResourceContainer_substat_6" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_Stat_ArcaneRecoveryPoint" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="990f7214-ed59-4a33-aad8-869e6c827ae3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="710c064c-5aa9-4975-9658-5e25a1cc63b4" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_EditActionResourceContainer_substat_7" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_Stat_BardicInspirationPoint" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="990f7214-ed59-4a33-aad8-869e6c827ae3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="6aacfb29-9f7f-414d-accf-9f10aebe47d9" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_EditActionResourceContainer_substat_8" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_Stat_ChannelDivinityPoint" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="990f7214-ed59-4a33-aad8-869e6c827ae3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="7cc8f235-e5fe-480e-8e73-12eb14c897f3" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_EditActionResourceContainer_substat_9" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_Stat_ChannelOathPoint" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="990f7214-ed59-4a33-aad8-869e6c827ae3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="56f258bb-85d6-4127-a8af-2cf55c019e0f" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_EditActionResourceContainer_substat_10" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_Stat_FungalInfestationPoint" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="990f7214-ed59-4a33-aad8-869e6c827ae3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="8594a946-e49a-4397-8dd9-f4a8c0f008ef" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_EditActionResourceContainer_substat_11" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_Stat_KiPoint" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="990f7214-ed59-4a33-aad8-869e6c827ae3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="95e2be49-842e-420f-a1bc-05cba4945d2f" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_EditActionResourceContainer_substat_18" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_Stat_LayOnHandsPoint" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="990f7214-ed59-4a33-aad8-869e6c827ae3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e66b0cd7-377a-4114-a902-b5666c9af97d" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_EditActionResourceContainer_substat_19" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_Stat_LuckPoint" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="990f7214-ed59-4a33-aad8-869e6c827ae3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ba859372-862c-44c0-8af6-7b2e82b14e66" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_EditActionResourceContainer_substat_12" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_Stat_NaturalRecoveryPoint" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="990f7214-ed59-4a33-aad8-869e6c827ae3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e7eb0123-c7d0-48d6-a917-e9ca8d70ef7b" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_EditActionResourceContainer_substat_13" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_Stat_RagePoint" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="990f7214-ed59-4a33-aad8-869e6c827ae3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="60302a4c-7081-4410-a8b1-d51d506d017a" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_EditActionResourceContainer_substat_14" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_Stat_SorceryPoint" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="990f7214-ed59-4a33-aad8-869e6c827ae3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5d227272-73fb-4189-a6b4-0876fd505407" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_EditActionResourceContainer_substat_15" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_Stat_SuperiorityDiePoint" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="990f7214-ed59-4a33-aad8-869e6c827ae3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="84953a48-3c33-4161-9310-11e37de67914" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_EditActionResourceContainer_substat_16" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_Stat_WarPriestPoint" />
+        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="true">
+      <fields>
+        <field name="Using" type="BaseClassTableFieldDefinition" value="990f7214-ed59-4a33-aad8-869e6c827ae3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5d6aa12a-6f72-4a1f-a45c-c5009304d2af" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_EditActionResourceContainer_substat_17" />
+        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
+        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_Stat_WildShapePoint" />
         <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
