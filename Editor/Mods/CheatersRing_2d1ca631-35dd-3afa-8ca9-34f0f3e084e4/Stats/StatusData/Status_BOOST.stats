@@ -561,11 +561,13 @@
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="5711748d-5f50-48b6-bee0-d92484de9ba7" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_MODIFIER_INCREASE" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h50087ae1g032eg2580gd0ffg235338167167" version="1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h50087ae1g032eg2580gd0ffg235338167167" version="2" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_MODIFIER_INCREASE_DECREASE_RESET" />
         <field name="Toggle" type="EnumerationTableFieldDefinition" value="Yes" enumeration_type_name="YesNo" version="1" />
         <field name="ApplyEffect" type="GuidObjectTableFieldDefinition" value="72df840a-415d-4844-bc7a-d7eecd23cc6d" />
         <field name="EndEffect" type="GuidObjectTableFieldDefinition" value="03485851-9db3-4c13-89ce-4f693fa853ed" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="ha058289bg05d3g34a4gcc29gbce067c3c581" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="GenericIcon_Intent_Buff" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -574,6 +576,9 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_MODIFIER_DECREASE" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="5711748d-5f50-48b6-bee0-d92484de9ba7" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_MODIFIER_INCREASE_DECREASE_RESET" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h17e320bdg8e0eg8029g7801g4531dc5e1c30" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hdd7f4b88gecf9g3c7cg6859g258fb62082ad" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="GenericIcon_Intent_Debuff" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -582,6 +587,9 @@
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_MODIFIER_RESET" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="5711748d-5f50-48b6-bee0-d92484de9ba7" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_MODIFIER_INCREASE_DECREASE_RESET" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd57b0e4cg55b6g3f36g8ccfg336a8b7d4c12" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h0070b5c4g3a09g1a25g17f8gcda69cae53ef" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="GenericIcon_Intent_Control" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -944,6 +952,28 @@
     </stat_object>
     <stat_object is_substat="false">
       <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="1c1c2a72-a9d5-46f4-8855-09fa38634ff1" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_STAT_HEALTH" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="42d95837-a23d-41a9-9035-b28b6b52796e" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbcb439c5g3823ge27agcd8eg9fca34978b2d" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9a4fcab9g8810gd48dg7e9ag147e8c4ca209" version="1" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_STAT_HEALTH" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="IncreaseMaxHP(10)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="9fffa5a0-176e-4f7d-864d-0613411331ab" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_STAT_ARMORCLASS" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="42d95837-a23d-41a9-9035-b28b6b52796e" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9a0fed9eg2d2fgb124g7120g5c8517993a33" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h2e0c9fc9g1bc6gc40ag4d36g0f4e5fd38455" version="1" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_STAT_ARMORCLASS" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="AC(1)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="2eb08c98-7a48-41a3-97b1-b9c4294bcd94" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_STAT_MOVEMENTSPEEDPOINT" />
         <field name="Using" type="BaseClassTableFieldDefinition" value="42d95837-a23d-41a9-9035-b28b6b52796e" />
@@ -1268,6 +1298,24 @@
         <field name="Using" type="BaseClassTableFieldDefinition" value="2715af50-0278-4119-823f-e1bdd98865d0" />
         <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_STAT_REACTIONACTIONPOINT_RESET" />
         <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_STAT_REACTIONACTIONPOINT)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="5c9b98a8-0894-4bfe-bdbf-f5fd21760262" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_STAT_HEALTH_RESET" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2715af50-0278-4119-823f-e1bdd98865d0" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_STAT_HEALTH_RESET" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_STAT_HEALTH)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="628b7c90-9516-4d50-9644-d582acd058b2" />
+        <field name="Name" type="NameTableFieldDefinition" value="XEL_CSS_STAT_ARMORCLASS_RESET" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="2715af50-0278-4119-823f-e1bdd98865d0" />
+        <field name="StackId" type="StringTableFieldDefinition" value="XEL_CSS_STAT_ARMORCLASS_RESET" />
+        <field name="OnApplyFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_STAT_ARMORCLASS)" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">

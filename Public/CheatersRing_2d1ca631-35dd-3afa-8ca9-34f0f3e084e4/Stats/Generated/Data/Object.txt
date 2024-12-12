@@ -2647,6 +2647,16 @@ type "Object"
 using "XEL_OBJ_Stat_ActionPoint"
 data "RootTemplate" "ad98b811-3538-48d1-984a-0af1ef054ea0"
 
+new entry "XEL_OBJ_Stat_Health"
+type "Object"
+using "XEL_OBJ_Stat_ActionPoint"
+data "RootTemplate" "ca051d38-7cf9-4cc4-a7e7-1770b27a3b47"
+
+new entry "XEL_OBJ_Stat_ArmorClass"
+type "Object"
+using "XEL_OBJ_Stat_ActionPoint"
+data "RootTemplate" "c023ff5e-4ac2-46d7-93bd-b4a37d8646b2"
+
 new entry "XEL_OBJ_Stat_MovementSpeedPoint"
 type "Object"
 using "XEL_OBJ_Stat_ActionPoint"

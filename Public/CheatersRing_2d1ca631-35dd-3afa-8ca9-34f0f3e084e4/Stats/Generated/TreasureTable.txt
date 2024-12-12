@@ -3831,6 +3831,10 @@ object category "I_XEL_OBJ_Stat_BonusActionPoint",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_XEL_OBJ_Stat_ReactionActionPoint",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_XEL_OBJ_Stat_Health",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_XEL_OBJ_Stat_ArmorClass",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_XEL_OBJ_Stat_MovementSpeedPoint",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_XEL_OBJ_Chest_EditSpellSlots",1,0,0,0,0,0,0,0
