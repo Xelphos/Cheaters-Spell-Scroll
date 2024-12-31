@@ -17869,16 +17869,6 @@
     <stat_object is_substat="true">
       <fields>
         <field name="Using" type="BaseClassTableFieldDefinition" value="5b983c67-7629-4561-9b4e-b10af81f774d" />
-        <field name="UUID" type="IdTableFieldDefinition" value="364ccc2d-b0b0-4ea7-a619-e14f064ddb0a" />
-        <field name="Name" type="NameTableFieldDefinition" value="XEL_CharacterEditingContainer_substat_1" />
-        <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />
-        <field name="ObjectCategory" type="StringTableFieldDefinition" value="I_XEL_OBJ_Chest_EditClassTags" />
-        <field name="Frequency" type="IntegerTableFieldDefinition" value="1" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="true">
-      <fields>
-        <field name="Using" type="BaseClassTableFieldDefinition" value="5b983c67-7629-4561-9b4e-b10af81f774d" />
         <field name="UUID" type="IdTableFieldDefinition" value="d4b1d954-06e7-4282-b03b-c04ab43a0060" />
         <field name="Name" type="NameTableFieldDefinition" value="XEL_CharacterEditingContainer_substat_2" />
         <field name="DropCount" type="StringTableFieldDefinition" value="1,1" />

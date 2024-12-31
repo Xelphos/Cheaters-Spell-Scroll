@@ -3685,8 +3685,6 @@ object category "I_XEL_OBJ_Chest_EditPassiveFeatures",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_XEL_OBJ_Chest_EditProficiencies",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_XEL_OBJ_Chest_EditClassTags",1,0,0,0,0,0,0,0
-new subtable "1,1"
 object category "I_XEL_OBJ_Chest_EditRaceTags",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_XEL_OBJ_Chest_EditActionResources",1,0,0,0,0,0,0,0
