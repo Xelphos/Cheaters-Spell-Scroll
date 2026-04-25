@@ -301,7 +301,7 @@
         <field name="BoostConditions" type="StringTableFieldDefinition" clear_inherited_value="true" value="" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h0c4c6748g035egda02g9a3dge2614145a426" version="2" />
         <field name="Icon" type="StringTableFieldDefinition" value="TadpoleSuperPower_PeaceBreaker" />
-        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar;OncePerLongRest" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar;IsHidden" enumeration_type_name="PassiveFlags" version="1" />
         <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CSS_TAD_PEACEBREAKER_PASSIVE,100,-1)" />
         <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_TAD_PEACEBREAKER_PASSIVE)" />
       </fields>
@@ -324,7 +324,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hdb60e3a3g2678gb157g31a4gc9d2a53dfbc6" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h0a73b047g5c63g5ce9g3cb6g5a7a93734c36" version="2" />
         <field name="Icon" type="StringTableFieldDefinition" value="TadpoleSuperPower_AbilityDrain" />
-        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar;IsHidden" enumeration_type_name="PassiveFlags" version="1" />
         <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CSS_TAD_ABILITYDRAIN_PASSIVE,100,-1)" />
         <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_TAD_ABILITYDRAIN_PASSIVE)" />
         <field name="DescriptionParams" type="StringTableFieldDefinition" value="1" />
@@ -347,7 +347,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9549cb65geaacg7413g668agf30d446ccff2" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h244e01d9g5dbdg95cag9901g5e4ce5b89173" version="2" />
         <field name="Icon" type="StringTableFieldDefinition" value="TadpoleSuperPower_Charm" />
-        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar;IsHidden" enumeration_type_name="PassiveFlags" version="1" />
         <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CSS_TAD_CHARM_PASSIVE,100,-1)" />
         <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_TAD_CHARM_PASSIVE)" />
         <field name="TooltipUseCosts" type="StringTableFieldDefinition" value="ReactionActionPoint:1" />
@@ -368,7 +368,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h207e52eeg1ad6g7b07gaa6eg8a14c1bff6ca" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc812ed26gadb1g4728g89cbga1c758a10e83" version="2" />
         <field name="Icon" type="StringTableFieldDefinition" value="TadpoleSuperPower_Displace" />
-        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar;IsHidden" enumeration_type_name="PassiveFlags" version="1" />
         <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CSS_TAD_DISPLACE_PASSIVE,100,-1)" />
         <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_TAD_DISPLACE_PASSIVE)" />
         <field name="DescriptionParams" type="StringTableFieldDefinition" value="DealDamage(1d8,Psychic)" />
@@ -390,7 +390,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0f544b20gd76fg1da8gf09dgfee2723f46d6" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h514738a5g83f7g3518g7e9agd45decbca551" version="1" />
         <field name="Icon" type="StringTableFieldDefinition" value="TadpoleSuperPower_PsionicBacklash" />
-        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar;IsHidden" enumeration_type_name="PassiveFlags" version="1" />
         <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CSS_TAD_PSIONICBACKLASH_PASSIVE,100,-1)" />
         <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_TAD_PSIONICBACKLASH_PASSIVE)" />
         <field name="DescriptionParams" type="StringTableFieldDefinition" value="Distance(9)" />
@@ -411,7 +411,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd477c630g131cg58fag17a1g2bc2d8121289" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h09689f73gc8f6g56b2gd7bag956d5056ac50" version="2" />
         <field name="Icon" type="StringTableFieldDefinition" value="TadpoleSuperPower_IllithidExpertise" />
-        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar;IsHidden" enumeration_type_name="PassiveFlags" version="1" />
         <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CSS_TAD_ILLITHIDEXPERTISE_PASSIVE,100,-1)" />
         <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_TAD_ILLITHIDEXPERTISE_PASSIVE)" />
       </fields>
@@ -432,7 +432,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4b40dde2g4160g6852gb873ge448b16f81a0" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9d076a15g5990ga6bcg775dg6b086994561a" version="2" />
         <field name="Icon" type="StringTableFieldDefinition" value="TadpoleSuperPower_PsionicDominance" />
-        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar;IsHidden" enumeration_type_name="PassiveFlags" version="1" />
         <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CSS_TAD_PSIONICDOMINANCE_PASSIVE,100,-1)" />
         <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_TAD_PSIONICDOMINANCE_PASSIVE)" />
         <field name="DescriptionParams" type="StringTableFieldDefinition" value="Distance(18)" />
@@ -453,7 +453,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h041aad01g7978g54c9gea4cgbfd53336bd5c" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h8324979eg8084g2b70g4d75gab8b94fad7fc" version="2" />
         <field name="Icon" type="StringTableFieldDefinition" value="TadpoleSuperPower_Freecast" />
-        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar;IsHidden" enumeration_type_name="PassiveFlags" version="1" />
         <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CSS_TAD_FREECAST_PASSIVE,100,-1)" />
         <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_TAD_FREECAST_PASSIVE)" />
       </fields>
@@ -474,7 +474,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7dada926g271fgf0ddgd10egf7244e51be2f" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h7a27dfe4g943cg1202g6b24g00f82e5ba3d1" version="2" />
         <field name="Icon" type="StringTableFieldDefinition" value="TadpoleSuperPower_LuckOfTheFarRealm" />
-        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar;IsHidden" enumeration_type_name="PassiveFlags" version="1" />
         <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CSS_TAD_LUCKOFTHEFARREALMS_PASSIVE,100,-1)" />
         <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_TAD_LUCKOFTHEFARREALMS_PASSIVE)" />
       </fields>
@@ -495,7 +495,7 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h2b501184g3a4fg46deg0dbegdc968f6bfdf0" version="5" />
         <field name="Icon" type="StringTableFieldDefinition" value="Spell_Enchantment_Enthrall" />
         <field name="EnabledConditions" type="StringTableFieldDefinition" value="!Combat" />
-        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar;IsHidden" enumeration_type_name="PassiveFlags" version="1" />
         <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CSS_AUTOMATEPLAYER,100,-1)" />
         <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_AUTOMATEPLAYER)" />
       </fields>
@@ -507,7 +507,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hde0d673ag7a3cgefa0g4cd0ga113e5866118" version="3" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h9741b778g51a0g7bb9g41d4g629a30890fcf" version="5" />
         <field name="Icon" type="StringTableFieldDefinition" value="Action_CharmAnimalsAndPlants" />
-        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar;ToggleForParty" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar;IsHidden;ToggleForParty" enumeration_type_name="PassiveFlags" version="1" />
         <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CSS_AUTOMATEFOLLOWER,100,-1)" />
         <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_AUTOMATEFOLLOWER)" />
         <field name="EnabledConditions" type="StringTableFieldDefinition" value="!Combat" />
@@ -520,7 +520,7 @@
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h684ee461g3206g1c67g4fd4gca97cdc63173" version="3" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h89365eb1g0056g8ddbga0f1gda264c462286" version="3" />
         <field name="Icon" type="StringTableFieldDefinition" value="Action_KnowledgeOfTheAges" />
-        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="IsToggled;ToggledDefaultAddToHotbar;IsHidden" enumeration_type_name="PassiveFlags" version="1" />
         <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" value="ApplyStatus(XEL_CSS_UNLOCKPROFICIENCIES,100,-1)" />
         <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" value="RemoveStatus(XEL_CSS_UNLOCKPROFICIENCIES)" />
       </fields>
